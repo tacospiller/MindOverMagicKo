@@ -795,7 +795,7 @@ msgstr "허용: {0}"
 #. - GroupUtils.GetDisplayName(Assigned, includeCategoryOnIndividuals: false)
 msgctxt "AssignedComponent.0-638310744738815793"
 msgid "Assigned: {0: false)}"
-msgstr "할당: {0:false)}"
+msgstr "할당: {0: false)}"
 
 #. Key: BadgeComponent.2-638369579880001631
 msgctxt "BadgeComponent.2-638369579880001631"
@@ -3034,7 +3034,7 @@ msgstr "모든 죽은 캐릭터"
 #. Key: GroupUtils.10-638359255630959108
 msgctxt "GroupUtils.10-638359255630959108"
 msgid "Breaking"
-msgstr "부수는 중"
+msgstr "정신착란"
 
 #. Key: InjuryUtils.0-638357407844437892
 #. Args:
@@ -5187,7 +5187,7 @@ msgstr "<style=TextSubLinkTitle>없어야 함:</style>"
 #. - number
 msgctxt "GameTextLinkHandler.0-638403284185734874"
 msgid "Exactly {0}"
-msgstr "정확히 {1}개"
+msgstr "정확히 {0}개"
 
 #. Key: GameTextLinkHandler.22-638309805090591307
 msgctxt "GameTextLinkHandler.22-638309805090591307"
@@ -5242,7 +5242,7 @@ msgstr "알 수 없는 비교자"
 #. Key: GameTextLinkHandler.30-638309805090591307
 msgctxt "GameTextLinkHandler.30-638309805090591307"
 msgid "No "
-msgstr "없어야 함"
+msgstr "없어야 함: "
 
 #. Key: GameTextLinkHandler.31-638309805090591307
 #. Args:
@@ -6682,7 +6682,7 @@ msgid ""
 "  Filth: {1}"
 msgstr ""
 "{0}\n"
-"  더러움: {1}"
+"  찌꺼기: {1}"
 
 #. Key: FogDangerAlert.0-638282935931897444
 msgctxt "FogDangerAlert.0-638282935931897444"
@@ -8155,6 +8155,8 @@ msgid ""
 "\n"
 "{0}: {1:N2} per hour\n"
 msgstr ""
+"\n"
+"{0}: {1:N2} 시간당\n"
 
 #. Key: NeedWidget.4-638330497790434848
 #. Args:
@@ -8164,6 +8166,8 @@ msgid ""
 "\n"
 "Changing by: {0:N2} per hour"
 msgstr ""
+"\n"
+"변경 기준: {0:N2} 시간당"
 
 #. Key: NeedWidget.5-638330497790434848
 #. Args:
@@ -8174,6 +8178,8 @@ msgid ""
 "\n"
 "Value: {0}/{1}"
 msgstr ""
+"\n"
+"값: {0}/{1}"
 
 #. Key: NeedWidget.6-638330497790434848
 #. Args:
@@ -8183,6 +8189,8 @@ msgid ""
 "\n"
 "Status: {0}"
 msgstr ""
+"\n"
+"상태: {0}"
 
 #. Key: NeedWidget.7-638330497790434848
 #. Args:
@@ -8192,6 +8200,8 @@ msgid ""
 "\n"
 "Target Value: {0}"
 msgstr ""
+"\n"
+"목표 값: {0}"
 
 #. Key: NeedWidget.8-638330497790434848
 #. Args:
@@ -8201,6 +8211,8 @@ msgid ""
 "\n"
 "Changing by: +{0} per hour"
 msgstr ""
+"\n"
+"변화량: 시간당 +{0}"
 
 #. Key: NeedWidget.9-638330497790434848
 #. Args:
@@ -8210,6 +8222,8 @@ msgid ""
 "\n"
 "Changing by: -{0} per hour"
 msgstr ""
+"\n"
+"변화량: 시간당 -{0}"
 
 #. Key: NeedWidget.10-638330497790434848
 msgctxt "NeedWidget.10-638330497790434848"
@@ -8217,16 +8231,18 @@ msgid ""
 "\n"
 "Having <slink=break>"
 msgstr ""
+"\n"
+"<slink=break> 중"
 
 #. Key: BadgeIcon.0-638403284189203658
 msgctxt "BadgeIcon.0-638403284189203658"
 msgid "Completed:"
-msgstr ""
+msgstr "완료:"
 
 #. Key: BadgeIcon.0-638405666183427259
 msgctxt "BadgeIcon.0-638405666183427259"
 msgid "Completed:"
-msgstr ""
+msgstr "완료:"
 
 #. Key: BadgesWidget.0-638301172111807005
 msgctxt "BadgesWidget.0-638301172111807005"
@@ -8286,7 +8302,7 @@ msgstr "학생"
 #. - Format.Hotkey(HotkeyMapKey)
 msgctxt "HUDFilter_Clutter.0-638326348617383345"
 msgid "Clutter {0}"
-msgstr ""
+msgstr "쓰레기 {0}"
 
 #. Key: HUDFilter_Clutter.1-638326348617383345
 #. Args:
@@ -8296,6 +8312,8 @@ msgid ""
 "\n"
 "{0:P0} Cluttered"
 msgstr ""
+"\n"
+"{0:P0} 쓰레기"
 
 #. Key: HUDFilter_Clutter.0-638362442905902362
 #. Args:
@@ -8306,6 +8324,8 @@ msgid ""
 "\n"
 "{0} spawn in {1}."
 msgstr ""
+"\n"
+"{1} 후에 {0}(이)가 나타납니다."
 
 #. Key: HUDFilter_Clutter.1-638362442905902362
 #. Args:
@@ -8315,13 +8335,15 @@ msgid ""
 "\n"
 "No {0} will spawn."
 msgstr ""
+"\n"
+"{0}(이)가 나타나지 않습니다."
 
 #. Key: HUDFilter_Filth.0-638326348617393347
 #. Args:
 #. - Format.Hotkey(HotkeyMapKey)
 msgctxt "HUDFilter_Filth.0-638326348617393347"
 msgid "Filth {0}"
-msgstr ""
+msgstr "{0} 찌꺼기"
 
 #. Key: HUDFilter_Filth.1-638326348617393347
 #. Args:
@@ -8331,6 +8353,8 @@ msgid ""
 "\n"
 "{0:P0} Filth"
 msgstr ""
+"\n"
+"{0:P0} 찌꺼기"
 
 #. Key: HUDFilter_Filth.0-638362442905912406
 #. Args:
@@ -8341,6 +8365,8 @@ msgid ""
 "\n"
 "{0} spawn in {1}."
 msgstr ""
+"\n"
+"{1} 후에 {0}(이)가 나타납니다."
 
 #. Key: HUDFilter_Filth.1-638362442905912406
 #. Args:
@@ -8350,13 +8376,15 @@ msgid ""
 "\n"
 "No {0} will spawn."
 msgstr ""
+"\n"
+"{0}(이)가 나타나지 않습니다."
 
 #. Key: HUDFilter_Lighting.0-638326348617406547
 #. Args:
 #. - Format.Hotkey(HotkeyMapKey)
 msgctxt "HUDFilter_Lighting.0-638326348617406547"
 msgid "Lighting {0}"
-msgstr ""
+msgstr "조명 {0}"
 
 #. Key: HUDFilter_Lighting.1-638326348617406547
 #. Args:
@@ -8366,6 +8394,8 @@ msgid ""
 "\n"
 "{0:P0} Lit"
 msgstr ""
+"\n"
+"{0:P0} 조명"
 
 #. Key: HUDFilter_Lighting.0-638362442905912406
 #. Args:
@@ -8376,6 +8406,8 @@ msgid ""
 "\n"
 "{0} spawn in {1}."
 msgstr ""
+"\n"
+"{1} 후에 {0}(이)가 나타납니다."
 
 #. Key: HUDFilter_Lighting.1-638362442905912406
 #. Args:
@@ -8385,62 +8417,64 @@ msgid ""
 "\n"
 "No {0} will spawn."
 msgstr ""
+"\n"
+"{0}(이)가 나타나지 않습니다."
 
 #. Key: HUDFilter_Pathing.0-638326348617406547
 #. Args:
 #. - Format.Hotkey(HotkeyMapKey)
 msgctxt "HUDFilter_Pathing.0-638326348617406547"
 msgid "Pathing {0}"
-msgstr ""
+msgstr "경로 {0}"
 
 #. Key: HUDFilter_RoomType.0-638326348617416549
 #. Args:
 #. - Format.Hotkey(HotkeyMapKey)
 msgctxt "HUDFilter_RoomType.0-638326348617416549"
 msgid "Room Type {0}"
-msgstr ""
+msgstr "방 타입 {0}"
 
 #. Key: HUDFilter_RoomType.1-638326348617426552
 #. Args:
 #. - diff
 msgctxt "HUDFilter_RoomType.1-638326348617426552"
 msgid "Remove {0}"
-msgstr ""
+msgstr "{0}개 제거 필요:"
 
 #. Key: HUDFilter_RoomType.2-638326348617426552
 #. Args:
 #. - diff
 msgctxt "HUDFilter_RoomType.2-638326348617426552"
 msgid "Add {0}"
-msgstr ""
+msgstr "{0}개 추가 필요:"
 
 #. Key: HUDFilter_RoomType.3-638326348617426552
 #. Args:
 #. - diff
 msgctxt "HUDFilter_RoomType.3-638326348617426552"
 msgid "Add {0}"
-msgstr ""
+msgstr "{0}개 추가 필요:"
 
 #. Key: HUDFilter_RoomType.4-638326348617426552
 #. Args:
 #. - diff
 msgctxt "HUDFilter_RoomType.4-638326348617426552"
 msgid "Remove {0}"
-msgstr ""
+msgstr "{0}개 제거 필요:"
 
 #. Key: HUDFilter_RoomType.5-638326348617426552
 #. Args:
 #. - diff + 1
 msgctxt "HUDFilter_RoomType.5-638326348617426552"
 msgid "Remove {0}"
-msgstr ""
+msgstr "{0}개 제거 필요:"
 
 #. Key: HUDFilter_RoomType.6-638326348617426552
 #. Args:
 #. - diff
 msgctxt "HUDFilter_RoomType.6-638326348617426552"
 msgid "Add {0}"
-msgstr ""
+msgstr "{0}개 추가 필요:"
 
 #. Key: HUDFilter_RoomType.7-638326348617426552
 #. Args:
@@ -8448,7 +8482,7 @@ msgstr ""
 #. - diff
 msgctxt "HUDFilter_RoomType.7-638326348617426552"
 msgid "Decrease {0} by {1}"
-msgstr ""
+msgstr "{0} {1}만큼 감소"
 
 #. Key: HUDFilter_RoomType.8-638326348617426552
 #. Args:
@@ -8456,7 +8490,7 @@ msgstr ""
 #. - diff
 msgctxt "HUDFilter_RoomType.8-638326348617426552"
 msgid "Increase {0} by {1}"
-msgstr ""
+msgstr "{0} {1}만큼 증가"
 
 #. Key: HUDFilter_RoomType.9-638326348617426552
 #. Args:
@@ -8464,7 +8498,7 @@ msgstr ""
 #. - diff
 msgctxt "HUDFilter_RoomType.9-638326348617426552"
 msgid "Decrease {0} by {1}"
-msgstr ""
+msgstr "{0} {1}만큼 감소"
 
 #. Key: HUDFilter_RoomType.10-638326348617426552
 #. Args:
@@ -8472,7 +8506,7 @@ msgstr ""
 #. - diff
 msgctxt "HUDFilter_RoomType.10-638326348617426552"
 msgid "Increase {0} by {1}"
-msgstr ""
+msgstr "{0} {1}만큼 증가"
 
 #. Key: HUDFilter_RoomType.11-638326348617426552
 #. Args:
@@ -8482,6 +8516,8 @@ msgid ""
 "\n"
 "{0} Luxury"
 msgstr ""
+"\n"
+"{0} 화려함"
 
 #. Key: HUDFilter_RoomType.12-638326348617426552
 #. Args:
@@ -8492,40 +8528,43 @@ msgid ""
 "\n"
 "Not {0} because:"
 msgstr ""
+"\n"
+"\n"
+"{0}(이)가 아닌 이유:"
 
 #. Key: HUDFilter_RoomType.0-638336722417446885
 msgctxt "HUDFilter_RoomType.0-638336722417446885"
 msgid " OR"
-msgstr ""
+msgstr " 또는"
 
 #. Key: HUDFilter_RoomType.13-638326348617426552
 #. Args:
 #. - EnumNames.RoomKeywords.Definition((int)keyword).DisplayName
 msgctxt "HUDFilter_RoomType.13-638326348617426552"
 msgid "  - Needs {0}"
-msgstr ""
+msgstr "  - {0}이어야 함"
 
 #. Key: HUDFilter_RoomType.14-638326348617426552
 #. Args:
 #. - EnumNames.RoomKeywords.Definition((int)keyword).DisplayName
 msgctxt "HUDFilter_RoomType.14-638326348617426552"
 msgid "  - Must not have {0}"
-msgstr ""
+msgstr "  - {0}(이)가 없어야 함"
 
 #. Key: HUDFilter_RoomType.0-638334758545877628
 msgctxt "HUDFilter_RoomType.0-638334758545877628"
 msgid "Luxury"
-msgstr ""
+msgstr "화려함"
 
 #. Key: HUDFilter_RoomType.1-638334758545877628
 msgctxt "HUDFilter_RoomType.1-638334758545877628"
 msgid "Width of Room"
-msgstr ""
+msgstr "방 너비"
 
 #. Key: HUDFilter_RoomType.2-638334758545877628
 msgctxt "HUDFilter_RoomType.2-638334758545877628"
 msgid "Pathability"
-msgstr ""
+msgstr "방 입구"
 
 #. Key: HUDFilter_RoomType.15-638326348617426552
 #. Args:
@@ -8533,333 +8572,333 @@ msgstr ""
 #. - crit.AssignedGroupType
 msgctxt "HUDFilter_RoomType.15-638326348617426552"
 msgid "  - All {0} should be assigned to members of {1}"
-msgstr ""
+msgstr "  - 모든 {0}(은)는 {1}에게 할당되어야 합니다"
 
 #. Key: HUDFilter_Support.0-638326348617426552
 #. Args:
 #. - Format.Hotkey(HotkeyMapKey)
 msgctxt "HUDFilter_Support.0-638326348617426552"
 msgid "Support {0}"
-msgstr ""
+msgstr "{0} 지지"
 
 #. Key: HUDPanel_BuildPalette_Selection_Button.0-638331491639668488
 msgctxt "HUDPanel_BuildPalette_Selection_Button.0-638331491639668488"
 msgid "NEW"
-msgstr ""
+msgstr "신규"
 
 #. Key: HUDPanel_BuildPalette_Selection.0-638173228694384554
 msgctxt "HUDPanel_BuildPalette_Selection.0-638173228694384554"
 msgid "(Free)"
-msgstr ""
+msgstr "(무료)"
 
 #. Key: HUDPanel_Feed_FeedEntry.0-638191396131898988
 msgctxt "HUDPanel_Feed_FeedEntry.0-638191396131898988"
 msgid "Dismiss"
-msgstr ""
+msgstr "확인"
 
 #. Key: HUDPanel_Filters.0-638181044002140017
 msgctxt "HUDPanel_Filters.0-638181044002140017"
 msgid "Views"
-msgstr ""
+msgstr "보기"
 
 #. Key: HUDPanel_Resources.0-638308141209072936
 msgctxt "HUDPanel_Resources.0-638308141209072936"
 msgid "Resources"
-msgstr ""
+msgstr "자원"
 
 #. Key: HUDPanel_Resources.1-638308141209072936
 msgctxt "HUDPanel_Resources.1-638308141209072936"
 msgid "Reagents"
-msgstr ""
+msgstr "마법 재료"
 
 #. Key: HUDPanel_Resources.9-638308141209072936
 msgctxt "HUDPanel_Resources.9-638308141209072936"
 msgid "Inventory"
-msgstr ""
+msgstr "보관됨"
 
 #. Key: HUDPanel_Resources.19-638308141209072936
 msgctxt "HUDPanel_Resources.19-638308141209072936"
 msgid "Wild"
-msgstr ""
+msgstr "밖에 있음"
 
 #. Key: HUDPanel_Resources_NewEntry.0-638331491639723751
 msgctxt "HUDPanel_Resources_NewEntry.0-638331491639723751"
 msgid "NEW"
-msgstr ""
+msgstr "신규"
 
 #. Key: HUDPanel_TimeControl.0-638331491639741470
 #. Args:
 #. - Format.Hotkey("Pause")
 msgctxt "HUDPanel_TimeControl.0-638331491639741470"
 msgid "Toggle Pause {0}"
-msgstr ""
+msgstr "일시정지 {0}"
 
 #. Key: HUDPanel_TimeControl.0-638170763865078554
 msgctxt "HUDPanel_TimeControl.0-638170763865078554"
 msgid ".1x Speed"
-msgstr ""
+msgstr ".1x 속도"
 
 #. Key: HUDPanel_TimeControl.1-638170763865078554
 #. Args:
 #. - Format.Hotkeys("Cycle_Speed", "Speed_Slower")
 msgctxt "HUDPanel_TimeControl.1-638170763865078554"
 msgid "1x Speed {0}"
-msgstr ""
+msgstr "1x 속도 {0}"
 
 #. Key: HUDPanel_TimeControl.2-638170763865078554
 #. Args:
 #. - Format.Hotkeys("Speed_Slower", "Speed_Faster")
 msgctxt "HUDPanel_TimeControl.2-638170763865078554"
 msgid "2x Speed {0}"
-msgstr ""
+msgstr "2x 속도 {0}"
 
 #. Key: HUDPanel_TimeControl.3-638170763865078554
 #. Args:
 #. - Format.Hotkeys("Cycle_Speed", "Speed_Faster")
 msgctxt "HUDPanel_TimeControl.3-638170763865078554"
 msgid "3x Speed {0}"
-msgstr ""
+msgstr "3x 속도 {0}"
 
 #. Key: HUDPanel_TimeControl.4-638170763865078554
 msgctxt "HUDPanel_TimeControl.4-638170763865078554"
 msgid "Days since the school opened."
-msgstr ""
+msgstr "개교 이후 지난 날짜입니다."
 
 #. Key: HUDPanel_TimeControl.0-637907160392634673
 #. Args:
 #. - Format.HotkeyStyle(KeyMapManager.Instance.GetKeyName(KeyCode.Escape))
 msgctxt "HUDPanel_TimeControl.0-637907160392634673"
 msgid "Adjust settings {0}"
-msgstr ""
+msgstr "설정 조정 {0}"
 
 #. Key: HUDPanel_TimeControl.0-638379728725647504
 msgctxt "HUDPanel_TimeControl.0-638379728725647504"
 msgid "View Tutorials"
-msgstr ""
+msgstr "튜토리얼 보기"
 
 #. Key: HUDPanel_TimeControl.1-638331491639741470
 #. Args:
 #. - (sim.CurrentTime.Day + 1).ToString()
 msgctxt "HUDPanel_TimeControl.1-638331491639741470"
 msgid "Day {0}"
-msgstr ""
+msgstr "{0}일째"
 
 #. Key: HUDPanel_TimeControl.0-638174110384785880
 #. Args:
 #. - remainingDays
 msgctxt "HUDPanel_TimeControl.0-638174110384785880"
 msgid "{0} Day"
-msgstr ""
+msgstr "{0}일"
 
 #. Key: HUDPanel_TimeControl.1-638174110384808981
 #. Args:
 #. - remainingDays
 msgctxt "HUDPanel_TimeControl.1-638174110384808981"
 msgid "{0} Days"
-msgstr ""
+msgstr "{0}일"
 
 #. Key: HUDScreen.0-638331491639771548
 msgctxt "HUDScreen.0-638331491639771548"
 msgid "Choose a School Name"
-msgstr ""
+msgstr "학교 이름을 입력하세요"
 
 #. Key: HUDScreen.1-638331491639771548
 msgctxt "HUDScreen.1-638331491639771548"
 msgid "The future of this school belongs to your new Staff."
-msgstr ""
+msgstr "이 학교의 미래는 여러분의 새 교사에게 달려 있습니다."
 
 #. Key: HUDScreen.2-638331491639771548
 msgctxt "HUDScreen.2-638331491639771548"
 msgid "Random"
-msgstr ""
+msgstr "무작위"
 
 #. Key: HUDScreen.3-638331491639771548
 msgctxt "HUDScreen.3-638331491639771548"
 msgid "Accept"
-msgstr ""
+msgstr "확인"
 
 #. Key: HUDToolHoverUtils.0-638336722417517434
 #. Args:
 #. - Model.Format.DisplayName(replace.Archetype)
 msgctxt "HUDToolHoverUtils.0-638336722417517434"
 msgid "WILL REPLACE: {0}"
-msgstr ""
+msgstr "대체 예정: {0}"
 
 #. Key: HUDToolHoverUtils.0-638330714199792312
 msgctxt "HUDToolHoverUtils.0-638330714199792312"
 msgid "INVALID"
-msgstr ""
+msgstr "무효함"
 
 #. Key: HUDToolHoverUtils.1-638330714199792312
 msgctxt "HUDToolHoverUtils.1-638330714199792312"
 msgid "NOT SUPPORTED"
-msgstr ""
+msgstr "지지대 없음"
 
 #. Key: HUDToolHoverUtils.2-638330714199792312
 msgctxt "HUDToolHoverUtils.2-638330714199792312"
 msgid "NEED RESOURCES"
-msgstr ""
+msgstr "자원 부족"
 
 #. Key: HUDToolHoverUtils.3-638330714199792312
 #. Args:
 #. - (int)(roomComponent.CalculatePercentInfluence(lightConfig) * 100)
 msgctxt "HUDToolHoverUtils.3-638330714199792312"
 msgid "Lighting Change: {0}%"
-msgstr ""
+msgstr "조명 변화: {0}%"
 
 #. Key: HUDToolHoverUtils.4-638330714199792312
 #. Args:
 #. - (int)(roomComponent.CalculatePercentInfluence(luxuryConfig) * 100)
 msgctxt "HUDToolHoverUtils.4-638330714199792312"
 msgid "Luxury Change: {0}%"
-msgstr ""
+msgstr "화려함 변화: {0}%"
 
 #. Key: HUDToolHoverUtils.1-638336722417517434
 msgctxt "HUDToolHoverUtils.1-638336722417517434"
 msgid "Place"
-msgstr ""
+msgstr "놓기"
 
 #. Key: HUDToolHoverUtils.2-638336722417517434
 msgctxt "HUDToolHoverUtils.2-638336722417517434"
 msgid "Complete"
-msgstr ""
+msgstr "완료"
 
 #. Key: HUDToolHoverUtils.3-638336722417517434
 msgctxt "HUDToolHoverUtils.3-638336722417517434"
 msgid "Begin"
-msgstr ""
+msgstr "시작"
 
 #. Key: HUDToolHoverUtils.4-638336722417517434
 msgctxt "HUDToolHoverUtils.4-638336722417517434"
 msgid "Back"
-msgstr ""
+msgstr "뒤로"
 
 #. Key: HUDToolHoverUtils.5-638336722417517434
 msgctxt "HUDToolHoverUtils.5-638336722417517434"
 msgid "Place"
-msgstr ""
+msgstr "놓기"
 
 #. Key: HUDToolHoverUtils.6-638336722417517434
 msgctxt "HUDToolHoverUtils.6-638336722417517434"
 msgid "Back"
-msgstr ""
+msgstr "뒤로"
 
 #. Key: HUDToolHoverUtils.0-638352274913493041
 msgctxt "HUDToolHoverUtils.0-638352274913493041"
 msgid "CONSTRUCTION NOT ALLOWED HERE"
-msgstr ""
+msgstr "이곳에는 건설할 수 없습니다"
 
 #. Key: HUDToolHoverUtils.1-638352274913493041
 msgctxt "HUDToolHoverUtils.1-638352274913493041"
 msgid "NOT ALLOWED HERE"
-msgstr ""
+msgstr "이곳에는 놓을 수 없습니다"
 
 #. Key: HUDToolHoverUtils.2-638352274913493041
 msgctxt "HUDToolHoverUtils.2-638352274913493041"
 msgid "NOT ALLOWED ON BACK WALLS HERE"
-msgstr ""
+msgstr "이 뒷면 벽에는 놓을 수 없습니다"
 
 #. Key: HUDToolHoverUtils.3-638352274913493041
 msgctxt "HUDToolHoverUtils.3-638352274913493041"
 msgid "NOT ALLOWED ON SIDE WALLS HERE"
-msgstr ""
+msgstr "이 옆면 벽에는 놓을 수 없습니다"
 
 #. Key: HUDToolHoverUtils.0-638331763243373423
 msgctxt "HUDToolHoverUtils.0-638331763243373423"
 msgid "BLOCKED BY STAIRS"
-msgstr ""
+msgstr "계단으로 막혀 있습니다"
 
 #. Key: HUDToolHoverUtils.0-638318400364765233
 msgctxt "HUDToolHoverUtils.0-638318400364765233"
 msgid "REQUIRES WALL BEHIND AND FLOOR BELOW"
-msgstr ""
+msgstr "뒷면 벽과 바닥이 필요합니다"
 
 #. Key: HUDToolHoverUtils.1-638206939484544115
 msgctxt "HUDToolHoverUtils.1-638206939484544115"
 msgid "INVALID"
-msgstr ""
+msgstr "무효함"
 
 #. Key: HUDToolHoverUtils.2-638206939484544115
 msgctxt "HUDToolHoverUtils.2-638206939484544115"
 msgid "OFF WORLD"
-msgstr ""
+msgstr "월드 바깥입니다"
 
 #. Key: HUDToolHoverUtils.3-638206939484544115
 msgctxt "HUDToolHoverUtils.3-638206939484544115"
 msgid "INVALID IN ROOM"
-msgstr ""
+msgstr "방 안에 놓을 수 없습니다"
 
 #. Key: HUDToolHoverUtils.4-638206939484544115
 msgctxt "HUDToolHoverUtils.4-638206939484544115"
 msgid "INVALID ON GROUND"
-msgstr ""
+msgstr "땅 위에 놓을 수 없습니다"
 
 #. Key: HUDToolHoverUtils.4-638352274913493041
 msgctxt "HUDToolHoverUtils.4-638352274913493041"
 msgid "BLOCKED BY ENVIRONMENT"
-msgstr ""
+msgstr "환경 요소로 인해 막혀 있습니다"
 
 #. Key: HUDToolHoverUtils.5-638352274913506821
 #. Args:
 #. - entityName
 msgctxt "HUDToolHoverUtils.5-638352274913506821"
 msgid "BLOCKED BY {0}"
-msgstr ""
+msgstr "{0}(으)로 인해 막혀 있습니다"
 
 #. Key: HUDToolHoverUtils.5-638206939484544115
 msgctxt "HUDToolHoverUtils.5-638206939484544115"
 msgid "BLOCKED BY OTHERS"
-msgstr ""
+msgstr "다른 물체로 막혀 있습니다"
 
 #. Key: HUDToolHoverUtils.6-638206939484544115
 msgctxt "HUDToolHoverUtils.6-638206939484544115"
 msgid "NO ACCESS"
-msgstr ""
+msgstr "도달할 수 없습니다"
 
 #. Key: HUDToolHoverUtils.7-638206939484544115
 msgctxt "HUDToolHoverUtils.7-638206939484544115"
 msgid "BLOCKS ACCESS"
-msgstr ""
+msgstr "길을 막고 있습니다"
 
 #. Key: HUDToolHoverUtils.8-638206939484544115
 msgctxt "HUDToolHoverUtils.8-638206939484544115"
 msgid "INVALID ON FLOORS"
-msgstr ""
+msgstr "바닥에 놓을 수 없습니다"
 
 #. Key: HUDToolHoverUtils.9-638206939484544115
 msgctxt "HUDToolHoverUtils.9-638206939484544115"
 msgid "INVALID NEAR STAIRS"
-msgstr ""
+msgstr "계단 근처에 놓을 수 없습니다"
 
 #. Key: HUDToolHoverUtils.10-638206939484544115
 msgctxt "HUDToolHoverUtils.10-638206939484544115"
 msgid "NO MANA IN RANGE"
-msgstr ""
+msgstr "범위 내에 마나가 부족합니다"
 
 #. Key: HUDToolHoverUtils.11-638206939484544115
 msgctxt "HUDToolHoverUtils.11-638206939484544115"
 msgid "NO LECTURE SPOT"
-msgstr ""
+msgstr "교사가 설 자리가 없습니다"
 
 #. Key: HUDToolHoverUtils.12-638206939484544115
 msgctxt "HUDToolHoverUtils.12-638206939484544115"
 msgid "INVALID OUTPUT SPOT"
-msgstr ""
+msgstr "제작물을 놓을 자리가 없습니다"
 
 #. Key: HUDToolHoverUtils.0-638345097633228256
 msgctxt "HUDToolHoverUtils.0-638345097633228256"
 msgid "INVALID NEAR ROOM BATTLE"
-msgstr ""
+msgstr "전투 중인 방 근처에는 놓을 수 없습니다"
 
 #. Key: HUDToolHoverUtils.11-638330714199807359
 msgctxt "HUDToolHoverUtils.11-638330714199807359"
 msgid "<color=#ffffff>NOT ENOUGH RESOURCES</color>\n"
-msgstr ""
+msgstr "<color=#ffffff>자원이 부족합니다</color>\n"
 
 #. Key: HUDToolHoverUtils.12-638330714199807359
 msgctxt "HUDToolHoverUtils.12-638330714199807359"
 msgid "<color=#ff0000>INVALID PLACEMENT</color>\n"
-msgstr ""
+msgstr "<color=#ff0000>부적절한 위치입니다</color>\n"
 
 #. Key: HUDToolHoverUtils.13-638330714199807359
 msgctxt "HUDToolHoverUtils.13-638330714199807359"
@@ -8867,11 +8906,13 @@ msgid ""
 "<color=#ffD800>NOT SUPPORTED</color>\n"
 "<color=#ff0000>No construction while unsupported</color>\n"
 msgstr ""
+"<color=#ffD800>지지대가 없습니다</color>\n"
+"<color=#ff0000>지지대를 건설하기 전에는 건설할 수 없습니다</color>\n"
 
 #. Key: HUDToolHoverUtils.14-638330714199807359
 msgctxt "HUDToolHoverUtils.14-638330714199807359"
 msgid "Cancel"
-msgstr ""
+msgstr "취소"
 
 #. Key: HUDToolHoverUtils.15-638330714199807359
 #. Args:
@@ -8879,146 +8920,146 @@ msgstr ""
 #. - Model.Format.Link(target.Entity)
 msgctxt "HUDToolHoverUtils.15-638330714199807359"
 msgid "{0} on {1}"
-msgstr ""
+msgstr "{1} 위에 {0}"
 
 #. Key: HUDToolHoverUtils.16-638330714199807359
 msgctxt "HUDToolHoverUtils.16-638330714199807359"
 msgid "Never"
-msgstr ""
+msgstr "금지"
 
 #. Key: HUDToolHoverUtils.17-638330714199807359
 #. Args:
 #. - priorityString
 msgctxt "HUDToolHoverUtils.17-638330714199807359"
 msgid "Set Task Priority: {0}"
-msgstr ""
+msgstr "작업 우선순위 설정: {0}"
 
 #. Key: HUDToolHoverUtils.18-638330714199807359
 msgctxt "HUDToolHoverUtils.18-638330714199807359"
 msgid "Select For Mining"
-msgstr ""
+msgstr "채굴 범위 선택"
 
 #. Key: HUDToolHoverUtils.19-638330714199807359
 msgctxt "HUDToolHoverUtils.19-638330714199807359"
 msgid "Select For Chopping"
-msgstr ""
+msgstr "벌목 범위 선택"
 
 #. Key: HUDToolHoverUtils.20-638330714199807359
 msgctxt "HUDToolHoverUtils.20-638330714199807359"
 msgid "Select For Harvesting"
-msgstr ""
+msgstr "수확 범위 선택"
 
 #. Key: HUDToolHoverUtils.21-638330714199807359
 msgctxt "HUDToolHoverUtils.21-638330714199807359"
 msgid "Select For Hunting"
-msgstr ""
+msgstr "사냥 범위 선택"
 
 #. Key: HUDToolHoverUtils.0-638415221469807431
 msgctxt "HUDToolHoverUtils.0-638415221469807431"
 msgid "Select For Gathering"
-msgstr ""
+msgstr "채집 범위 선택"
 
 #. Key: HUDToolHoverUtils.0-638365180182599142
 msgctxt "HUDToolHoverUtils.0-638365180182599142"
 msgid "Demolish Stairs & Ladders"
-msgstr ""
+msgstr "계단과 사다리 철거"
 
 #. Key: HUDToolHoverUtils.1-638365180182599142
 msgctxt "HUDToolHoverUtils.1-638365180182599142"
 msgid "Demolish Support & Columns"
-msgstr ""
+msgstr "지지대와 기둥 철거"
 
 #. Key: HUDToolHoverUtils.0-638333917998560671
 msgctxt "HUDToolHoverUtils.0-638333917998560671"
 msgid "Demolish Walls"
-msgstr ""
+msgstr "벽 철거"
 
 #. Key: HUDToolHoverUtils.1-638333917998570638
 msgctxt "HUDToolHoverUtils.1-638333917998570638"
 msgid "Demolish Floors"
-msgstr ""
+msgstr "바닥 철거"
 
 #. Key: HUDToolHoverUtils.2-638333917998570638
 msgctxt "HUDToolHoverUtils.2-638333917998570638"
 msgid "Demolish Roofs"
-msgstr ""
+msgstr "지붕 철거"
 
 #. Key: HUDToolHoverUtils.3-638333917998570638
 msgctxt "HUDToolHoverUtils.3-638333917998570638"
 msgid "Demolish Supports"
-msgstr ""
+msgstr "지지대 철거"
 
 #. Key: HUDToolHoverUtils.4-638333917998570638
 msgctxt "HUDToolHoverUtils.4-638333917998570638"
 msgid "Demolish Doors"
-msgstr ""
+msgstr "문 철거"
 
 #. Key: HUDToolHoverUtils.5-638333917998570638
 msgctxt "HUDToolHoverUtils.5-638333917998570638"
 msgid "Demolish Stairs"
-msgstr ""
+msgstr "계단 철거"
 
 #. Key: HUDToolHoverUtils.6-638333917998570638
 msgctxt "HUDToolHoverUtils.6-638333917998570638"
 msgid "Demolish Ladders"
-msgstr ""
+msgstr "사다리 철거"
 
 #. Key: HUDToolHoverUtils.7-638333917998570638
 msgctxt "HUDToolHoverUtils.7-638333917998570638"
 msgid "Demolish Magic Ladders"
-msgstr ""
+msgstr "마법 사다리 철거"
 
 #. Key: HUDToolHoverUtils.8-638333917998570638
 msgctxt "HUDToolHoverUtils.8-638333917998570638"
 msgid "Demolish Support Columns"
-msgstr ""
+msgstr "지지 기둥 철거"
 
 #. Key: HUDToolHoverUtils.9-638333917998570638
 msgctxt "HUDToolHoverUtils.9-638333917998570638"
 msgid "Demolish Outdoor Support Columns"
-msgstr ""
+msgstr "야외 지지 기둥 철거"
 
 #. Key: HUDToolHoverUtils.10-638333917998570638
 msgctxt "HUDToolHoverUtils.10-638333917998570638"
 msgid "Demolish Furniture"
-msgstr ""
+msgstr "가구 철거"
 
 #. Key: HUDToolHoverUtils.11-638333917998570638
 msgctxt "HUDToolHoverUtils.11-638333917998570638"
 msgid "Demolish"
-msgstr ""
+msgstr "철거"
 
 #. Key: HUDToolHoverUtils.12-638333917998570638
 msgctxt "HUDToolHoverUtils.12-638333917998570638"
 msgid "<size=-8>Reclaims Reagents</size>"
-msgstr ""
+msgstr "<size=-8>재료를 돌려받습니다</size>"
 
 #. Key: HUDToolHoverUtils.0-638416139809356659
 msgctxt "HUDToolHoverUtils.0-638416139809356659"
 msgid "Ground Select"
-msgstr ""
+msgstr "지면 선택"
 
 #. Key: HUDToolHoverUtils.1-638416139809356659
 msgctxt "HUDToolHoverUtils.1-638416139809356659"
 msgid "Floor Select"
-msgstr ""
+msgstr "바닥 선택"
 
 #. Key: HUDToolHoverUtils.2-638416139809356659
 msgctxt "HUDToolHoverUtils.2-638416139809356659"
 msgid "Wall Select"
-msgstr ""
+msgstr "벽 선택"
 
 #. Key: HUDToolHoverUtils.3-638416139809356659
 msgctxt "HUDToolHoverUtils.3-638416139809356659"
 msgid "Wall Select"
-msgstr ""
+msgstr "벽 선택"
 
 #. Key: HUDToolHoverUtils.41-638330714199807359
 #. Args:
 #. - Model.Format.DisplayName(archetype)
 msgctxt "HUDToolHoverUtils.41-638330714199807359"
 msgid "Build {0}"
-msgstr ""
+msgstr "{0} 건설"
 
 #. Key: WandWidget.0-638331491639895890
 #. Args:
@@ -9026,215 +9067,215 @@ msgstr ""
 #. - requiredLevel
 msgctxt "WandWidget.0-638331491639895890"
 msgid "{0} Skill {1}"
-msgstr ""
+msgstr "{0} 스킬 {1}"
 
 #. Key: WandWidget.0-638282935946602520
 msgctxt "WandWidget.0-638282935946602520"
 msgid "Ingredients:"
-msgstr ""
+msgstr "재료:"
 
 #. Key: SchoolStartWindow.0-638277933340475101
 msgctxt "SchoolStartWindow.0-638277933340475101"
 msgid "Select Starting Staff"
-msgstr ""
+msgstr "시작 교사를 선택하세요"
 
 #. Key: SchoolStartWindow.0-638332392141811344
 msgctxt "SchoolStartWindow.0-638332392141811344"
 msgid "Found School"
-msgstr ""
+msgstr "학교 열기"
 
 #. Key: SchoolStartWindowEntry.0-638332392141821338
 msgctxt "SchoolStartWindowEntry.0-638332392141821338"
 msgid "Rename"
-msgstr ""
+msgstr "이름 변경"
 
 #. Key: SchoolStartWindowEntry.1-638332392141821338
 msgctxt "SchoolStartWindowEntry.1-638332392141821338"
 msgid "Rename This Mage"
-msgstr ""
+msgstr "마법사 이름 변경"
 
 #. Key: SchoolStartWindowEntry.2-638332392141821338
 msgctxt "SchoolStartWindowEntry.2-638332392141821338"
 msgid "Accept"
-msgstr ""
+msgstr "확인"
 
 #. Key: SchoolStartWindowEntry.3-638332392141821338
 msgctxt "SchoolStartWindowEntry.3-638332392141821338"
 msgid "Cancel"
-msgstr ""
+msgstr "취소"
 
 #. Key: SchoolStartWindowEntry.0-638379728725921878
 msgctxt "SchoolStartWindowEntry.0-638379728725921878"
 msgid "Re-roll Appearance"
-msgstr ""
+msgstr "외형 재설정"
 
 #. Key: SchoolStartWindowEntry.4-638332392141821338
 msgctxt "SchoolStartWindowEntry.4-638332392141821338"
 msgid "Re-roll Mage"
-msgstr ""
+msgstr "마법사 재설정"
 
 #. Key: SaveScreenUtils.0-637908904683628382
 msgctxt "SaveScreenUtils.0-637908904683628382"
 msgid "Save Failed"
-msgstr ""
+msgstr "저장 실패"
 
 #. Key: SaveScreenUtils.1-637908904683638374
 msgctxt "SaveScreenUtils.1-637908904683638374"
 msgid "Overwriting an autosave is not allowed."
-msgstr ""
+msgstr "자동 저장 파일은 덮어쓸 수 없습니다."
 
 #. Key: SaveScreenUtils.2-637908904683638374
 msgctxt "SaveScreenUtils.2-637908904683638374"
 msgid "Overwrite?"
-msgstr ""
+msgstr "덮어쓰시겠습니까?"
 
 #. Key: SaveScreenUtils.3-637908904683638374
 #. Args:
 #. - metadata.PathBundle.Filename
 msgctxt "SaveScreenUtils.3-637908904683638374"
 msgid "Are you sure you want to overwrite {0}?"
-msgstr ""
+msgstr "{0}(을)를 덮어쓰시겠습니까?"
 
 #. Key: SaveScreenUtils.0-638352274913662000
 msgctxt "SaveScreenUtils.0-638352274913662000"
 msgid "OK"
-msgstr ""
+msgstr "확인"
 
 #. Key: SaveScreenUtils.1-638352274913662000
 msgctxt "SaveScreenUtils.1-638352274913662000"
 msgid "Cancel"
-msgstr ""
+msgstr "취소"
 
 #. Key: SaveScreenUtils.4-637908904683638374
 #. Args:
 #. - savePath
 msgctxt "SaveScreenUtils.4-637908904683638374"
 msgid "Save current game to {0}?"
-msgstr ""
+msgstr "{0}에 현재 게임을 저장하시겠습니까?"
 
 #. Key: SaveScreenUtils.5-637908904683638374
 msgctxt "SaveScreenUtils.5-637908904683638374"
 msgid "Save before quit?"
-msgstr ""
+msgstr "나가기 전에 저장하시겠습니까?"
 
 #. Key: SaveScreenUtils.6-637908904683638374
 msgctxt "SaveScreenUtils.6-637908904683638374"
 msgid "Save and Quit"
-msgstr ""
+msgstr "저장하고 나가기"
 
 #. Key: SaveScreenUtils.7-637908904683638374
 msgctxt "SaveScreenUtils.7-637908904683638374"
 msgid "Quit Without Save"
-msgstr ""
+msgstr "저장하지 않고 나가기"
 
 #. Key: SaveScreenUtils.8-637908904683638374
 msgctxt "SaveScreenUtils.8-637908904683638374"
 msgid "Cancel"
-msgstr ""
+msgstr "취소"
 
 #. Key: SaveScreenUtils.9-637908904683638374
 msgctxt "SaveScreenUtils.9-637908904683638374"
 msgid "Save Failed"
-msgstr ""
+msgstr "저장 실패"
 
 #. Key: SaveScreenUtils.10-637908904683638374
 msgctxt "SaveScreenUtils.10-637908904683638374"
 msgid "Save Name"
-msgstr ""
+msgstr "저장 파일 이름"
 
 #. Key: SaveScreenUtils.11-637908904683638374
 msgctxt "SaveScreenUtils.11-637908904683638374"
 msgid "OK"
-msgstr ""
+msgstr "확인"
 
 #. Key: SaveScreenUtils.12-637908904683638374
 msgctxt "SaveScreenUtils.12-637908904683638374"
 msgid "Cancel"
-msgstr ""
+msgstr "취소"
 
 #. Key: SaveScreenUtils.13-637908904683638374
 msgctxt "SaveScreenUtils.13-637908904683638374"
 msgid "Filename must contain at least one character"
-msgstr ""
+msgstr "파일 이름은 1글자 이상이어야 합니다"
 
 #. Key: SaveScreenUtils.14-637908904683638374
 #. Args:
 #. - SaveLoad.AutosaveFileNameBase
 msgctxt "SaveScreenUtils.14-637908904683638374"
 msgid "'{0}' is reserved for autosaves."
-msgstr ""
+msgstr "'{0}'은 자동 저장을 위해 예약된 파일 이름입니다."
 
 #. Key: SaveScreenUtils.15-637908904683638374
 #. Args:
 #. - invalid
 msgctxt "SaveScreenUtils.15-637908904683638374"
 msgid "Filename must not contain: {0}"
-msgstr ""
+msgstr "파일명에 '{0}'을 포함할 수 없습니다."
 
 #. Key: SaveSlotsWidget.0-638332372939784740
 msgctxt "SaveSlotsWidget.0-638332372939784740"
 msgid "Save Slots"
-msgstr ""
+msgstr "세이브 칸"
 
 #. Key: SaveSlotsWidget.1-638332372939784740
 msgctxt "SaveSlotsWidget.1-638332372939784740"
 msgid "New Save"
-msgstr ""
+msgstr "새 저장 파일"
 
 #. Key: SettingsWindowOptions.0-638332372939804428
 msgctxt "SettingsWindowOptions.0-638332372939804428"
 msgid "Audio"
-msgstr ""
+msgstr "소리"
 
 #. Key: SettingsWindowOptions.1-638332372939804428
 msgctxt "SettingsWindowOptions.1-638332372939804428"
 msgid "Graphics"
-msgstr ""
+msgstr "그래픽"
 
 #. Key: SettingsWindowOptions.0-638415221469988019
 msgctxt "SettingsWindowOptions.0-638415221469988019"
 msgid "UI"
-msgstr ""
+msgstr "UI"
 
 #. Key: SettingsWindowOptions.2-638332372939804428
 msgctxt "SettingsWindowOptions.2-638332372939804428"
 msgid "Controls"
-msgstr ""
+msgstr "조작"
 
 #. Key: SettingsWindowOptions.3-638332372939804428
 msgctxt "SettingsWindowOptions.3-638332372939804428"
 msgid "Misc"
-msgstr ""
+msgstr "기타"
 
 #. Key: SettingsWindowOptions_Audio.0-638332372939804428
 msgctxt "SettingsWindowOptions_Audio.0-638332372939804428"
 msgid "Master Volume"
-msgstr ""
+msgstr "전체 음량"
 
 #. Key: SettingsWindowOptions_Audio.1-638332372939804428
 msgctxt "SettingsWindowOptions_Audio.1-638332372939804428"
 msgid "Music Volume"
-msgstr ""
+msgstr "배경음악 음량"
 
 #. Key: SettingsWindowOptions_Audio.2-638332372939804428
 msgctxt "SettingsWindowOptions_Audio.2-638332372939804428"
 msgid "SFX Volume"
-msgstr ""
+msgstr "특수효과 음량"
 
 #. Key: SettingsWindowOptions_Audio.3-638332372939804428
 msgctxt "SettingsWindowOptions_Audio.3-638332372939804428"
 msgid "Ambience Volume"
-msgstr ""
+msgstr "환경 소리 음량"
 
 #. Key: SettingsWindowOptions_Audio.4-638332372939804428
 msgctxt "SettingsWindowOptions_Audio.4-638332372939804428"
 msgid "UI Volume"
-msgstr ""
+msgstr "UI 음량"
 
 #. Key: SettingsWindowOptions_Audio.5-638332372939804428
 msgctxt "SettingsWindowOptions_Audio.5-638332372939804428"
 msgid "Mute On Unfocused"
-msgstr ""
+msgstr "화면이 켜져 있지 않을 때 소리 끄기"
 
 #. Key: SettingsWindowOptions_Controls.0-638423313418490383
 msgctxt "SettingsWindowOptions_Controls.0-638423313418490383"
@@ -9242,66 +9283,68 @@ msgid ""
 "Hold Ctrl for Cancel Task Mode\n"
 "Enables holding Ctrl to enter Cancel Task Mode. This may conflict with Shortcuts that use the Ctrl key."
 msgstr ""
+"Ctrl을 누르면 작업 취소 모드로 전환하기\n"
+"Ctrl을 누르고 있는 동안 작업 취소 모드가 됩니다. Ctrl을 포함한 다른 단축키와 충돌을 일으킬 수 있습니다."
 
 #. Key: SettingsWindowOptions_Controls.1-638423313418490383
 msgctxt "SettingsWindowOptions_Controls.1-638423313418490383"
 msgid "Universal Ctrl Cancel Mode Enabled"
-msgstr ""
+msgstr "Ctrl 취소 모드 활성화됨"
 
 #. Key: SettingsWindowOptions_Controls.0-638332372939816524
 msgctxt "SettingsWindowOptions_Controls.0-638332372939816524"
 msgid "Shortcuts"
-msgstr ""
+msgstr "단축키"
 
 #. Key: SettingsWindowOptions_Controls.0-638421278416757112
 msgctxt "SettingsWindowOptions_Controls.0-638421278416757112"
 msgid "Find shortcut..."
-msgstr ""
+msgstr "단축키 찾기..."
 
 #. Key: SettingsWindowOptions_Controls.1-638421278416767106
 msgctxt "SettingsWindowOptions_Controls.1-638421278416767106"
 msgid "Clear"
-msgstr ""
+msgstr "지우기"
 
 #. Key: SettingsWindowOptions_Controls.2-638421278416767106
 msgctxt "SettingsWindowOptions_Controls.2-638421278416767106"
 msgid "Category"
-msgstr ""
+msgstr "카테고리"
 
 #. Key: SettingsWindowOptions_Controls.3-638421278416767106
 msgctxt "SettingsWindowOptions_Controls.3-638421278416767106"
 msgid "Command"
-msgstr ""
+msgstr "명령어"
 
 #. Key: SettingsWindowOptions_Controls.4-638421278416767106
 msgctxt "SettingsWindowOptions_Controls.4-638421278416767106"
 msgid "Shortcut #1"
-msgstr ""
+msgstr "단축키 1"
 
 #. Key: SettingsWindowOptions_Controls.5-638421278416767106
 msgctxt "SettingsWindowOptions_Controls.5-638421278416767106"
 msgid "Shortcut #2"
-msgstr ""
+msgstr "단축키 2"
 
 #. Key: SettingsWindowOptions_Controls.2-638423313418490383
 msgctxt "SettingsWindowOptions_Controls.2-638423313418490383"
 msgid "Click to set. Ctrl-click to clear."
-msgstr ""
+msgstr "설정하려면 클릭하세요. Ctrl-클릭하여 단축키를 제거하세요."
 
 #. Key: SettingsWindowOptions_Controls.3-638423313418490383
 msgctxt "SettingsWindowOptions_Controls.3-638423313418490383"
 msgid "Click to set. Ctrl-click to clear."
-msgstr ""
+msgstr "설정하려면 클릭하세요. Ctrl-클릭하여 단축키를 제거하세요."
 
 #. Key: SettingsWindowOptions_Controls.1-638332372939816524
 msgctxt "SettingsWindowOptions_Controls.1-638332372939816524"
 msgid "Reset Defaults"
-msgstr ""
+msgstr "설정 초기화"
 
 #. Key: SettingsWindowOptions_Controls.4-638423313418490383
 msgctxt "SettingsWindowOptions_Controls.4-638423313418490383"
 msgid "Control Key Conflict"
-msgstr ""
+msgstr "Ctrl 키 충돌"
 
 #. Key: SettingsWindowOptions_Controls.5-638423313418490383
 #. Args:
@@ -9311,203 +9354,205 @@ msgid ""
 "Enabling Control key for Cancel Mode may result in conflicts with the following shortcuts:\n"
 "  {0}"
 msgstr ""
+"Ctrl 취소 모드를 활성화하면 다음 단축키들과 충돌이 발생할 수 있습니다:\n"
+"  {0}"
 
 #. Key: SettingsWindowOptions_Controls.6-638423313418490383
 msgctxt "SettingsWindowOptions_Controls.6-638423313418490383"
 msgid "Set Anyway"
-msgstr ""
+msgstr "그래도 설정하기"
 
 #. Key: SettingsWindowOptions_Controls.7-638423313418490383
 msgctxt "SettingsWindowOptions_Controls.7-638423313418490383"
 msgid "Cancel"
-msgstr ""
+msgstr "취소"
 
 #. Key: SettingsWindowOptions_Controls.8-638423313418490383
 msgctxt "SettingsWindowOptions_Controls.8-638423313418490383"
 msgid "Control Key Conflict"
-msgstr ""
+msgstr "Ctrl 키 충돌"
 
 #. Key: SettingsWindowOptions_Controls.9-638423313418490383
 msgctxt "SettingsWindowOptions_Controls.9-638423313418490383"
 msgid "When using the Control key for Cancel Mode, shortcuts using the Control key may result in conflicts."
-msgstr ""
+msgstr "Ctrl 취소 모드를 활성화하면 Ctrl 키를 포함하는 단축키들과 충돌이 발생할 수 있습니다."
 
 #. Key: SettingsWindowOptions_Controls.10-638423313418490383
 msgctxt "SettingsWindowOptions_Controls.10-638423313418490383"
 msgid "Set Anyway"
-msgstr ""
+msgstr "그래도 설정하기"
 
 #. Key: SettingsWindowOptions_Controls.11-638423313418490383
 msgctxt "SettingsWindowOptions_Controls.11-638423313418490383"
 msgid "Cancel"
-msgstr ""
+msgstr "취소"
 
 #. Key: SettingsWindowOptions_Controls.2-638332372939816524
 msgctxt "SettingsWindowOptions_Controls.2-638332372939816524"
 msgid "Potential Conflicts"
-msgstr ""
+msgstr "충돌 가능성이 있는 단축키"
 
 #. Key: SettingsWindowOptions_Controls.3-638332372939816524
 msgctxt "SettingsWindowOptions_Controls.3-638332372939816524"
 msgid "Replace"
-msgstr ""
+msgstr "변경"
 
 #. Key: SettingsWindowOptions_Controls.6-638421278416767106
 msgctxt "SettingsWindowOptions_Controls.6-638421278416767106"
 msgid "Set Anyway"
-msgstr ""
+msgstr "그래도 설정하기"
 
 #. Key: SettingsWindowOptions_Controls.4-638332372939816524
 msgctxt "SettingsWindowOptions_Controls.4-638332372939816524"
 msgid "Cancel"
-msgstr ""
+msgstr "취소"
 
 #. Key: SettingsWindowOptions_Data.0-638390026272745635
 msgctxt "SettingsWindowOptions_Data.0-638390026272745635"
 msgid "Tutorial Enabled"
-msgstr ""
+msgstr "튜토리얼 활성화"
 
 #. Key: SettingsWindow.0-638185404764860756
 msgctxt "SettingsWindow.0-638185404764860756"
 msgid "Reset Tutorial"
-msgstr ""
+msgstr "튜토리얼 초기화"
 
 #. Key: SettingsWindowOptions_Graphics.2-638373896637877755
 msgctxt "SettingsWindowOptions_Graphics.2-638373896637877755"
 msgid "Disable Combat Camera Motion"
-msgstr ""
+msgstr "전투 카메라 모션 비활성화"
 
 #. Key: SettingsWindowOptions_Graphics.0-638398060494013842
 msgctxt "SettingsWindowOptions_Graphics.0-638398060494013842"
 msgid "Enable Translation Tool"
-msgstr ""
+msgstr "번역 툴 활성화"
 
 #. Key: SettingsWindowOptions_Data.0-638332372939831571
 msgctxt "SettingsWindowOptions_Data.0-638332372939831571"
 msgid "Disable Data Send"
-msgstr ""
+msgstr "분석 데이터 보내기 비활성화"
 
 #. Key: SettingsWindow.0-638207064683201869
 msgctxt "SettingsWindow.0-638207064683201869"
 msgid "Exclusive Fullscreen"
-msgstr ""
+msgstr "전체 화면"
 
 #. Key: SettingsWindow.1-638207064683211854
 msgctxt "SettingsWindow.1-638207064683211854"
 msgid "Fullscreen Window"
-msgstr ""
+msgstr "전체 화면 창"
 
 #. Key: SettingsWindow.2-638207064683211854
 msgctxt "SettingsWindow.2-638207064683211854"
 msgid "Window"
-msgstr ""
+msgstr "창"
 
 #. Key: SettingsWindowOptions_Graphics.1-638332372939831571
 msgctxt "SettingsWindowOptions_Graphics.1-638332372939831571"
 msgid "Window Mode"
-msgstr ""
+msgstr "창 모드"
 
 #. Key: SettingsWindowOptions_Graphics.2-638332372939831571
 msgctxt "SettingsWindowOptions_Graphics.2-638332372939831571"
 msgid "Resolution"
-msgstr ""
+msgstr "해상도"
 
 #. Key: SettingsWindowOptions_Graphics.3-638332372939831571
 msgctxt "SettingsWindowOptions_Graphics.3-638332372939831571"
 msgid "Quality"
-msgstr ""
+msgstr "품질"
 
 #. Key: SettingsWindowOptions_Graphics.4-638332372939831571
 msgctxt "SettingsWindowOptions_Graphics.4-638332372939831571"
 msgid "Target FPS"
-msgstr ""
+msgstr "목표 FPS"
 
 #. Key: SettingsWindowOptions_Graphics.5-638332372939831571
 msgctxt "SettingsWindowOptions_Graphics.5-638332372939831571"
 msgid "Unlimited"
-msgstr ""
+msgstr "제한 없음"
 
 #. Key: SettingsWindowOptions_Graphics.0-638373896637877755
 msgctxt "SettingsWindowOptions_Graphics.0-638373896637877755"
 msgid "Brightness"
-msgstr ""
+msgstr "밝기"
 
 #. Key: SettingsWindowOptions_Graphics.1-638373896637877755
 msgctxt "SettingsWindowOptions_Graphics.1-638373896637877755"
 msgid "Reset"
-msgstr ""
+msgstr "초기화"
 
 #. Key: SettingsWindowOptions_Graphics.0-638332372939831571
 msgctxt "SettingsWindowOptions_Graphics.0-638332372939831571"
 msgid "UI Scale"
-msgstr ""
+msgstr "UI 크기"
 
 #. Key: SettingsWindowOptions_UI.0-638415221470023078
 msgctxt "SettingsWindowOptions_UI.0-638415221470023078"
 msgid "Restrict UI Scale"
-msgstr ""
+msgstr "UI 크기 제한"
 
 #. Key: SettingsWindowOptions_Graphics.0-638386013538578606
 msgctxt "SettingsWindowOptions_Graphics.0-638386013538578606"
 msgid "Pan Speed"
-msgstr ""
+msgstr "화면 이동 속도"
 
 #. Key: SettingsWindowOptions_Graphics.0-638390026272780694
 msgctxt "SettingsWindowOptions_Graphics.0-638390026272780694"
 msgid "Mouse Scroll Speed"
-msgstr ""
+msgstr "마우스 스크롤 속도"
 
 #. Key: SettingsWindowTop.0-638332384326425996
 msgctxt "SettingsWindowTop.0-638332384326425996"
 msgid "Save Game"
-msgstr ""
+msgstr "저장하기"
 
 #. Key: SettingsWindowTop.1-638332384326425996
 msgctxt "SettingsWindowTop.1-638332384326425996"
 msgid "Save As"
-msgstr ""
+msgstr "다른 이름으로 저장하기"
 
 #. Key: SettingsWindowTop.2-638332384326425996
 msgctxt "SettingsWindowTop.2-638332384326425996"
 msgid "Load Game"
-msgstr ""
+msgstr "로드하기"
 
 #. Key: SettingsWindowTop.3-638332384326425996
 msgctxt "SettingsWindowTop.3-638332384326425996"
 msgid "Settings"
-msgstr ""
+msgstr "설정"
 
 #. Key: SettingsWindowTop.4-638332384326425996
 msgctxt "SettingsWindowTop.4-638332384326425996"
 msgid "Tutorials"
-msgstr ""
+msgstr "튜토리얼"
 
 #. Key: SettingsWindowTop.0-638379728726002051
 #. Args:
 #. - Format.HotkeyStyle(KeyMapManager.Instance.GetKeyName(UnityEngine.KeyCode.F8))
 msgctxt "SettingsWindowTop.0-638379728726002051"
 msgid "Send Feedback {0}"
-msgstr ""
+msgstr "{0} 피드백 보내기"
 
 #. Key: SettingsWindowTop.5-638332384326425996
 msgctxt "SettingsWindowTop.5-638332384326425996"
 msgid "Master Volume"
-msgstr ""
+msgstr "전체 음량"
 
 #. Key: SettingsWindowTop.1-638307324819531349
 msgctxt "SettingsWindowTop.1-638307324819531349"
 msgid "Play Style"
-msgstr ""
+msgstr "플레이 스타일"
 
 #. Key: SettingsWindowTop.6-638332384326425996
 msgctxt "SettingsWindowTop.6-638332384326425996"
 msgid "Exit"
-msgstr ""
+msgstr "나가기"
 
 #. Key: TranslationsWindow.0-638320989626568796
 msgctxt "TranslationsWindow.0-638320989626568796"
 msgid "Translations"
-msgstr ""
+msgstr "번역"
 
 #. Key: TranslationsWindow.0-638379728726022054
 msgctxt "TranslationsWindow.0-638379728726022054"
@@ -9522,12 +9567,12 @@ msgstr ""
 #. Key: TranslationsWindowNew.0-638398060494053162
 msgctxt "TranslationsWindowNew.0-638398060494053162"
 msgid "Steam Workshop"
-msgstr ""
+msgstr "스팀 창작마당"
 
 #. Key: TutorialWindow.0-638333251365094668
 msgctxt "TutorialWindow.0-638333251365094668"
 msgid "Tutorials"
-msgstr ""
+msgstr "튜토리얼"
 
 #. Key: RoomTypeFilterAlertWidget.0-638322107133905617
 #. Args:
@@ -9538,35 +9583,37 @@ msgid ""
 "{0}\n"
 "<size=75%>Click to Dismiss ({1}s)</size>"
 msgstr ""
+"{0}\n"
+"<size=75%>없애려면 클릭 ({1}s)</size>"
 
 #. Key: RoomTypeFilterAlertWidget.0-638182061783390483
 #. Args:
 #. - room.TotalLuxuryValue
 msgctxt "RoomTypeFilterAlertWidget.0-638182061783390483"
 msgid "{0} <slink=Luxury>"
-msgstr ""
+msgstr "{0} <slink=Luxury>"
 
 #. Key: RightClickContextWidget.1-638330497791018852
 msgctxt "RightClickContextWidget.1-638330497791018852"
 msgid "Yes"
-msgstr ""
+msgstr "네"
 
 #. Key: RightClickContextWidget.2-638330497791018852
 msgctxt "RightClickContextWidget.2-638330497791018852"
 msgid "Cancel"
-msgstr ""
+msgstr "취소"
 
 #. Key: RightClickContextWidget.0-638290279819770937
 msgctxt "RightClickContextWidget.0-638290279819770937"
 msgid "Immediate Task for any Staff"
-msgstr ""
+msgstr "아무 교사에게나 직접 명령"
 
 #. Key: RightClickContextWidget.1-638290279819770937
 #. Args:
 #. - EntityUtils.GetDisplayName(assignedWorker)
 msgctxt "RightClickContextWidget.1-638290279819770937"
 msgid "Immediate Task for {0}"
-msgstr ""
+msgstr "{0}에게 직접 명령"
 
 #. Key: RightClickContextWidgetEntityEntry.0-638330497791033920
 #. Args:
@@ -9577,6 +9624,8 @@ msgid ""
 "{0}\n"
 "<size=-6>Claimed by:{1}</size>"
 msgstr ""
+"{0}\n"
+"<size=-6>작업 예정:{1}</size>"
 
 #. Key: RightClickContextWidgetEntityEntry.1-638330497791033920
 #. Args:
@@ -9587,6 +9636,8 @@ msgid ""
 "{0}\n"
 "<size=-6>Claimed by:{1}</size>"
 msgstr ""
+"{0}\n"
+"<size=-6>작업 예정:{1}</size>"
 
 #. Key: RightClickContextWidgetEntityEntry.2-638330497791033920
 #. Args:
@@ -9599,6 +9650,9 @@ msgid ""
 "<size=-6>Claimed by:{1}</size>\n"
 "{2}"
 msgstr ""
+"<color=red>{0}</color>\n"
+"<size=-6>작업 예정:{1}</size>\n"
+"{2}"
 
 #. Key: RightClickContextWidgetEntityEntry.3-638330497791033920
 #. Args:
@@ -9611,6 +9665,9 @@ msgid ""
 "<size=-6>Claimed by:{1}</size>\n"
 "{2}"
 msgstr ""
+"<color=red>{0}</color>\n"
+"<size=-6>작업 예정:{1}</size>\n"
+"{2}"
 
 #. Key: RightClickContextWidgetEntityEntry.4-638330497791033920
 #. Args:
@@ -9621,53 +9678,55 @@ msgid ""
 "{0}\n"
 "Administer {1}"
 msgstr ""
+"{0}\n"
+"{1} 관리"
 
 #. Key: BookOfRitualsEntry.0-638331491640161516
 msgctxt "BookOfRitualsEntry.0-638331491640161516"
 msgid "Ritual Requirements"
-msgstr ""
+msgstr "의식 조건"
 
 #. Key: BookOfRitualsEntry.0-638315042893027606
 msgctxt "BookOfRitualsEntry.0-638315042893027606"
 msgid "Costs Table"
-msgstr ""
+msgstr "재료 표"
 
 #. Key: BookOfRitualsEntry.1-638315042893027606
 msgctxt "BookOfRitualsEntry.1-638315042893027606"
 msgid "Start Ritual"
-msgstr ""
+msgstr "의식 시작"
 
 #. Key: BookOfRitualsEntry.2-638315042893027606
 msgctxt "BookOfRitualsEntry.2-638315042893027606"
 msgid "Select Ritual In Progress"
-msgstr ""
+msgstr "진행 중인 의식 선택"
 
 #. Key: BookOfRitualsEntry.3-638315042893027606
 #. Args:
 #. - Model.Format.DisplayName(ritualSiteConfig.EntityKey.GetDefinition())
 msgctxt "BookOfRitualsEntry.3-638315042893027606"
 msgid "Build {0}"
-msgstr ""
+msgstr "{0} 건설"
 
 #. Key: BookOfRitualsTabButton.0-638290265805050566
 msgctxt "BookOfRitualsTabButton.0-638290265805050566"
 msgid "Founder's Message"
-msgstr ""
+msgstr "창립자의 편지"
 
 #. Key: BookOfDreadStoryWindow.1-638163720611573942
 msgctxt "BookOfDreadStoryWindow.1-638163720611573942"
 msgid "Continue"
-msgstr ""
+msgstr "계속"
 
 #. Key: BookOfRitualsWindow.0-638265828315894514
 msgctxt "BookOfRitualsWindow.0-638265828315894514"
 msgid "Rename School"
-msgstr ""
+msgstr "학교 이름 변경"
 
 #. Key: BookOfRitualsWindow.0-638331491640176537
 msgctxt "BookOfRitualsWindow.0-638331491640176537"
 msgid "A Nameless Wizard"
-msgstr ""
+msgstr "이름없는 마법사"
 
 #. Key: BookOfRitualsWindow.1-638331491640176537
 #. Args:
@@ -9680,38 +9739,42 @@ msgid ""
 "- {0}\n"
 "Founder, {1}"
 msgstr ""
+"\n"
+"\n"
+"- {0}\n"
+"{1}의 창립자"
 
 #. Key: RitualCostsWidget.0-638331491640191587
 msgctxt "RitualCostsWidget.0-638331491640191587"
 msgid "Ritual Costs"
-msgstr ""
+msgstr "의식 재료"
 
 #. Key: RitualCostsWidget.1-638331491640191587
 #. Args:
 #. - index + 1
 msgctxt "RitualCostsWidget.1-638331491640191587"
 msgid "<size=125%><align=center>Level {0}</align></size>\n"
-msgstr ""
+msgstr "<size=125%><align=center>레벨 {0}</align></size>\n"
 
 #. Key: CustomCharacterTooltip.0-638290929241279468
 msgctxt "CustomCharacterTooltip.0-638290929241279468"
 msgid "Costs Change with Repel Distance"
-msgstr ""
+msgstr "추방 거리에 따라 재료가 변경됩니다"
 
 #. Key: CustomCharacterTooltip.1-638290929241289604
 msgctxt "CustomCharacterTooltip.1-638290929241289604"
 msgid "Costs Change by Number of Students"
-msgstr ""
+msgstr "학생 수에 따라 재료가 변경됩니다"
 
 #. Key: CustomCharacterTooltip.2-638290929241289604
 msgctxt "CustomCharacterTooltip.2-638290929241289604"
 msgid "Costs Change by Number of Staff"
-msgstr ""
+msgstr "교사 수에 따라 재료가 변경됩니다"
 
 #. Key: CustomCharacterTooltip.3-638290929241289604
 msgctxt "CustomCharacterTooltip.3-638290929241289604"
 msgid "Costs Change by Number of Mages"
-msgstr ""
+msgstr "마법사 수에 따라 재료가 변경됩니다"
 
 #. Key: ViewRitualsUtils.0-638295488001958897
 #. Args:
@@ -9721,7 +9784,7 @@ msgstr ""
 #. - available.Count()
 msgctxt "ViewRitualsUtils.0-638295488001958897"
 msgid "{0}-{1} {2} (<color=#F96337>{3}</color>)"
-msgstr ""
+msgstr "{0}-{1} {2} (<color=#F96337>{3}</color>)"
 
 #. Key: ViewRitualsUtils.1-638295488001958897
 #. Args:
@@ -9731,7 +9794,7 @@ msgstr ""
 #. - available.Count()
 msgctxt "ViewRitualsUtils.1-638295488001958897"
 msgid "{0}-{1} {2} ({3})"
-msgstr ""
+msgstr "{0}-{1} {2} ({3})"
 
 #. Key: ViewRitualsUtils.2-638295488001968891
 #. Args:
@@ -9740,7 +9803,7 @@ msgstr ""
 #. - available.Count()
 msgctxt "ViewRitualsUtils.2-638295488001968891"
 msgid "{0} {1} (<color=#F96337>{2}</color>)"
-msgstr ""
+msgstr "{0} {1} (<color=#F96337>{2}</color>)"
 
 #. Key: ViewRitualsUtils.3-638295488001968891
 #. Args:
@@ -9749,22 +9812,22 @@ msgstr ""
 #. - available.Count()
 msgctxt "ViewRitualsUtils.3-638295488001968891"
 msgid "{0} {1} ({2})"
-msgstr ""
+msgstr "{0} {1} ({2})"
 
 #. Key: ViewRitualsUtils.4-638295488001968891
 msgctxt "ViewRitualsUtils.4-638295488001968891"
 msgid " - must be Student"
-msgstr ""
+msgstr " - 학생이어야 함"
 
 #. Key: ViewRitualsUtils.5-638295488001968891
 msgctxt "ViewRitualsUtils.5-638295488001968891"
 msgid " - must be Staff"
-msgstr ""
+msgstr " - 교사여야 함"
 
 #. Key: ViewRitualsUtils.6-638295488001968891
 msgctxt "ViewRitualsUtils.6-638295488001968891"
 msgid " - Any Mage"
-msgstr ""
+msgstr " - 학생 또는 교사"
 
 #. Key: ViewRitualsUtils.0-638332336425688385
 #. Args:
@@ -9772,54 +9835,54 @@ msgstr ""
 #. - bucket.RequiredSkillValue
 msgctxt "ViewRitualsUtils.0-638332336425688385"
 msgid "        {0} Skill {1}\n"
-msgstr ""
+msgstr "        {0} 스킬 {1}\n"
 
 #. Key: ViewRitualsUtils.1-638332336425688385
 #. Args:
 #. - Model.Format.Link(bucket.RequiredSpecialization)
 msgctxt "ViewRitualsUtils.1-638332336425688385"
 msgid "        {0} Skill Speciality\n"
-msgstr ""
+msgstr "        {0} 스킬 전문\n"
 
 #. Key: ViewRitualsUtils.2-638332336425688385
 #. Args:
 #. - bucket.RequiredTotalSkill
 msgctxt "ViewRitualsUtils.2-638332336425688385"
 msgid "        {0} Total Skill\n"
-msgstr ""
+msgstr "        {0} 총 스킬\n"
 
 #. Key: ViewRitualsUtils.0-638357407851529148
 #. Args:
 #. - bucket.RequiredTrauma
 msgctxt "ViewRitualsUtils.0-638357407851529148"
 msgid "        {0} Trauma\n"
-msgstr ""
+msgstr "        {0} 트라우마\n"
 
 #. Key: ViewRitualsUtils.3-638332336425688385
 #. Args:
 #. - bucket.RequiredStaffHours
 msgctxt "ViewRitualsUtils.3-638332336425688385"
 msgid "        {0} Hours on Staff\n"
-msgstr ""
+msgstr "        교사 재직 기간 {0}시간\n"
 
 #. Key: ViewRitualsUtils.4-638332336425688385
 #. Args:
 #. - Model.Format.LinkStatus(bucket.ExcludeStatus)
 msgctxt "ViewRitualsUtils.4-638332336425688385"
 msgid "        Not {0}\n"
-msgstr ""
+msgstr "        {0}(이)가 아님\n"
 
 #. Key: ViewRitualsUtils.0-638379728726270666
 msgctxt "ViewRitualsUtils.0-638379728726270666"
 msgid "One Wand of any type"
-msgstr ""
+msgstr "아무 지팡이 하나"
 
 #. Key: ViewRitualsUtils.7-638295488001968891
 #. Args:
 #. - ritualSiteConfig.RoomTypeRequirements[0].GetDefinition().DisplayName
 msgctxt "ViewRitualsUtils.7-638295488001968891"
 msgid "Must be in <color=#F96337>{0}</color>"
-msgstr ""
+msgstr "<color=#F96337>{0}</color>에 있어야 함"
 
 #. Key: ViewRitualsUtils.0-638297049894487022
 #. Args:
@@ -9827,7 +9890,7 @@ msgstr ""
 #. - ritualSiteConfig.RoomTypeRequirements[1].GetDefinition().DisplayName
 msgctxt "ViewRitualsUtils.0-638297049894487022"
 msgid "Must be in <color=#F96337>{0}</color> or <color=#F96337>{1}</color>."
-msgstr ""
+msgstr "<color=#F96337>{0}</color> 또는 <color=#F96337>{1}</color>에 있어야 함."
 
 #. Key: ViewRitualsUtils.0-638297072940452486
 #. Args:
@@ -9836,19 +9899,19 @@ msgstr ""
 #. - ritualSiteConfig.RoomTypeRequirements[2].GetDefinition().DisplayName
 msgctxt "ViewRitualsUtils.0-638297072940452486"
 msgid "Must be in <color=#F96337>{0}</color>, <color=#F96337>{1}</color>, or <color=#F96337>{2}</color>."
-msgstr ""
+msgstr "<color=#F96337>{0}</color>, <color=#F96337>{1}</color>, 또는 <color=#F96337>{2}</color>에 있어야 함."
 
 #. Key: ViewRitualsUtils.1-638297049894487022
 msgctxt "ViewRitualsUtils.1-638297049894487022"
 msgid "Must be in valid room."
-msgstr ""
+msgstr "방 안에서 치뤄져야 합니다."
 
 #. Key: ViewRitualsUtils.2-638297049894487022
 #. Args:
 #. - ritualSiteConfig.RoomTypeRequirements[0].GetDefinition().DisplayName
 msgctxt "ViewRitualsUtils.2-638297049894487022"
 msgid "Must be in {0}"
-msgstr ""
+msgstr "{0}에서 치뤄져야 함"
 
 #. Key: ViewRitualsUtils.3-638297049894487022
 #. Args:
@@ -9856,7 +9919,7 @@ msgstr ""
 #. - ritualSiteConfig.RoomTypeRequirements[1].GetDefinition().DisplayName
 msgctxt "ViewRitualsUtils.3-638297049894487022"
 msgid "Must be in {0} or {1}."
-msgstr ""
+msgstr "{0} 또는 {1}에서 치뤄져야 합니다."
 
 #. Key: ViewRitualsUtils.1-638297072940467502
 #. Args:
@@ -9865,17 +9928,17 @@ msgstr ""
 #. - ritualSiteConfig.RoomTypeRequirements[2].GetDefinition().DisplayName
 msgctxt "ViewRitualsUtils.1-638297072940467502"
 msgid "Must be in {0}, {1}, or {2}."
-msgstr ""
+msgstr "{0}, {1}, 또는 {2}에서 치뤄져야 합니다."
 
 #. Key: ViewRitualsUtils.4-638297049894487022
 msgctxt "ViewRitualsUtils.4-638297049894487022"
 msgid "Must be in valid room."
-msgstr ""
+msgstr "방 안에서 치뤄져야 합니다."
 
 #. Key: ViewRitualsUtils.0-638327089225751522
 msgctxt "ViewRitualsUtils.0-638327089225751522"
 msgid "Must not be broken."
-msgstr ""
+msgstr "파괴되지 않은 상태여야 합니다."
 
 #. Key: ViewRitualsUtils.9-638295488001968891
 #. Args:
@@ -9885,63 +9948,65 @@ msgid ""
 "\n"
 "Time: {0}"
 msgstr ""
+"\n"
+"시간: {0}"
 
 #. Key: ViewRitualsUtils.0-638296858648216400
 #. Args:
 #. - Model.Format.Link(re.Entity)
 msgctxt "ViewRitualsUtils.0-638296858648216400"
 msgid "{0} retires"
-msgstr ""
+msgstr "{0}(이)가 은퇴함"
 
 #. Key: ViewRitualsUtils.1-638296858648216400
 #. Args:
 #. - Model.Format.Link(re.Entity)
 msgctxt "ViewRitualsUtils.1-638296858648216400"
 msgid "{0} hired"
-msgstr ""
+msgstr "{0}(을)를 고용함"
 
 #. Key: ViewRitualsUtils.1-638379728726270666
 #. Args:
 #. - Model.Format.Link(re.Entity)
 msgctxt "ViewRitualsUtils.1-638379728726270666"
 msgid "{0} expelled"
-msgstr ""
+msgstr "{0}(이)가 학교를 떠남"
 
 #. Key: ViewRitualsUtils.2-638296858648216400
 #. Args:
 #. - Model.Format.Link(re.Entity)
 msgctxt "ViewRitualsUtils.2-638296858648216400"
 msgid "{0} graduates"
-msgstr ""
+msgstr "{0}(이)가 졸업함"
 
 #. Key: ViewRitualsUtils.5-638332336425688385
 msgctxt "ViewRitualsUtils.5-638332336425688385"
 msgid "Student summoned"
-msgstr ""
+msgstr "학생이 소환됨"
 
 #. Key: ViewRitualsUtils.3-638296858648216400
 #. Args:
 #. - amt
 msgctxt "ViewRitualsUtils.3-638296858648216400"
 msgid "{0} Repel Fog"
-msgstr ""
+msgstr "안개가 {0}만큼 추방됨"
 
 #. Key: ViewRitualsUtils.0-638297617980455038
 msgctxt "ViewRitualsUtils.0-638297617980455038"
 msgid "Fog Repelled"
-msgstr ""
+msgstr "안개가 추방됨"
 
 #. Key: ViewRitualsUtils.4-638296858648216400
 msgctxt "ViewRitualsUtils.4-638296858648216400"
 msgid "Underschool unlocked"
-msgstr ""
+msgstr "지하세계가 열림"
 
 #. Key: ViewRitualsUtils.2-638379728726270666
 #. Args:
 #. - Model.Format.Link(ritualSite.Config.AppliedStatusAllMages.GetDefinition())
 msgctxt "ViewRitualsUtils.2-638379728726270666"
 msgid "All Mages: {0}"
-msgstr ""
+msgstr "모든 마법사: {0}"
 
 #. Key: HUDPanel_ClutterFilterLegendEntry.0-638326348617994786
 #. Args:
@@ -9952,6 +10017,8 @@ msgid ""
 "\n"
 "- Clutter Range: {0:P0} - {1:P0}"
 msgstr ""
+"\n"
+"- 쓰레기 범위: {0:P0} - {1:P0}"
 
 #. Key: HUDPanel_ClutterFilterLegendEntry.0-638362442906528307
 #. Args:
@@ -9962,6 +10029,8 @@ msgid ""
 "\n"
 "- {0} spawn every {1:G7} hours."
 msgstr ""
+"\n"
+"- {1:G7}시간마다 {0}(이)가 나타납니다."
 
 #. Key: HUDPanel_ClutterFilterLegendEntry.1-638362442906528307
 #. Args:
@@ -9971,6 +10040,8 @@ msgid ""
 "\n"
 "- No {0} will spawn."
 msgstr ""
+"\n"
+"{0}(이)가 나타나지 않습니다."
 
 #. Key: HUDPanel_FilthFilterLegendEntry.0-638326348617994786
 #. Args:
@@ -9981,6 +10052,8 @@ msgid ""
 "\n"
 "- Filth Range: {0:P0} - {1:P0}"
 msgstr ""
+"\n"
+"- 찌꺼기 범위: {0:P0} - {1:P0}"
 
 #. Key: HUDPanel_FilthFilterLegendEntry.0-638362442906533328
 #. Args:
@@ -9991,6 +10064,8 @@ msgid ""
 "\n"
 "- {0} spawn every {1:G7} hours."
 msgstr ""
+"\n"
+"- {1:G7}시간마다 {0}(이)가 나타납니다."
 
 #. Key: HUDPanel_FilthFilterLegendEntry.1-638362442906533328
 #. Args:
@@ -10000,6 +10075,8 @@ msgid ""
 "\n"
 "- No {0} will spawn."
 msgstr ""
+"\n"
+"{0}(이)가 나타나지 않습니다."
 
 #. Key: HUDPanel_LightingFilterLegendEntry.0-638326348618009833
 #. Args:
@@ -10010,6 +10087,8 @@ msgid ""
 "\n"
 "- Lighting Range: {0:P0} - {1:P0}"
 msgstr ""
+"\n"
+"- 조명 범위: {0:P0} - {1:P0}"
 
 #. Key: HUDPanel_LightingFilterLegendEntry.0-638362442906543360
 #. Args:
@@ -10020,6 +10099,8 @@ msgid ""
 "\n"
 "- {0} spawn every {1:G7} hours."
 msgstr ""
+"\n"
+"- {1:G7}시간마다 {0}(이)가 나타납니다."
 
 #. Key: HUDPanel_LightingFilterLegendEntry.1-638362442906543360
 #. Args:
@@ -10029,70 +10110,72 @@ msgid ""
 "\n"
 "- No {0} will spawn."
 msgstr ""
+"\n"
+"{0}(이)가 나타나지 않습니다."
 
 #. Key: HUDPanel_PathingFilterLegend.0-638326348618009833
 msgctxt "HUDPanel_PathingFilterLegend.0-638326348618009833"
 msgid "Connected Areas"
-msgstr ""
+msgstr "연결된 공간"
 
 #. Key: HUDPanel_PathingFilterLegend.1-638326348618009833
 msgctxt "HUDPanel_PathingFilterLegend.1-638326348618009833"
 msgid "- Select character to show allowed pathing"
-msgstr ""
+msgstr "- 갈 수 있는 곳을 보려면 캐릭터를 선택하세요"
 
 #. Key: HUDPanel_PathingFilterLegend.2-638326348618009833
 #. Args:
 #. - Model.EntityUtils.GetDisplayName(selected)
 msgctxt "HUDPanel_PathingFilterLegend.2-638326348618009833"
 msgid "- Showing pathing for {0}"
-msgstr ""
+msgstr "- {0}의 경로 출력 중"
 
 #. Key: HUDPanel_PathingFilterLegend.3-638326348618009833
 msgctxt "HUDPanel_PathingFilterLegend.3-638326348618009833"
 msgid "- Select character to show allowed pathing"
-msgstr ""
+msgstr "- 갈 수 있는 곳을 보려면 캐릭터를 선택하세요"
 
 #. Key: HUDPanel_RoomFilterLegend.0-638194169947181746
 msgctxt "HUDPanel_RoomFilterLegend.0-638194169947181746"
 msgid "Rooms"
-msgstr ""
+msgstr "방"
 
 #. Key: HUDPanel_RoomFilterLegend.0-638326348618019885
 msgctxt "HUDPanel_RoomFilterLegend.0-638326348618019885"
 msgid "Keywords: "
-msgstr ""
+msgstr "키워드: "
 
 #. Key: HUDPanel_SupportFilterLegend.0-638187270792873019
 msgctxt "HUDPanel_SupportFilterLegend.0-638187270792873019"
 msgid "Support"
-msgstr ""
+msgstr "지지대"
 
 #. Key: HUDPanel_SupportFilterLegend.0-638326348618029894
 msgctxt "HUDPanel_SupportFilterLegend.0-638326348618029894"
 msgid "New construction must be supported. Support lessens the further away a block connects laterally with a fully supported block."
-msgstr ""
+msgstr "바닥이나 벽을 건설하려면 지지대가 필요합니다. 벽이나 기둥에서 가로로 멀어질수록 지지력이 줄어듭니다."
 
 #. Key: HUDPanel_SupportFilterLegend.1-638326348618029894
 msgctxt "HUDPanel_SupportFilterLegend.1-638326348618029894"
 msgid "Key"
-msgstr ""
+msgstr "키"
 
 #. Key: HUDPanel_SupportFilterLegend.2-638326348618029894
 msgctxt "HUDPanel_SupportFilterLegend.2-638326348618029894"
 msgid "None"
-msgstr ""
+msgstr "없음"
 
 #. Key: HUDPanel_SupportFilterLegend.3-638326348618029894
 msgctxt "HUDPanel_SupportFilterLegend.3-638326348618029894"
 msgid "Full"
-msgstr ""
+msgstr "최대"
 
 #. Key: SchoolScoreWidget.0-638326348618039894
 #. Args:
 #. - powerScore.PowerScore
 msgctxt "SchoolScoreWidget.0-638326348618039894"
 msgid "M.A.G.E. Score: {0}"
-msgstr ""
+msgstr "M.A.G.E. 점수: {0}"
 
 #. Key: SchoolScoreWidget.1-638326348618039894
 #. Args:
@@ -10102,6 +10185,8 @@ msgid ""
 "\n"
 "  Magic Skill: {0}"
 msgstr ""
+"\n"
+"  마법 스킬: {0}"
 
 #. Key: SchoolScoreWidget.2-638326348618039894
 #. Args:
@@ -10111,6 +10196,8 @@ msgid ""
 "\n"
 "  Reagents: {0}"
 msgstr ""
+"\n"
+"  마법 재료: {0}"
 
 #. Key: SchoolScoreWidget.3-638326348618039894
 #. Args:
@@ -10120,6 +10207,8 @@ msgid ""
 "\n"
 "  Crafted: {0}"
 msgstr ""
+"\n"
+"  제작: {0}"
 
 #. Key: SchoolScoreWidget.4-638326348618039894
 #. Args:
@@ -10129,6 +10218,8 @@ msgid ""
 "\n"
 "  Assembled: {0}"
 msgstr ""
+"\n"
+"  조립: {0}"
 
 #. Key: SchoolScoreWidget.5-638326348618039894
 #. Args:
@@ -10138,6 +10229,8 @@ msgid ""
 "\n"
 "  Constructed: {0}"
 msgstr ""
+"\n"
+"  건설: {0}"
 
 #. Key: SchoolScoreWidget.6-638326348618039894
 #. Args:
@@ -10147,6 +10240,8 @@ msgid ""
 "\n"
 "  Research Magic: {0}"
 msgstr ""
+"\n"
+"  마법 연구: {0}"
 
 #. Key: SchoolScoreWidget.7-638326348618039894
 #. Args:
@@ -10156,6 +10251,8 @@ msgid ""
 "\n"
 "  Assemble Magic: {0}"
 msgstr ""
+"\n"
+"  조립 마법: {0}"
 
 #. Key: SchoolScoreWidget.8-638326348618039894
 #. Args:
@@ -10165,6 +10262,8 @@ msgid ""
 "\n"
 "  Construct Magic: {0}"
 msgstr ""
+"\n"
+"  건설 마법: {0}"
 
 #. Key: SchoolScoreWidget.9-638326348618039894
 #. Args:
@@ -10174,6 +10273,8 @@ msgid ""
 "\n"
 "  Crafting Magic: {0}"
 msgstr ""
+"\n"
+"  제작 마법: {0}"
 
 #. Key: SchoolScoreWidget.10-638326348618039894
 #. Args:
@@ -10183,6 +10284,8 @@ msgid ""
 "\n"
 "  Rooms: {0}"
 msgstr ""
+"\n"
+"  방: {0}"
 
 #. Key: SchoolScoreWidget.11-638326348618039894
 #. Args:
@@ -10192,6 +10295,8 @@ msgid ""
 "\n"
 "  Custom: {0}"
 msgstr ""
+"\n"
+"  커스텀: {0}"
 
 #. Key: SchoolScoreWidget.12-638326348618039894
 #. Args:
@@ -10201,6 +10306,8 @@ msgid ""
 "\n"
 "  Days: {0}"
 msgstr ""
+"\n"
+"  날짜: {0}"
 
 #. Key: SchoolScoreWidget.13-638326348618039894
 #. Args:
@@ -10210,11 +10317,13 @@ msgid ""
 "\n"
 "  Exploration: {0}"
 msgstr ""
+"\n"
+"  탐험: {0}"
 
 #. Key: GameDurabilityWidget.0-637967843896996231
 msgctxt "GameDurabilityWidget.0-637967843896996231"
 msgid " (Immune to rain damage)"
-msgstr ""
+msgstr " (빗물 데미지에 면역)"
 
 #. Key: GameDurabilityWidget.0-638163814023173095
 #. Args:
@@ -10224,13 +10333,15 @@ msgid ""
 "\n"
 "{0}"
 msgstr ""
+"\n"
+"{0}"
 
 #. Key: GameHPWidget.0-638324680265186249
 #. Args:
 #. - hitpoint.TemporaryHitPoints
 msgctxt "GameHPWidget.0-638324680265186249"
 msgid " ({0} THP)"
-msgstr ""
+msgstr " ({0} THP)"
 
 #. Key: GameHPWidget.1-638324680265196248
 #. Args:
@@ -10242,6 +10353,8 @@ msgid ""
 "\n"
 "{0} {1} / Hour {2}"
 msgstr ""
+"\n"
+"{0} 시간당 {1} {2}"
 
 #. Key: GameHPWidget.2-638324680265196248
 #. Args:
@@ -10253,13 +10366,15 @@ msgid ""
 "\n"
 "{0} {1} / Hour {2}"
 msgstr ""
+"\n"
+"{0} 시간당 {1} {2}"
 
 #. Key: GameHPWidget.3-638324680265196248
 #. Args:
 #. - hitPoint.TemporaryHitPoints
 msgctxt "GameHPWidget.3-638324680265196248"
 msgid "({0} Temp HP)"
-msgstr ""
+msgstr "({0} 임시 HP)"
 
 #. Key: GameManaWidget.0-638324730169948598
 #. Args:
@@ -10271,6 +10386,9 @@ msgid ""
 "\n"
 "{0} {1} / Hour "
 msgstr ""
+"\n"
+"\n"
+"{0} 시간당 {1} "
 
 #. Key: GameManaWidget.1-638324730169948598
 #. Args:
@@ -10279,7 +10397,7 @@ msgstr ""
 #. - Model.Format.Link(status.Config)
 msgctxt "GameManaWidget.1-638324730169948598"
 msgid "{0} {1} / Hour {2}\n"
-msgstr ""
+msgstr "{0} 시간당 {1} {2}\n"
 
 #. Key: GameManaWidget.2-638324730169948598
 #. Args:
@@ -10288,237 +10406,237 @@ msgstr ""
 #. - Model.Format.Link(status.Config)
 msgctxt "GameManaWidget.2-638324730169948598"
 msgid "{0} {1} / Hour {2}\n"
-msgstr ""
+msgstr "{0} 시간당 {1} {2}\n"
 
 #. Key: GroupEntryConditional.0-638359255638337871
 msgctxt "GroupEntryConditional.0-638359255638337871"
 msgid "All"
-msgstr ""
+msgstr "전체"
 
 #. Key: GroupEntryConditional.0-638386013539340605
 msgctxt "GroupEntryConditional.0-638386013539340605"
 msgid "Any"
-msgstr ""
+msgstr "아무거나"
 
 #. Key: GroupEntryConditional.0-638324680265221382
 msgctxt "GroupEntryConditional.0-638324680265221382"
 msgid "Membership"
-msgstr ""
+msgstr "그룹 구성"
 
 #. Key: GroupEntryConditional.1-638324680265221382
 msgctxt "GroupEntryConditional.1-638324680265221382"
 msgid "Is Member"
-msgstr ""
+msgstr "구성원임"
 
 #. Key: GroupEntryConditional.2-638324680265221382
 msgctxt "GroupEntryConditional.2-638324680265221382"
 msgid "Is Not Member"
-msgstr ""
+msgstr "구성원이 아님"
 
 #. Key: GroupEntryConditional.3-638324680265221382
 msgctxt "GroupEntryConditional.3-638324680265221382"
 msgid "Faction"
-msgstr ""
+msgstr "종족"
 
 #. Key: GroupEntryConditional.4-638324680265221382
 msgctxt "GroupEntryConditional.4-638324680265221382"
 msgid "Is"
-msgstr ""
+msgstr "포함"
 
 #. Key: GroupEntryConditional.5-638324680265221382
 msgctxt "GroupEntryConditional.5-638324680265221382"
 msgid "Is Not"
-msgstr ""
+msgstr "미포함"
 
 #. Key: GroupEntryConditional.6-638324680265221382
 msgctxt "GroupEntryConditional.6-638324680265221382"
 msgid "Status"
-msgstr ""
+msgstr "상태"
 
 #. Key: GroupEntryConditional.7-638324680265221382
 msgctxt "GroupEntryConditional.7-638324680265221382"
 msgid "Has"
-msgstr ""
+msgstr "보유"
 
 #. Key: GroupEntryConditional.8-638324680265221382
 msgctxt "GroupEntryConditional.8-638324680265221382"
 msgid "Does Not Have"
-msgstr ""
+msgstr "미보유"
 
 #. Key: GroupEntryConditional.9-638324680265221382
 msgctxt "GroupEntryConditional.9-638324680265221382"
 msgid "Wand Tier"
-msgstr ""
+msgstr "지팡이 티어"
 
 #. Key: GroupEntryConditional.10-638324680265221382
 msgctxt "GroupEntryConditional.10-638324680265221382"
 msgid "In Tier Range"
-msgstr ""
+msgstr "범위 안"
 
 #. Key: GroupEntryConditional.11-638324680265221382
 msgctxt "GroupEntryConditional.11-638324680265221382"
 msgid "Outside Tier Range"
-msgstr ""
+msgstr "범위 바깥"
 
 #. Key: GroupEntryConditional.12-638324680265221382
 msgctxt "GroupEntryConditional.12-638324680265221382"
 msgid "In Skill Range"
-msgstr ""
+msgstr "스킬 범위 안"
 
 #. Key: GroupEntryConditional.13-638324680265221382
 msgctxt "GroupEntryConditional.13-638324680265221382"
 msgid "Not In Skill Range"
-msgstr ""
+msgstr "스킬 범위 바깥"
 
 #. Key: GroupEntryConditional.14-638324680265221382
 msgctxt "GroupEntryConditional.14-638324680265221382"
 msgid "Skill Capped"
-msgstr ""
+msgstr "스킬 한계 도달"
 
 #. Key: GroupEntryConditional.15-638324680265221382
 msgctxt "GroupEntryConditional.15-638324680265221382"
 msgid "Is Capped"
-msgstr ""
+msgstr "도달"
 
 #. Key: GroupEntryConditional.16-638324680265221382
 msgctxt "GroupEntryConditional.16-638324680265221382"
 msgid "Is Not Capped"
-msgstr ""
+msgstr "미도달"
 
 #. Key: GroupEntryConditional.17-638324680265221382
 msgctxt "GroupEntryConditional.17-638324680265221382"
 msgid "Sanity"
-msgstr ""
+msgstr "만족도"
 
 #. Key: GroupEntryConditional.18-638324680265221382
 msgctxt "GroupEntryConditional.18-638324680265221382"
 msgid "In Range"
-msgstr ""
+msgstr "범위 안"
 
 #. Key: GroupEntryConditional.19-638324680265221382
 msgctxt "GroupEntryConditional.19-638324680265221382"
 msgid "Not In Range"
-msgstr ""
+msgstr "범위 바깥"
 
 #. Key: GroupEntryConditionalRead.0-638324680265231377
 msgctxt "GroupEntryConditionalRead.0-638324680265231377"
 msgid "Membership"
-msgstr ""
+msgstr "그룹 구성"
 
 #. Key: GroupEntryConditionalRead.1-638324680265231377
 msgctxt "GroupEntryConditionalRead.1-638324680265231377"
 msgid "Is Member"
-msgstr ""
+msgstr "구성원임"
 
 #. Key: GroupEntryConditionalRead.2-638324680265231377
 msgctxt "GroupEntryConditionalRead.2-638324680265231377"
 msgid "Is Not Member"
-msgstr ""
+msgstr "구성원이 아님"
 
 #. Key: GroupEntryConditionalRead.3-638324680265231377
 msgctxt "GroupEntryConditionalRead.3-638324680265231377"
 msgid "Faction"
-msgstr ""
+msgstr "종족"
 
 #. Key: GroupEntryConditionalRead.4-638324680265231377
 msgctxt "GroupEntryConditionalRead.4-638324680265231377"
 msgid "Is"
-msgstr ""
+msgstr "포함"
 
 #. Key: GroupEntryConditionalRead.5-638324680265231377
 msgctxt "GroupEntryConditionalRead.5-638324680265231377"
 msgid "Is Not"
-msgstr ""
+msgstr "미포함"
 
 #. Key: GroupEntryConditionalRead.6-638324680265231377
 msgctxt "GroupEntryConditionalRead.6-638324680265231377"
 msgid "Status"
-msgstr ""
+msgstr "상태"
 
 #. Key: GroupEntryConditionalRead.7-638324680265231377
 msgctxt "GroupEntryConditionalRead.7-638324680265231377"
 msgid "Has"
-msgstr ""
+msgstr "보유"
 
 #. Key: GroupEntryConditionalRead.8-638324680265231377
 msgctxt "GroupEntryConditionalRead.8-638324680265231377"
 msgid "Does Not Have"
-msgstr ""
+msgstr "미보유"
 
 #. Key: GroupEntryConditionalRead.9-638324680265231377
 msgctxt "GroupEntryConditionalRead.9-638324680265231377"
 msgid "Wand Tier"
-msgstr ""
+msgstr "지팡이 티어"
 
 #. Key: GroupEntryConditionalRead.10-638324680265231377
 msgctxt "GroupEntryConditionalRead.10-638324680265231377"
 msgid "In Range"
-msgstr ""
+msgstr "범위 안"
 
 #. Key: GroupEntryConditionalRead.11-638324680265231377
 msgctxt "GroupEntryConditionalRead.11-638324680265231377"
 msgid "Outside Range"
-msgstr ""
+msgstr "범위 바깥"
 
 #. Key: GroupEntryConditionalRead.12-638324680265231377
 msgctxt "GroupEntryConditionalRead.12-638324680265231377"
 msgid "In Skill Range"
-msgstr ""
+msgstr "스킬 범위 안"
 
 #. Key: GroupEntryConditionalRead.13-638324680265231377
 msgctxt "GroupEntryConditionalRead.13-638324680265231377"
 msgid "Not In Skill Range"
-msgstr ""
+msgstr "스킬 범위 바깥"
 
 #. Key: GroupEntryConditionalRead.14-638324680265231377
 msgctxt "GroupEntryConditionalRead.14-638324680265231377"
 msgid "Skill Capped"
-msgstr ""
+msgstr "스킬 한계 도달"
 
 #. Key: GroupEntryConditionalRead.15-638324680265231377
 msgctxt "GroupEntryConditionalRead.15-638324680265231377"
 msgid "Is Capped"
-msgstr ""
+msgstr "도달"
 
 #. Key: GroupEntryConditionalRead.16-638324680265231377
 msgctxt "GroupEntryConditionalRead.16-638324680265231377"
 msgid "Is Not Capped"
-msgstr ""
+msgstr "미도달"
 
 #. Key: GroupEntryConditionalRead.17-638324680265231377
 msgctxt "GroupEntryConditionalRead.17-638324680265231377"
 msgid "Sanity"
-msgstr ""
+msgstr "만족도"
 
 #. Key: GroupEntryConditionalRead.18-638324680265231377
 msgctxt "GroupEntryConditionalRead.18-638324680265231377"
 msgid "In Range"
-msgstr ""
+msgstr "범위 안"
 
 #. Key: GroupEntryConditionalRead.19-638324680265231377
 msgctxt "GroupEntryConditionalRead.19-638324680265231377"
 msgid "Not In Range"
-msgstr ""
+msgstr "범위 바깥"
 
 #. Key: HUDWindow_Construct.0-638043652991285390
 msgctxt "HUDWindow_Construct.0-638043652991285390"
 msgid "Build"
-msgstr ""
+msgstr "건설"
 
 #. Key: HUDWindow_Construct.1-638043652991285390
 msgctxt "HUDWindow_Construct.1-638043652991285390"
 msgid "Build and furnish your school"
-msgstr ""
+msgstr "학교를 건설하고 꾸미세요"
 
 #. Key: HUDWindow_Construct.0-638324680265283620
 msgctxt "HUDWindow_Construct.0-638324680265283620"
 msgid "Build"
-msgstr ""
+msgstr "건설"
 
 #. Key: HUDWindow_Construct_Button.0-638324680265294020
 msgctxt "HUDWindow_Construct_Button.0-638324680265294020"
 msgid "NEW"
-msgstr ""
+msgstr "신규"
 
 #. Key: HUDWindow_Divination.0-637913965328445929
 msgctxt "HUDWindow_Divination.0-637913965328445929"
@@ -10560,134 +10678,134 @@ msgstr ""
 #. Key: HUDWindow_Groups.0-637907331316919602
 msgctxt "HUDWindow_Groups.0-637907331316919602"
 msgid "Groups"
-msgstr ""
+msgstr "그룹"
 
 #. Key: HUDWindow_Groups.1-637907331316919602
 msgctxt "HUDWindow_Groups.1-637907331316919602"
 msgid "Manage Groups"
-msgstr ""
+msgstr "그룹 관리"
 
 #. Key: HUDWindow_Groups.0-638324680265309074
 msgctxt "HUDWindow_Groups.0-638324680265309074"
 msgid "Groups"
-msgstr ""
+msgstr "그룹"
 
 #. Key: HUDWindow_Groups.1-638324680265309074
 msgctxt "HUDWindow_Groups.1-638324680265309074"
 msgid "Add Custom Group"
-msgstr ""
+msgstr "사용자 그룹 추가"
 
 #. Key: HUDWindow_Groups.0-638193233581570383
 msgctxt "HUDWindow_Groups.0-638193233581570383"
 msgid "Add a new custom group."
-msgstr ""
+msgstr "사용자 그룹을 추가할 수 있습니다."
 
 #. Key: HUDWindow_Groups.2-638324680265309074
 msgctxt "HUDWindow_Groups.2-638324680265309074"
 msgid "Create New Group"
-msgstr ""
+msgstr "신규 그룹 추가"
 
 #. Key: HUDWindow_Groups.3-638324680265309074
 msgctxt "HUDWindow_Groups.3-638324680265309074"
 msgid "Name your new group."
-msgstr ""
+msgstr "새 그룹의 이름을 입력하세요."
 
 #. Key: HUDWindow_Groups.4-638324680265309074
 msgctxt "HUDWindow_Groups.4-638324680265309074"
 msgid "New Group"
-msgstr ""
+msgstr "신규 그룹"
 
 #. Key: HUDWindow_Groups_Entry.0-638324680265319145
 msgctxt "HUDWindow_Groups_Entry.0-638324680265319145"
 msgid "Membership"
-msgstr ""
+msgstr "그룹 구성"
 
 #. Key: HUDWindow_Groups_Entry.1-638324680265319145
 msgctxt "HUDWindow_Groups_Entry.1-638324680265319145"
 msgid "Status"
-msgstr ""
+msgstr "상태"
 
 #. Key: HUDWindow_Groups_Entry.2-638324680265319145
 msgctxt "HUDWindow_Groups_Entry.2-638324680265319145"
 msgid "Faction"
-msgstr ""
+msgstr "종족"
 
 #. Key: HUDWindow_Groups_Entry.3-638324680265319145
 msgctxt "HUDWindow_Groups_Entry.3-638324680265319145"
 msgid "Wand Tier"
-msgstr ""
+msgstr "지팡이 티어"
 
 #. Key: HUDWindow_Groups_Entry.4-638324680265319145
 msgctxt "HUDWindow_Groups_Entry.4-638324680265319145"
 msgid "In Skill Range"
-msgstr ""
+msgstr "스킬 범위 안"
 
 #. Key: HUDWindow_Groups_Entry.5-638324680265319145
 msgctxt "HUDWindow_Groups_Entry.5-638324680265319145"
 msgid "Not In Skill Range"
-msgstr ""
+msgstr "스킬 범위 바깥"
 
 #. Key: HUDWindow_Groups_Entry.6-638324680265319145
 msgctxt "HUDWindow_Groups_Entry.6-638324680265319145"
 msgid "Skill Capped"
-msgstr ""
+msgstr "스킬 한계 도달"
 
 #. Key: HUDWindow_Groups_Entry.7-638324680265319145
 msgctxt "HUDWindow_Groups_Entry.7-638324680265319145"
 msgid "Conviction"
-msgstr ""
+msgstr "만족도"
 
 #. Key: HUDWindow_Groups_Entry.8-638324680265319145
 msgctxt "HUDWindow_Groups_Entry.8-638324680265319145"
 msgid "Click to change"
-msgstr ""
+msgstr "클릭해서 변경"
 
 #. Key: HUDWindow_Groups_Entry.9-638324680265319145
 #. Args:
 #. - Format.Sprite("Delete")
 msgctxt "HUDWindow_Groups_Entry.9-638324680265319145"
 msgid "{0}Remove"
-msgstr ""
+msgstr "{0}삭제"
 
 #. Key: HUDWindow_Groups_Entry.10-638324680265319145
 msgctxt "HUDWindow_Groups_Entry.10-638324680265319145"
 msgid "Confirm"
-msgstr ""
+msgstr "확인"
 
 #. Key: HUDWindow_Groups_Entry.11-638324680265319145
 msgctxt "HUDWindow_Groups_Entry.11-638324680265319145"
 msgid "Delete group?"
-msgstr ""
+msgstr "그룹을 삭제하시겠습니까?"
 
 #. Key: HUDWindow_Groups_Entry.12-638324680265319145
 msgctxt "HUDWindow_Groups_Entry.12-638324680265319145"
 msgid "Rules"
-msgstr ""
+msgstr "규칙"
 
 #. Key: HUDWindow_Groups_Entry.13-638324680265319145
 msgctxt "HUDWindow_Groups_Entry.13-638324680265319145"
 msgid "Members"
-msgstr ""
+msgstr "구성원"
 
 #. Key: HUDWindow_Groups_Entry.14-638324680265319145
 msgctxt "HUDWindow_Groups_Entry.14-638324680265319145"
 msgid "Add Rule"
-msgstr ""
+msgstr "규칙 추가"
 
 #. Key: HUDWindow_Log.0-638066078344889005
 msgctxt "HUDWindow_Log.0-638066078344889005"
 msgid "Log"
-msgstr ""
+msgstr "로그"
 
 #. Key: HUDWindow_Log.1-638066078344889005
 msgctxt "HUDWindow_Log.1-638066078344889005"
 msgid "View Game Log"
-msgstr ""
+msgstr "게임 로그 보기"
 
 #. Key: HUDWindow_Log.0-638324680265319145
 msgctxt "HUDWindow_Log.0-638324680265319145"
 msgid "General"
-msgstr ""
+msgstr "일반"
 
 #. Key: HUDWindow_Log_Item.0-638168256247029883
 #. Args:
@@ -10695,147 +10813,147 @@ msgstr ""
 #. - TimeUtils.GetTimeStringFromSimTime(entry.Time)
 msgctxt "HUDWindow_Log_Item.0-638168256247029883"
 msgid "Day {0} - {1}"
-msgstr ""
+msgstr "{0}일째 - {1}"
 
 #. Key: HUDWindow_Log_Panel.0-638324680265332346
 msgctxt "HUDWindow_Log_Panel.0-638324680265332346"
 msgid "SEARCH"
-msgstr ""
+msgstr "검색"
 
 #. Key: HUDWindow_SchedulesNew.0-638018701494529608
 msgctxt "HUDWindow_SchedulesNew.0-638018701494529608"
 msgid "Schedule"
-msgstr ""
+msgstr "스케줄"
 
 #. Key: HUDWindow_SchedulesNew.1-638018701494539598
 msgctxt "HUDWindow_SchedulesNew.1-638018701494539598"
 msgid "Set class schedules."
-msgstr ""
+msgstr "수업 스케줄을 설정하세요."
 
 #. Key: HUDWindow_Schedules.0-638324680265342689
 msgctxt "HUDWindow_Schedules.0-638324680265342689"
 msgid "Schedules"
-msgstr ""
+msgstr "스케줄"
 
 #. Key: HUDWindow_Schedules.1-638324680265342689
 msgctxt "HUDWindow_Schedules.1-638324680265342689"
 msgid "Add Custom Schedule"
-msgstr ""
+msgstr "사용자 스케줄 추가"
 
 #. Key: HUDWindow_Schedules.0-638156892160228191
 msgctxt "HUDWindow_Schedules.0-638156892160228191"
 msgid "Add a new schedule and customize it for specific characters."
-msgstr ""
+msgstr "캐릭터들을 위한 스케줄을 추가하고 변경할 수 있습니다."
 
 #. Key: HUDWindow_Schedules.0-638186431640854445
 msgctxt "HUDWindow_Schedules.0-638186431640854445"
 msgid "Choose a category below to assign it to hourly timeslots."
-msgstr ""
+msgstr "아래 카테고리를 선택하고 스케줄 시간 슬롯을 클릭하면 스케줄을 지정할 수 있습니다."
 
 #. Key: HUDWindow_SchedulesToggleButton.0-638156892160238185
 msgctxt "HUDWindow_SchedulesToggleButton.0-638156892160238185"
 msgid "Sleep"
-msgstr ""
+msgstr "수면"
 
 #. Key: HUDWindow_SchedulesToggleButton.1-638156892160238185
 msgctxt "HUDWindow_SchedulesToggleButton.1-638156892160238185"
 msgid "Select to assign <slink=JobType_Sleep> times."
-msgstr ""
+msgstr "<slink=JobType_Sleep> 시간을 지정하세요."
 
 #. Key: HUDWindow_SchedulesToggleButton.2-638156892160238185
 msgctxt "HUDWindow_SchedulesToggleButton.2-638156892160238185"
 msgid "Eat"
-msgstr ""
+msgstr "식사"
 
 #. Key: HUDWindow_SchedulesToggleButton.3-638156892160238185
 msgctxt "HUDWindow_SchedulesToggleButton.3-638156892160238185"
 msgid "Select to assign <slink=JobType_Eat> times."
-msgstr ""
+msgstr "<slink=JobType_Eat> 시간을 지정하세요."
 
 #. Key: HUDWindow_SchedulesToggleButton.4-638156892160238185
 msgctxt "HUDWindow_SchedulesToggleButton.4-638156892160238185"
 msgid "Recreation"
-msgstr ""
+msgstr "휴식"
 
 #. Key: HUDWindow_SchedulesToggleButton.5-638156892160238185
 msgctxt "HUDWindow_SchedulesToggleButton.5-638156892160238185"
 msgid "Select to assign <slink=JobType_Recreation> times."
-msgstr ""
+msgstr "<slink=JobType_Recreation> 시간을 지정하세요."
 
 #. Key: HUDWindow_SchedulesToggleButton.6-638156892160238185
 msgctxt "HUDWindow_SchedulesToggleButton.6-638156892160238185"
 msgid "Tasks"
-msgstr ""
+msgstr "작업"
 
 #. Key: HUDWindow_SchedulesToggleButton.7-638156892160238185
 msgctxt "HUDWindow_SchedulesToggleButton.7-638156892160238185"
 msgid "Select to assign times for <slink=Tasks>. Mages will work on Tasks accoring to their priorities."
-msgstr ""
+msgstr "<slink=Tasks> 시간을 지정하세요. 마법사들은 우선 순위에 따라 작업을 진행합니다."
 
 #. Key: HUDWindow_SchedulesToggleButton.0-638324680265357738
 msgctxt "HUDWindow_SchedulesToggleButton.0-638324680265357738"
 msgid "Class"
-msgstr ""
+msgstr "수업"
 
 #. Key: HUDWindow_SchedulesToggleButton.8-638156892160238185
 msgctxt "HUDWindow_SchedulesToggleButton.8-638156892160238185"
 msgid "Select to assign times for Class. Students and Staff will attend classes according to permissions, Skills, and available slots."
-msgstr ""
+msgstr "수업 시간을 지정하세요. 학생들과 교사들은 접근 권한, 스킬, 사용 가능한 교실 여부에 따라 수업을 진행할 것입니다."
 
 #. Key: HUDWindow_Schedules_Entry.0-638324680265367969
 msgctxt "HUDWindow_Schedules_Entry.0-638324680265367969"
 msgid "Schedule Name"
-msgstr ""
+msgstr "스케줄 이름"
 
 #. Key: HUDWindow_Schedules_Entry.0-638186431640979171
 msgctxt "HUDWindow_Schedules_Entry.0-638186431640979171"
 msgid "Delete custom schedule"
-msgstr ""
+msgstr "사용자 스케줄 삭제"
 
 #. Key: HUDWindow_Schedules_Entry.1-638324680265367969
 msgctxt "HUDWindow_Schedules_Entry.1-638324680265367969"
 msgid "Confirm"
-msgstr ""
+msgstr "확인"
 
 #. Key: HUDWindow_Schedules_Entry.2-638324680265367969
 msgctxt "HUDWindow_Schedules_Entry.2-638324680265367969"
 msgid "Delete schedule?"
-msgstr ""
+msgstr "스케줄을 삭제하시겠습니까?"
 
 #. Key: RibbonButtonWithText.0-638324680265414081
 msgctxt "RibbonButtonWithText.0-638324680265414081"
 msgid "NEW"
-msgstr ""
+msgstr "신규"
 
 #. Key: SelectedEntityInfoWidget.0-638324680265424473
 msgctxt "SelectedEntityInfoWidget.0-638324680265424473"
 msgid " Staff"
-msgstr ""
+msgstr " 교사"
 
 #. Key: SelectedEntityInfoWidget.1-638324680265424473
 msgctxt "SelectedEntityInfoWidget.1-638324680265424473"
 msgid " Student"
-msgstr ""
+msgstr " 학생"
 
 #. Key: HUDToolPanel_Orders_Cancel.0-637913296786148834
 msgctxt "HUDToolPanel_Orders_Cancel.0-637913296786148834"
 msgid "Cancel"
-msgstr ""
+msgstr "취소"
 
 #. Key: HUDToolPanel_Orders_Cancel.1-637913296786158826
 msgctxt "HUDToolPanel_Orders_Cancel.1-637913296786158826"
 msgid "Cancel Tasks"
-msgstr ""
+msgstr "작업 취소"
 
 #. Key: HUDToolPanel_Orders_Cancel.0-638206939490295145
 msgctxt "HUDToolPanel_Orders_Cancel.0-638206939490295145"
 msgid "Cancel Tool"
-msgstr ""
+msgstr "툴 취소"
 
 #. Key: HUDToolPanel_Orders_Cancel.0-638404054174402460
 msgctxt "HUDToolPanel_Orders_Cancel.0-638404054174402460"
 msgid "Mark for cancel in bulk."
-msgstr ""
+msgstr "여러 작업을 동시에 취소합니다."
 
 #. Key: HUDToolPanel_Orders_Cancel.1-638404054174402460
 msgctxt "HUDToolPanel_Orders_Cancel.1-638404054174402460"
@@ -10844,121 +10962,124 @@ msgid ""
 "Right-Click: Back\n"
 "Hold Ctrl: Global Cancel Mode"
 msgstr ""
+"왼쪽 클릭: 작업 취소\n"
+"오른쪽 클릭: 돌아가기\n"
+"Ctrl 누르기: 전체 취소 모드"
 
 #. Key: HUDToolPanel_Orders_Deconstruct.0-637913973990974696
 msgctxt "HUDToolPanel_Orders_Deconstruct.0-637913973990974696"
 msgid "Demolish"
-msgstr ""
+msgstr "철거"
 
 #. Key: HUDToolPanel_Orders_Deconstruct.1-637913973990974696
 msgctxt "HUDToolPanel_Orders_Deconstruct.1-637913973990974696"
 msgid "Remove construction blocks to reclaim reagents."
-msgstr ""
+msgstr "건설 블록을 제거하고 재료를 회수합니다."
 
 #. Key: HUDToolPanel_Orders_Deconstruct.0-638182796312185185
 msgctxt "HUDToolPanel_Orders_Deconstruct.0-638182796312185185"
 msgid "Demolish Tool"
-msgstr ""
+msgstr "철거 툴"
 
 #. Key: HUDToolPanel_Orders_Deconstruct.0-638308888247926832
 msgctxt "HUDToolPanel_Orders_Deconstruct.0-638308888247926832"
 msgid "Mark for demolish in a batch. Reclaims all reagents."
-msgstr ""
+msgstr "여러 블록을 동시에 철거 지정합니다. 철거된 블록 건설에 사용된 모든 재료는 회수됩니다."
 
 #. Key: HUDToolPanel_Orders_Deconstruct.1-638308888247926832
 msgctxt "HUDToolPanel_Orders_Deconstruct.1-638308888247926832"
 msgid "Filter"
-msgstr ""
+msgstr "필터"
 
 #. Key: HUDToolPanel_Orders_Deconstruct.0-638365180183367517
 msgctxt "HUDToolPanel_Orders_Deconstruct.0-638365180183367517"
 msgid "Stairs & Ladders"
-msgstr ""
+msgstr "계단&사다리"
 
 #. Key: HUDToolPanel_Orders_Deconstruct.1-638365180183367517
 msgctxt "HUDToolPanel_Orders_Deconstruct.1-638365180183367517"
 msgid "Supports & Columns"
-msgstr ""
+msgstr "지지대 & 기둥"
 
 #. Key: HUDToolPanel_Orders_Deconstruct.1-638182796312185185
 msgctxt "HUDToolPanel_Orders_Deconstruct.1-638182796312185185"
 msgid "Walls"
-msgstr ""
+msgstr "벽"
 
 #. Key: HUDToolPanel_Orders_Deconstruct.2-638182796312185185
 msgctxt "HUDToolPanel_Orders_Deconstruct.2-638182796312185185"
 msgid "Floors"
-msgstr ""
+msgstr "바닥"
 
 #. Key: HUDToolPanel_Orders_Deconstruct.3-638182796312185185
 msgctxt "HUDToolPanel_Orders_Deconstruct.3-638182796312185185"
 msgid "Roofs"
-msgstr ""
+msgstr "지붕"
 
 #. Key: HUDToolPanel_Orders_Deconstruct.4-638182796312185185
 msgctxt "HUDToolPanel_Orders_Deconstruct.4-638182796312185185"
 msgid "Ceilings"
-msgstr ""
+msgstr "천장"
 
 #. Key: HUDToolPanel_Orders_Deconstruct.5-638182796312185185
 msgctxt "HUDToolPanel_Orders_Deconstruct.5-638182796312185185"
 msgid "Ladders"
-msgstr ""
+msgstr "사다리"
 
 #. Key: HUDToolPanel_Orders_Deconstruct.6-638182796312185185
 msgctxt "HUDToolPanel_Orders_Deconstruct.6-638182796312185185"
 msgid "Supports"
-msgstr ""
+msgstr "지지대"
 
 #. Key: HUDToolPanel_Orders_Deconstruct.7-638182796312185185
 msgctxt "HUDToolPanel_Orders_Deconstruct.7-638182796312185185"
 msgid "Foundations"
-msgstr ""
+msgstr "토대"
 
 #. Key: HUDToolPanel_Orders_Deconstruct.8-638182796312185185
 msgctxt "HUDToolPanel_Orders_Deconstruct.8-638182796312185185"
 msgid "Elevators"
-msgstr ""
+msgstr "엘리베이터"
 
 #. Key: HUDToolPanel_Orders_Deconstruct.9-638182796312185185
 msgctxt "HUDToolPanel_Orders_Deconstruct.9-638182796312185185"
 msgid "Doors"
-msgstr ""
+msgstr "문"
 
 #. Key: HUDToolPanel_Orders_Deconstruct.10-638182796312185185
 msgctxt "HUDToolPanel_Orders_Deconstruct.10-638182796312185185"
 msgid "Stairs"
-msgstr ""
+msgstr "계단"
 
 #. Key: HUDToolPanel_Orders_Deconstruct.11-638182796312185185
 msgctxt "HUDToolPanel_Orders_Deconstruct.11-638182796312185185"
 msgid "Columns"
-msgstr ""
+msgstr "기둥"
 
 #. Key: HUDToolPanel_Orders_Deconstruct.12-638182796312185185
 msgctxt "HUDToolPanel_Orders_Deconstruct.12-638182796312185185"
 msgid "Double Columns"
-msgstr ""
+msgstr "이중기둥"
 
 #. Key: HUDToolPanel_Orders_Deconstruct.13-638182796312185185
 msgctxt "HUDToolPanel_Orders_Deconstruct.13-638182796312185185"
 msgid "Spiral Stairs"
-msgstr ""
+msgstr "나선계단"
 
 #. Key: HUDToolPanel_Orders_Deconstruct.14-638182796312185185
 msgctxt "HUDToolPanel_Orders_Deconstruct.14-638182796312185185"
 msgid "Furniture"
-msgstr ""
+msgstr "가구"
 
 #. Key: HUDToolPanel_Orders_Deconstruct.15-638182796312185185
 msgctxt "HUDToolPanel_Orders_Deconstruct.15-638182796312185185"
 msgid "All"
-msgstr ""
+msgstr "전체"
 
 #. Key: HUDToolPanel_Orders_Deconstruct.2-638365180183367517
 msgctxt "HUDToolPanel_Orders_Deconstruct.2-638365180183367517"
 msgid "UNKNOWN"
-msgstr ""
+msgstr "알 수 없음"
 
 #. Key: HUDToolPanel_Orders_Deconstruct.2-638308888247926832
 msgctxt "HUDToolPanel_Orders_Deconstruct.2-638308888247926832"
@@ -10967,61 +11088,64 @@ msgid ""
 "Right-Click: Back\n"
 "Hold Ctrl: Cancel Mode"
 msgstr ""
+"왼쪽 클릭: 철거 지정\n"
+"오른쪽 클릭: 돌아가기\n"
+"Ctrl 누르기: 취소 모드"
 
 #. Key: HUDToolPanel_Orders_Gather.0-638206939490440125
 msgctxt "HUDToolPanel_Orders_Gather.0-638206939490440125"
 msgid "Gather"
-msgstr ""
+msgstr "수집"
 
 #. Key: HUDToolPanel_Orders_Gather.1-637913284774964708
 msgctxt "HUDToolPanel_Orders_Gather.1-637913284774964708"
 msgid "Mark resources for gather."
-msgstr ""
+msgstr "자원을 수집하도록 지정합니다."
 
 #. Key: HUDToolPanel_Orders_Gather.0-638182796312195180
 msgctxt "HUDToolPanel_Orders_Gather.0-638182796312195180"
 msgid "Gather Tool"
-msgstr ""
+msgstr "수집 툴"
 
 #. Key: HUDToolPanel_Orders_Gather.1-638182796312195180
 msgctxt "HUDToolPanel_Orders_Gather.1-638182796312195180"
 msgid "Any"
-msgstr ""
+msgstr "전체"
 
 #. Key: HUDToolPanel_Orders_Gather.2-638182796312195180
 msgctxt "HUDToolPanel_Orders_Gather.2-638182796312195180"
 msgid "Mine"
-msgstr ""
+msgstr "채굴"
 
 #. Key: HUDToolPanel_Orders_Gather.3-638182796312195180
 msgctxt "HUDToolPanel_Orders_Gather.3-638182796312195180"
 msgid "Chop"
-msgstr ""
+msgstr "벌목"
 
 #. Key: HUDToolPanel_Orders_Gather.4-638182796312195180
 msgctxt "HUDToolPanel_Orders_Gather.4-638182796312195180"
 msgid "Harvest"
-msgstr ""
+msgstr "수확"
 
 #. Key: HUDToolPanel_Orders_Gather.5-638182796312195180
 msgctxt "HUDToolPanel_Orders_Gather.5-638182796312195180"
 msgid "Hunt"
-msgstr ""
+msgstr "사냥"
 
 #. Key: HUDToolPanel_Orders_Priority.0-637913965328545929
 msgctxt "HUDToolPanel_Orders_Priority.0-637913965328545929"
 msgid "Task Pri"
-msgstr ""
+msgstr "작업 우선순위"
 
 #. Key: HUDToolPanel_Orders_Priority.0-637913283030850884
 msgctxt "HUDToolPanel_Orders_Priority.0-637913283030850884"
 msgid "Set Task Priority for specific items."
-msgstr ""
+msgstr "개별 아이템의 작업 우선순위를 지정합니다."
 
 #. Key: HUDToolPanel_Orders_Priority.0-638182796312205559
 msgctxt "HUDToolPanel_Orders_Priority.0-638182796312205559"
 msgid "Task Priority"
-msgstr ""
+msgstr "작업 우선순위"
 
 #. Key: HUDToolPanel_Orders_Priority.0-638404054174442590
 msgctxt "HUDToolPanel_Orders_Priority.0-638404054174442590"
@@ -11030,85 +11154,88 @@ msgid ""
 "\n"
 "<align=center>X = Never, 1 = Low, 5 = High</align>"
 msgstr ""
+"같은 <slink=TaskType> 우선 순위를 지닌 다른 작업에 대해 개별 <slink=Tasks> 우선 순위를 지정합니다.\n"
+"\n"
+"<align=center>X = 금지, 1 = 낮음, 5 = 높음</align>"
 
 #. Key: RitualAvailableEntry.0-638343560426441659
 msgctxt "RitualAvailableEntry.0-638343560426441659"
 msgid "Unconscious"
-msgstr ""
+msgstr "기절"
 
 #. Key: RitualAvailableEntry.1-638343560426441659
 msgctxt "RitualAvailableEntry.1-638343560426441659"
 msgid "Breaking"
-msgstr ""
+msgstr "정신착란"
 
 #. Key: RitualAvailableEntry.0-638373896638684530
 msgctxt "RitualAvailableEntry.0-638373896638684530"
 msgid "Cursebound"
-msgstr ""
+msgstr "저주받음"
 
 #. Key: RitualAvailableEntry.2-638343560426441659
 msgctxt "RitualAvailableEntry.2-638343560426441659"
 msgid "On Underschool Run"
-msgstr ""
+msgstr "지하세계 탐험 중"
 
 #. Key: RitualAvailableEntry.0-638346121957584121
 #. Args:
 #. - ritualStr
 msgctxt "RitualAvailableEntry.0-638346121957584121"
 msgid "In Ritual ({0})"
-msgstr ""
+msgstr "의식 치르는 중 ({0})"
 
 #. Key: RitualAvailableEntry.3-638343560426441659
 msgctxt "RitualAvailableEntry.3-638343560426441659"
 msgid "In Ritual"
-msgstr ""
+msgstr "의식 치르는 중"
 
 #. Key: RitualAvailableEntry.4-638343560426441659
 msgctxt "RitualAvailableEntry.4-638343560426441659"
 msgid "No Path"
-msgstr ""
+msgstr "의식 장소로 갈 수 없음"
 
 #. Key: RitualIngredients.0-638297022191271576
 msgctxt "RitualIngredients.0-638297022191271576"
 msgid "Ingredients"
-msgstr ""
+msgstr "재료"
 
 #. Key: RitualResourcesRevealed.0-638379728726905639
 msgctxt "RitualResourcesRevealed.0-638379728726905639"
 msgid "Possibly Revealed"
-msgstr ""
+msgstr "접근 가능할지도 모름"
 
 #. Key: RitualRewards.0-638296808844246323
 msgctxt "RitualRewards.0-638296808844246323"
 msgid "Effects"
-msgstr ""
+msgstr "효과"
 
 #. Key: RitualsWindow.0-638331491640705052
 msgctxt "RitualsWindow.0-638331491640705052"
 msgid "Party Selection"
-msgstr ""
+msgstr "파티 선택"
 
 #. Key: RitualsWindow.0-638357407852203588
 msgctxt "RitualsWindow.0-638357407852203588"
 msgid "Fill Mana Before Battle"
-msgstr ""
+msgstr "전투 시작 전에 마나를 최대로 충전"
 
 #. Key: RitualsWindow.0-638266729428643086
 msgctxt "RitualsWindow.0-638266729428643086"
 msgid "Begin Battle"
-msgstr ""
+msgstr "전투 시작"
 
 #. Key: RitualsWindow.1-638266729428643086
 msgctxt "RitualsWindow.1-638266729428643086"
 msgid "Begin Ritual"
-msgstr ""
+msgstr "의식 시작"
 
 #. Key: RitualsWindow.1-638331491640705052
 #. Args:
 #. - TimeUtils.GetFriendlyStringFromSimMinutes(_ritualSite.GetRitualWorkAmount())
 msgctxt "RitualsWindow.1-638331491640705052"
 msgid "Ritual Time: {0}"
-msgstr ""
+msgstr "의식 진행 시간: {0}"
 
 #. Key: RitualsWindow.0-638330671629113871
 #. Args:
@@ -11116,24 +11243,24 @@ msgstr ""
 #. - b.Name
 msgctxt "RitualsWindow.0-638330671629113871"
 msgid "Add {0} more {1}"
-msgstr ""
+msgstr "{1}(이)가 {0} 더 필요함"
 
 #. Key: RitualsWindow.1-638330671629123954
 msgctxt "RitualsWindow.1-638330671629123954"
 msgid "Missing ingredients"
-msgstr ""
+msgstr "재료 부족"
 
 #. Key: RitualsWindow.2-638330671629123954
 msgctxt "RitualsWindow.2-638330671629123954"
 msgid "Must select a wand"
-msgstr ""
+msgstr "지팡이 선택 필요"
 
 #. Key: RitualsWindow.0-638297163490372863
 #. Args:
 #. - _ritualWandSelect.WandSpecifier.DisplayName
 msgctxt "RitualsWindow.0-638297163490372863"
 msgid "No {0} Available"
-msgstr ""
+msgstr "{0} 부족"
 
 #. Key: RitualsWindow.3-638330671629123954
 #. Args:
@@ -11143,6 +11270,8 @@ msgid ""
 "\n"
 "Not enough space near {0} for all ritual participants to stand."
 msgstr ""
+"\n"
+"{0} 옆에 의식 참석자들이 설 자리가 부족합니다."
 
 #. Key: RitualsWindow.0-638288946223495401
 #. Args:
@@ -11150,7 +11279,7 @@ msgstr ""
 #. - _ritualSite.Config.RoomTypeRequirements[0].GetDefinition().DisplayName
 msgctxt "RitualsWindow.0-638288946223495401"
 msgid "{0} must be in {1}."
-msgstr ""
+msgstr "{0}(은)는 {1}에 있어야 합니다."
 
 #. Key: RitualsWindow.0-638297049895090200
 #. Args:
@@ -11159,7 +11288,7 @@ msgstr ""
 #. - _ritualSite.Config.RoomTypeRequirements[1].GetDefinition().DisplayName
 msgctxt "RitualsWindow.0-638297049895090200"
 msgid "{0} must be in {1} or {2}."
-msgstr ""
+msgstr "{0}(은)는 {1} 또는 {2}에 있어야 합니다."
 
 #. Key: RitualsWindow.0-638297655927221556
 #. Args:
@@ -11169,29 +11298,29 @@ msgstr ""
 #. - _ritualSite.Config.RoomTypeRequirements[2].GetDefinition().DisplayName
 msgctxt "RitualsWindow.0-638297655927221556"
 msgid "{0} must be in {1}, {2}, or {3}."
-msgstr ""
+msgstr "{0}(은)는 {1}, {2} 또는 {3}에 있어야 합니다."
 
 #. Key: RitualsWindow.1-638297049895090200
 #. Args:
 #. - EntityUtils.GetDisplayName(_ritualSite.Entity)
 msgctxt "RitualsWindow.1-638297049895090200"
 msgid "{0} must be in the proper room."
-msgstr ""
+msgstr "{0}(은)는 적절한 방에 있어야 합니다."
 
 #. Key: RitualsWindow.0-638327089231298094
 msgctxt "RitualsWindow.0-638327089231298094"
 msgid "Must not be broken."
-msgstr ""
+msgstr "파괴되지 않은 상태여야 합니다."
 
 #. Key: BattlePrep_PartySelect_Potions.1-638155327346073139
 msgctxt "BattlePrep_PartySelect_Potions.1-638155327346073139"
 msgid "No Potions available."
-msgstr ""
+msgstr "물약이 부족합니다."
 
 #. Key: RitualsWindowPotionSelect.0-638379728727056208
 msgctxt "RitualsWindowPotionSelect.0-638379728727056208"
 msgid "Unavailable Potions"
-msgstr ""
+msgstr "물약 부족"
 
 #. Key: RitualsWindowPotionSelect.0-638331491640715056
 #. Args:
@@ -11199,69 +11328,69 @@ msgstr ""
 #. - cacheCapacity
 msgctxt "RitualsWindowPotionSelect.0-638331491640715056"
 msgid "Bring Supplies {0} / {1}"
-msgstr ""
+msgstr "재료 가져오는 중 {0} / {1}"
 
 #. Key: RitualWandPicker.0-638297677623257846
 msgctxt "RitualWandPicker.0-638297677623257846"
 msgid "No Wands in Inventory - Craft at the Wand Shaper"
-msgstr ""
+msgstr "지팡이 없음 - 지팡이 제작대에서 제작 필요"
 
 #. Key: RitualWandSelect.0-638359255638849793
 msgctxt "RitualWandSelect.0-638359255638849793"
 msgid "Wand Selection"
-msgstr ""
+msgstr "지팡이 선택"
 
 #. Key: RitualWandSelect.0-638297163490417915
 msgctxt "RitualWandSelect.0-638297163490417915"
 msgid "Click to Change"
-msgstr ""
+msgstr "클릭해서 변경"
 
 #. Key: RitualWandSelect.1-638297163490417915
 msgctxt "RitualWandSelect.1-638297163490417915"
 msgid "Click To Select"
-msgstr ""
+msgstr "클릭해서 선택"
 
 #. Key: ActionButtonWidget.0-638416139810522348
 msgctxt "ActionButtonWidget.0-638416139810522348"
 msgid "Cancel"
-msgstr ""
+msgstr "취소"
 
 #. Key: HUDPanel_SelectedEntity.0-637909916635936857
 msgctxt "HUDPanel_SelectedEntity.0-637909916635936857"
 msgid "Select"
-msgstr ""
+msgstr "선택"
 
 #. Key: HUDPanel_SelectedEntity.0-637909990229582770
 msgctxt "HUDPanel_SelectedEntity.0-637909990229582770"
 msgid "Show selected"
-msgstr ""
+msgstr "선택 보기"
 
 #. Key: HUDPanel_SelectedEntity.0-638324680265261390
 #. Args:
 #. - Format.HotkeyStyle(combo)
 msgctxt "HUDPanel_SelectedEntity.0-638324680265261390"
 msgid "   (Cycle Tabs {0})"
-msgstr ""
+msgstr "   (탭 순환 {0})"
 
 #. Key: HUDPanel_SelectedEntity_CaptionArea.0-638324680265272673
 msgctxt "HUDPanel_SelectedEntity_CaptionArea.0-638324680265272673"
 msgid "Rename"
-msgstr ""
+msgstr "이름 변경"
 
 #. Key: HUDPanel_SelectedEntity_CaptionArea.1-638324680265272673
 msgctxt "HUDPanel_SelectedEntity_CaptionArea.1-638324680265272673"
 msgid "Rename This Mage"
-msgstr ""
+msgstr "마법사 이름 변경"
 
 #. Key: HUDPanel_SelectedEntity_CaptionArea.2-638324680265272673
 msgctxt "HUDPanel_SelectedEntity_CaptionArea.2-638324680265272673"
 msgid "Accept"
-msgstr ""
+msgstr "확인"
 
 #. Key: HUDPanel_SelectedEntity_CaptionArea.3-638324680265272673
 msgctxt "HUDPanel_SelectedEntity_CaptionArea.3-638324680265272673"
 msgid "Cancel"
-msgstr ""
+msgstr "취소"
 
 #. Key: HUDPanel_SelectedEntity_CaptionArea_Multi.0-638421278417817243
 #. Args:
@@ -11272,143 +11401,145 @@ msgid ""
 "{0} <indent=160px>Select category or type</indent>\n"
 "{1} + Ctrl <indent=160px>Remove category or type</indent>"
 msgstr ""
+"{0} <indent=160px>카테고리나 타입 선택</indent>\n"
+"{1} + Ctrl <indent=160px>카테고리나 타입 제거</indent>"
 
 #. Key: HUDPanel_SelectedEntity_CaptionArea_Multi.0-638415221471261716
 #. Args:
 #. - entities.Count
 msgctxt "HUDPanel_SelectedEntity_CaptionArea_Multi.0-638415221471261716"
 msgid "{0} Selected"
-msgstr ""
+msgstr "{0} 선택"
 
 #. Key: HUDWindow_Consumables.0-637913965328385929
 msgctxt "HUDWindow_Consumables.0-637913965328385929"
 msgid "Consume"
-msgstr ""
+msgstr "섭취"
 
 #. Key: HUDWindow_Consumables.0-637905515052161993
 msgctxt "HUDWindow_Consumables.0-637905515052161993"
 msgid "Manage Meals and Consumables"
-msgstr ""
+msgstr "식사 및 사용 아이템 관리"
 
 #. Key: HUDWindow_Consumables.0-638324680265875836
 msgctxt "HUDWindow_Consumables.0-638324680265875836"
 msgid "Consumables"
-msgstr ""
+msgstr "사용 아이템"
 
 #. Key: HUDWindow_Consumables_Meals.0-638324680265885910
 msgctxt "HUDWindow_Consumables_Meals.0-638324680265885910"
 msgid "Group"
-msgstr ""
+msgstr "그룹"
 
 #. Key: HUDWindow_Consumables_Meals.1-638324680265885910
 msgctxt "HUDWindow_Consumables_Meals.1-638324680265885910"
 msgid "Allowed Meals"
-msgstr ""
+msgstr "음식"
 
 #. Key: HUDWindow_Consumables_Meals.2-638324680265885910
 msgctxt "HUDWindow_Consumables_Meals.2-638324680265885910"
 msgid "Meal Controls"
-msgstr ""
+msgstr "음식 허용"
 
 #. Key: HUDWindow_Consumables_Meals.3-638324680265885910
 msgctxt "HUDWindow_Consumables_Meals.3-638324680265885910"
 msgid "Add Restriction"
-msgstr ""
+msgstr "설정 추가"
 
 #. Key: MealRestrictionWidget.0-638324680265896212
 msgctxt "MealRestrictionWidget.0-638324680265896212"
 msgid "Meals"
-msgstr ""
+msgstr "음식"
 
 #. Key: MealRestrictionWidget.1-638324680265896212
 msgctxt "MealRestrictionWidget.1-638324680265896212"
 msgid "Allow All"
-msgstr ""
+msgstr "모두 허용"
 
 #. Key: MealRestrictionWidget.2-638324680265896212
 msgctxt "MealRestrictionWidget.2-638324680265896212"
 msgid "Allows All Meals"
-msgstr ""
+msgstr "모든 음식 허용"
 
 #. Key: MealRestrictionWidget.3-638324680265896212
 msgctxt "MealRestrictionWidget.3-638324680265896212"
 msgid "Clear All"
-msgstr ""
+msgstr "모두 금지"
 
 #. Key: MealRestrictionWidget.4-638324680265896212
 msgctxt "MealRestrictionWidget.4-638324680265896212"
 msgid "Disallows All Meals"
-msgstr ""
+msgstr "모든 음식 금지"
 
 #. Key: MealRestrictionWidget.5-638324680265896212
 msgctxt "MealRestrictionWidget.5-638324680265896212"
 msgid "Copy Allowed Meals"
-msgstr ""
+msgstr "음식 설정 복사"
 
 #. Key: MealRestrictionWidget.6-638324680265896212
 msgctxt "MealRestrictionWidget.6-638324680265896212"
 msgid "Paste Allowed Meals"
-msgstr ""
+msgstr "음식 설정 붙여넣기"
 
 #. Key: MealRestrictionWidget.7-638324680265896212
 msgctxt "MealRestrictionWidget.7-638324680265896212"
 msgid "Delete Restriction"
-msgstr ""
+msgstr "설정 제거"
 
 #. Key: HUDWindow_StaffPriorities.0-637910697317107076
 msgctxt "HUDWindow_StaffPriorities.0-637910697317107076"
 msgid "Priority"
-msgstr ""
+msgstr "우선순위"
 
 #. Key: HUDWindow_StaffPriorities.0-637913307234342114
 msgctxt "HUDWindow_StaffPriorities.0-637913307234342114"
 msgid "Set Task Type priorities for Mages, Ghosts, and Helpers."
-msgstr ""
+msgstr "마법사, 유령, 누더기들에게 작업 우선순위를 설정합니다."
 
 #. Key: HUDWindow_JobPriorities.0-638324680265906824
 msgctxt "HUDWindow_JobPriorities.0-638324680265906824"
 msgid "Task Type Priority"
-msgstr ""
+msgstr "작업 우선순위"
 
 #. Key: HUDWindow_JobPriorities.1-638324680265906824
 msgctxt "HUDWindow_JobPriorities.1-638324680265906824"
 msgid "Higher Pri"
-msgstr ""
+msgstr "높음"
 
 #. Key: HUDWindow_JobPriorities.2-638324680265906824
 msgctxt "HUDWindow_JobPriorities.2-638324680265906824"
 msgid "Lower Pri"
-msgstr ""
+msgstr "낮음"
 
 #. Key: HUDWindow_JobPriorities_HeaderEntry.0-638324680265921871
 msgctxt "HUDWindow_JobPriorities_HeaderEntry.0-638324680265921871"
 msgid "Set priority for all."
-msgstr ""
+msgstr "전체 우선순위를 변경합니다."
 
 #. Key: HUDWindow_JobPriorities_HeaderEntry.1-638324680265921871
 msgctxt "HUDWindow_JobPriorities_HeaderEntry.1-638324680265921871"
 msgid "Set All"
-msgstr ""
+msgstr "전체 변경"
 
 #. Key: PriorityEntryWidget.0-638324680265932028
 msgctxt "PriorityEntryWidget.0-638324680265932028"
 msgid "Not allowed to do this type of job."
-msgstr ""
+msgstr "이 작업을 할 수 없습니다."
 
 #. Key: PriorityEntryWidget.1-638324680265932028
 msgctxt "PriorityEntryWidget.1-638324680265932028"
 msgid "Does not have the proper Skill for this job."
-msgstr ""
+msgstr "이 작업에 필요한 스킬을 보유하고 있지 않습니다."
 
 #. Key: HUDWindow_Research.0-638324680265968547
 msgctxt "HUDWindow_Research.0-638324680265968547"
 msgid "Research"
-msgstr ""
+msgstr "연구"
 
 #. Key: HUDWindow_Research.1-638324680265968547
 msgctxt "HUDWindow_Research.1-638324680265968547"
 msgid "Select Research"
-msgstr ""
+msgstr "연구 선택"
 
 #. Key: HUDWindow_Research.2-638324680265968547
 msgctxt "HUDWindow_Research.2-638324680265968547"
@@ -11417,141 +11548,144 @@ msgid ""
 "\n"
 "Requires <slink=ResearchBench>"
 msgstr ""
+"연구 선택\n"
+"\n"
+"<slink=ResearchBench> 필요"
 
 #. Key: HUDWindow_Research.0-638306300620685681
 msgctxt "HUDWindow_Research.0-638306300620685681"
 msgid "FIND"
-msgstr ""
+msgstr "검색"
 
 #. Key: HUDWindow_Research.0-638336722418129596
 msgctxt "HUDWindow_Research.0-638336722418129596"
 msgid "Clear"
-msgstr ""
+msgstr "초기화"
 
 #. Key: HUDWindow_Research.1-638336722418129596
 msgctxt "HUDWindow_Research.1-638336722418129596"
 msgid "Next"
-msgstr ""
+msgstr "다음"
 
 #. Key: HUDWindow_Research.4-638324680265968547
 msgctxt "HUDWindow_Research.4-638324680265968547"
 msgid "None"
-msgstr ""
+msgstr "없음"
 
 #. Key: HUDWindow_Research.2-638336722418129596
 #. Args:
 #. - str
 msgctxt "HUDWindow_Research.2-638336722418129596"
 msgid "Researching: {0}"
-msgstr ""
+msgstr "연구 중: {0}"
 
 #. Key: ResearchEntryWidget.0-638332302855896336
 msgctxt "ResearchEntryWidget.0-638332302855896336"
 msgid "Completed"
-msgstr ""
+msgstr "완료"
 
 #. Key: ResearchEntryWidget.1-638306300620937848
 msgctxt "ResearchEntryWidget.1-638306300620937848"
 msgid "Completed"
-msgstr ""
+msgstr "완료"
 
 #. Key: ResearchEntryWidget.2-638306300620937848
 msgctxt "ResearchEntryWidget.2-638306300620937848"
 msgid "Pause Research"
-msgstr ""
+msgstr "연구 중지"
 
 #. Key: ResearchEntryWidget.3-638306300620937848
 msgctxt "ResearchEntryWidget.3-638306300620937848"
 msgid "Set Research"
-msgstr ""
+msgstr "연구 설정"
 
 #. Key: AutoRoofMainWidget.0-638336722418185876
 msgctxt "AutoRoofMainWidget.0-638336722418185876"
 msgid "Confirm"
-msgstr ""
+msgstr "확인"
 
 #. Key: AutoRoofWidget.0-638175857848065749
 msgctxt "AutoRoofWidget.0-638175857848065749"
 msgid "No Wonk"
-msgstr ""
+msgstr "반듯함"
 
 #. Key: AutoRoofWidget.1-638175857848075745
 msgctxt "AutoRoofWidget.1-638175857848075745"
 msgid "Max Wonk"
-msgstr ""
+msgstr "최대 구부러짐"
 
 #. Key: AutoRoofWidget.2-638175857848075745
 #. Args:
 #. - (wonkValue / 100f):P0
 msgctxt "AutoRoofWidget.2-638175857848075745"
 msgid "{0:P0} Wonk"
-msgstr ""
+msgstr "{0:P0} 구부러짐"
 
 #. Key: AutoRoofNodeWidget.0-638331491640925565
 msgctxt "AutoRoofNodeWidget.0-638331491640925565"
 msgid "Drag to adjust."
-msgstr ""
+msgstr "드래그해서 조정하세요."
 
 #. Key: AssembleFlatpackButtonProvider.0-638327234819551348
 msgctxt "AssembleFlatpackButtonProvider.0-638327234819551348"
 msgid "Cancel Enlarge"
-msgstr ""
+msgstr "확대 취소"
 
 #. Key: AssembleFlatpackButtonProvider.1-638327234819551348
 msgctxt "AssembleFlatpackButtonProvider.1-638327234819551348"
 msgid "Enlarge"
-msgstr ""
+msgstr "확대"
 
 #. Key: AssembleFlatpackButtonProvider.2-638327234819551348
 msgctxt "AssembleFlatpackButtonProvider.2-638327234819551348"
 msgid "Click to cancel."
-msgstr ""
+msgstr "취소하려면 클릭하세요."
 
 #. Key: AssembleFlatpackButtonProvider.3-638327234819551348
 #. Args:
 #. - Model.Format.Link(JobType.Haul, includeStyle:false)
 msgctxt "AssembleFlatpackButtonProvider.3-638327234819551348"
 msgid "Enlarge at a different location. Uses {0:false)}."
-msgstr ""
+msgstr "다른 곳에서 확대합니다. {0:false)}(을)를 사용합니다."
 
 #. Key: BlockingButtonProvider.0-638327234819596921
 msgctxt "BlockingButtonProvider.0-638327234819596921"
 msgid "Close"
-msgstr ""
+msgstr "닫기"
 
 #. Key: BlockingButtonProvider.1-638327234819596921
 msgctxt "BlockingButtonProvider.1-638327234819596921"
 msgid "Open"
-msgstr ""
+msgstr "열기"
 
 #. Key: BlockingButtonProvider.2-638327234819596921
 msgctxt "BlockingButtonProvider.2-638327234819596921"
 msgid "Click to close."
-msgstr ""
+msgstr "닫으려면 클릭하세요."
 
 #. Key: BlockingButtonProvider.3-638327234819596921
 msgctxt "BlockingButtonProvider.3-638327234819596921"
 msgid "Click to open."
-msgstr ""
+msgstr "열려면 클릭하세요."
 
 #. Key: BuildCopyButtonProvider.0-638327234819606918
 msgctxt "BuildCopyButtonProvider.0-638327234819606918"
 msgid "Build Copy"
-msgstr ""
+msgstr "복사 건설"
 
 #. Key: BuildCopyButtonProvider.0-638368649815337612
 #. Args:
 #. - Model.Format.Link(JobType.Construct, includeStyle: false)
 msgctxt "BuildCopyButtonProvider.0-638368649815337612"
 msgid "Build a copy of this somewhere else. Uses {0: false)}."
-msgstr ""
+msgstr "이 물체를 복사해서 다른 곳에 건설합니다. {0: false)}(을)를 사용합니다."
 
 #. Key: BuildCopyButtonProvider.0-638191561193062448
 #. Args:
 #. - Model.Format.Link(JobType.Assemble, includeStyle: false)
 msgctxt "BuildCopyButtonProvider.0-638191561193062448"
 msgid "Build a copy of this somewhere else. Uses {0: false)}."
-msgstr ""
+msgstr "이 물체를 복사해서 다른 곳에 건설합니다. {0: false)}(을)를 사용합니다."
 
 #. Key: BuildCopyWithSettingsButtonProvider.0-638385715195613717
 msgctxt "BuildCopyWithSettingsButtonProvider.0-638385715195613717"

@@ -9,29 +9,29 @@
 - Key: PersistentState.0-638404058666826584
   Text: See more <style="Hotkey">[Shift]</style>
 - Key: CodeConfigs.0-638122464101200596
-  Text: Spontaneously Combusting
+  Text: 분신
 - Key: CodeConfigs.1-638122464101210583
-  Text: Fixating
+  Text: 정신 나가기
 - Key: CodeConfigs.2-638122464101210583
-  Text: Rampage
+  Text: 폭주
 - Key: CodeConfigs.0-638145756968249445
-  Text: Feeding Frenzy
+  Text: 폭식
 - Key: CodeConfigs.3-638122464101210583
-  Text: Spiralling
+  Text: 떠돌기
 - Key: CodeConfigs.0-638357407840929287
-  Text: Cannot reach the fog to run away
+  Text: 안개 속으로 도망칠 수 없음
 - Key: Format.0-638334084158625375
-  Text: 'Nightmare: {0}'
+  Text: '악몽: {0}'
 - Key: Format.1-638334084158625375
-  Text: Damage Bonus
+  Text: 데미지 보너스
 - Key: Format.2-638334084158625375
-  Text: Dodge
+  Text: 회피
 - Key: Format.3-638334084158625375
-  Text: Speed
+  Text: 속도
 - Key: Format.4-638334084158625375
-  Text: Regenerate
+  Text: 체력 회복
 - Key: Format.5-638334084158625375
-  Text: Retaliate
+  Text: 마나 회복
 - Key: IngredientLookups.0-638416141622255213
   Text: Drops
 - Key: IngredientLookups.1-638416141622255213
@@ -39,383 +39,384 @@
 - Key: IngredientLookups.2-638416141622255213
   Text: Middens
 - Key: AbsorbManaBehavior.0-638404855926197012
-  Text: '{0} Mana Drained on way to Explore.'
+  Text: 탐색 중 {0}마나를 흡수당했습니다.
 - Key: AbsorbManaBehavior.1-638404855926197012
-  Text: Mana Drained walking to Explore.
+  Text: 탐색 중 마나를 흡수당했습니다.
 - Key: AbsorbManaBehavior.2-638404855926197012
-  Text: '{0} Mana Drained by {1} on way to Explore.'
+  Text: 탐색 중 {1}에 의해 {0}마나를 흡수당했습니다.
 - Key: AbsorbManaBehavior.3-638404855926197012
-  Text: '{0} Mana Drained'
+  Text: '{0}마나 흡수됨'
 - Key: AbsorbManaBehavior.4-638404855926197012
-  Text: Mana Drained
+  Text: 마나 흡수됨
 - Key: AbsorbManaBehavior.5-638404855926197012
-  Text: '{0} Mana Drained by {1}.'
+  Text: '{1}에 의해 {0}마나를 흡수당했습니다.'
 - Key: AdultifyBehavior.0-638359255627794138
-  Text: Graduate
+  Text: 졸업
 - Key: AlarmResponseBehavior.0-638359255627804154
-  Text: Responding to Alarm
+  Text: 알람 확인 중
 - Key: BedRestBehavior.0-638252900765198614
-  Text: On Medical Rest
+  Text: 체력 회복 중
 - Key: BedRestBehavior.0-638359255627839720
-  Text: '{0} finished bed rest.'
+  Text: '{0}의 체력 회복이 완료되었습니다.'
 - Key: BreakFixationBehavior.0-638309958571719864
-  Text: Fixating
+  Text: 멍하니 있는 중
 - Key: BreakPossessionBehavior.0-638309958571734878
-  Text: Rampaging
+  Text: 날뛰는 중
 - Key: BreakRunAwayBehavior.0-638357407841366608
-  Text: Running Away
+  Text: 도망치는 중
 - Key: BreakSpiralBehavior.0-638359255627849728
-  Text: Downward Spiral
+  Text: 내려가는 중
 - Key: BuildableBehavior.0-638359255627864754
-  Text: Building {0}
+  Text: '{0} 건설 중'
 - Key: ButlerBehavior.0-638359255627864754
-  Text: Buttling
+  Text: 돌보는 중
 - Key: CastRandomSpellsBehavior.0-638359255627879845
-  Text: Spell Fugue
+  Text: 아무 주문이나 시전하는 중
 - Key: CastSpellAtCharactersBehavior.0-638359255627889874
-  Text: Searching
+  Text: 대상 찾는 중
 - Key: CastSpellAtCharactersBehavior.1-638359255627889874
-  Text: Casting {0} at {1}
+  Text: '{1}에게 {0} 시전 중'
 - Key: CastSpellBehavior.0-638386013525983993
-  Text: Casting {0}
+  Text: '{0} 시전 중'
 - Key: CastSpellBehavior.0-638359255627925798
-  Text: '{0} cast {2} at {1}'
+  Text: '{0}(이)가 {2}(을)를 {1}에게 시전했습니다.'
 - Key: CastSpellBehavior.1-638359255627925798
-  Text: '{0} cast {1}'
+  Text: '{0}(이)가 {1}(을)를 시전했습니다.'
 - Key: CastSpellWhenEventEndsBehavior.0-638359255627945835
-  Text: Disappearing
+  Text: 사라지는 중
 - Key: CleanBehavior.0-638359255627945835
-  Text: Cleaning {0}
+  Text: '{0} 치우는 중'
 - Key: CroaSleepBehavior.0-638373896627976774
-  Text: Sleeping
+  Text: 자는 중
 - Key: DeathBehavior.0-638359255627965832
-  Text: '{0} expired.'
+  Text: '{0}(이)가 부서졌습니다.'
 - Key: DeathBehavior.1-638359255627965832
-  Text: '{0} expired at the end of its lifetime.'
+  Text: '{0}의 수명이 다 되어 부서졌습니다.'
 - Key: DeathBehavior.0-638359255627975831
-  Text: '{0} expired at the end of its lifetime.'
+  Text: '{0}의 수명이 다 되어 부서졌습니다.'
 - Key: DeconstructBehavior.0-638359255627975831
-  Text: Disintegrating {0}
+  Text: '{0} 분해 중'
 - Key: DeliveryBehavior.0-638359255627986255
-  Text: Delivering {0}
+  Text: '{0} 배달 중'
 - Key: DeliveryBehavior.1-638359255627986255
-  Text: Delivering
+  Text: 배달 중
 - Key: DeliveryBehavior.0-638359255627996283
-  Text: '{0} delivered {1}'
+  Text: '{0}(이)가 {1}(을)를 배달했습니다.'
 - Key: DestroyClutterBehavior.0-638359255628006285
-  Text: '{0} consumed {1}'
+  Text: '{0}(이)가 {1}(을)를 파괴했습니다.'
 - Key: DestroyFoodBehavior.0-637989215738608319
-  Text: Destroying {0}
+  Text: '{0} 파괴 중'
 - Key: DestroyFurnitureBehavior.0-637989215738708071
-  Text: Destroying {0}
+  Text: '{0} 파괴 중'
 - Key: DiningBehavior.0-638359255628026334
-  Text: Dining
+  Text: 식사 중
 - Key: DiningBehavior.0-638359261791911714
-  Text: '{0} ate {1}'
+  Text: '{0}(이)가 {1}(을)를 먹었습니다.'
 - Key: DisappearIntoDungeonBehavior.0-638359255628026334
-  Text: '{0} disappeared into the dungeon.'
+  Text: '{0}(이)가 던전 속으로 사라졌습니다.'
 - Key: DisassembleCraftedBehavior.0-638359255628036363
-  Text: Disassembling {0}
+  Text: '{0} 무너뜨리는 중'
 - Key: DisintegrateCraftedBehavior.0-638359255628036363
-  Text: Disintegrating {0}
+  Text: '{0} 분해 중'
 - Key: DrinkPotionBehavior.0-638359255628046363
-  Text: '{0} drank {1}.'
+  Text: '{0}(이)가 {1}(을)를 마셨습니다.'
 - Key: EatBehavior.0-638359255628056361
-  Text: Eating
+  Text: 먹는 중
 - Key: EatBehavior.0-638359265645165789
-  Text: '{0} ate {1}.'
+  Text: '{0}(이)가 {1}(을)를 먹었습니다.'
 - Key: EatingBingeBehavior.0-638309958571890650
-  Text: Feeding Frenzy
+  Text: 폭식 중
 - Key: EquipForBattleBehavior.0-638359255628076381
-  Text: Equipping {0}
+  Text: '{0} 장착 중'
 - Key: EquipForBattleBehavior.1-638359255628076381
-  Text: Equipping
+  Text: 장착 중
 - Key: EquipForBattleBehavior.0-638359255628081407
-  Text: '{0} stocked up on {1}.'
+  Text: '{0}(이)가 {1}(을)를 장착했습니다.'
 - Key: ExhumeGraveBehavior.0-637975584052046615
-  Text: Exhuming a grave
+  Text: 무덤 파는 중
 - Key: FillPotionCacheBehavior.0-638359255628101448
-  Text: Collecting {0}
+  Text: '{0} 가지러 가는 중'
 - Key: FillPotionCacheBehavior.1-638359255628101448
-  Text: Collecting Potion
+  Text: 물약 가지러 가는 중
 - Key: FillPotionCacheBehavior.0-638359265645212834
-  Text: '{0} collected {1}.'
+  Text: '{0}(이)가 {1}(을)를 가져왔습니다.'
 - Key: GiveFoodBehavior.0-638359255628126519
-  Text: Feeding {0} to {1}
+  Text: '{1}에게 {0} 먹이는 중'
 - Key: GiveFoodBehavior.0-638359265645226189
-  Text: '{0} fed {1} to {2}.'
+  Text: '{0}(이)가 {2}에게 {1}(을)를 먹였습니다.'
 - Key: GivePotionBehavior.0-638359255628136761
-  Text: Administering {0} to {1}
+  Text: '{1}에게 {0} 처방 중'
 - Key: GivePotionBehavior.0-638359265645236194
-  Text: '{0} administered {1} to {2}.'
+  Text: '{0}(이)가 {2}에게 {1}(을)를 먹였습니다.'
 - Key: GraduationCeremonyBehavior.0-638162878983804998
-  Text: Attending Graduation
+  Text: 졸업식 참석 중
 - Key: LearnBehavior.0-638359255628181818
-  Text: Learning
+  Text: 배우는 중
 - Key: LearnBehavior.1-638359255628181818
-  Text: 'Learning {0} (Level: {1})'
+  Text: '{0} 배우는 중 ({1}레벨)'
 - Key: LeaveSchoolBehavior.0-638359255628181818
-  Text: Leaving school
+  Text: 학교를 떠나는 중
 - Key: LeaveSchoolBehavior.0-638359265645281238
-  Text: '{0} left the school.'
+  Text: '{0}(이)가 학교를 떠났습니다.'
 - Key: LeaveSchoolWithStudentBehavior.0-638359255628191816
-  Text: Stealing Student
+  Text: 학생 납치 중
 - Key: LeaveSchoolWithStudentBehavior.1-638359255628191816
-  Text: '{0} was taken and killed by {1}.'
+  Text: '{1}(이)가 {0}(을)를 납치해 죽였습니다.'
 - Key: LeaveSchoolWithStudentBehavior.0-638359267222672920
-  Text: '{0} killed {1}.'
+  Text: '{0}(이)가 {1}(을)를 죽였습니다.'
 - Key: LectureBehavior.0-638158645053763855
-  Text: Lecturing Students.
+  Text: 수업 중입니다.
 - Key: ManaRefillBehavior.0-638359255628201821
-  Text: Restoring Mana
+  Text: 마나 회복 중
 - Key: ManaRefillBehavior.0-638359265645301239
-  Text: '{0} restored their mana at {1}.'
+  Text: '{0}(이)가 {1}에서 마나를 회복했습니다.'
 - Key: MerchantBehavior.0-638359255628217638
-  Text: Delivering to {0}
+  Text: '{0}에 배달 중'
 - Key: NightmareBehavior.0-638359255628236886
-  Text: Having Nightmare
+  Text: 악몽 꾸는 중
 - Key: NightmareBehavior.0-638359265645346301
-  Text: '{0} is released from the Nightmare.'
+  Text: '{0}(은)는 악몽에서 벗어났습니다.'
 - Key: OneTimeMoveBehavior.0-638060243733688946
-  Text: Exploring the surface
+  Text: 지상을 탐험하는 중
 - Key: PassOutBehavior.0-638359255628246885
-  Text: Passed out
+  Text: 기절
 - Key: PassOutBehavior.0-638359265645361323
-  Text: '{0} woke up.'
+  Text: '{0}(이)가 깨어났습니다.'
 - Key: PayDungeonCostBehavior.0-638359255628256880
-  Text: Gathering offering
+  Text: 제물 모으는 중
 - Key: PostAdultifyBehavior.0-638359255628266889
-  Text: Graduate
+  Text: 졸업
 - Key: PutAwayBehavior.0-638359255628277166
-  Text: Burying
+  Text: 묻는 중
 - Key: PutAwayBehavior.1-638359255628277166
-  Text: Putting Into Storage
+  Text: 보관 중
 - Key: RecreationBehavior.0-638359255628287172
-  Text: Recreation completed by {0} at {1}
+  Text: '{0}(이)가 {1}에서 휴식을 끝냈습니다.'
 - Key: RepairBehavior.0-638359255628297163
-  Text: Repairing {0}
+  Text: '{0} 수리 중'
 - Key: ResearchBehavior.0-638359255628297163
-  Text: Researching {0}
+  Text: '{0} 연구 중'
 - Key: ResearchBehavior.1-638359255628297163
-  Text: No Research topic selected
+  Text: 선택된 연구 주제 없음
 - Key: RestockInventoryBehavior.0-638359255628312186
-  Text: Restocking
+  Text: 재고 채우는 중
 - Key: RestockInventoryBehavior.0-638359265645461433
-  Text: '{0} stocked up on {1}.'
+  Text: '{0}(이)가 {1}의 재고를 채웠습니다.'
 - Key: ReturnToSpawnBehavior.0-638359255628317255
-  Text: Returning Home
+  Text: 귀가 중
 - Key: ReturnToSpawnBehavior.0-638359265645471463
-  Text: '{0} returned.'
+  Text: '{0}(이)가 귀가했습니다.'
 - Key: RitualBehavior.0-638359255628327286
-  Text: Performing Ritual
+  Text: 의식 수행 중
 - Key: SatisfyAffectionNeedBehavior.0-638359255628337286
-  Text: Providing Affection to {0}
+  Text: '{0}에게 관심 주는 중'
 - Key: SatisfyFeedingNeedBehavior.0-638359255628337286
-  Text: Feeding {0}
+  Text: '{0}에게 먹이 주는 중'
 - Key: SatisfyFeedingNeedBehavior.0-638359255628347282
-  Text: '{0} fed {1}.'
+  Text: '{0}(이)가 {1}에게 먹이를 주었습니다.'
 - Key: SatisfyMagicNeedBehavior.0-638359255628347282
-  Text: Cast {0} at {1}
+  Text: '{1}에게 {0} 시전'
 - Key: ScoutingBehavior.0-638182061777187907
-  Text: Scouting for Smokepearls
+  Text: 연기진주 찾는 중
 - Key: SleepBehavior.0-638359255628372339
-  Text: Sleeping
+  Text: 자는 중
 - Key: SleepBehavior.0-638359268476310713
-  Text: '{0} slept, but was awoken for work.'
+  Text: '{0}(은)는 일과를 위해 일찍 일어났습니다.'
 - Key: SleepBehavior.1-638359268476320780
-  Text: '{0} slept, but woke up early.'
+  Text: '{0}(은)는 일찍 일어났습니다.'
 - Key: SleepBehavior.0-638359267222913176
-  Text: '{0} slept on the floor.'
+  Text: '{0}(은)는 바닥에서 잤습니다.'
 - Key: SleepBehavior.1-638359267222913176
-  Text: '{0} slept well.'
+  Text: '{0}(은)는 잘 잤습니다.'
 - Key: SmashBehavior.0-638359255628382349
-  Text: Smashing {0}
+  Text: '{0} 부수는 중'
 - Key: SmashBehavior.0-638359265645641737
-  Text: '{0} smashed {1}.'
+  Text: '{0}(이)가 {1}(을)를 부쉈습니다.'
 - Key: StartGameWanderBehavior.0-638367830931507918
-  Text: Waiting to Repel Fog
+  Text: 안개 추방 의식 대기 중
 - Key: StartPlantBehavior.0-638359255628402341
-  Text: Planting {0}
+  Text: '{0} 심는 중'
 - Key: TakeInventoryBehavior.0-638359255628412349
-  Text: '{0} is stealing a {1}.'
+  Text: '{0}(이)가 {1}(을)를 훔치고 있습니다.'
 - Key: TakeStudentBehavior.0-638359255628417376
-  Text: '{0} is carrying off {1}.'
+  Text: '{0}(이)가 {1}(을)를 납치하고 있습니다.'
 - Key: TreasureHuntMischiefBehavior.0-638359255628417376
-  Text: Treasure Hunt
+  Text: 보물 찾기 중
 - Key: TreasureHuntMischiefBehavior.0-638359255628427408
-  Text: '{0} explored a {1}.'
+  Text: '{0}(은)는 {1}(을)를 탐험했습니다.'
 - Key: UnableToActBehavior.0-638359255628427408
-  Text: Unable to Act
+  Text: 행동 불능
 - Key: UprootBehavior.0-638359255628427408
-  Text: Destroying
+  Text: 파괴 중
 - Key: UprootBehavior.1-638359255628427408
-  Text: Destroying {0}
+  Text: '{0} 파괴 중'
 - Key: UseBestDamageSpellOnCreatureBehavior.0-638359255628437410
-  Text: Attacking {0}
+  Text: '{0} 공격 중'
 - Key: WaitingEventTurnBehavior.0-638359255628437410
-  Text: Waiting turn to cast
+  Text: 시전 대기 중
 - Key: WaitingEventTurnBehavior.1-638359255628437410
-  Text: Waiting turn to cast {0}
+  Text: '{0} 시전 대기 중'
 - Key: AbsorbSkillComponent.0-638168456949678204
-  Text: '{0} is broken due to being overfilled.'
+  Text: '{0}(은)는 과충전으로 인해 부서졌습니다.'
 - Key: AbsorbSkillComponent.1-638168456949688207
-  Text: Broken
+  Text: 부서짐
 - Key: AbsorbSkillComponent.2-638168456949688207
-  Text: 'Broken:'
+  Text: '부서짐:'
 - Key: AbsorbSkillComponent.0-638180303657675500
-  Text: '{0} opened!'
+  Text: '{0}(이)가 열렸습니다!'
 - Key: AbsorbSkillComponent.0-638310744738790720
-  Text: '{0} Level: {1:P0}'
+  Text: '{0} 레벨: {1:P0}'
 - Key: AbsorbSkillComponent.1-638310744738790720
-  Text: ' ({0} hours remaining)'
+  Text: ' ({0}시간 남음)'
 - Key: AlarmResponderComponent.0-638310744738790720
-  Text: Staying in {0} due to {1}
+  Text: '{1} 때문에 {0}에서 대기 중'
 - Key: AllowedGroupsComponent.0-638310744738790720
-  Text: 'Allowed: None'
+  Text: '허용: 없음'
 - Key: AllowedGroupsComponent.1-638310744738790720
-  Text: 'Allowed: {0}'
+  Text: '허용: {0}'
 - Key: AssignedComponent.0-638310744738815793
-  Text: 'Assigned: {0: false)}'
+  Text: '할당: {0: false)}'
 - Key: BadgeComponent.2-638369579880001631
-  Text: '{0} completed {1}.'
+  Text: '{0}(이)가 {1}(을)를 완료했습니다.'
 - Key: BadgeComponent.0-638369579880001631
-  Text: '{0} completed {1}'
+  Text: '{0}(이)가 {1}(을)를 완료했습니다'
 - Key: BadgeComponent.1-638369579880001631
-  Text: '{0} completed {1}'
+  Text: '{0}(이)가 {1}(을)를 완료했습니다'
 - Key: BadgeComponent.0-638403284180029838
   Text: >-
-    {0} completed {1}.
+    {0}(이)가 {1}(을)를 완료했습니다.
 
-     Earned {2}
+
+    {2}(을)를 획득했습니다
 - Key: BehaviorStackComponent.0-638310744738840886
-  Text: <size=80%>[Player Order]</size>
+  Text: <size=80%>[플레이어 명령]</size>
 - Key: BehaviorStackComponent.1-638310744738840886
-  Text: Direct Order - {0}
+  Text: 직접 명령 - {0}
 - Key: BrokenComponent.0-638181043976439709
   Text: <slink=Broken>
 - Key: CarryingComponent.0-638310744738840886
-  Text: Carrying {0}
+  Text: '{0} 운반 중'
 - Key: CastByComponent.0-638310744738840886
-  Text: Cast by {0}
+  Text: '{0}(이)가 시전'
 - Key: CharacterComponent.0-638310744738840886
-  Text: 'Faction: {0}'
+  Text: '종족: {0}'
 - Key: CharacterComponent.1-638310744738840886
-  Text: 'Scheduled for: {0}'
+  Text: '예약: {0}'
 - Key: ClaimedByComponent.0-638310744738840886
-  Text: 'Claimed by: {0}'
+  Text: '예약: {0}'
 - Key: ConstructionBlockComponent.0-638310744738896091
-  Text: UNSUPPORTED
+  Text: 지지대 없음
 - Key: ConstructionBlockComponent.1-638310744738896091
-  Text: Being Replaced
+  Text: 파괴 예정
 - Key: ConstructionBlockComponent.2-638310744738896091
-  Text: Being Replaced
+  Text: 파괴 예정
 - Key: CorpseComponent.0-638156141486744406
-  Text: 'Process in a Midden Heap for:'
+  Text: '두엄 더미에서 다음 재료로 변환할 수 있습니다:'
 - Key: CorpseComponent.1-638126794874077862
   Text: >
-    Stats:
+    스탯:
 - Key: CorpseComponent.2-638126794874077862
   Text: >
-    Stats:
+    스탯:
 - Key: CraftedDataComponent.0-638310744738896091
-  Text: 'Ingredients: {0}'
+  Text: '재료: {0}'
 - Key: CraftedDataComponent.1-638310744738896091
   Text: >2-
 
-    Crafted By:
+    제작자:
 
     {0}
 - Key: CraftingStationComponent.0-638122464102964001
-  Text: Add Crafting Order
+  Text: 제작 지시 추가하기
 - Key: CraftingStationComponent.1-638122464102964001
-  Text: Crafting
+  Text: 제작 중
 - Key: CraftingStationComponent.2-638122464102964001
-  Text: Crafting Tasks
+  Text: 제작 작업
 - Key: CraftingStationComponent.0-637970392485904377
-  Text: Produces filth while being worked.
+  Text: 작업하는 동안 주변이 더러워집니다.
 - Key: CreatedDataComponent.0-638310744738911149
-  Text: 'Created By: {0}'
+  Text: '제작자: {0}'
 - Key: DangerRulesComponent.0-638310744738911149
-  Text: Min:{0} Max:{1}
+  Text: 최소:{0} 최대:{1}
 - Key: DeadComponent.0-638310744738911149
-  Text: Dead - {0}
+  Text: 죽음 - {0}
 - Key: DeadComponent.1-638310744738911149
-  Text: Dead
+  Text: 죽음
 - Key: DemeritComponent.0-638310744738911149
-  Text: 'Demerits: {0}'
+  Text: '불이익: {0}'
 - Key: DestroyTargetComponent.0-638221676610306903
-  Text: '{0} has been destroyed by lightning'
+  Text: '{0}(이)가 번개를 맞아 부서졌습니다'
 - Key: DestroyTargetComponent.1-638221676610316903
-  Text: Destroyed by lightning
+  Text: 번개를 맞아 부서짐
 - Key: DestroyTargetComponent.2-638221676610316903
-  Text: 'Destroyed by lightning:'
+  Text: '번개를 맞아 부서짐:'
 - Key: DoDamageComponent.0-638180303657975887
-  Text: '{0} dodged {1}'
+  Text: '{0}(이)가 {1}(을)를 회피함'
 - Key: DoDamageComponent.1-638180303657975887
-  Text: '{0} dodged {1} cast by {2}'
+  Text: '{0}(이)가 {2}의 {1}(을)를 회피함'
 - Key: DoDamageComponent.2-638180303657975887
-  Text: '{0} shielded {1}'
+  Text: '{0}(이)가 {1}(을)를 막음'
 - Key: DoDamageComponent.3-638180303657975887
-  Text: '{0} shielded {2} cast by {1}'
+  Text: '{0}(이)가 {2}의 {1}(을)를 막음'
 - Key: DoManaRestoreComponent.0-638357415709087912
-  Text: '{0} gained {1} <slink=Mana>'
+  Text: '{0}(이)가 {1} <slink=Mana> 회복'
 - Key: DoManaRestoreComponent.0-638339120287058842
-  Text: '{0} gained {2} <slink=Mana> from {1}'
+  Text: '{0}(이)가 {1}에서 {2} <slink=Mana> 회복'
 - Key: DungeonRespawnTimerComponent.0-638310744738931983
-  Text: 'Fog reclaims room in: {0}'
+  Text: '안개가 다음 방을 지배했습니다: {0}'
 - Key: UpdateDungeonSystem.0-638248623293519296
-  Text: Underschool Fog Ward depleted.
+  Text: 지하세계 안개 파수꾼의 힘이 다했습니다.
 - Key: UpdateDungeonSystem.1-638248623293519296
-  Text: Underschool Fog Ward depleted.
+  Text: 지하세계 안개 파수꾼의 힘이 다했습니다.
 - Key: DurabilityComponent.0-638181043976549785
-  Text: '{0} BROKEN by {1}'
+  Text: '{1}(이)가 {0}(을)를 부숨'
 - Key: DurabilityComponent.1-638181043976549785
-  Text: '{0} BROKEN'
+  Text: '{0} 부서짐'
 - Key: DurabilityComponent.2-638181043976549785
-  Text: '{0} BROKEN by water'
+  Text: 빗물이 {0}(을)를 부숨
 - Key: DurabilityComponent.3-638181043976549785
-  Text: '{0} BROKEN'
+  Text: '{0} 부서짐'
 - Key: DurabilityComponent.0-638163813952714656
-  Text: 'Last Damaged By: {0}'
+  Text: '마지막 데미지 원인: {0}'
 - Key: DurabilityComponent.1-638163813952735807
-  Text: 'Last Damaged By: Water'
+  Text: '마지막 데미지 원인: 빗물'
 - Key: DurabilityComponent.0-638345097564001937
-  Text: Lost <slink=Invasion> battle
+  Text: <slink=Invasion> 전투에 패배
 - Key: DurabilityComponent.2-638163813952735807
-  Text: 'Durability: {0:0}/{1:0}'
+  Text: '내구도: {0:0}/{1:0}'
 - Key: DurabilityComponent.0-637968540622114230
-  Text: 'Durability: {0:0}/{1:0}'
+  Text: '내구도: {0:0}/{1:0}'
 - Key: DurabilityComponent.1-637968540622133908
-  Text: ' - Immune to Rain damage'
+  Text: ' - 빗물 데미지에 면역'
 - Key: DurabilityComponent.3-638163813952735807
-  Text: ' - Destroyed by <slink=Fog>'
+  Text: ' - <slink=Fog>에 의해 파괴됨'
 - Key: EnemyLevelComponent.0-638310744738931983
-  Text: Level {0}
+  Text: 레벨 {0}
 - Key: FlatpackComponent.0-638310744738931983
-  Text: Contains {0}
+  Text: '{0} 포함'
 - Key: FogLanternComponent.0-638310744738977038
   Text: >-
-    {0:P0} Full
+    {0:P0} 충전됨
 
-    Can hold back fog for {1:F1} Days
+    {1:F1}일 동안 안개를 막을 수 있음
 - Key: GearComponent.0-638070517084316206
-  Text: 'Gear Bonuses: {0}'
+  Text: '장비 보너스: {0}'
 - Key: GhostComponent.0-638191396094929797
-  Text: 'Buried in: {0}'
+  Text: '{0}에 묻힘'
 - Key: GrantStatusNearbyComponent.0-638310744738977038
-  Text: 'Gives Status: '
+  Text: '스탯 부여: '
 - Key: GrantStatusNearbyComponent.1-638310744738977038
   Text: >2-
 
-      <color=red>Must be in room to provide status!</color>
+      <color=red>스탯 부여를 위해서는 방 안에 있어야 합니다!</color>
 - Key: GraveComponent.0-637975584052956470
-  Text: Empty Grave - No Hallowlily Growing
+  Text: 빈 무덤 - 신성백합 자라지 않음
 - Key: GraveComponent.0-637980631309654357
-  Text: Needs Funeral
+  Text: 장례식 필요
 - Key: GraveComponent.0-638310744738977038
-  Text: Contains {0}
+  Text: '{0}(이)가 묻혀 있음'
 - Key: GroupMemberComponent.0-638310744738977038
-  Text: 'Group Member: {0: false)}'
+  Text: '그룹 구성원: {0: false)}'
 - Key: HitPointComponent.0-638060243733908210
   Text: killed by
 - Key: HitPointComponent.1-638060243733908210
@@ -483,248 +484,248 @@
 - Key: HourlyEmployeeScheduleComponent.0-638310744739012129
   Text: Hourly Schedule
 - Key: InventoryComponent.0-638310744739022185
-  Text: 'Category: {0}'
+  Text: '카테고리: {0}'
 - Key: LifespanComponent.0-638310744739022185
-  Text: day
+  Text: 일
 - Key: LifespanComponent.1-638310744739022185
-  Text: days
+  Text: 일
 - Key: LifespanComponent.2-638310744739022185
   Text: >-
-    Age: {0} {1}
+    나이: {0} {1}
 
-    {2}: {3} days
+    {2}: {3}일
 - Key: LifetimeComponent.0-638310744739022185
-  Text: Lasts for {0}
+  Text: '{0} 남음'
 - Key: LightComponent.0-637939016215845022
-  Text: 'Light: {0} '
+  Text: '빛: {0} '
 - Key: LightUtils.0-637938965134845577
-  Text: None
+  Text: 없음
 - Key: LightUtils.1-637938965134850577
-  Text: Fire
+  Text: 불빛
 - Key: LightUtils.2-637938965134850577
-  Text: Sun
+  Text: 햇빛
 - Key: LightUtils.3-637938965134850577
-  Text: Moon
+  Text: 달빛
 - Key: ManaComponent.0-638310744739022185
-  Text: Mana
+  Text: 마나
 - Key: ManaComponent.1-638310744739022185
   Text: '{0}{1:0}/{2:0}'
 - Key: ManaComponent.2-638310744739022185
-  Text: ' +{0} / hour'
+  Text: ' +{0} / 시간'
 - Key: ManaComponent.3-638310744739022185
-  Text: ' (Sleep)'
+  Text: ' (수면)'
 - Key: ManaWellComponent.0-638310744739022185
-  Text: 'Mana Fills: {0}/{1}'
+  Text: '마나 충전: {0}/{1}'
 - Key: ManaWellComponent.1-638310744739022185
   Text: >
-    Mana Fills: {0}/{1}
+    마나 충전: {0}/{1}
 - Key: ManaWellComponent.2-638310744739022185
-  Text: Recharges 1 Fill every {0} hours
+  Text: '{0}시간마다 1충전씩 회복됨'
 - Key: ModifyCharacterStatusComponent.1-638180303658176059
-  Text: '{0} acquired the {1} status.'
+  Text: '{0}(은)는 {1} 상태가 되었습니다.'
 - Key: PaintingComponent.0-638357407842578357
-  Text: Portrait of {0}
+  Text: '{0}의 초상'
 - Key: PlacemarkerComponent.0-638310744739067307
-  Text: Placemarker
+  Text: 청사진
 - Key: PlacementConfig.0-638310755350296453
-  Text: on floors
+  Text: 바닥 위
 - Key: PlacementConfig.1-638310755350296453
-  Text: on side walls
+  Text: 옆면 벽
 - Key: PlacementConfig.2-638310755350296453
-  Text: on back walls
+  Text: 뒷면 벽
 - Key: PlacementConfig.3-638310755350296453
-  Text: on ceilings
+  Text: 천장
 - Key: PlacementConfig.4-638310755350296453
-  Text: in planters
+  Text: 화분 안
 - Key: PlacementConfig.5-638310755350296453
-  Text: on the ground
+  Text: 땅 위
 - Key: PlacementConfig.6-638310755350296453
-  Text: on roofs
+  Text: 지붕 위
 - Key: PlacementConfig.7-638310755350296453
-  Text: Placeable
+  Text: 위치 가능
 - Key: PlacementConfig.8-638310755350296453
-  Text: ' outside'
+  Text: ' 바깥'
 - Key: PlacementConfig.9-638310755350296453
-  Text: ' in rooms'
+  Text: ' 방 안'
 - Key: PlacementConfig.10-638310755350296453
-  Text: ' {0} and {1}'
+  Text: ' {0}(와)과 {1}'
 - Key: PlacementConfig.11-638310755350296453
-  Text: ', and {0}'
+  Text: ', 그리고 {0}'
 - Key: PlacementConfig.0-638404054164580767
   Text: >2-
 
-    Dimensions: {0}x{1}x{2}
+    크기: {0}x{1}x{2}
 - Key: PlantComponent.0-638310744739067307
-  Text: 'Grown: {0:P0}'
+  Text: '성장: {0:P0}'
 - Key: PlantComponent.1-638310744739067307
-  Text: '   (Will {0} when grown)'
+  Text: '   (성장 후 {0})'
 - Key: PlantComponent.2-638310744739067307
-  Text: '   (Will {0} at night)'
+  Text: '   (밤에 {0})'
 - Key: PlantComponent.3-638310744739067307
-  Text: '   (Will {0} during daytime)'
+  Text: '   (낮에 {0})'
 - Key: PlantComponent.4-638310744739067307
-  Text: '   (Will {0} between {1} and {2})'
+  Text: '   ({1}(와)과 {2} 사이 {0})'
 - Key: PlantComponent.5-638310744739067307
   Text: >2-
 
-      Required Light: {0} ({1:P0} - Shaded)
+      빛 필요: {0} ({1:P0} - 그늘짐)
 - Key: PlantComponent.6-638310744739067307
   Text: >2-
 
-      Required Light: {0} ({1:P0})
+      빛 필요: {0} ({1:P0})
 - Key: PlantComponent.7-638310744739067307
   Text: >2-
 
-      Growth Rate: {0:P0}
+      성장 속도: {0:P0}
 - Key: PlantComponent.0-638385715186061801
-  Text: ' (Veiled by <slink=Fog>)'
+  Text: ' (<slink=Fog>에 가려짐)'
 - Key: PlantComponent.8-638310744739067307
   Text: >2-
 
-      Growth Rate: {0:P0} ({1}-Powered)
+      성장 속도: {0:P0} ({1}에 의해 빨라짐)
 - Key: PlantComponent.9-638310744739067307
   Text: >2-
 
-      Growth Rate: {0:P0} ({1}-Powered) ({2} Bonus)
+      성장 속도: {0:P0} ({1}에 의해 빨라짐) ({2} 보너스)
 - Key: PlantComponent.10-638310744739067307
   Text: >2-
 
-      Growth Rate: {0:P0} (No {1})
+      성장 속도: {0:P0} ({1} 없음)
 - Key: PlantComponent.11-638310744739067307
   Text: >2-
 
-      Growth Rate: {0:P0} (No {1}) ({2} Bonus)
+      성장 속도: {0:P0} ({1} 없음) ({2} 보너스)
 - Key: PlantComponent.12-638310744739067307
   Text: >2-
 
-      Growth Rate: {0:P0}
+      성장 속도: {0:P0}
 - Key: PlantComponent.13-638310744739067307
   Text: >2-
 
-      Growth Rate: {0:P0} ({1} Bonus)
+      성장 속도: {0:P0} ({1} 보너스)
 - Key: PlantComponent.14-638310744739067307
-  Text: "\n  Events: "
+  Text: "\n  사건: "
 - Key: PlantComponent.15-638310744739067307
-  Text: '  Growth Time: {0} days'
+  Text: '  성장 시간: {0}일'
 - Key: PlantComponent.16-638310744739067307
   Text: >2-
 
-      Consumes {0:0.00}% {1} per hour for x{2} growth rate
+      시간당 {0:0.00}% {1}(을)를 소모해 성장을 {2}배 촉진함
 - Key: PlantComponent.17-638310744739067307
   Text: >2-
 
-      Planter Growth Bonus: +{0:P0}
+      화분 성장 보너스: +{0:P0}
 - Key: PlantComponent.18-638310744739067307
   Text: >2-
 
-      Required Light: {0}
+      빛 필요: {0}
 - Key: PlanterComponent.0-638310744739067307
-  Text: 'Grave Growth Bonus: +{0}'
+  Text: '무덤 성장 보너스: +{0}'
 - Key: PlanterComponent.1-638310744739067307
   Text: >
-    Planted: {0}
+    식물: {0}
 - Key: PlanterComponent.2-638310744739067307
-  Text: 'Planter Growth Bonus: +{0}'
+  Text: '화분 성장 보너스: +{0}'
 - Key: PlanterComponent.3-638310744739067307
   Text: >
-    Planted: {0}
+    식물: {0}
 - Key: PlanterComponent.0-638313273560362469
   Text: >-
-    To be planted: {0}
+    심을 예정: {0}
 
-    Requires {1} to {2}
+    {2}(을)를 위해 {1}(이)가 필요함
 - Key: PlanterComponent.4-638310744739067307
-  Text: 'To be planted: {0}'
+  Text: '심을 예정: {0}'
 - Key: PlanterComponent.5-638310744739067307
-  Text: 'To be planted: None'
+  Text: '심을 예정: 없음'
 - Key: PlanterComponent.6-638310744739067307
   Text: >
-    Growing: {0}
+    성장 중: {0}
 - Key: PlanterComponent.7-638310744739067307
   Text: >
-    Planted: {0}
+    식물: {0}
 - Key: PlanterComponent.8-638310744739067307
   Text: >
-    Growing: {0}
+    성장 중: {0}
 - Key: PoweredComponent.0-638310744739112395
-  Text: 'Generating {0}: {1:P0}'
+  Text: '{0} 생성 중: {1:P0}'
 - Key: PriorityComponent.0-638310744739117473
-  Text: 'Priority: Not Allowed'
+  Text: '우선 순위: 허용 안 됨'
 - Key: ResponsibleComponent.0-638315824288189601
-  Text: 'Caused by: {0}'
+  Text: '원인: {0}'
 - Key: RitualSiteComponent.0-638302200376417694
-  Text: 'Participants: '
+  Text: '참여 인원: '
 - Key: RitualSiteComponent.1-638302200376427786
-  Text: '{0} ritual started.'
+  Text: '{0} 의식이 시작되었습니다.'
 - Key: RitualSiteComponent.3-638302200376427786
-  Text: '{0} ritual completed.'
+  Text: '{0} 의식이 종료되었습니다.'
 - Key: RitualSiteComponent.0-638336787365350342
-  Text: '{0} ritual canceled.'
+  Text: '{0} 의식이 취소되었습니다.'
 - Key: RitualSiteComponent.0-638310744739117473
-  Text: Sacrificed in a Ritual
+  Text: 의식에서 희생됨
 - Key: SchoolFounderComponent.0-638310744739117473
-  Text: Ancient School Founder
+  Text: 고대의 학교 창립자
 - Key: SeedComponent.0-638310744739117473
-  Text: '{0} Seed'
+  Text: '{0} 씨앗'
 - Key: SkillsComponent.0-638186431564141106
-  Text: 'Innate Spells: '
+  Text: '선천적 주문: '
 - Key: SpeedComponent.0-638315824288236464
-  Text: 'Speed: {0}'
+  Text: '속도: {0}'
 - Key: StackableComponent.0-638315824288236464
-  Text: 'Quantity: {0}'
+  Text: '수량: {0}'
 - Key: StaffComponent.0-638405666176473563
-  Text: 'Time on Staff: {0}'
+  Text: '교사 재직 기간: {0}'
 - Key: StatueComponent.0-638357407842794844
-  Text: Statue of {0}
+  Text: '{0}의 동상'
 - Key: StorableComponent.0-638310744739164779
-  Text: 'Stored in: {0}'
+  Text: '{0}에 저장됨'
 - Key: StorageComponent.0-638310744739164779
-  Text: 'Capacity: {0} / {1}'
+  Text: '용량: {0} / {1}'
 - Key: StorageComponent.0-638334084159819886
   Text: >
-    Capacity: {0} / {1}
+    용량: {0} / {1}
 - Key: StorageComponent.1-638334084159819886
   Text: >
-    Incoming:
+    보관을 위해 이동 중:
 - Key: StorageComponent.1-638310744739164779
-  Text: 'Stores: '
+  Text: '보관 중: '
 - Key: StudentComponent.0-638158645055012648
-  Text: 'Teacher Relationship Modifier: {0}%'
+  Text: '교사 친밀도 보너스: {0}%'
 - Key: StudentComponent.0-638345097569801492
-  Text: Fully Trained Student gaining no Skill.
+  Text: 더 이상 배울 수 있는 것이 없습니다.
 - Key: TerrainBlockerComponent.0-638310744739164779
-  Text: Opened
+  Text: 봉인 해제됨
 - Key: TerrainBlockerComponent.1-638310744739164779
-  Text: 'Sealed: Open Artifact button summons all staff and students to attempt to open.'
+  Text: '봉인됨: 아티팩트 봉인 해제 버튼을 누르면 모든 교사와 학생들이 봉인 해제를 시도합니다.'
 - Key: TransformComponent.0-638162872152062600
-  Text: In <slink=Underschool>
+  Text: <slink=Underschool>에 있음
 - Key: TransformComponent.0-638367830932578616
-  Text: In {0}
+  Text: '{0}에 있음'
 - Key: TransformComponent.1-638162872152077485
-  Text: In <slink=Underschool>
+  Text: <slink=Underschool>에 있음
 - Key: TransformComponent.0-638310744739164779
-  Text: In {0}
+  Text: '{0}에 있음'
 - Key: TrappedEntityComponent.0-638357407842855093
-  Text: '{0} freed from a Crystal Trap.'
+  Text: '{0}(이)가 크리스탈 함정에서 빠져나왔습니다.'
 - Key: TrappedEntityComponent.0-638359255629249716
-  Text: 'Trapped: {0}'
+  Text: '갇힘: {0}'
 - Key: UnfinishedMealComponent.0-638310744739164779
-  Text: An unfinished {0}.
+  Text: 먹다 남은 {0}입니다.
 - Key: WandComponent.0-638310744739164779
-  Text: New Custom Wand
+  Text: 새 커스텀 지팡이
 - Key: ResearchTechDefinition.0-638359255629426737
   Text: >2-
 
-    Unlocks
+    해금
 - Key: ResearchTechDefinition.1-638359255629426737
   Text: >2
-      {0} Recipe
+      {0} 제작법
 - Key: ResearchTechDefinition.2-638359255629426737
   Text: >2
-      {0} Wallpaper
+      {0} 월페이퍼
 - Key: ResearchTechDefinition.3-638359255629426737
   Text: >
-    {0} Slot: {1}
+    {0} 슬롯: {1}
 - Key: LocalizationManager.0-638398060485508493
   Text: Afrikaans
 - Key: LocalizationManager.1-638398060485518509
@@ -904,253 +905,253 @@
 - Key: LocalizationManager.87-638398060485528506
   Text: Zulu
 - Key: WorkContributionsLogBookEntry.0-638334084160086720
-  Text: 'Work Contributions:'
+  Text: '작업 기여도:'
 - Key: WorkContributionsLogBookEntry.1-638334084160086720
   Text: >2-
 
-    {0} performed {1:N1}% of the work over {2} spell casts.
+    {0}(은)는 {2}번 주문을 시전하여 총 작업에 {1:N1}% 기여했습니다.
 - Key: SaveVersion.0-638359255629607214
-  Text: Old Save File is not supported. Version {0}
+  Text: 세이브 파일의 버전({0})이 오래되어 열 수 없습니다.
 - Key: SaveVersion.1-638359255629617213
-  Text: Save File version {0} is from a newer version of the game. We cannot safely load it.
+  Text: 세이브 파일의 버전({0})이 현재 게임 버전보다 최신입니다. 안전하게 열 수 없습니다.
 - Key: UpdateDurabilityErrandsSystem.0-638181043976992998
-  Text: '{0} DESTROYED by {1}'
+  Text: '{1}에 의해 {0} 파괴됨'
 - Key: UpdateDurabilityErrandsSystem.1-638181043976992998
-  Text: '{0} DESTROYED by {1}'
+  Text: '{1}에 의해 {0} 파괴됨'
 - Key: UpdateDurabilityErrandsSystem.2-638181043976992998
-  Text: '{0} DESTROYED by water'
+  Text: 빗물에 의해 {0} 파괴됨
 - Key: UpdateDurabilityErrandsSystem.3-638181043976992998
-  Text: '{0} DESTROYED by water'
+  Text: 빗물에 의해 {0} 파괴됨
 - Key: UpdateDurabilityErrandsSystem.4-638181043976992998
-  Text: '{0} DESTROYED by {1}'
+  Text: '{1}에 의해 {0} 파괴됨'
 - Key: UpdateDurabilityErrandsSystem.5-638181043976992998
-  Text: '{0} DESTROYED by {1}'
+  Text: '{1}에 의해 {0} 파괴됨'
 - Key: UpdateDurabilityErrandsSystem.6-638181043976992998
-  Text: '{0} DESTROYED by water'
+  Text: 빗물에 의해 {0} 파괴됨
 - Key: UpdateDurabilityErrandsSystem.7-638181043976992998
-  Text: '{0} DESTROYED by water'
+  Text: 빗물에 의해 {0} 파괴됨
 - Key: UpdateFogSystem.0-638180303658948208
-  Text: <slink=Fog> advancing!
+  Text: <slink=Fog>(이)가 다가옵니다!
 - Key: UpdateFogSystem.1-638180303658948208
-  Text: Fog Advancing!
+  Text: 안개가 다가옵니다!
 - Key: UpdateFogSystem.2-638180303658948208
-  Text: <slink=Fog> Advancing!
+  Text: <slink=Fog>(이)가 다가옵니다!
 - Key: UpdateHitPointsSystem.0-638249409126779829
-  Text: Died from too many injuries
+  Text: 부상으로 인해 사망
 - Key: BattleUtils.0-638180303659163464
-  Text: Party defeated
+  Text: 패배
 - Key: BattleUtils.1-638180303659163464
-  Text: Party defeated
+  Text: 패배
 - Key: BattleUtils.2-638180303659173464
-  Text: Party retreated
+  Text: 후퇴
 - Key: BattleUtils.3-638180303659173464
-  Text: Party retreated
+  Text: 후퇴
 - Key: BattleUtils.0-638235434708168781
-  Text: Underschool chamber cleared
+  Text: 지하세계 챔버 소탕
 - Key: BattleUtils.1-638235434708168781
-  Text: Underschool chamber cleared
+  Text: 지하세계 챔버 소탕
 - Key: CharacterGenUtils.0-638205406061576010
-  Text: '{0} is a <slink=ProdigyCharacter> Mage with immense magical potential.'
+  Text: '{0}(은)는 특출난 마법적 재능을 가진 <slink=ProdigyCharacter>입니다.'
 - Key: CharacterGenUtils.0-638205395926567619
-  Text: A Prodigy Mage has arrived.
+  Text: 천재 마법사가 도착했습니다.
 - Key: CharacterGenUtils.1-638205395926577507
-  Text: '{0} is a <slink=ProdigyCharacter> Mage with immense magical potential.'
+  Text: '{0}(은)는 특출난 마법적 재능을 가진 <slink=ProdigyCharacter>입니다.'
 - Key: CharacterGenUtils.1-638205406061576010
-  Text: '{0} is a <slink=AdvancedCharacter> Mage with strong magical potential.'
+  Text: '{0}(은)는 강력한 마법적 재능을 가진 <slink=AdvancedCharacter>입니다.'
 - Key: CharacterGenUtils.2-638205395926577507
-  Text: A Gifted Mage has arrived.
+  Text: 재능있는 마법사가 도착했습니다.
 - Key: CharacterGenUtils.3-638205395926587500
-  Text: '{0} is a <slink=AdvancedCharacter> Mage with strong magical potential.'
+  Text: '{0}(은)는 강력한 마법적 재능을 가진 <slink=AdvancedCharacter>입니다.'
 - Key: CharacterUtils.0-638180303659353643
-  Text: '{0} graduated!'
+  Text: '{0}(이)가 졸업했습니다!'
 - Key: CharacterUtils.1-638180303659353643
-  Text: '{0} quit the school!'
+  Text: '{0}(이)가 학교를 떠났습니다!'
 - Key: CharacterUtils.2-638180303659353643
-  Text: Staff Quit
+  Text: 교사 그만둠
 - Key: CharacterUtils.3-638180303659353643
-  Text: 'Staff have quit the school:'
+  Text: '교사가 학교를 떠났습니다:'
 - Key: CombatUtils.0-638339120287768946
-  Text: '{0} swapped positions with {1}'
+  Text: '{0}(와)과 {1} 위치 교체'
 - Key: CombatUtils.1-638339120287768946
-  Text: '{0} changed positions'
+  Text: '{0} 위치 변경'
 - Key: CombatUtils.2-638339120287768946
-  Text: '{0} swapped positions with {1}'
+  Text: '{0}(와)과 {1} 위치 교체'
 - Key: CombatUtils.3-638339120287768946
-  Text: '{0} changed positions'
+  Text: '{0} 위치 변경'
 - Key: CombatUtils.4-638339120287768946
-  Text: '{0} passed their turn'
+  Text: '{0} 턴 넘김'
 - Key: CombatUtils.5-638339120287768946
-  Text: '{0} is fleeing from battle'
+  Text: '{0} 전투에서 탈출 중'
 - Key: CombatUtils.6-638339120287768946
-  Text: '{0} fled from battle'
+  Text: '{0} 전투 탈출'
 - Key: DecorUtils.0-638334084160732146
-  Text: Austere
+  Text: 소박함
 - Key: DecorUtils.1-638334084160732146
-  Text: Tolerable
+  Text: 괜찮음
 - Key: DecorUtils.2-638334084160732146
-  Text: Liveable
+  Text: 지낼 만함
 - Key: DecorUtils.3-638334084160732146
-  Text: Comfortable
+  Text: 편안함
 - Key: DecorUtils.4-638334084160732146
-  Text: Decadent
+  Text: 고급스러움
 - Key: DecorUtils.5-638334084160732146
-  Text: Luxurious
+  Text: 화려함
 - Key: DecorUtils.6-638334084160732146
-  Text: Extravagant
+  Text: 사치스러움
 - Key: DeliveryUtils.0-638334084160742150
-  Text: Missing ingredients.
+  Text: 재료가 부족합니다.
 - Key: DropTableUtils.0-638247743149646666
-  Text: Discovered {1}
+  Text: '{1} 발견'
 - Key: DropTableUtils.1-638247743149656815
-  Text: Discovered {1}
+  Text: '{1} 발견'
 - Key: DropTableUtils.0-638415221460712818
   Text: >
-    Chance to {0}:
+    {0} 확률:
 - Key: EntityUtils.0-638334084160858326
-  Text: Insane Ghost of {0}
+  Text: '{0}의 미친 유령'
 - Key: EntityUtils.1-638334084160858326
-  Text: Ghost of {0}
+  Text: '{0}의 유령'
 - Key: EntityUtils.2-638334084160858326
-  Text: Corpse of {0}
+  Text: '{0}의 시체'
 - Key: EntityUtils.3-638334084160858326
-  Text: Shrink - {0}
+  Text: 축소물 - {0}
 - Key: EntityUtils.4-638334084160858326
-  Text: Seed - {0}
+  Text: 씨앗 - {0}
 - Key: EntityUtils.5-638334084160858326
-  Text: Seed - Unknown Plant
+  Text: 씨앗 - 알 수 없는 식물
 - Key: EntityUtils.6-638334084160858326
-  Text: Empty Crate
+  Text: 빈 상자
 - Key: EntityUtils.7-638334084160858326
-  Text: Crate -
+  Text: 상자 -
 - Key: EntityUtils.8-638334084160868745
-  Text: '{0} killed by forces unknown.'
+  Text: '{0}(은)는 알 수 없는 힘에 의해 죽었습니다.'
 - Key: EntityUtils.9-638334084160868745
-  Text: '{0} killed by forces unknown.'
+  Text: '{0}(은)는 알 수 없는 힘에 의해 죽었습니다.'
 - Key: ErrandCellUtils.0-638334084160903870
-  Text: Unable to reach {0}
+  Text: '{0} 도달 불가'
 - Key: ErrandCellUtils.1-638334084160903870
-  Text: Unable to reach {0}
+  Text: '{0} 도달 불가'
 - Key: ErrandCellUtils.2-638334084160903870
-  Text: Needs {0} spell
+  Text: '{0} 주문 필요'
 - Key: ErrandCellUtils.3-638334084160903870
-  Text: Cannot reach for spell
+  Text: 주문 도달 불가
 - Key: ErrandUtils.1-638176048560401257
-  Text: Quilted Helpers cannot be given direct orders
+  Text: 누더기 도우미들에게는 직접 명령할 수 없음
 - Key: ErrandUtils.2-638176048560401257
-  Text: Ghosts cannot be given direct orders
+  Text: 유령에게는 직접 명령할 수 없음
 - Key: FormatUtils.0-638334084160974331
-  Text: Unknown
+  Text: 알 수 없음
 - Key: FormatUtils.1-638334084160974331
-  Text: ' Potion Effectiveness'
+  Text: ' 물약 효율'
 - Key: FormatUtils.2-638334084160974331
-  Text: ' Gear Effectiveness'
+  Text: ' 장비 효율'
 - Key: FormatUtils.3-638334084160974331
-  Text: ' Item Quality'
+  Text: ' 아이템 품질'
 - Key: FormatUtils.4-638334084160974331
-  Text: ' Active Spell Slots'
+  Text: ' 활성화 주문 슬롯'
 - Key: GroupUtils.0-638334084161019916
-  Text: None
+  Text: 없음
 - Key: GroupUtils.1-638334084161019916
-  Text: '{0} (Staff)'
+  Text: '{0} (교사)'
 - Key: GroupUtils.2-638334084161019916
-  Text: '{0} (Student)'
+  Text: '{0} (학생)'
 - Key: GroupUtils.3-638334084161019916
-  Text: '{0} (Quilted)'
+  Text: '{0} (누더기)'
 - Key: GroupUtils.0-638359255630959108
-  Text: All
+  Text: 모두
 - Key: GroupUtils.1-638359255630959108
-  Text: None
+  Text: 없음
 - Key: GroupUtils.2-638359255630959108
-  Text: All Staff
+  Text: 모든 교사
 - Key: GroupUtils.3-638359255630959108
-  Text: All Students
+  Text: 모든 학생
 - Key: GroupUtils.4-638359255630959108
-  Text: All Quilted
+  Text: 모든 누더기
 - Key: GroupUtils.5-638359255630959108
-  Text: All Dead Staff
+  Text: 모든 죽은 교사
 - Key: GroupUtils.6-638359255630959108
-  Text: All Dead Students
+  Text: 모든 죽은 학생
 - Key: GroupUtils.8-638359255630959108
-  Text: Dungeon Door Access
+  Text: 던전 문 접근 허용
 - Key: GroupUtils.9-638359255630959108
-  Text: Leaving School
+  Text: 학교 떠나는 중
 - Key: GroupUtils.11-638359255630959108
-  Text: All Non Quilted
+  Text: 모든 누더기가 아닌 캐릭터
 - Key: GroupUtils.7-638359255630959108
-  Text: All Dead Characters
+  Text: 모든 죽은 캐릭터
 - Key: GroupUtils.10-638359255630959108
-  Text: Breaking
+  Text: 부수는 중
 - Key: InjuryUtils.0-638357407844437892
-  Text: 'Healing: {0:P0} per hour ({1})'
+  Text: '회복 중: 시간당 {0:P0} ({1})'
 - Key: InjuryUtils.0-638318648041238028
-  Text: 'Healing: +{0} per hour ({1})'
+  Text: '회복 중: 시간당 +{0} ({1})'
 - Key: RitualSiteUtils.0-638296808837912041
-  Text: 'Required: {0}'
+  Text: '필요: {0}'
 - Key: RitualSiteUtils.1-638296808837922041
-  Text: 'Excluded: {0}'
+  Text: '제외: {0}'
 - Key: RitualSiteComponent.0-638284025182709486
-  Text: 'Each Mage - Total Skill: {0}'
+  Text: '각 마법사 - 전체 스킬: {0}'
 - Key: RitualSiteUtils.0-638357407844585795
-  Text: '{0} Trauma'
+  Text: '{0} 트라우마'
 - Key: RitualSiteComponent.1-638284025182714541
-  Text: 'Requires Days on Staff: {0:F1}'
+  Text: '교사 재직 기간 조건: {0:F1}'
 - Key: RitualSiteComponent.2-638284025182714541
-  Text: 'Requires Wand Specialization: {0}'
+  Text: '지팡이 조건: {0}'
 - Key: RitualSiteComponent.3-638284025182714541
-  Text: 'Requires {0}: {1}'
+  Text: '{0} 조건: {1}'
 - Key: RitualSiteUtils.0-638296858641913828
   Text: '{0}'
 - Key: RitualSiteUtils.1-638296858641923827
-  Text: +{0} Repel
+  Text: +{0} 추방력
 - Key: RitualSiteUtils.0-638379728718622947
   Text: '{0} <slink=Medallions>'
 - Key: RitualSiteUtils.0-638297655920900315
   Text: '{0} {1}'
 - Key: RitualSiteUtils.0-638334084161137910
-  Text: '{0} Wand'
+  Text: '{0} 지팡이'
 - Key: RitualSiteUtils.1-638334084161137910
-  Text: '{0} Total Skill'
+  Text: 스킬 총합 {0}
 - Key: RitualSiteUtils.2-638334084161137910
   Text: >
-    {0} Staff Days
+    교사 재직 기간 {0}일
 - Key: ScheduledUtils.0-638334084161193450
-  Text: Sleeping
+  Text: 자는 중
 - Key: ScheduledUtils.1-638334084161193450
-  Text: Eating
+  Text: 먹는 중
 - Key: ScheduledUtils.2-638334084161193450
-  Text: Classes
+  Text: 수업 중
 - Key: ScheduledUtils.3-638334084161193450
-  Text: Recreation
+  Text: 휴식 중
 - Key: ScheduledUtils.4-638334084161193450
-  Text: Tasks
+  Text: 일하는 중
 - Key: SkillsUtils.0-638180303660069612
-  Text: '{0} learned {1} skill level {2}!'
+  Text: '{0}(이)가 {2}레벨 {1} 스킬을 배웠습니다!'
 - Key: SkillsUtils.1-638180303660069612
-  Text: Skill level learned
+  Text: 스킬 습득
 - Key: SkillsUtils.0-638334084161228584
-  Text: '{0} <#00FFFF>Skill Up!</color>'
+  Text: '{0} <#00FFFF>스킬 레벨 업!</color>'
 - Key: SkillsUtils.1-638334084161228584
   Text: <#00FFFF>+{0} {1} XP</color>
 - Key: SkillsUtils.2-638334084161228584
   Text: >2-
 
-    Teacher Skill Bonus: <#00FFFF>+{0}%</color>
+    교사 스킬 보너스: <#00FFFF>+{0}%</color>
 - Key: SkillsUtils.3-638334084161228584
   Text: >2-
 
-    Skill Bonus: <#00FFFF>+{0}%</color>
+    스킬 보너스: <#00FFFF>+{0}%</color>
 - Key: SkillsUtils.4-638334084161228584
   Text: >2-
 
-    Teacher Friendship Bonus: <#00FFFF>+{0}%</color>
+    교사 친밀도 보너스: <#00FFFF>+{0}%</color>
 - Key: SkillsUtils.5-638334084161228584
   Text: >2-
 
-    Teacher Rivalry Penalty: <#FF0000>{0}%</color>
+    교사 적대 페널티: <#FF0000>{0}%</color>
 - Key: SkillsUtils.0-638158645056801221
-  Text: No Classroom Learning Bonuses
+  Text: 교실 보너스 없음
 - Key: SkillsUtils.1-638158645056801221
-  Text: 'Classroom Learning Speed: {0}%'
+  Text: '교실 학습 속도: {0}%'
 - Key: SkillsUtils.2-638158645056801221
   Text: >2-
 
@@ -1160,462 +1161,462 @@
 
     {0}% {1}
 - Key: SkillsUtils.4-638158645056801221
-  Text: 'Teaching Bonuses:'
+  Text: '학습 보너스:'
 - Key: SkillsUtils.0-638301217408956799
-  Text: '{0} Skill {1}'
+  Text: '{0} 스킬 {1}'
 - Key: SpellUtils.0-638321222661781044
   Text: >2-
 
-    <#ff0000>Cannot cast spells that require a wand!</color>
+    <#ff0000>지팡이가 필요한 주문을 시전할 수 없습니다!</color>
 - Key: SpellUtils.1-638321222661781044
   Text: >2-
 
-    <#ff0000>Cannot cast spells that deal no direct damage! ({0})</color>
+    <#ff0000>직접 데미지가 없는 주문을 사용할 수 없습니다! ({0})</color>
 - Key: SpellUtils.2-638321222661781044
   Text: >2-
 
-    <#ff0000>Cannot cast direct damage spells! ({0})</color>
+    <#ff0000>직접 데미지가 있는 주문을 사용할 수 없습니다! ({0})</color>
 - Key: SpellUtils.0-638357407844762894
   Text: >2-
 
-    <#ff0000>Cannot cast work spells!</color>
+    <#ff0000>작업 주문을 사용할 수 없습니다!</color>
 - Key: SpellUtils.3-638321222661781044
   Text: >2-
 
-    <#ff0000>Cannot afford mana cost!</color>
+    <#ff0000>마나가 부족합니다!</color>
 - Key: StorageUtils.0-638334084161308306
-  Text: 'Storable in: {0}'
+  Text: '{0}에 보관 가능'
 - Key: StudentUtils.0-638168245700042608
-  Text: '{0} arrived.'
+  Text: '{0}(이)가 도착했습니다.'
 - Key: StudentUtils.1-638168245700042608
-  Text: New student
+  Text: 새 학생
 - Key: StudentUtils.2-638168245700042608
-  Text: 'The following have arrived:'
+  Text: '학교에 도착했습니다:'
 - Key: TimeUtils.0-637707933220010129
-  Text: '{0:0.0} days'
+  Text: '{0:0.0}일'
 - Key: TimeUtils.1-637707933220010129
-  Text: '{0:0.0} hours'
+  Text: '{0:0.0}시간'
 - Key: TimeUtils.2-637707933220010129
-  Text: '{0} minute'
+  Text: '{0}분'
 - Key: TimeUtils.3-637707933220010129
-  Text: '{0} minutes'
+  Text: '{0}분'
 - Key: AboveGroundPotionErrand.0-638313270540981600
-  Text: Disallowed by Consumable Restriction
+  Text: 소비 제한 설정되어 있음
 - Key: AbsorbManaErrand.0-638313270540981600
-  Text: Absorbing Mana
+  Text: 마나 흡수 중
 - Key: AdultifyErrand.0-638313270541006676
-  Text: Graduating
+  Text: 졸업 중
 - Key: AlarmResponseErrand.0-638313270541006676
-  Text: Go To Alarm
+  Text: 알람 확인 중
 - Key: AngryGhostErrand.0-638058384581638335
-  Text: Raging because their path to the dungeon is blocked.
+  Text: 던전으로 가는 길이 막혀 분노하고 있습니다.
 - Key: AssembleCraftedErrand.0-638180303660990652
-  Text: Assembled {0}
+  Text: '{0} 조립 완료'
 - Key: AssembleCraftedErrand.0-638163813976752613
-  Text: 'Assemble {0}: {1} / {2}'
+  Text: '{0} 조립: {1} / {2}'
 - Key: AssembleCraftedErrand.0-638313270541006676
-  Text: Assemble {0}
+  Text: '{0} 조립'
 - Key: AssembleCraftedErrand.1-638163813976752613
-  Text: 'Being Assembled: {0} / {1}'
+  Text: '조립되는 중: {0} / {1}'
 - Key: AssembleCraftedErrand.1-638180303661000650
-  Text: Assembled {0}
+  Text: '{0} 조립 완료'
 - Key: AssembleCraftedErrand.0-638315824289389700
-  Text: 'Enlarge {0}: {1}%'
+  Text: '{0} 확대: {1}%'
 - Key: AssembleCraftedErrand.1-638315824289389700
-  Text: Enlarge {0}
+  Text: '{0} 확대'
 - Key: AssembleCraftedErrand.2-638315824289389700
-  Text: 'Being Enlarged: {0}%'
+  Text: '확대되는 중: {0}%'
 - Key: AttackCreatureErrand.0-638313270541006676
-  Text: Attack {0}
+  Text: '{0} 공격'
 - Key: BaseBreakErrand.0-638301244820126932
-  Text: Died from suffering a <slink=MajorInjury> due to a <slink=break>.
+  Text: <slink=break>로 인한 <slink=MajorInjury>(으)로 죽었습니다.
 - Key: BedRestErrand.0-638252900769505768
-  Text: Medical Rest
+  Text: 체력 회복
 - Key: BedRestErrand.0-638313270541031757
   Text: >-
-    Healing {0}
+    {0} 치료
 
     {1}
 - Key: BedRestErrand.4-638313270541031757
-  Text: 'Unable to reach {0}: {1}'
+  Text: '{0}에 도달할 수 없음: {1}'
 - Key: BedRestErrand.5-638313270541031757
-  Text: 'Unable to reach {0}: {1}'
+  Text: '{0}에 도달할 수 없음: {1}'
 - Key: BedRestErrand.6-638313270541031757
-  Text: '{0} is not reachable'
+  Text: '{0}에 도달할 수 없음'
 - Key: ButlerErrand.0-638313270541031757
-  Text: Buttling
+  Text: 돌보기
 - Key: CastSpellAtBlockerErrand.0-638313270541031757
-  Text: Cast {0}
+  Text: '{0} 시전'
 - Key: CastSpellAtTargetErrand.0-638313270541031757
-  Text: Cast Spell
+  Text: 주문 시전
 - Key: CastSpellAtTargetErrand.0-638345097589004320
   Text: >-
-    {0} {1:P0} Full
+    {0} {1:P0} 충전됨
 
-    {2} available: {3}/{4}
+    {2} 사용 가능: {3}/{4}
 - Key: CastSpellWhenEventEndsErrand.0-638313270541066852
-  Text: Returning Home
+  Text: 귀가 중
 - Key: CastSpellWhenTriggeredErrand.0-638313270541066852
-  Text: Cast Spell
+  Text: 주문 시전
 - Key: CastSpellWhenTriggeredErrand.1-638313270541066852
-  Text: Cast {0}
+  Text: '{0} 시전'
 - Key: CleanErrand.0-638315824289437954
-  Text: 'Progress: {0}%'
+  Text: '진행도: {0}%'
 - Key: CleanErrand.0-638180303661085739
-  Text: Cleaned {0}
+  Text: '{0} 청소 완료'
 - Key: CombatDrinkPotionErrand.0-638313270541077031
-  Text: Combat - Drink {0}
+  Text: 전투 - {0} 복용
 - Key: CombatIdleErrand.0-638315824289437954
-  Text: 'Idle: {0}'
+  Text: '아무것도 안 하는 중: {0}'
 - Key: CompleteSummonErrand.0-638313270541077031
-  Text: Being Summoned
+  Text: 소환되는 중
 - Key: ConstructErrand.0-638336722402505606
-  Text: '{0} is unreachable. Delivery and Construction range improve with {1} and {2} Skill.'
+  Text: '{0}에 도달할 수 없습니다. 운반과 건설 범위는 {1}(와)과 {2} 스킬에 따라 결정됩니다.'
 - Key: ConstructErrand.0-638313270541077031
-  Text: Construct
+  Text: 건설
 - Key: ConstructErrand.0-638315824289437954
-  Text: 'Being Constructed: {0}%'
+  Text: '건설 중: {0}%'
 - Key: ConstructErrand.0-638180303661110771
-  Text: Constructed {0}
+  Text: '{0} 건설 완료'
 - Key: ConstructErrand.2-638313270541077031
-  Text: Needs supporting structure
+  Text: 지지대 필요
 - Key: ConstructErrand.3-638313270541077031
-  Text: Needs supporting structure
+  Text: 지지대 필요
 - Key: ConstructErrand.4-638313270541077031
-  Text: Resources unavailable
+  Text: 재료 부족
 - Key: CraftErrand.0-638313270541077031
-  Text: '{0}: {1}% Complete'
+  Text: '{0}: {1}% 완료'
 - Key: CraftErrand.1-638313270541077031
-  Text: Craft
+  Text: 제작
 - Key: CraftRecipeErrand.0-638313270541122182
-  Text: None
+  Text: 없음
 - Key: CraftWandErrand.0-638313270541122182
-  Text: Unknown Recipe
+  Text: 알 수 없는 제작법
 - Key: CraftWandErrand.1-638313270541122182
-  Text: Unknown Recipe
+  Text: 알 수 없는 제작법
 - Key: DeathErrand.0-638313270541122182
-  Text: Death
+  Text: 죽음
 - Key: DeconstructErrand.0-638315824289483324
-  Text: 'Disintegrate {0}: {1}%'
+  Text: '{0} 분해: {1}%'
 - Key: DeconstructErrand.1-638315824289483324
-  Text: Disintegrate {0}
+  Text: '{0} 분해'
 - Key: DeconstructErrand.2-638315824289483324
-  Text: 'Being Disintegrated: {0}%'
+  Text: '분해되는 중: {0}%'
 - Key: DeconstructErrand.3-638313270541122182
-  Text: Cannot disintegrate; Needed to support school
+  Text: 분해할 수 없음; 학교를 지지하는 데 필요함
 - Key: DeconstructErrand.4-638313270541122182
-  Text: Disintegrating
+  Text: 분해 중
 - Key: DeconstructErrand.0-637939109843141700
-  Text: Required for Support
+  Text: 다른 구조물을 지지하는 중
 - Key: DeconstructErrand.0-638180303661190812
-  Text: Disintegrated {0}
+  Text: '{0} 분해 완료'
 - Key: DeliveryErrand.0-638313270541122182
-  Text: Deliver {0} {1}
+  Text: '{0} {1} 배달 중'
 - Key: DeliveryErrand.1-638313270541122182
-  Text: Deliver
+  Text: 배달
 - Key: DepletingGatherErrand.0-638313270541122182
-  Text: 'Resources remaining: {0}'
+  Text: '남은 자원: {0}'
 - Key: DestinationFinderErrand.0-638179427223580422
   Text: >
-    Students: {0}
+    학생: {0}
 
-    Staff: {1}
+    교사: {1}
 - Key: DestinationFinderErrand.1-638179427223580422
-  Text: Summon additional students at the <slink=SummoningFocus>
+  Text: <slink=SummoningFocus>에서 학생을 더 소환하세요
 - Key: DestroyClutterErrand.0-638313270541122182
-  Text: Destroy clutter
+  Text: 쓰레기더미 파괴
 - Key: DiningErrand.0-638313270541167687
-  Text: Dine
+  Text: 식사
 - Key: DisassembleCraftedErrand.0-638180303661245899
-  Text: Shrunk {0}
+  Text: '{0} 축소 완료'
 - Key: DisassembleCraftedErrand.0-638315824289483324
-  Text: 'Shrink {0} for move: {1}%'
+  Text: '{0} 이동을 위한 축소: {1}%'
 - Key: DisassembleCraftedErrand.1-638315824289483324
-  Text: Shrink {0} for move
+  Text: '{0} 이동을 위한 축소'
 - Key: DisassembleCraftedErrand.2-638315824289483324
-  Text: 'Shrink {0}: {1}%'
+  Text: '{0} 축소: {1}%'
 - Key: DisassembleCraftedErrand.3-638315824289483324
-  Text: Shrink {0}
+  Text: '{0} 축소'
 - Key: DisassembleCraftedErrand.4-638315824289483324
-  Text: 'Being shrunk for move: {0}%'
+  Text: '이동을 위해 축소되는 중: {0}%'
 - Key: DisassembleCraftedErrand.5-638313270541167687
-  Text: Waiting for move
+  Text: 이동 대기 중
 - Key: DisassembleCraftedErrand.5-638315824289483324
-  Text: 'Being shrunk: {0}%'
+  Text: '축소 중: {0}%'
 - Key: DisassembleCraftedErrand.7-638313270541167687
-  Text: Waiting for shrinking
+  Text: 축소 대기 중
 - Key: DisintegrateCraftedErrand.0-638180303661255901
-  Text: Disintegrated {0}
+  Text: '{0} 분해 완료'
 - Key: DisintegrateCraftedErrand.0-638315824289483324
-  Text: 'Disintegrate {0}: {1}%'
+  Text: '{0} 분해: {1}%'
 - Key: DisintegrateCraftedErrand.1-638315824289483324
-  Text: Disintegrate {0}
+  Text: '{0} 분해'
 - Key: DisintegrateCraftedErrand.2-638315824289483324
-  Text: 'Being disintegrated: {0}%'
+  Text: '분해되는 중: {0}%'
 - Key: DisintegrateCraftedErrand.3-638313270541167687
-  Text: Waiting for disintegration
+  Text: 분해 대기 중
 - Key: EatErrand.0-638313270541167687
-  Text: Eat {0}
+  Text: '{0} 먹기'
 - Key: EatErrand.1-638313270541167687
-  Text: '{0} <slink=Mood> when eaten'
+  Text: 섭취 시 <slink=Mood> {0} 상승
 - Key: EatErrand.0-638144803786869447
-  Text: 'Edible For:'
+  Text: '다음 종족만 먹을 수 있음:'
 - Key: EatErrand.2-638313270541167687
-  Text: '{0} characters can not eat {1}'
+  Text: '{0}(은)는 {1}(을)를 먹을 수 없습니다'
 - Key: EatErrand.3-638313270541167687
-  Text: Marked for Hunt
+  Text: 사냥 대상으로 지정됨
 - Key: EatErrand.4-638313270541167687
-  Text: Disallowed by Consumable Restriction
+  Text: 소비 제한이 설정되어 있음
 - Key: EquipForBattleErrand.0-638313270541167687
-  Text: Take Equipment
+  Text: 장비 가져가기
 - Key: ExhumeGraveErrand.0-638180303661275900
-  Text: Exhumed the corpse
+  Text: 무덤 파냄
 - Key: ExhumeGraveErrand.0-638313270541167687
-  Text: Exhume
+  Text: 무덤 파기
 - Key: ExploreDungeonErrand.0-638291698148274097
-  Text: Explore Underschool Room
+  Text: 지하세계 탐험하기
 - Key: FillPotionCacheErrand.0-638313270541167687
-  Text: Collect Potions
+  Text: 물약 가져가기
 - Key: FinishBossErrand.0-638313270541167687
-  Text: Finishing Boss
+  Text: 보스 끝장내는 중
 - Key: GatherResourcesErrand.0-638313270541212789
-  Text: '{0} at Night'
+  Text: 밤에 {0}
 - Key: GatherResourcesErrand.0-638313273585453124
-  Text: Requires {0} to {1}
+  Text: '{1}(을)를 하려면 {0} 필요'
 - Key: GatherResourcesErrand.0-638373896632938336
   Text: >2-
 
-    Progress: {0}/{1}
+    진행도: {0}/{1}
 - Key: GatherResourcesErrand.1-638313270541212789
-  Text: Only allowed at night
+  Text: 밤에만 가능
 - Key: GatherResourcesErrand.2-638313270541212789
-  Text: Only allowed during daytime
+  Text: 낮에만 가능
 - Key: GatherResourcesErrand.3-638313270541212789
-  Text: Only allowed between {0} and {1}
+  Text: '{0}(와)과 {1} 사이에만 가능'
 - Key: GiveFoodErrand.0-638313270541212789
-  Text: Feeding {0}
+  Text: '{0} 먹이 주는 중'
 - Key: GiveFoodErrand.1-638313270541212789
-  Text: Can't reach {0}
+  Text: '{0}에 도달할 수 없음'
 - Key: GiveFoodErrand.2-638313270541212789
-  Text: No meal available for {0}
+  Text: '{0}(이)가 먹을 수 있는 식사가 없음'
 - Key: GivePotionErrand.0-638313270541227960
-  Text: Administering {0:false)} to {1}
+  Text: '{1}에게 {0:false)} 처방 중'
 - Key: GoToValidCellErrand.0-638313412186957251
-  Text: Go To Valid Cell
+  Text: 비어 있는 방으로 가기
 - Key: GraduationCeremonyErrand.0-638313270541227960
-  Text: Attending Graduation
+  Text: 졸업식 참여 중
 - Key: IdleErrand.0-638315824289528477
-  Text: 'Idle: {0}'
+  Text: '아무 것도 안 하는 중: {0}'
 - Key: LearnErrand.0-638313270541257988
-  Text: 'Learn: {0}'
+  Text: '학습: {0}'
 - Key: LearnErrand.1-638313270541257988
-  Text: 'Learn: No class active'
+  Text: '학습: 열려 있는 수업이 없음'
 - Key: LeaveSchoolErrand.0-638313270541257988
-  Text: Leaving School
+  Text: 학교 떠나는 중
 - Key: LeaveSchoolImmediateErrand.0-638313270541257988
-  Text: Leave School
+  Text: 학교 떠나기
 - Key: LeaveSchoolWithStudentErrand.0-638313270541257988
-  Text: Stealing Student
+  Text: 학생 납치하는 중
 - Key: LectureErrand.0-638313270541257988
-  Text: Lecture Students
+  Text: 학생 가르치기
 - Key: ManaRefillErrand.1-638313270541257988
-  Text: Restore Mana
+  Text: 마나 회복
 - Key: ManaRefillErrand.2-638313270541257988
-  Text: '{0} Level: {1:P0}'
+  Text: '{0} 레벨: {1:P0}'
 - Key: ManaRefillErrand.0-638175164117407799
   Text: >2-
 
-    Refills Remaining: {0} / {1}
+    충전 횟수: {0} / {1}
 - Key: ManaRefillErrand.0-637904677535062183
-  Text: Lantern is empty (needs Mana Sprites).
+  Text: 등불이 비어 있습니다 (마나 스프라이트가 필요합니다).
 - Key: ManaRefillErrand.0-638169895943572714
-  Text: Lantern needs to be charged.
+  Text: 등불을 충전해야 합니다.
 - Key: ManaRefillErrand.0-638169898848925077
-  Text: Lantern charges will be depleted by current users.
+  Text: 등불의 충전 횟수가 곧 고갈됩니다.
 - Key: MerchantErrand.0-638313270541257988
-  Text: Deliver Gold to {0}
+  Text: '{0}에게 금 배달'
 - Key: MerchantErrand.1-638313270541257988
-  Text: Not enough available gold
+  Text: 금 부족
 - Key: MoveAssembledErrand.0-638315824289584158
-  Text: Move {0}
+  Text: '{0} 이동'
 - Key: MoveAssembledErrand.1-638315824289584158
-  Text: 'Moving: {0}%'
+  Text: '이동 중: {0}%'
 - Key: MoveAssembledErrand.2-638313270541257988
-  Text: Waiting for move
+  Text: 이동 대기 중
 - Key: MoveAssembledErrand.0-638180303661400981
-  Text: Moved {0}
+  Text: '{0} 이동 완료'
 - Key: MoveErrand.0-638313270541257988
-  Text: Move
+  Text: 이동
 - Key: MoveErrand.0-638180303661416035
-  Text: Moved {0}
+  Text: '{0} 이동 완료'
 - Key: MoveHereErrand.0-638313270541303491
-  Text: Move to destination
+  Text: 목적지로 이동
 - Key: NightmareErrand.0-638313270541303491
-  Text: Nightmare
+  Text: 악몽
 - Key: OneTimeMoveErrand.0-638313270541303491
-  Text: Exploring
+  Text: 탐색 중
 - Key: OpenBlockerErrand.0-638313270541303491
-  Text: Open Ancient Gate
+  Text: 고대의 문 열기
 - Key: PassOutErrand.0-638313412186987314
-  Text: Pass Out
+  Text: 기절
 - Key: PayDungeonCostErrand.0-638313412187007994
-  Text: Gather Offering
+  Text: 제물 바치기
 - Key: PlayerSpellCastErrand.0-638313412187007994
-  Text: Cast {0} on {1}
+  Text: '{1}에 {0} 시전'
 - Key: PlayerSpellCastErrand.1-638313412187007994
-  Text: '{0} casting {1} on {2}'
+  Text: '{0}(이)가 {2}에 {1} 시전 중'
 - Key: PostAdultifyErrand.0-638313412187007994
-  Text: Graduating
+  Text: 졸업 중
 - Key: PutAwayErrand.0-638313412187007994
-  Text: Bury
+  Text: 묻기
 - Key: PutAwayErrand.1-638313412187007994
-  Text: Store
+  Text: 보관
 - Key: PutAwayErrand.2-638313412187007994
-  Text: No valid storage
+  Text: 보관할 수 있는 곳 없음
 - Key: PutInInventoryErrand.0-638313412187007994
-  Text: Equip
+  Text: 장착
 - Key: PutInInventoryErrand.1-638313412187007994
-  Text: Equip Permanently
+  Text: 영구 장착
 - Key: PutInInventoryErrand.2-638313412187007994
   Text: >2-
 
-    <size=-2><i>Replaces {0}</i></size>
+    <size=-2><i>{0} 대체</i></size>
 - Key: PutInInventoryErrand.3-638313412187007994
-  Text: Put In Inventory
+  Text: 보관하기
 - Key: PutInInventoryErrand.4-638313412187007994
-  Text: Equipping gear is permanent. Are you sure?
+  Text: 이 장비를 장착하는 행동은 취소할 수 없습니다. 진행하시겠습니까?
 - Key: PutInInventoryErrand.5-638313412187007994
-  Text: Equipping gear is permanent and will destroy the equipped {0}. Are you sure?
+  Text: 이 장비를 장착하는 행동은 취소할 수 없으며 장착된 {0}(은)는 파괴됩니다. 진행하시겠습니까?
 - Key: RecreationErrandComponent.0-638310744740456116
   Text: >
-    Required Group: {0}
+    요구 그룹: {0}
 - Key: RecreationErrandComponent.1-638310744740456116
   Text: >
-    Recreation Type: {0}
+    휴식 타입: {0}
 - Key: RefillSkillErrand.0-638180303661496074
-  Text: Refilled {0}
+  Text: '{0} 충전 완료'
 - Key: RefillSkillErrand.0-638313412187053055
-  Text: Refill {0}
+  Text: '{0} 충전'
 - Key: RemoveStatusErrand.0-638313412187053055
-  Text: Remove {0}
+  Text: '{0} 제거'
 - Key: RemoveStatusErrand.0-638180303661496074
-  Text: Removed {2} from {1}
+  Text: '{1}에서 {2} 제거 완료'
 - Key: RemoveStatusErrand.1-638180303661496074
-  Text: Removed {2} from {1}
+  Text: '{1}에서 {2} 제거 완료'
 - Key: RepairErrand.0-638313412187053055
-  Text: Repair
+  Text: 수리
 - Key: RepairErrand.1-638313412187053055
-  Text: Being repaired
+  Text: 수리 중
 - Key: RepairErrand.2-638313412187053055
-  Text: Waiting for repair
+  Text: 수리 대기 중
 - Key: RepairErrand.0-638180303661511115
-  Text: Repaired {0}
+  Text: '{0} 수리 완료'
 - Key: RepelFogInfoComponent.0-638289049275122440
-  Text: 'Fog Repelled: {0} / {1}'
+  Text: '안개 추방: {0} / {1}'
 - Key: ResearchErrand.0-638313412187053055
-  Text: No Research Selected
+  Text: 진행 중인 연구 없음
 - Key: ResearchErrand.1-638313412187053055
-  Text: Researching {0} (Waiting on Materials)
+  Text: '{0} 연구 중 (재료 기다리는 중)'
 - Key: ResearchErrand.2-638313412187053055
-  Text: Researching {0} ({1} / {2})
+  Text: '{0} 연구 중 ({1} / {2})'
 - Key: ResearchErrand.3-638313412187053055
-  Text: Researching {0}
+  Text: '{0} 연구 중'
 - Key: ResearchErrand.4-638313412187053055
-  Text: Research
+  Text: 연구
 - Key: ResearchErrand.0-638180303661521169
-  Text: Researched {1} [{2}]
+  Text: '{1} 연구 완료 [{2}]'
 - Key: ResearchErrand.1-638180303661521169
-  Text: Researched {1} [{2}]
+  Text: '{1} 연구 완료 [{2}]'
 - Key: RestockInventoryErrand.0-638313412187053055
-  Text: Restock Inventory
+  Text: 재고 채우기
 - Key: ReturnToSpawnErrand.0-638313412187053055
-  Text: Returning Home
+  Text: 귀가 중
 - Key: RitualErrand.0-638313412187053055
-  Text: Perform Ritual
+  Text: 의식 수행
 - Key: SatisfyAffectionNeedErrand.0-638313412187053055
-  Text: Care for {0}
+  Text: '{0} 돌보기'
 - Key: SatisfyFeedingNeedErrand.0-638313412187053055
-  Text: Feed {0}
+  Text: '{0} 먹이 주기'
 - Key: SatisfyFeedingNeedErrand.0-638404054168652086
-  Text: No available {0}
+  Text: '{0} 없음'
 - Key: ScoutingErrand.0-638185487105126871
-  Text: Scouting
+  Text: 탐색 중
 - Key: SimpleGatherErrand.0-638313412187053055
-  Text: '{0} when grown'
+  Text: 다 자라면 {0}
 - Key: SimpleGatherErrand.1-638313412187053055
-  Text: '{0} when grown'
+  Text: 다 자라면 {0}
 - Key: SimpleGatherErrand.2-638313412187053055
-  Text: Hunted
+  Text: 사냥됨
 - Key: SimpleGatherErrand.0-637976317086436049
-  Text: '{0} hunted by {1}.'
+  Text: '{1}(이)가 {0}(을)를 사냥함.'
 - Key: SimpleGatherErrand.0-638046448367387712
-  Text: '{0} hunted by {1}.'
+  Text: '{1}(이)가 {0}(을)를 사냥함.'
 - Key: SimpleGatherErrand.1-638046448367387712
-  Text: '{0} hunted.'
+  Text: '{0} 사냥 완료.'
 - Key: SleepErrand.0-638313412187098224
-  Text: Sleep On Floor
+  Text: 바닥에서 수면
 - Key: SleepErrand.1-638313412187098224
-  Text: Sleep
+  Text: 수면
 - Key: SleepErrand.5-638313412187098224
-  Text: 'Unable to reach {0}: {1}'
+  Text: '{0}에 도달할 수 없음: {1}'
 - Key: SleepErrand.6-638313412187098224
-  Text: 'Unable to reach {0}: {1}'
+  Text: '{0}에 도달할 수 없음: {1}'
 - Key: SleepErrand.7-638313412187098224
-  Text: '{0} is not reachable'
+  Text: '{0}에 도달할 수 없음'
 - Key: SoulJoinErrand.0-638313412187098224
-  Text: Join Soul
+  Text: 강령
 - Key: SoulJoinErrand.0-638180303661581157
-  Text: '{0} is alive!'
+  Text: '{0}(이)가 살아났습니다!'
 - Key: SoulJoinErrand.1-638180303661581157
-  Text: Merged Soul
+  Text: 강령 완료
 - Key: SoulJoinErrand.2-638180303661581157
-  Text: 'Souls have merged:'
+  Text: '강령이 완료되었습니다:'
 - Key: SoulJoinErrand.3-638180303661581157
-  Text: Merged soul with body
+  Text: 몸에 영혼을 강령시킴
 - Key: StartGameWanderErrand.0-638367830936676759
-  Text: Waiting to Repel Fog
+  Text: 안개 추방 대기 중
 - Key: StartPlantErrand.0-638313412187113365
-  Text: Plant Seed
+  Text: 씨앗 심기
 - Key: StartPlantErrand.1-638313412187113365
-  Text: Plant
+  Text: 심기
 - Key: StartPlantErrand.0-638180303661596188
-  Text: Planted {0}
+  Text: '{0} 심기 완료'
 - Key: StayNearCasterErrand.0-638313412187113365
-  Text: Stay Near Caster
+  Text: 시전자 곁에 있기
 - Key: TakeInventoryErrand.0-638313412187113365
-  Text: Take {0}
+  Text: '{0} 가져가기'
 - Key: TakeInventoryErrand.1-638313412187113365
-  Text: Take {0}
+  Text: '{0} 가져가기'
 - Key: TakeInventoryErrand.2-638313412187113365
-  Text: Take item
+  Text: 아이템 가져가기
 - Key: TakeStudentErrand.0-638313412187113365
-  Text: Take Student
+  Text: 학생 납치하기
 - Key: TendPlanterErrand.0-638313412187113365
-  Text: Tending {0}
+  Text: '{0} 돌보는 중'
 - Key: TendPlanterErrand.1-638313412187113365
-  Text: <slink={0}> to speed growth.
+  Text: <slink={0}>(을)를 통해 성장 속도를 빠르게 할 수 있습니다.
 - Key: UprootErrand.0-638313412187113365
-  Text: Destroy
+  Text: 뽑기
 - Key: UprootErrand.0-638180303661631375
-  Text: Destroyed {0}
+  Text: '{0} 뽑기 완료'
 - Key: UseBestDamageSpellOnCreatureErrand.0-638313412187143397
-  Text: '{0} does not know an appropriate damage spell.'
+  Text: '{0}(은)는 직접 데미지를 가하는 주문을 모릅니다.'
 - Key: BaseErrandComponent.0-638310744740716972
-  Text: '{0} is unreachable.'
+  Text: '{0}에 도달할 수 없습니다.'
 - Key: BaseErrandComponent.1-638310744740716972
-  Text: Requires {0}.
+  Text: '{0}(이)가 필요합니다.'
 - Key: BaseErrandComponent.3-638310744740716972
-  Text: Must be repaired
+  Text: 수리 필요
 - Key: BaseErrandComponent.0-638357407847158200
-  Text: Ritual in progress
+  Text: 의식 진행 중
 - Key: CriticalErrorScreen.0-638415221464758737
-  Text: "CRITICAL ERROR: We are terribly sorry, but an error occurred in the game simulation. The game halted execution to avoid corrupting your save data.\n\nWe would appreciate it if you could let us know what you were doing when this happened. This is totally optional, but very helpful.\n \n"
+  Text: "치명적 오류: 대단히 죄송합니다. 게임 시뮬레이션에 치명적 오류가 발생했습니다. 세이브 데이터의 오염을 막기 위해 게임 실행이 중지되었습니다. \n\n여러분이 어떤 행동을 했을 때 이 문제가 발생했는지 저희에게 알려 주시면 게임 개발에 큰 도움이 될 것입니다.\n \n"
 - Key: FogOfWarCommandBuilder.0-638333251362130522
-  Text: Game Over
+  Text: 게임 오버
 - Key: FogOfWarCommandBuilder.1-638333251362130522
-  Text: The fog has reclaimed your school.
+  Text: 안개가 학교를 지배했습니다.
 - Key: FogOfWarCommandBuilder.2-638333251362130522
-  Text: Main Menu
+  Text: 메인 메뉴로 돌아가기
 - Key: LocKeyCodeLookup.0-638404054163018981
   Text: Mouse Wheel Left
 - Key: LocKeyCodeLookup.1-638404054163034027
@@ -1746,242 +1747,242 @@
   Text: >2-
 
 
-    Research Completed
+    연구 완료
 - Key: GameTextLinkHandler.2-638309805090591307
   Text: >2-
 
 
-    Work Completed: {0} / {1}
+    작업 진행: {0} / {1}
 - Key: GameTextLinkHandler.0-638301241769971490
-  Text: 'Earned:'
+  Text: '획득:'
 - Key: GameTextLinkHandler.1-638301241769981492
-  Text: 'Will Earn:'
+  Text: '획득 예정:'
 - Key: GameTextLinkHandler.0-638297882737596217
   Text: >2-
 
 
-    Trauma: {0}
+    트라우마: {0}
 
-    Time To Heal: {1}
+    회복 시간: {1}
 - Key: GameTextLinkHandler.3-638309805090591307
   Text: >
-    Skill Required for Use: <style=Link>{0}</style>
+    사용에 필요한 스킬: <style=Link>{0}</style>
 - Key: GameTextLinkHandler.4-638309805090591307
   Text: >2-
 
-    Heals {0} per hour
+    시간당 {0} 회복
 - Key: GameTextLinkHandler.5-638309805090591307
   Text: >2-
 
-    Heals {0:0} over {1:0} minutes
+    {1:0}분 동안 {0:0} 회복
 - Key: GameTextLinkHandler.6-638309805090591307
   Text: >2-
 
-    Deals {0} per hour
+    시간당 {0} 데미지
 - Key: GameTextLinkHandler.7-638309805090591307
   Text: >2-
 
-    Deals {0:0} damage over {1:0} minutes
+    {1:0}분 동안 {0:0} 데미지
 - Key: GameTextLinkHandler.8-638309805090591307
   Text: >2-
 
-    {0} Max {1}
+    {0} 최대 {1}
 - Key: GameTextLinkHandler.9-638309805090591307
   Text: >2-
 
-    {0} Max {1}
+    {0} 최대 {1}
 - Key: GameTextLinkHandler.0-638328080320860163
-  Text: 'Recipe: {0}'
+  Text: '제작법: {0}'
 - Key: GameTextLinkHandler.11-638309805090591307
   Text: >2-
 
-    Produces {0}
+    {0} 생성
 - Key: GameTextLinkHandler.12-638309805090591307
   Text: >2-
 
-    Ingredients:
+    재료:
 - Key: GameTextLinkHandler.13-638309805090591307
   Text: >2-
 
-    Conviction {0} when eaten
+    섭취 시 만족도 {0}
 - Key: GameTextLinkHandler.14-638309805090591307
   Text: >2-
 
-    Can Eat: {0}
+    섭취 가능: {0}
 - Key: GameTextLinkHandler.15-638309805090591307
   Text: >2-
 
 
-    Adds Statuses: {0: null)))}
+    상태 부여: {0: null)))}
 - Key: GameTextLinkHandler.16-638309805090591307
   Text: >2-
 
 
-    Skill
+    스킬
 - Key: GameTextLinkHandler.17-638309805090591307
   Text: >2-
 
 
-    Max Skill
+    최대 스킬
 - Key: GameTextLinkHandler.18-638309805090591307
   Text: >2-
 
-    Sources: {0}
+    출처: {0}
 - Key: GameTextLinkHandler.19-638309805090591307
-  Text: <style=TextSubLinkTitle>Must have one:</style>
+  Text: <style=TextSubLinkTitle>이 중 하나 필요:</style>
 - Key: GameTextLinkHandler.20-638309805090591307
-  Text: <style=TextSubLinkTitle>Must have:</style>
+  Text: <style=TextSubLinkTitle>모두 필요:</style>
 - Key: GameTextLinkHandler.21-638309805090591307
-  Text: <style=TextSubLinkTitle>Must not have:</style>
+  Text: <style=TextSubLinkTitle>없어야 함:</style>
 - Key: GameTextLinkHandler.0-638403284185734874
-  Text: Exactly {0}
+  Text: 정확히 {0}개
 - Key: GameTextLinkHandler.22-638309805090591307
-  Text: No
+  Text: 없어야 함
 - Key: GameTextLinkHandler.23-638309805090591307
-  Text: '{0} or fewer'
+  Text: '{0}개 이하'
 - Key: GameTextLinkHandler.24-638309805090591307
-  Text: '{0} or less'
+  Text: '{0} 이하'
 - Key: GameTextLinkHandler.25-638309805090591307
-  Text: Any
+  Text: 아무
 - Key: GameTextLinkHandler.26-638309805090591307
-  Text: '{0} or greater'
+  Text: '{0} 이상'
 - Key: GameTextLinkHandler.27-638309805090591307
-  Text: '{0} or more'
+  Text: '{0}개 이상'
 - Key: GameTextLinkHandler.28-638309805090591307
-  Text: '{0} or greater'
+  Text: '{0} 이상'
 - Key: GameTextLinkHandler.29-638309805090591307
-  Text: Unknown Comparator
+  Text: 알 수 없는 비교자
 - Key: GameTextLinkHandler.30-638309805090591307
-  Text: 'No '
+  Text: '없어야 함: '
 - Key: GameTextLinkHandler.31-638309805090591307
-  Text: Less than {0:P0}
+  Text: '{0:P0} 이하'
 - Key: GameTextLinkHandler.32-638309805090591307
-  Text: Greater than {0:P0}
+  Text: '{0:P0} 이상'
 - Key: GameTextLinkHandler.33-638309805090591307
-  Text: Unknown Comparator
+  Text: 알 수 없는 비교자
 - Key: GameTextLinkHandler.34-638309805090591307
   Text: >2-
 
-      - {0: false, (int)criteria.Value)} Luxury
+      - {0: false, (int)criteria.Value)} 화려함
 - Key: GameTextLinkHandler.35-638309805090591307
   Text: >2-
 
-      - {0: false, (int)criteria.Value)} Width of Room
+      - {0: false, (int)criteria.Value)} 방 너비
 - Key: GameTextLinkHandler.36-638309805090591307
   Text: >2-
 
-      - {0} Pathability
+      - {0} 방 입구
 - Key: GameTextLinkHandler.37-638309805090591307
   Text: >2-
 
-      - Assigned to group {0}
+      - {0}에 할당됨
 - Key: GameTextLinkHandler.38-638309805090591307
   Text: >2-
 
-      - All {0} assigned to group {1}
+      - 모든 {0}(이)가 {1}에 할당됨
 - Key: GameTextLinkHandler.39-638309805090591307
-  Text: 'Nightmare: {0}'
+  Text: '악몽: {0}'
 - Key: GameTextLinkHandler.42-638309805090591307
   Text: >2-
 
-    Total Damage: {0}
+    총 데미지: {0}
 - Key: GameTextLinkHandler.43-638309805090591307
   Text: >2-
 
-      Base Damage: {0}
+      기본 데미지: {0}
 - Key: GameTextLinkHandler.44-638309805090591307
   Text: >2-
 
-    Base Healing: {0}
+    기본 회복: {0}
 - Key: GameTextLinkHandler.45-638309805090591307
   Text: >2-
 
-      Power Modifier: {0}
+      마력 계수: {0}
 - Key: GameTextLinkHandler.46-638309805090591307
   Text: >2-
 
-      Berzerk Modifier: {0}
+      폭주 계수: {0}
 - Key: GameTextLinkHandler.47-638309805090591307
   Text: >2-
 
-      Skill Damage Modifier: {0}
+      스킬 데미지 계수: {0}
 - Key: GameTextLinkHandler.48-638309805090591307
   Text: >2-
 
-      Percent Damage Modifier: {0}
+      데미지 비율 계수: {0}
 - Key: GameTextLinkHandler.49-638309805090591307
   Text: >2-
 
-      Percent Healing Modifier: {0}
+      회복 비율 계수: {0}
 - Key: GameTextLinkHandler.50-638309805090591307
   Text: >2-
 
-      Skill Healing Modifier: {0}
+      스킬 회복 계수: {0}
 - Key: GameTextLinkHandler.51-638309805090591307
   Text: >2-
 
-      Per Cast Attack Modifier: {0}
+      시전당 공격 계수: {0}
 - Key: GameTextLinkHandler.52-638309805090591307
   Text: >2-
 
-      Conditional Damage Modifier: {0}
+      조건부 데미지 계수: {0}
 - Key: GameTextLinkHandler.53-638309805090591307
   Text: >2-
 
-    Base Damage: {0}
+    기본 데미지: {0}
 - Key: GameTextLinkHandler.54-638309805090591307
   Text: >2-
 
-    Base Healing: {0}
+    기본 회복: {0}
 - Key: GameTextLinkHandler.0-638357407847438630
   Text: >2-
 
-    Mana Cost: {0} ({1} base cost, {2} extra cost from debuffs)
+    마나 비용: {0}(기본 비용 {1}, 디버프로 인한 추가 비용 {2})
 - Key: GameTextLinkHandler.55-638309805090591307
   Text: >2-
 
-    Mana Cost: {0}
+    마나 비용: {0}
 - Key: GameTextLinkHandler.56-638309805090591307
   Text: >2-
 
-    Mana Cost: {0}% of current mana
+    마나 비용: 현재 마나의 {0}%
 - Key: GameTextLinkHandler.58-638309805090591307
-  Text: Heals {0:0} over {1:0} minutes
+  Text: '{1:0}분 동안 {0:0} 회복'
 - Key: GameTextLinkHandler.59-638309805090591307
-  Text: Deals {0:0} damage over {1:0} minutes
+  Text: '{1:0}분 동안 {0:0} 데미지'
 - Key: SimAlertsProcessor.0-638404054169693243
-  Text: Auto-Save Completed
+  Text: 자동 저장 완료
 - Key: SimAlertsProcessor.1-638404054169693243
-  Text: Save Completed
+  Text: 저장 완료
 - Key: ViewCombatUtils.0-638333251362517254
-  Text: ARMOR
+  Text: 아머
 - Key: ViewCombatUtils.1-638333251362517254
-  Text: SHIELD
+  Text: 쉴드
 - Key: ViewCombatUtils.2-638333251362517254
-  Text: ARMOR
+  Text: 아머
 - Key: ViewCombatUtils.3-638333251362517254
-  Text: ARMOR
+  Text: 아머
 - Key: ViewCombatUtils.4-638333251362517254
-  Text: SHIELD
+  Text: 쉴드
 - Key: ViewCombatUtils.5-638333251362517254
-  Text: SHIELD
+  Text: 쉴드
 - Key: SaveLoad.0-638385715191967370
-  Text: Save Failed
+  Text: 저장 실패
 - Key: SaveLoad.1-638385715191967370
   Text: >-
-    Something went wrong while saving to the file "{0}".
+    저장 중 오류가 발생했습니다 - 저장 파일: "{0}".
 
-    Error: {1}
+    에러: {1}
 
-    Please use F8 to report this if the issue persists.
+    문제가 계속 발생하면 F8을 눌러 저희에게 알려 주세요.
 - Key: SaveLoad.2-638385715191967370
   Text: Ok
 - Key: GraphicsSettings.0-638212360973055775
-  Text: High
+  Text: 고급
 - Key: GraphicsSettings.1-638212360973055775
-  Text: Medium
+  Text: 중급
 - Key: GraphicsSettings.2-638212360973055775
-  Text: Low
+  Text: 하급
 - Key: CreditsWindow.0-638368791893933161
   Text: Additional Development
 - Key: CreditsWindow.1-638368791893943188
@@ -1991,90 +1992,90 @@
 - Key: DefaultMouseOverWidget.0-638330497789063147
   Text: >2-
 
-    {0} Immediate Task for {1}
+    {1}에게 직접 명령: {0}
 - Key: DifficultySelectWindow.0-638333251363192022
-  Text: Accept
+  Text: 동의
 - Key: DifficultySelectWindow.0-638374630242649566
-  Text: The Experience Ahead...
+  Text: 이 게임은...
 - Key: DifficultySelectWindow.1-638374630242659567
   Text: >-
-    Mind Over Magic is a game where you build your own school for Mages. You don't directly control your Mages, however. Instead, you place objects for them to build and select Tasks that need to be done based on priorities you set.
+    Mind Over Magic은 여러분만의 마법 학교를 만드는 게임입니다. 다만 마법사들을 직접 조종할 수는 없습니다. 그 대신, 여러분은 학교를 설계하고, 가구들을 배치하고, 마법사들의 행동을 지정하거나 우선 순위를 정할 수 있습니다.
 
 
-    You will need to experiment, fail, remodel, and try again. Even though there is danger and pressure, the game is designed to let you try and try again even without restarting.
+    여러분은 실험하고, 실패하고, 새롭게 시도해야 할 것입니다. 위험과 압박은 존재하겠지만, 이 게임은 여러분이 게임을 다시 시작하지 않아도 실패에서 다시 일어날 수 있도록 설계되었습니다.
 - Key: DifficultySelectWindow.2-638374630242659567
-  Text: I Got This
+  Text: 좋아요
 - Key: FileWidget.0-638333251363201989
-  Text: Newest Save
+  Text: 최신 저장 파일
 - Key: FileWidget.1-638333251363201989
-  Text: Load Game
+  Text: 로드하기
 - Key: FileWidget.0-638359255635658157
-  Text: Copy Autosave
+  Text: 자동 저장 복사하기
 - Key: FileWidget.1-638359255635658157
-  Text: Please name the new save game file
+  Text: 저장 파일의 이름을 입력하세요
 - Key: FileWidget.2-638359255635658157
-  Text: Copy Failed
+  Text: 복사 실패
 - Key: FileWidget.3-638359255635658157
   Text: >-
-    Replay Version: {0}
+    리플레이 버전: {0}
 
-    Running Version: {1}
+    실행 버전: {1}
 - Key: FinalizeNewGameScreen.0-638385721736500907
-  Text: Customize
+  Text: 커스터마이즈
 - Key: FinalizeNewGameScreen.0-638357407848743458
-  Text: Start Game
+  Text: 게임 시작
 - Key: FinalizeNewGameScreen.0-638359255635678176
-  Text: One
+  Text: 하나
 - Key: FinalizeNewGameScreen.1-638359255635678176
-  Text: Two
+  Text: 둘
 - Key: FinalizeNewGameScreen.2-638359255635678176
-  Text: Three
+  Text: 셋
 - Key: FinalizeNewGameScreen.3-638359255635678176
-  Text: Four
+  Text: 넷
 - Key: FinalizeNewGameScreen.4-638359255635678176
-  Text: Five
+  Text: 다섯
 - Key: FinalizeNewGameScreen.5-638359255635678176
-  Text: '- {0} Starting Staff'
+  Text: '- 시작 교사 {0}'
 - Key: FinalizeNewGameScreen.6-638359255635678176
   Text: >2-
 
-    - Fog advances at a {0} pace
+    - 안개가 {0} 몰려옵니다
 - Key: FinalizeNewGameScreen.7-638359255635678176
   Text: >2-
 
-    - Maximum of {0} concurrent events
+    - 최대 동시 이벤트 {0}
 - Key: FinalizeNewGameScreen.8-638359255635678176
   Text: >2-
 
-    - Fully Trained students gain a {0} Conviction penalty
+    - 교육을 마친 학생들이 만족도 페널티 {0}(을)를 얻습니다
 - Key: FinalizeNewGameScreen.9-638359255635678176
   Text: >2-
 
-    - Room Keywords are shuffled
+    - 방 키워드가 랜덤하게 변경됩니다
 - Key: FinalizeNewGameScreen.11-638359255635678176
   Text: >2-
 
-    - Start with completed research:
+    - 다음 연구가 완료된 상태로 시작합니다:
 - Key: LoadWindow.0-638333251363211992
-  Text: Load Game
+  Text: 로드하기
 - Key: LoadWindow.2-638333251363211992
-  Text: Delete
+  Text: 삭제
 - Key: LoadWindow.3-638333251363211992
-  Text: Delete?
+  Text: 삭제하시겠습니까?
 - Key: LoadWindow.4-638333251363211992
-  Text: Are you sure you want to delete {0}?
+  Text: 정말 {0}(을)를 삭제하시겠습니까?
 - Key: LoadWindow.0-638385715192087532
-  Text: Open Location
+  Text: 위치 열기
 - Key: LoadWindow.5-638333251363211992
-  Text: 'Day: {0}, Hour: {1}'
+  Text: '{0}일, {1}시간'
 - Key: LoadWindow.6-638333251363211992
-  Text: 'Size: {0:#0.00} MB'
+  Text: '크기: {0:#0.00} MB'
 - Key: LoadWindow.7-638333251363211992
-  Text: 'File: {0}{1}'
+  Text: '파일: {0}{1}'
 - Key: LoadWindow.8-638333251363211992
-  Text: 'Version: {0}'
+  Text: '버전: {0}'
 - Key: LoadWindow.0-638343560422945904
-  Text: 'Saved in SteamCloud: {0}'
+  Text: 'SteamCloud에 저장됨: {0}'
 - Key: MainMenuWindow.0-638320129083603894
   Text: 새 게임 시작하기
 - Key: MainMenuWindow.1-638320129083603894
@@ -2092,43 +2093,43 @@
 - Key: MainMenuWindow.5-638320129083603894
   Text: 나가기
 - Key: MainMenuWindow.0-638386013536094366
-  Text: 'Steam Beta Active: {0}'
+  Text: 'Steam 베타 적용됨: {0}'
 - Key: MainMenuWindow.0-638144266425217096
   Text: 이어하기
 - Key: MainMenuWindow.0-638423313415804447
-  Text: Hotkey Updates
+  Text: 단축키 변경
 - Key: MainMenuWindow.1-638423313415809488
   Text: >-
-    <align=left>Some hotkey defaults have changed in order to accommodate new features for selecting multiple types of objects at once.
+    여러 오브젝트를 동시에 선택하는 기능을 지원하기 위해 일부 단축키가 변경되었습니다.
 
 
-    You can also change your Hotkeys any time in Settings.
+    단축키 설정은 설정 창에서 언제든지 변경할 수 있어요.
 - Key: MainMenuWindow.2-638423313415809488
-  Text: Use New Hotkeys
+  Text: 새 단축키 사용하기
 - Key: MainMenuWindow.3-638423313415809488
-  Text: Don't Change Anything
+  Text: 기존 단축키 사용하기
 - Key: MoMFeedbackScreen.0-638336722416598195
-  Text: Your Name
+  Text: 이름
 - Key: MoMFeedbackScreen.1-638336722416598195
-  Text: Your name
+  Text: 이름
 - Key: MoMFeedbackScreen.3-638336722416598195
-  Text: Feedback
+  Text: 피드백
 - Key: MoMFeedbackScreen.4-638336722416598195
-  Text: Bugs, suggestions, feelings? All good. Let us know!
+  Text: 버그 제보, 제안사항, 후기 모두 좋습니다! 저희에게 알려 주세요!
 - Key: MoMFeedbackScreen.5-638336722416598195
-  Text: Send <size=24><style=Hotkey>Ctrl-Enter</style></size>
+  Text: 보내기 <size=24><style=Hotkey>Ctrl-Enter</style></size>
 - Key: MoMFeedbackScreen.6-638336722416598195
-  Text: Cancel
+  Text: 취소
 - Key: MOTDWindow.0-638369620841338628
-  Text: Release Notes
+  Text: 릴리즈 노트
 - Key: MOTDWindow.0-638403194162166608
-  Text: Copy To Clipboard
+  Text: 클립보드에 복사
 - Key: PopupScreen.0-638333251363242059
   Text: Ok
 - Key: PopupScreen.1-638333251363242059
-  Text: Cancel
+  Text: 취소
 - Key: PopupScreen.2-638333251363242059
-  Text: Cancel
+  Text: 취소
 - Key: ReleaseInfoWindow.0-638381675137843169
   Text: The Door Is Open!
 - Key: ReleaseInfoWindow.0-638368659627366068
@@ -2202,67 +2203,67 @@
 - Key: SandboxSettingsScreen.1-638357407848838895
   Text: OK
 - Key: Format.0-638415221467376665
-  Text: Emergency
+  Text: 긴급
 - Key: Format.1-638415221467376665
-  Text: Top
+  Text: 최고
 - Key: Format.2-638415221467376665
-  Text: High
+  Text: 높음
 - Key: Format.3-638415221467376665
-  Text: Med
+  Text: 중간
 - Key: Format.4-638415221467376665
-  Text: Low
+  Text: 낮음
 - Key: Format.5-638415221467376665
-  Text: Never
+  Text: 금지
 - Key: Format.0-638333251363297088
-  Text: No Ingredients
+  Text: 재료 없음
 - Key: Format.1-638333251363297088
-  Text: No Ingredients
+  Text: 재료 없음
 - Key: ViewCharacterUtils.0-638333251363367145
-  Text: '{0} Level {1}'
+  Text: '{0} {1}레벨'
 - Key: ViewCharacterUtils.1-638333251363367145
-  Text: ' (MAX LEVEL)'
+  Text: ' (최대 레벨)'
 - Key: ViewCharacterUtils.0-638284989950486452
-  Text: <b>{0} Skill {1}</b>
+  Text: <b>{0} 스킬 {1}</b>
 - Key: ViewCharacterUtils.1-638284989950486452
-  Text: '{0} {1} per cast'
+  Text: 시전당 {0} {1}
 - Key: ViewCharacterUtils.2-638284989950486452
-  Text: 1 {0} Per Cast
+  Text: 시전당 1 {0}
 - Key: ViewCharacterUtils.3-638284989950486452
-  Text: Teach {0} {1}% faster
+  Text: '{0}(을)를 {1}% 빨리 가르침'
 - Key: ViewFogUtils.0-638300186606861168
-  Text: ' (Left side)'
+  Text: ' (왼쪽)'
 - Key: ViewFogUtils.1-638300186606861168
-  Text: ' (Right side)'
+  Text: ' (오른쪽)'
 - Key: ViewFogUtils.0-638352274911559255
   Text: >2-
 
 
-    <b><size=+12>School destruction today! {0}</size></b>
+    <b><size=+12>오늘 학교가 파괴됩니다! {0}</size></b>
 - Key: ViewFogUtils.1-638352274911559255
   Text: >2-
 
 
-    <b><size=+12>School destruction tomorrow! {0}</size></b>
+    <b><size=+12>내일 학교가 파괴됩니다! {0}</size></b>
 - Key: ViewFogUtils.2-638300186606861168
   Text: >2-
 
 
-    <b><size=+12>{0} days until destruction. {1}</size></b>
+    <b><size=+12>{0}일 후 학교가 파괴됩니다. {1}</size></b>
 - Key: ViewFogUtils.3-638300186606861168
   Text: >2-
 
 
-    Perform the Repel Fog Ritual at the Mana Font.
+    마나 우물에서 안개 추방 의식을 치르세요.
 - Key: GameTextLinkHandler.0-638309805090591307
   Text: >2-
 
 
-    Default Recipes:
+    기본 제작법:
 - Key: GameTextLinkHandler.0-638303002695482796
   Text: >2-
 
 
-    Building Materials:
+    건설 재료:
 - Key: WorkshopUtils.0-638398060491547990
   Text: Steam Client not valid. Is the game running through Steam?
 - Key: WorkshopUtils.1-638398060491547990
@@ -2278,173 +2279,173 @@
 - Key: WorkshopUtils.6-638398060491547990
   Text: 'Upload Error: {0}'
 - Key: AboveGroundBattleAlert.0-638303859719808052
-  Text: A battle awaits. ({0})
+  Text: 전투가 기다립니다. ({0})
 - Key: AboveGroundBattleAlert.1-638303859719808052
-  Text: A battle awaits at a {0}. Risk mortal peril for rewards.
+  Text: '{0}에서 전투가 기다립니다. 생명의 위험이 있겠지만, 그만큼 큰 보상이 있을 것입니다.'
 - Key: AboveGroundBattleAlert.0-638321842051720311
-  Text: A battle awaits.
+  Text: 전투가 기다립니다.
 - Key: AboveGroundBattleAlert.2-638303859719808052
-  Text: A battle awaits at a {0}.
+  Text: '{0}에서 전투가 기다립니다.'
 - Key: AboveGroundBattleAlertWidget.0-638303640099894000
-  Text: Battle!
+  Text: 전투 개시!
 - Key: AboveGroundBattleAlertWidget.1-638303640099909010
-  Text: Battle Difficulty
+  Text: 전투 난이도
 - Key: AboveGroundBattleAlertWidget.2-638303640099909010
-  Text: Begin
+  Text: 시작
 - Key: AboveGroundBattleAlertWidget.3-638303640099909010
-  Text: Open the door and begin the battle.
+  Text: 문을 열고 전투를 시작하세요.
 - Key: AboveGroundBattleAlertWidget.0-638321842051730316
-  Text: Cancel
+  Text: 취소
 - Key: AboveGroundBattleAlertWidget.4-638303640099909010
-  Text: Cancel allowed until door opens
+  Text: 문이 열리기 전에는 취소 가능
 - Key: AboveGroundBattleAlertWidget.5-638303640099909010
-  Text: Do you want to cancel the battle?
+  Text: 전투를 취소하시겠습니까?
 - Key: AboveGroundBattleAlertWidget.6-638303640099909010
-  Text: Yes
+  Text: 네
 - Key: AboveGroundBattleAlertWidget.7-638303640099909010
-  Text: No
+  Text: 아니오
 - Key: AboveGroundBattleAlertWidget.8-638303640099909010
-  Text: 'Waiting For:'
+  Text: '이동 중:'
 - Key: AboveGroundBattleAlertWidget.0-638308285691789007
-  Text: Risk mortal peril for rewards.
+  Text: 생명의 위험이 있겠지만, 그만큼 큰 보상이 있을 것입니다.
 - Key: AboveGroundBattleAlertWidget.0-638303859719818022
-  Text: Dispels in {0}
+  Text: '{0} 이후 사라짐'
 - Key: AboveGroundBattleAlertWidget.9-638303640099909010
-  Text: Cancel Battle
+  Text: 전투 취소
 - Key: BackWallFloatingAlert.0-638340089818288504
-  Text: '{0} needs room.'
+  Text: '{0}(은)는 방 안에 있어야 합니다.'
 - Key: BattleRoomAlert.0-638357407849310199
   Text: '{0}!'
 - Key: BattleRoomAlert.1-638357407849310199
-  Text: '{0} in {1}!'
+  Text: '{1} 내에 {0}!'
 - Key: BlockedConstructionAlert.0-638321842051747839
-  Text: '{0} not supported'
+  Text: '{0} 지지되지 않음'
 - Key: BlockedConstructionAlert.1-638321842051747839
-  Text: '{0} in the way'
+  Text: '{0}(이)가 길을 막고 있음'
 - Key: BlockedConstructionAlert.2-638321842051747839
   Text: '{0} in the way'
 - Key: ButlerAlert.0-638321842051752938
-  Text: '{0} has no Table'
+  Text: '{0}(을)를 위한 식탁 없음'
 - Key: ClutterFilterAlert.0-638321842051752938
   Text: >-
     {0}
-      Clutter: {1}
+      쓰레기더미: {1}
 - Key: CraftingAlert.0-638321842051772942
-  Text: No recipes selected.
+  Text: 선택된 제작법이 없습니다.
 - Key: CraftingAlert.1-638321842051772942
-  Text: Insufficient ingredients for {0}.
+  Text: '{0} 제작에 필요한 재료가 부족합니다.'
 - Key: CraftingAlert.2-638321842051772942
-  Text: Insufficient ingredients.
+  Text: 재료가 부족합니다.
 - Key: CraftingAlert.3-638321842051772942
-  Text: Not currently powered.
+  Text: 동력이 부족합니다.
 - Key: CrystallizedMageAlert.0-638357407849347007
-  Text: '{0} is trapped. Repel fog to rescue.'
+  Text: '{0}(이)가 갇혔습니다. 안개를 추방한 뒤 구출하세요.'
 - Key: CrystallizedMageAlert.1-638357407849347007
-  Text: '{0} ran away and has become trapped by the fog. Repel fog to rescue.'
+  Text: '{0}(이)가 도망치는 도중 안개에 갇혔습니다. 안개를 추방한 뒤 구출하세요.'
 - Key: CrystallizedMageAlert.2-638357407849347007
-  Text: '{0} is trapped. Battle at the {1} to rescue.'
+  Text: '{0}(이)가 갇혔습니다. {1}에서 전투에 승리하여 구출하세요.'
 - Key: CrystallizedMageAlert.3-638357407849347007
-  Text: '{0} ran away and has become trapped by the fog. Win the battle at the {1} to rescue. Losing the battle will free the captive, but will further injure them.'
+  Text: '{0}(이)가 도망치는 도중 안개에 갇혔습니다. {1}에서 전투에 승리하여 구출하세요. 전투에 패배해도 구출할 수 있지만, 전투에 승리했을 때보다 더 큰 부상을 입습니다.'
 - Key: FuneralAlert.0-638156813568751205
-  Text: '{0} needs to be buried in a <slink=Grave>.'
+  Text: <slink=Grave>에 {0}(을)를 묻으세요.
 - Key: DeadAlert.0-638182116845454611
-  Text: '{0} is marked for <slink=JobType_Haul> to a <slink=Grave>.'
+  Text: '{0}(은)는 <slink=Grave>에 <slink=JobType_Haul> 대기 중입니다.'
 - Key: DreadResearchAlert.1-638144157863349630
-  Text: New cleansing ritual available at {0}!
+  Text: '{0}에서 새 정화 의식을 치를 수 있습니다!'
 - Key: DreadResearchAlert.0-638144157863349630
-  Text: Research available here.
+  Text: 여기서 연구를 진행할 수 있습니다.
 - Key: DurabilityBrokenAlert.0-638321842051782951
-  Text: '{0} Broken - Must be fully repaired to use again.'
+  Text: '{0} 파괴됨 - 사용하려면 완전히 수리되어야 합니다.'
 - Key: ExploreDungeonRoomAlertWidget.0-638291698150767009
-  Text: Underschool Exploration Difficulty
+  Text: 지하세계 탐험 난이도
 - Key: ExploreDungeonRoomAlertWidget.1-638301971463964868
-  Text: Begin
+  Text: 시작
 - Key: ExploreDungeonRoomAlertWidget.0-638321842051798002
-  Text: Send Mages to open the door
+  Text: 마법사들을 보내 문을 개방하세요
 - Key: ExploreDungeonRoomAlertWidget.1-638321842051798002
-  Text: Cancel
+  Text: 취소
 - Key: ExploreDungeonRoomAlertWidget.0-638303640099963936
-  Text: Cancel allowed until door opens
+  Text: 문이 열리기 전에는 취소 가능
 - Key: ExploreDungeonRoomAlertWidget.0-638213199544387161
-  Text: Do you want to cancel the exploration?
+  Text: 탐험을 취소하겠습니까?
 - Key: ExploreDungeonRoomAlertWidget.1-638303640099963936
-  Text: Yes
+  Text: 네
 - Key: ExploreDungeonRoomAlertWidget.2-638303640099963936
-  Text: No
+  Text: 아니오
 - Key: ExploreDungeonRoomAlertWidget.0-638361867543808365
-  Text: Locked
+  Text: 잠김
 - Key: ExploreDungeonRoomAlertWidget.0-638301971463964868
-  Text: Explore
+  Text: 탐험
 - Key: ExploreDungeonRoomAlertWidget.3-638303640099963936
-  Text: 'Waiting For:'
+  Text: '이동 중:'
 - Key: ExploreDungeonRoomAlertWidget.1-638361867543823398
-  Text: This is as deep as the Underschool goes in Early Access...for now.
+  Text: 얼리 억세스에서는 여기까지입니다...지금은요.
 - Key: ExploreDungeonRoomAlertWidget.0-638357407849393450
-  Text: This door will slam shut. Must fight {0} battles to escape.
+  Text: 전투가 시작되면 이 문은 잠길 것입니다. {0}개의 전투를 거쳐야 탈출할 수 있습니다.
 - Key: ExploreDungeonRoomAlertWidget.1-638291698150767009
-  Text: Cancel Explore
+  Text: 탐험 취소
 - Key: FilthFilterAlert.0-638321842051798002
   Text: >-
     {0}
-      Filth: {1}
+      찌꺼기: {1}
 - Key: FogDangerAlert.0-638282935931897444
-  Text: Fog Dangerously Close!
+  Text: 안개가 아주 가까워졌습니다!
 - Key: FogDangerAlert.1-638282935931897444
-  Text: Only {0} days until the <slink=Fog> destroys the school
+  Text: <slink=Fog>가 학교를 파괴하기까지 {0}일밖에 남지 않았습니다
 - Key: ForbiddenAlert.0-638321842051808243
-  Text: 'Priority: Not Allowed'
+  Text: '우선순위: 금지'
 - Key: ForbiddenShrinkAlert.0-638367830939685144
-  Text: Shrink is blocked by Room Battle.
+  Text: 방에서 전투가 진행 중이기 때문에 축소할 수 없습니다.
 - Key: ForbiddenShrinkAlert.1-638367830939685144
-  Text: Shrink is Forbidden by Priority.
+  Text: 금지 우선순위로 지정되었기 때문에 축소할 수 없습니다.
 - Key: FuneralAlert.0-638321842051808243
-  Text: '{0} needs a <slink=Funeral>'
+  Text: '{0}에게 <slink=Funeral> 필요'
 - Key: HarvestAlert.0-638086284123070459
-  Text: Marked for {0} when grown
+  Text: 다 자라면 {0}하도록 지정됨
 - Key: HarvestAlert.0-638167308787147735
-  Text: Marked for {0} at Night
+  Text: 밤에 {0}하도록 지정됨
 - Key: HarvestAlert.0-638321842051818245
-  Text: Marked for {0}
+  Text: '{0}하도록 지정됨'
 - Key: HungerWithEmergencyPriorityAlert.0-638321842051828503
-  Text: '{0} is starving.'
+  Text: '{0}(은)는 매우 배가 고픕니다.'
 - Key: HungerWithEmergencyPriorityAlert.1-638321842051828503
-  Text: '{0} is starving but has an {1} level job priority, which may keep them from eating.'
+  Text: '{0}(은)는 매우 배가 고프지만 {1}레벨 작업 우선순위가 설정되어 있어 식사를 하지 못하고 있습니다.'
 - Key: HungerWithNoMealsAlert.0-638321842051828503
-  Text: It is meal time and {0} has no food.
+  Text: 식사 시간이 되었지만 {0}(을)를 위한 음식이 없습니다.
 - Key: HungerWithNoMealsAlert.1-638321842051828503
-  Text: '{0} is hungry and has no food.'
+  Text: '{0}(은)는 배가 고프지만 음식이 없습니다.'
 - Key: IdleAlert.0-638300355135690375
-  Text: Idle Staff
+  Text: 교사 할 일 없음
 - Key: IdleAlert.1-638300355135690375
-  Text: Idle Staff ({0})
+  Text: 교사 할 일 없음 ({0})
 - Key: IdleAlert.2-638300355135690375
-  Text: "Some Staff are Idle:\n    "
+  Text: "일부 교사가 할 일이 없습니다:\n    "
 - Key: IdleAlert.3-638300355135690375
   Text: >2-
 
 
-    Click to select
+    클릭하여 선택
 - Key: IdleStudentAlert.0-638300355135705395
-  Text: Idle Student
+  Text: 학생 할 일 없음
 - Key: IdleStudentAlert.1-638300355135705395
-  Text: Idle Students ({0})
+  Text: 학생 할 일 없음 ({0})
 - Key: IdleStudentAlert.2-638300355135705395
-  Text: "Some Students are Idle:\n    "
+  Text: "일부 학생이 할 일이 없습니다.\n    "
 - Key: IdleStudentAlert.3-638300355135705395
   Text: >2-
 
 
-    Click to select
+    클릭하여 선택
 - Key: InventoryInProcessAlert.0-638321842051843555
-  Text: '{0} is being taken by {1}.'
+  Text: '{1}(이)가 {0}(을)를 가져가고 있습니다.'
 - Key: InventoryInProcessAlert.1-638321842051843555
-  Text: '{0} is being taken by {1}.'
+  Text: '{1}(이)가 {0}(을)를 가져가고 있습니다.'
 - Key: LockedDungeonDoorAlert.0-638362442904661955
-  Text: This door has slammed shut. The exploring party must win {0} battles or Flee in order to escape.
+  Text: 이 문은 잠겼습니다. 탐험 중인 마법사들이 {0}개의 전투를 끝내야 이곳에서 탈출할 수 있습니다.
 - Key: LowManaAlert.0-638321842051853660
-  Text: '{0} is low on mana. Restoring at a Mana Lantern.'
+  Text: '{0}의 마나가 부족합니다. 마나 등불에서 마나를 회복하고 있습니다.'
 - Key: LowManaAlert.1-638321842051863638
-  Text: '{0} is low on mana. Restore at a Mana Lantern.'
+  Text: '{0}의 마나가 부족합니다. 마나 등불에서 마나를 회복하세요.'
 - Key: LuxuryFilterAlert.0-638321842051863638
   Text: <color=#FFEC00>+{0}</color> LUX
 - Key: LuxuryFilterAlert.1-638321842051863638
@@ -2452,298 +2453,291 @@
 - Key: LuxuryFilterAlert.2-638321842051863638
   Text: >-
     {0}
-      Luxury: {1}
+      화려함: {1}
 - Key: MineAlert.0-638167308787916795
-  Text: '{0} {1} at Night'
+  Text: 밤에 {0} {1}
 - Key: MonsterInSchoolAlert.0-638379728723977020
-  Text: "In School: \n  "
+  Text: "학교 배회 중: \n  "
 - Key: MonsterInSchoolAlert.1-638379728723977020
-  Text: '{0} in school.'
+  Text: '{0}(이)가 학교를 배회 중입니다.'
 - Key: MonsterInSchoolAlert.2-638379728723977020
-  Text: '{0} in school. ({1})'
+  Text: '{0}(이)가 학교를 배회 중입니다. ({1})'
 - Key: MoveAssembledInProcessAlert.0-638321842051873702
-  Text: '{0} is being moved.'
+  Text: '{0}(을)를 이동 중입니다.'
 - Key: MoveAssembledInProcessAlert.1-638321842051873702
-  Text: '{0} is being shrunk for move.'
+  Text: '{0}(을)를 이동을 위해 축소 중입니다.'
 - Key: MoveAssembledInProcessAlert.2-638321842051873702
-  Text: '{0} is being shrunk.'
+  Text: '{0}(을)를 축소 중입니다.'
 - Key: MoveInProcessAlert.0-638321842051873702
-  Text: '{0} is being moved.'
+  Text: '{0}(을)를 이동 중입니다.'
 - Key: NeedsBedRestAlert.0-638322164137173647
-  Text: "In need of Medical Rest: \n  "
+  Text: "체력 회복 필요: \n  "
 - Key: NeedsBedRestAlert.1-638322164137173647
-  Text: "In need of Medical Rest in a Medical Facility: \n  "
+  Text: "의료 시설에서 체력 회복 필요: \n  "
 - Key: NeedsBedRestAlert.2-638322164137173647
-  Text: Needs Medical Rest
+  Text: 체력 회복 필요
 - Key: NeedsBedRestAlert.3-638322164137173647
-  Text: Needs Medical Rest ({0})
+  Text: 체력 회복 필요 ({0})
 - Key: NeedsBedRestAlert.4-638322164137173647
-  Text: Needs Medical Rest in a Medical Facility
+  Text: 의료 시설에서 체력 회복 필요
 - Key: NeedsBedRestAlert.5-638322164137173647
-  Text: Needs Medical Rest in a Medical Facility ({0})
+  Text: 의료 시설에서 체력 회복 필요 ({0})
 - Key: NeedsPlantAlert.0-638386013536680949
-  Text: No qualified staff!
+  Text: 스킬 보유 교사 없음!
 - Key: NeedsPlantAlert.1-638386013536680949
-  Text: Requires {0}
+  Text: '{0} 필요'
 - Key: NeedsPlantAlert.0-638321842051888753
-  Text: <slink={0}> to plant {1}.
+  Text: <slink={0}>(을)를 통해 {1}(을)를 심으세요.
 - Key: NewRoomAlert.0-638321842051888753
-  Text: New {0}!
+  Text: 신규 {0}!
 - Key: NightmareAlert.0-638321842051899200
-  Text: Nightmare
+  Text: 악몽
 - Key: NightmareAlert.1-638321842051899200
-  Text: Nightmare!
+  Text: 악몽!
 - Key: NoClassesAlert.0-638321842051899200
-  Text: No classes available for students
+  Text: 진행 중인 수업 없음
 - Key: NoClassesAlert.1-638321842051899200
-  Text: Teaching Stations
+  Text: 강단
 - Key: NoClassesAlert.2-638321842051899200
   Text: >+
-    Build {0} to create classes.
+    {0}(을)를 지어 수업을 시작하세요.
 
 - Key: NoClassesAlert.3-638321842051899200
-  Text: Click to place a {0}
+  Text: 클릭해서 {0} 놓기
 - Key: NoDoorsHallwaysAlert.0-638182061783330691
-  Text: Need Door or Hallway
+  Text: 문이나 복도 필요
 - Key: NoMealsAlert.0-638167245805194733
-  Text: No meals available
+  Text: 음식 없음
 - Key: NoRecreationScheduledAlert.0-638321842051909280
-  Text: "Will not do Recreation because no Recreation time is scheduled:\n  "
+  Text: "휴식 시간이 설정되어 있지 않아 휴식할 수 없음:\n  "
 - Key: NoRecreationScheduledAlert.1-638321842051909280
   Text: >2-
 
 
-     Click to open Schedule
+     클릭하여 스케줄 열기
 - Key: NoRecreationScheduledAlert.2-638321842051909280
-  Text: No recreation scheduled.
+  Text: 휴식 시간이 설정되어 있지 않습니다.
 - Key: NoRecreationScheduledAlert.3-638321842051909280
-  Text: No recreation scheduled. ({0})
+  Text: 휴식 시간이 설정되어 있지 않습니다. ({0})
 - Key: NoResearchStationsAlert.0-638321842051919322
-  Text: No {0} built
+  Text: '{0} 없음'
 - Key: NoResearchStationsAlert.1-638321842051919322
-  Text: 'Build an {0} to gain access to '
+  Text: '{0}(을)를 건설하여 다음을 활성화하세요: '
 - Key: NoResearchStationsAlert.2-638321842051919322
   Text: >-
     {0}
 
 
-    Click to open
+    클릭하여 열기
 - Key: NoTeacherAlert.0-638321842051919322
-  Text: Class delayed for teacher mana
+  Text: 교사의 마나 부족으로 수업 지연 중
 - Key: NoTeacherAlert.1-638321842051919322
-  Text: Student is waiting for their teacher to return from refilling their Mana.
+  Text: 학생들은 교사가 마나를 회복하고 돌아오기를 기다리고 있습니다.
 - Key: NoTeacherAlert.2-638321842051919322
-  Text: Students need a teacher
+  Text: 수업을 위한 교사 필요
 - Key: NoTeacherAlert.3-638321842051919322
-  Text: Make sure a staff member is scheduled for Class with a high enough {0} priority.
+  Text: 수업을 진행할 교사에게 수업 스케줄이 설정되어 있으며, 수업이 {0} 이상의 우선순위로 설정되어 있는지 확인하세요.
 - Key: NotOutsideAlert.0-638321842051934371
-  Text: '{0} must be outside.'
+  Text: '{0}(은)는 야외에 배치되어야 합니다.'
 - Key: NotReachableAlert.1-638290279817960731
-  Text: '{0} is unable to reach {1}.'
+  Text: '{0}(이)가 {1}에 도달할 수 없습니다.'
 - Key: NotReachableAlert.2-638290279817960731
-  Text: '{0} is unreachable.'
+  Text: '{0}에 도달할 수 없습니다.'
 - Key: NotReachableAlert.0-638295487982811654
-  Text: No reachable {0} available.
+  Text: 도달 가능한 {0}(이)가 없습니다.
 - Key: NotReachableAlert.1-638339120306174951
-  Text: Assigned bed unreachable
+  Text: 할당되었지만 도달할 수 없음
 - Key: NotReachableAlert.0-638322078537881420
-  Text: Unreachable object
+  Text: 도달 불가능한 물체
 - Key: NotReachableAlert.1-638322078537881420
   Text: >-
-    Some objects are {0}.
+    일부 물체들이 {0} 상태입니다.
 
 
-    Click to cycle through them.
+    여러 번 클릭하여 확인하세요.
 - Key: NoWallsAlert.0-638182796310607777
-  Text: No Walls Built
+  Text: 벽 없음
 - Key: NoWandStationsAlert.0-638322107133848236
-  Text: No {0} built
+  Text: '{0} 없음'
 - Key: NoWandStationsAlert.0-638322112234955498
-  Text: Wands
+  Text: 지팡이
 - Key: NoWandStationsAlert.1-638322107133848236
-  Text: Build a {0} to craft {1}.
+  Text: '{0}(을)를 건설하여 {1}(을)를 제작하세요.'
 - Key: NoWandStationsAlert.0-638373896636273803
-  Text: No Wands built
+  Text: 지팡이 없음
 - Key: NoWandStationsAlert.1-638373896636273803
   Text: >-
-    Craft a <slink=LesserWand> at a <slink=LesserWandStation>.
+    <slink=LesserWandStation>에서 <slink=LesserWand>(을)를 제작하세요.
 
 
-    Click to open
+    클릭하여 열기
 - Key: NoWandStationsAlert.2-638373896636273803
-  Text: No Students
+  Text: 학생 없음
 - Key: NoWandStationsAlert.3-638373896636273803
   Text: >-
-    Start a Summon Student ritual at the <slink=SummoningFocus>.
+    <slink=SummoningFocus>에서 학생 소환 의식을 치르세요.
 
 
-    Click to open
+    클릭하여 열기
 - Key: PriorityAlert.0-638322107133858238
-  Text: '{0}: Priority: Never'
+  Text: '{0}: 우선 순위: 금지'
 - Key: PriorityAlert.1-638322107133858238
-  Text: '{0}: Priority: 1'
+  Text: '{0}: 우선 순위: 1'
 - Key: PriorityAlert.2-638322107133858238
-  Text: '{0}: Priority: 2'
+  Text: '{0}: 우선 순위: 2'
 - Key: PriorityAlert.3-638322107133858238
-  Text: '{0}: Priority: 3'
+  Text: '{0}: 우선 순위: 3'
 - Key: PriorityAlert.4-638322107133858238
-  Text: '{0}: Priority: 4'
+  Text: '{0}: 우선 순위: 4'
 - Key: PriorityAlert.5-638322107133858238
-  Text: '{0}: Priority: 5'
+  Text: '{0}: 우선 순위: 5'
 - Key: RefineryNeedAlert.0-638322107133873287
   Text: >-
-    Needs {0}
+    {0} 필요
 
-    {1} is waiting for a Student to take care of it.
+    {1}(은)는 학생이 돌봐 주기를 기다리고 있습니다.
 - Key: RefineryNeedAlert.0-638404054171947741
   Text: >-
-    Stopped Refining - Needs {0}
+    가공 중지됨 - {0} 필요
 
-    {1} needs a Student to bring it {2} using <slink=JobType_RefineryCare> to begin refining again.
+    {1}(은)는 학생이 <slink=JobType_RefineryCare>해서 {2}(을)를 가져다 주어야 가공을 다시 시작할 수 있습니다.
 - Key: RefineryNeedAlert.1-638404054171947741
   Text: >-
-    Slow Refining - Needs {0} and {1}
+    가공 느려짐 - {0} 및 {1} 필요
 
-    {2} needs a Student to bring it {3} and pet it using <slink=JobType_RefineryCare> to speed up refining.
+    {2}(은)는 학생이 <slink=JobType_RefineryCare>(을)를 통해 돌봐 주고 {3}(을)를 가져다 주어야 가공을 빨리 할 수 있습니다.
 - Key: RefineryNeedAlert.2-638404054171947741
   Text: >-
-    Slow Refining - Needs {0}
+    가공 느려짐 - {0} 필요
 
-    {1} needs a Student to bring it {2} using <slink=JobType_RefineryCare> to speed up refining.
+    {1}(은)는 학생이 <slink=JobType_RefineryCare>해서 {2}(을)를 가져다 주어야 가공을 빨리 할 수 있습니다.
 - Key: RefineryNeedAlert.1-638322107133873287
   Text: >-
-    Needs {0}
+    {0} 필요
 
-    {1} will need a Student to take care of it.
+    {1}(은)는 학생이 돌봐 주기를 기다리고 있습니다.
 - Key: RefineryNeedAlert.3-638404054171947741
   Text: >-
-    Slow Refining - Needs {0}
+    가공 느려짐 - {0} 필요
 
-    {1} needs a Student to pet it using <slink=JobType_RefineryCare> to speed up refining.
+    {1}(은)는 학생이 <slink=JobType_RefineryCare>해서 돌봐 주어야 가공을 빨리 할 수 있습니다.
 - Key: RepairErrandAlertProvider.0-638322107133885613
-  Text: Repair {0}
+  Text: '{0} 수리'
 - Key: ResearchAlert.0-638322107133895616
-  Text: No Research Selected
+  Text: 진행 중인 연구 없음
 - Key: ResearchAlert.1-638322107133895616
   Text: >-
-    No {0} Currently Selected
+    진행 중인 {0} 없음
 
 
-    Click to open
+    클릭하여 열기
 - Key: ResearchAlert.2-638322107133895616
-  Text: Not enough resources for research
+  Text: 연구에 필요한 재료 부족
 - Key: ResearchAlert.3-638322107133895616
   Text: >-
-    Need additional resources for the selected {0}.
+    {0} 진행을 위해서는 추가 재료가 필요합니다.
 
 
-    Click to open research
+    클릭하여 연구 탭 열기
 - Key: RitualSiteAlert.0-638352274911976576
-  Text: '{0} cannot begin.'
+  Text: '{0}(을)를 시작할 수 없습니다.'
 - Key: RitualSiteAlert.0-638336787401584394
-  Text: '{0} ritual cannot begin.'
+  Text: '{0} 의식을 시작할 수 없습니다.'
 - Key: RitualSiteAlert.1-638352274911976576
-  Text: Preparing for {0}.
+  Text: '{0} 준비 중.'
 - Key: RitualSiteAlert.1-638336787401584394
-  Text: Performing {0} ritual.
+  Text: '{0} 의식 수행 중.'
 - Key: RitualWaitingAlert.0-638326434598859780
   Text: >
-    Ritual cannot begin:
+    의식을 시작할 수 없음:
 - Key: RitualWaitingAlert.0-638330719635285862
   Text: >
-    {0} is having a <slink=break>
+    {0}(이)가 <slink=break> 중입니다
 - Key: RitualWaitingAlert.1-638330719635285862
   Text: >
-    {0} is doing an Immediate Task. ({1})
+    {0}(은)는 플레이어 명령을 수행하고 있습니다. ({1})
 - Key: RitualWaitingAlert.0-638333251363750444
   Text: >
-    {0} missing ingredients:
+    {0}종류 재료 부족:
 - Key: RitualWaitingAlert.1-638333251363750444
-  Text: Waiting for ingredients.
+  Text: 재료 대기 중.
 - Key: RitualWaitingAlert.2-638333251363750444
-  Text: Cannot stand near {0}.
+  Text: '{0} 옆에 설 자리가 없음.'
 - Key: RitualWaitingAlert.3-638333251363750444
-  Text: '{0} cannot reach {1}.'
+  Text: '{0}(이)가 {1}(으)로 갈 수 없음.'
 - Key: RoomBattleAlertWidget.0-638345097620489557
-  Text: Battle
+  Text: 전투
 - Key: RoomBattleAlertWidget.1-638345097620489557
-  Text: Battle Difficulty
+  Text: 전투 난이도
 - Key: RoomBattleAlertWidget.2-638345097620489557
-  Text: Begin
+  Text: 시작
 - Key: RoomBattleAlertWidget.3-638345097620489557
-  Text: Send Mages to battle and reclaim the room
+  Text: 전투를 통해 방을 되찾으세요
 - Key: RoomBattleAlertWidget.4-638345097620489557
-  Text: Cancel
+  Text: 취소
 - Key: RoomBattleAlertWidget.5-638345097620489557
-  Text: Cancel allowed until battle starts
+  Text: 전투 시작 전까지 취소 가능
 - Key: RoomBattleAlertWidget.6-638345097620489557
-  Text: Do you want to cancel the battle?
+  Text: 전투를 취소하시겠습니까?
 - Key: RoomBattleAlertWidget.7-638345097620489557
-  Text: Yes
+  Text: 네
 - Key: RoomBattleAlertWidget.8-638345097620489557
-  Text: No
+  Text: 아니오
 - Key: RoomBattleAlertWidget.9-638345097620489557
-  Text: 'Waiting For:'
+  Text: '이동 중:'
 - Key: RoomBattleAlertWidget.10-638345097620489557
-  Text: Cancel Explore
+  Text: 탐험 취소
 - Key: SleepWithEmergencyPriorityAlert.0-638322139277882244
-  Text: '{0} desperately needs sleep.'
+  Text: '{0}(은)는 끔찍하게 졸린 상태입니다.'
 - Key: SleepWithEmergencyPriorityAlert.1-638322139277882244
-  Text: Sleep
+  Text: 수면
 - Key: SleepWithEmergencyPriorityAlert.2-638322139277882244
-  Text: Emergency
+  Text: 긴급
 - Key: SleepWithEmergencyPriorityAlert.0-638322147700580717
-  Text: '{0} desperately needs {1} but there is an {2} level job priority, which may keep them from sleeping.'
+  Text: '{0}는 끔찍하게 {1}이 필요한 상태이지만 우선 순위가 {2}레벨인 작업이 있어 수면을 취하지 못하고 있습니다.'
 - Key: SpiralStairAccessAlert.0-638379728724187420
   Text: >-
-    Stair exit is blocked by:
+    계단 끝이 막혀 있음:
 
     {0}
 - Key: SpiralStairAccessAlert.1-638379728724187420
-  Text: Stair exit is blocked
+  Text: 계단 끝이 막혀 있음
 - Key: StairNotTerminatedAlert.0-638322107133925748
-  Text: Stair does not end at a Floor or Foundation
+  Text: 계단이 바닥이나 토대에서 끝나지 않음
 - Key: StairNotTerminatedAlert.1-638322107133925748
-  Text: Unconnected stairs
+  Text: 끊어진 계단
 - Key: StairNotTerminatedAlert.2-638322107133935855
-  Text: Ladder does not end above a Floor or Foundation
+  Text: 사다리가 바닥이나 토대 위에서 끝나지 않음
 - Key: StairNotTerminatedAlert.3-638322107133935855
-  Text: Ladder does not end above a Floor or Foundation
+  Text: 사다리가 바닥이나 토대 위에서 끝나지 않음
 - Key: StairNotTerminatedAlert.4-638322107133935855
-  Text: Magic Ladder does not end above a Floor or Foundation
+  Text: 마법 사다리가 계단이나 토대 위에서 끝나지 않음
 - Key: StairNotTerminatedAlert.5-638322107133935855
-  Text: Magic Ladder does not end above a Floor or Foundation
+  Text: 마법 사다리가 계단이나 토대 위에서 끝나지 않음
 - Key: StorageInProcessAlert.0-638322107133935855
-  Text: '{0} is being put in storage.'
+  Text: '{0}(을)를 보관함에 넣는 중입니다.'
 - Key: TestEntityUIAlert.0-638322107133945857
   Text: Test {0}
 - Key: UpcomingDungeonRespawnAlert.0-638322107133955859
-  Text: Dungeon room will respawn monsters soon
+  Text: 곧 이곳에 몬스터들이 다시 나타납니다
 - Key: UprootAlert.0-638322107133955859
-  Text: Destroy {0}
+  Text: '{0} 뽑기'
 - Key: OnFlatpackDelivery.0-638328064223279282
-  Text: '{0} Delivered!'
+  Text: '{0} 배달 완료!'
 - Key: OnFreeCast.0-638328064223304387
-  Text: Free Cast
+  Text: 자유 시전
 - Key: OnGameOver.0-638328064223304387
-  Text: Game Over
+  Text: 게임 오버
 - Key: OnGameOver.1-638328064223304387
-  Text: The fog has reclaimed your school.
+  Text: 안개가 학교를 지배했습니다.
 - Key: OnGameOver.2-638328064223304387
-  Text: Main Menu
+  Text: 메인 메뉴로 돌아가기
 - Key: OnIntroDungeonOpens.0-638328064223314390
-  Text: Underschool Trial
+  Text: 지하세계 시험
 - Key: OnIntroDungeonOpens.1-638328064223314390
-  Text: >-
-    When Students undergo a Trial, they must battle a series of monsters in an attempt to defeat a powerful Underlord.
-
-
-    You cannot assist them. They will survive or die based on their training. If you have taught them well, they will be victorious. If not, well... it is better not to think about it.  Your job is to select enough Students, place them in the best order, and equip them with everything they need to be successful.
-
-
-    Once Students have begun the Trial, their fate is in their own hands.
+  Text: "학생들은 지하세계 시험에서 여러 번의 전투를 거쳐 강력한 지하세계 지배자에게 도달하게 됩니다.\n\n여러분은 학생들을 도울 수 없습니다. 학생들은 스스로의 능력에 따라 죽거나 생존할 것입니다. 여러분이 학생들을 잘 가르쳤다면 그들은 승리하여 돌아올 것이고, 그렇지 않다면야... 생각하고 싶지 않군요. 여러분은 시험에 응할 학생들을 선택하고, 최적의 순서에 맞춰 나열하고, 적절한 장비를 입혀 시험에 내보내야 합니다. \n\n시험을 시작하면, 학생들의 운명은 그들의 손에 달려 있습니다."
 - Key: OnIntroDungeonOpens.2-638328064223314390
-  Text: Kinda dark, but here we go.
+  Text: 무시무시하네요, 그래도 한번 해봅시다.
 - Key: OnIntroSurfaceOpens.0-638217425157213228
   Text: The Surface
 - Key: OnIntroSurfaceOpens.0-638328064223324391
@@ -2758,771 +2752,771 @@
 - Key: OnIntroSurfaceOpens.1-638328064223324391
   Text: I got this!
 - Key: OnMiddenHeapHarvested.0-638328064223334394
-  Text: Harvested {0}
+  Text: '{0} 획득'
 - Key: OnPoweredComponentGeneratedEntity.0-638328064223355241
-  Text: Generated {0}
+  Text: '{0} 생성'
 - Key: OnScheduleEventActiveStateChange.0-638328064223385247
-  Text: Begins
+  Text: 시작
 - Key: OnScheduleEventActiveStateChange.1-638328064223385247
-  Text: Ends
+  Text: 종료
 - Key: OnScheduleEventActiveStateChange.2-638328064223385247
   Text: >2-
 
-    (No Teacher)
+    (교사 없음)
 - Key: OnScheduleEventActiveStateChange.3-638328064223385247
-  Text: '{0}Class {1}{2}'
+  Text: '{0}수업 {1}{2}'
 - Key: OnShowDrops.0-638328064223395251
-  Text: Discovered {0}
+  Text: '{0} 발견'
 - Key: OnSkillsChange.0-638328064223405402
-  Text: '{0} <#00FFFF>Skill Up!</color>'
+  Text: '{0} <#00FFFF>스킬 업!</color>'
 - Key: OnSkillsChange.1-638328064223405402
-  Text: '{0} <#00FFFF>Skill Up!</color>'
+  Text: '{0} <#00FFFF>스킬 업!</color>'
 - Key: OnSkillsChange.2-638328064223405402
-  Text: '{0} {1} Complete!'
+  Text: '{0} {1} 완료!'
 - Key: OnSkillsChange.3-638328064223405402
   Text: >2-
 
-    Unlocked {0}
+    {0} 해금
 - Key: OnSkillsChange.4-638328064223405402
   Text: >2-
 
-    Unlocked {0}
+    {0} 해금
 - Key: OnSkillsChange.5-638328064223405402
   Text: >2-
 
-    Teacher Skill Bonus: <#00FFFF>+{0}%</color>
+    교사 스킬 보너스: <#00FFFF>+{0}%</color>
 - Key: OnSkillsChange.6-638328064223405402
   Text: >2-
 
-    Skill Bonus: <#00FFFF>+{0}%</color>
+    스킬 보너스: <#00FFFF>+{0}%</color>
 - Key: OnStaffQuit.0-638328064223415478
-  Text: '{0} quit!'
+  Text: '{0}(이)가 학교를 떠났습니다!'
 - Key: OnWorkComplete.0-638328064223425893
-  Text: '{0} Complete'
+  Text: '{0} 완료'
 - Key: OnXPGained.0-638328064223425893
   Text: +{0} XP
 - Key: CombatAnimatedHitDisplay.0-638367830940354942
-  Text: Crit!
+  Text: 치명타!
 - Key: CombatAnimatedHitDisplay.1-638367830940354942
-  Text: Shielded
+  Text: 막음
 - Key: CombatAnimatedHitDisplay.3-638367830940354942
-  Text: Dodged
+  Text: 피함
 - Key: CombatAnimatedHitDisplay.4-638367830940354942
-  Text: Armor
+  Text: 아머
 - Key: CombatCommandWidget.0-638307959572751801
-  Text: Casting a spell is a Full Action and will end this Mage's turn.
+  Text: 주문 시전은 전투 행동입니다. 전투 행동을 사용하면 이 마법사의 턴이 종료됩니다.
 - Key: CombatCommandWidget.1-638307959572751801
-  Text: Using a Potion is a Bonus Action. This Mage has already used their Bonus Action this turn but can still Cast a spell or Flee.
+  Text: 물약 마시기는 추가 행동입니다. 이 마법사는 이번 턴에 이미 추가 행동을 사용했으며, 이제 마법 시전이나 전투 탈출 등의 전투 행동만 수행할 수 있습니다.
 - Key: CombatCommandWidget.2-638307959572751801
-  Text: Using a Potion is a Bonus Action. You can use one Bonus Action before you Cast a spell or Flee.
+  Text: 물약 마시기는 추가 행동입니다. 한 마법사는 한 턴에 하나의 추가 행동만 수행할 수 있습니다.
 - Key: CombatCommandWidget.3-638307959572751801
-  Text: Moving is a Bonus Action. This Mage has already used their Bonus Action this turn but can still Cast a spell or Flee.
+  Text: 이동은 추가 행동입니다. 이 마법사는 이번 턴에 이미 추가 행동을 사용했으며, 이제 마법 시전이나 전투 탈출 등의 전투 행동만 수행할 수 있습니다.
 - Key: CombatCommandWidget.4-638307959572751801
-  Text: Moving is a Bonus Action. You can use one Bonus Action before you Cast a spell or Flee.
+  Text: 이동은 추가 행동입니다. 한 마법사는 한 턴에 하나의 추가 행동만 수행할 수 있습니다.
 - Key: CombatCommandWidget.0-638357407850166631
-  Text: Flee not possible in Underlord corridors.
+  Text: 이곳에서는 탈출할 수 없습니다.
 - Key: CombatCommandWidget.5-638307959572751801
-  Text: Fleeing is a Full Action. Starting to Flee will end this Mage's turn, and they will leave battle on their next turn.
+  Text: 전투 탈출은 전투 행동입니다. 전투 탈출을 사용 시 턴이 종료되며, 이 마법사는 다음 턴에 전투를 탈출합니다.
 - Key: CombatCommandWidget.6-638307959572751801
-  Text: Passing is a Full Action. Gain 15 Mana and immediately end this Mage's turn.
+  Text: 턴 넘기기는 전투 행동입니다. 15마나를 획득하며 즉시 턴이 종료됩니다.
 - Key: CombatCommandWidget.0-638327234817777501
-  Text: Flee the battle?
+  Text: 전투에서 탈출하시겠습니까?
 - Key: CombatCommandWidget.1-638327234817777501
-  Text: Confirm
+  Text: 확인
 - Key: CombatCommandWidget.2-638327234817777501
-  Text: Cancel
+  Text: 취소
 - Key: CombatCommandWidget.0-638295487991199530
-  Text: CAST
+  Text: 주문
 - Key: CombatCommandWidget.1-638295487991199530
-  Text: USE
+  Text: 물약
 - Key: CombatCommandWidget.2-638295487991199530
-  Text: MOVE
+  Text: 이동
 - Key: CombatCommandWidget.3-638295487991199530
-  Text: FLEE
+  Text: 전투 탈출
 - Key: CombatCommandWidget.4-638295487991199530
-  Text: PASS
+  Text: 턴 넘기기
 - Key: CombatMovePickerWidget.0-638332372939006425
-  Text: Front ({0})
+  Text: 전열 ({0})
 - Key: CombatMovePickerWidget.1-638332372939006425
-  Text: Back ({0})
+  Text: 후열 ({0})
 - Key: CombatMovePickerWidget.2-638332372939006425
-  Text: Front (empty)
+  Text: 전열 (비어 있음)
 - Key: CombatMovePickerWidget.3-638332372939006425
-  Text: Back (empty)
+  Text: 후열 (비어 있음)
 - Key: CombatCommandWidget.0-638266599292299110
-  Text: Adjust settings {0}
+  Text: 세팅 조정 {0}
 - Key: CombatSlotPickerWidget.0-638332372939046830
-  Text: Front ({0})
+  Text: 전열 ({0})
 - Key: CombatSlotPickerWidget.1-638332372939046830
-  Text: Back ({0})
+  Text: 후열 ({0})
 - Key: CombatSlotPickerWidget.2-638332372939046830
-  Text: Front (empty)
+  Text: 전열 (비어 있음)
 - Key: CombatSlotPickerWidget.3-638332372939046830
-  Text: Back (empty)
+  Text: 후열 (비어 있음)
 - Key: CombatTurnOrderWidget.0-638307174750297213
-  Text: Next Turn
+  Text: 다음 턴
 - Key: CombatUnderCombatantWidget.0-638374630244324997
   Text: HP
 - Key: CombatUnderCombatantWidget.1-638374630244324997
-  Text: Mana
+  Text: 마나
 - Key: VictoryDefeatRewardEntry.0-638352274912830855
   Text: '{0}'
 - Key: VictoryDefeatRewardEntry.1-638352274912830855
-  Text: Cursed Staff
+  Text: 저주받은 교사
 - Key: VictoryDefeatRewardEntry.2-638352274912830855
-  Text: Cursed Student
+  Text: 저주받은 학생
 - Key: VictoryDefeatRewardEntry.3-638352274912830855
-  Text: Cursed Mage
+  Text: 저주받은 마법사
 - Key: VictoryDefeatWidget.0-638306300605163799
-  Text: Rewards
+  Text: 보상
 - Key: VictoryDefeatWidget.0-638352274912850867
-  Text: Events unlocked in the Underschool recur in the future.
+  Text: 지하세계에서 해금된 이벤트는 앞으로도 반복해서 나타납니다.
 - Key: VictoryDefeatWidget.1-638306300605163799
-  Text: Continue
+  Text: 계속
 - Key: VictoryDefeatWidget.2-638306300605163799
-  Text: Defeat!
+  Text: 패배!
 - Key: VictoryDefeatWidget.3-638306300605163799
-  Text: Victory
+  Text: 승리
 - Key: AccordionCategoryWidget.0-638330497790379751
-  Text: Category
+  Text: 카테고리
 - Key: NeedBarWidget.0-638150813292499951
-  Text: High chance for <slink=break>!
+  Text: <slink=break> 확률 높음!
 - Key: NeedBarWidget.1-638150813292509925
-  Text: High chance for <slink=Nightmares>!
+  Text: <slink=Nightmares> 확률 높음!
 - Key: NeedBarWidget.2-638150813292509925
-  Text: Chance for <slink=break>!
+  Text: <slink=break> 확률 있음!
 - Key: NeedBarWidget.3-638150813292509925
-  Text: Chance for <slink=Nightmares>!
+  Text: <slink=Nightmares> 확률 있음!
 - Key: NeedBarWidget.4-638150813292509925
-  Text: Active Mental Break!
+  Text: 정신착란 진행 중!
 - Key: NeedBarWidget.5-638150813292509925
-  Text: Active Nightmare!
+  Text: 악몽 진행 중!
 - Key: NeedWidget.0-638330497790434848
   Text: >2-
 
-    Value: {0}/{1}
+    값: {0}/{1}
 - Key: NeedWidget.1-638330497790434848
   Text: >2-
 
-    Value: {0:N2}/{1}
+    값: {0:N2}/{1}
 - Key: NeedWidget.2-638330497790434848
   Text: >2-
 
-    Status: {0}
+    상태: {0}
 - Key: NeedWidget.3-638330497790434848
   Text: >2
 
-    {0}: {1:N2} per hour
+    {0}: {1:N2} 시간당
 - Key: NeedWidget.4-638330497790434848
   Text: >2-
 
-    Changing by: {0:N2} per hour
+    변경 기준: {0:N2} 시간당
 - Key: NeedWidget.5-638330497790434848
   Text: >2-
 
-    Value: {0}/{1}
+    값: {0}/{1}
 - Key: NeedWidget.6-638330497790434848
   Text: >2-
 
-    Status: {0}
+    상태: {0}
 - Key: NeedWidget.7-638330497790434848
   Text: >2-
 
-    Target Value: {0}
+    목표 값: {0}
 - Key: NeedWidget.8-638330497790434848
   Text: >2-
 
-    Changing by: +{0} per hour
+    변화량: 시간당 +{0}
 - Key: NeedWidget.9-638330497790434848
   Text: >2-
 
-    Changing by: -{0} per hour
+    변화량: 시간당 -{0}
 - Key: NeedWidget.10-638330497790434848
   Text: >2-
 
-    Having <slink=break>
+    <slink=break> 중
 - Key: BadgeIcon.0-638403284189203658
-  Text: 'Completed:'
+  Text: '완료:'
 - Key: BadgeIcon.0-638405666183427259
-  Text: 'Completed:'
+  Text: '완료:'
 - Key: BadgesWidget.0-638301172111807005
-  Text: Heart
+  Text: 마음
 - Key: BadgesWidget.1-638301172111807005
-  Text: Spirit
+  Text: 정신
 - Key: BadgesWidget.2-638301172111807005
-  Text: Wisdom
+  Text: 지혜
 - Key: BadgesWidget.3-638301172111807005
-  Text: Serenity
+  Text: 평화
 - Key: BadgesWidget.4-638301172111807005
-  Text: Tenacity
+  Text: 끈기
 - Key: CharacterSkillsWidget.0-638331491639559311
-  Text: Skill
+  Text: 스킬
 - Key: CharacterSkillsWidget.1-638331491639569279
-  Text: Next Level
+  Text: 다음 레벨
 - Key: FogStatusWidget.0-638331491639589286
   Text: >2-
 
 
-    Estimated Days From School: {0}
+    학교에 도달하기까지 남은 시간: {0}일
 - Key: GroupSelectWidget.0-638331491639613345
-  Text: Students
+  Text: 학생
 - Key: HUDFilter_Clutter.0-638326348617383345
-  Text: Clutter {0}
+  Text: 쓰레기 {0}
 - Key: HUDFilter_Clutter.1-638326348617383345
   Text: >2-
 
-    {0:P0} Cluttered
+    {0:P0} 쓰레기
 - Key: HUDFilter_Clutter.0-638362442905902362
   Text: >2-
 
-    {0} spawn in {1}.
+    {1} 후에 {0}(이)가 나타납니다.
 - Key: HUDFilter_Clutter.1-638362442905902362
   Text: >2-
 
-    No {0} will spawn.
+    {0}(이)가 나타나지 않습니다.
 - Key: HUDFilter_Filth.0-638326348617393347
-  Text: Filth {0}
+  Text: '{0} 찌꺼기'
 - Key: HUDFilter_Filth.1-638326348617393347
   Text: >2-
 
-    {0:P0} Filth
+    {0:P0} 찌꺼기
 - Key: HUDFilter_Filth.0-638362442905912406
   Text: >2-
 
-    {0} spawn in {1}.
+    {1} 후에 {0}(이)가 나타납니다.
 - Key: HUDFilter_Filth.1-638362442905912406
   Text: >2-
 
-    No {0} will spawn.
+    {0}(이)가 나타나지 않습니다.
 - Key: HUDFilter_Lighting.0-638326348617406547
-  Text: Lighting {0}
+  Text: 조명 {0}
 - Key: HUDFilter_Lighting.1-638326348617406547
   Text: >2-
 
-    {0:P0} Lit
+    {0:P0} 조명
 - Key: HUDFilter_Lighting.0-638362442905912406
   Text: >2-
 
-    {0} spawn in {1}.
+    {1} 후에 {0}(이)가 나타납니다.
 - Key: HUDFilter_Lighting.1-638362442905912406
   Text: >2-
 
-    No {0} will spawn.
+    {0}(이)가 나타나지 않습니다.
 - Key: HUDFilter_Pathing.0-638326348617406547
-  Text: Pathing {0}
+  Text: 경로 {0}
 - Key: HUDFilter_RoomType.0-638326348617416549
-  Text: Room Type {0}
+  Text: 방 타입 {0}
 - Key: HUDFilter_RoomType.1-638326348617426552
-  Text: Remove {0}
+  Text: '{0} 제거'
 - Key: HUDFilter_RoomType.2-638326348617426552
-  Text: Add {0}
+  Text: '{0} 추가'
 - Key: HUDFilter_RoomType.3-638326348617426552
-  Text: Add {0}
+  Text: '{0} 추가'
 - Key: HUDFilter_RoomType.4-638326348617426552
-  Text: Remove {0}
+  Text: '{0} 제거'
 - Key: HUDFilter_RoomType.5-638326348617426552
-  Text: Remove {0}
+  Text: '{0} 제거'
 - Key: HUDFilter_RoomType.6-638326348617426552
-  Text: Add {0}
+  Text: '{0} 추가'
 - Key: HUDFilter_RoomType.7-638326348617426552
-  Text: Decrease {0} by {1}
+  Text: '{0} {1}만큼 감소'
 - Key: HUDFilter_RoomType.8-638326348617426552
-  Text: Increase {0} by {1}
+  Text: '{0} {1}만큼 증가'
 - Key: HUDFilter_RoomType.9-638326348617426552
-  Text: Decrease {0} by {1}
+  Text: '{0} {1}만큼 감소'
 - Key: HUDFilter_RoomType.10-638326348617426552
-  Text: Increase {0} by {1}
+  Text: '{0} {1}만큼 증가'
 - Key: HUDFilter_RoomType.11-638326348617426552
   Text: >2-
 
-    {0} Luxury
+    {0} 화려함
 - Key: HUDFilter_RoomType.12-638326348617426552
   Text: >2-
 
 
-    Not {0} because:
+    {0}(이)가 아닌 이유:
 - Key: HUDFilter_RoomType.0-638336722417446885
-  Text: ' OR'
+  Text: ' 또는'
 - Key: HUDFilter_RoomType.13-638326348617426552
-  Text: '  - Needs {0}'
+  Text: '  - {0} 필요'
 - Key: HUDFilter_RoomType.14-638326348617426552
-  Text: '  - Must not have {0}'
+  Text: '  - {0}(이)가 없어야 함'
 - Key: HUDFilter_RoomType.0-638334758545877628
-  Text: Luxury
+  Text: 화려함
 - Key: HUDFilter_RoomType.1-638334758545877628
-  Text: Width of Room
+  Text: 방 너비
 - Key: HUDFilter_RoomType.2-638334758545877628
-  Text: Pathability
+  Text: 방 입구
 - Key: HUDFilter_RoomType.15-638326348617426552
-  Text: '  - All {0} should be assigned to members of {1}'
+  Text: '  - 모든 {0}(은)는 {1}에게 할당되어야 합니다'
 - Key: HUDFilter_Support.0-638326348617426552
-  Text: Support {0}
+  Text: '{0} 지지'
 - Key: HUDPanel_BuildPalette_Selection_Button.0-638331491639668488
-  Text: NEW
+  Text: 신규
 - Key: HUDPanel_BuildPalette_Selection.0-638173228694384554
-  Text: (Free)
+  Text: (무료)
 - Key: HUDPanel_Feed_FeedEntry.0-638191396131898988
-  Text: Dismiss
+  Text: 확인
 - Key: HUDPanel_Filters.0-638181044002140017
-  Text: Views
+  Text: 보기
 - Key: HUDPanel_Resources.0-638308141209072936
-  Text: Resources
+  Text: 자원
 - Key: HUDPanel_Resources.1-638308141209072936
-  Text: Reagents
+  Text: 마법 재료
 - Key: HUDPanel_Resources.9-638308141209072936
-  Text: Inventory
+  Text: 보관됨
 - Key: HUDPanel_Resources.19-638308141209072936
-  Text: Wild
+  Text: 밖에 있음
 - Key: HUDPanel_Resources_NewEntry.0-638331491639723751
-  Text: NEW
+  Text: 신규
 - Key: HUDPanel_TimeControl.0-638331491639741470
-  Text: Toggle Pause {0}
+  Text: 일시정지 {0}
 - Key: HUDPanel_TimeControl.0-638170763865078554
-  Text: .1x Speed
+  Text: .1x 속도
 - Key: HUDPanel_TimeControl.1-638170763865078554
-  Text: 1x Speed {0}
+  Text: 1x 속도 {0}
 - Key: HUDPanel_TimeControl.2-638170763865078554
-  Text: 2x Speed {0}
+  Text: 2x 속도 {0}
 - Key: HUDPanel_TimeControl.3-638170763865078554
-  Text: 3x Speed {0}
+  Text: 3x 속도 {0}
 - Key: HUDPanel_TimeControl.4-638170763865078554
-  Text: Days since the school opened.
+  Text: 개교 이후 지난 날짜
 - Key: HUDPanel_TimeControl.0-637907160392634673
-  Text: Adjust settings {0}
+  Text: 설정 조정 {0}
 - Key: HUDPanel_TimeControl.0-638379728725647504
-  Text: View Tutorials
+  Text: 튜토리얼 보기
 - Key: HUDPanel_TimeControl.1-638331491639741470
-  Text: Day {0}
+  Text: '{0}일째'
 - Key: HUDPanel_TimeControl.0-638174110384785880
-  Text: '{0} Day'
+  Text: '{0}일'
 - Key: HUDPanel_TimeControl.1-638174110384808981
-  Text: '{0} Days'
+  Text: '{0}일'
 - Key: HUDScreen.0-638331491639771548
-  Text: Choose a School Name
+  Text: 학교 이름을 입력하세요
 - Key: HUDScreen.1-638331491639771548
-  Text: The future of this school belongs to your new Staff.
+  Text: 이 학교의 미래는 여러분의 새 교사에게 달려 있습니다.
 - Key: HUDScreen.2-638331491639771548
-  Text: Random
+  Text: 무작위
 - Key: HUDScreen.3-638331491639771548
-  Text: Accept
+  Text: 확인
 - Key: HUDToolHoverUtils.0-638336722417517434
-  Text: 'WILL REPLACE: {0}'
+  Text: '대체 예정: {0}'
 - Key: HUDToolHoverUtils.0-638330714199792312
-  Text: INVALID
+  Text: 무효함
 - Key: HUDToolHoverUtils.1-638330714199792312
-  Text: NOT SUPPORTED
+  Text: 지지대 없음
 - Key: HUDToolHoverUtils.2-638330714199792312
-  Text: NEED RESOURCES
+  Text: 자원 부족
 - Key: HUDToolHoverUtils.3-638330714199792312
-  Text: 'Lighting Change: {0}%'
+  Text: '조명 변화: {0}%'
 - Key: HUDToolHoverUtils.4-638330714199792312
-  Text: 'Luxury Change: {0}%'
+  Text: '화려함 변화: {0}%'
 - Key: HUDToolHoverUtils.1-638336722417517434
-  Text: Place
+  Text: 놓기
 - Key: HUDToolHoverUtils.2-638336722417517434
-  Text: Complete
+  Text: 완료
 - Key: HUDToolHoverUtils.3-638336722417517434
-  Text: Begin
+  Text: 시작
 - Key: HUDToolHoverUtils.4-638336722417517434
-  Text: Back
+  Text: 뒤로
 - Key: HUDToolHoverUtils.5-638336722417517434
-  Text: Place
+  Text: 놓기
 - Key: HUDToolHoverUtils.6-638336722417517434
-  Text: Back
+  Text: 뒤로
 - Key: HUDToolHoverUtils.0-638352274913493041
-  Text: CONSTRUCTION NOT ALLOWED HERE
+  Text: 이곳에는 건설할 수 없습니다
 - Key: HUDToolHoverUtils.1-638352274913493041
-  Text: NOT ALLOWED HERE
+  Text: 이곳에는 놓을 수 없습니다
 - Key: HUDToolHoverUtils.2-638352274913493041
-  Text: NOT ALLOWED ON BACK WALLS HERE
+  Text: 이 뒷면 벽에는 놓을 수 없습니다
 - Key: HUDToolHoverUtils.3-638352274913493041
-  Text: NOT ALLOWED ON SIDE WALLS HERE
+  Text: 이 옆면 벽에는 놓을 수 없습니다
 - Key: HUDToolHoverUtils.0-638331763243373423
-  Text: BLOCKED BY STAIRS
+  Text: 계단으로 막혀 있습니다
 - Key: HUDToolHoverUtils.0-638318400364765233
-  Text: REQUIRES WALL BEHIND AND FLOOR BELOW
+  Text: 뒷면 벽과 바닥이 필요합니다
 - Key: HUDToolHoverUtils.1-638206939484544115
-  Text: INVALID
+  Text: 무효함
 - Key: HUDToolHoverUtils.2-638206939484544115
-  Text: OFF WORLD
+  Text: 월드 바깥입니다
 - Key: HUDToolHoverUtils.3-638206939484544115
-  Text: INVALID IN ROOM
+  Text: 방 안에 놓을 수 없습니다
 - Key: HUDToolHoverUtils.4-638206939484544115
-  Text: INVALID ON GROUND
+  Text: 땅 위에 놓을 수 없습니다
 - Key: HUDToolHoverUtils.4-638352274913493041
-  Text: BLOCKED BY ENVIRONMENT
+  Text: 환경 요소로 인해 막혀 있습니다
 - Key: HUDToolHoverUtils.5-638352274913506821
-  Text: BLOCKED BY {0}
+  Text: '{0}(으)로 인해 막혀 있습니다'
 - Key: HUDToolHoverUtils.5-638206939484544115
-  Text: BLOCKED BY OTHERS
+  Text: 다른 물체로 막혀 있습니다
 - Key: HUDToolHoverUtils.6-638206939484544115
-  Text: NO ACCESS
+  Text: 도달할 수 없습니다
 - Key: HUDToolHoverUtils.7-638206939484544115
-  Text: BLOCKS ACCESS
+  Text: 길을 막고 있습니다
 - Key: HUDToolHoverUtils.8-638206939484544115
-  Text: INVALID ON FLOORS
+  Text: 바닥에 놓을 수 없습니다
 - Key: HUDToolHoverUtils.9-638206939484544115
-  Text: INVALID NEAR STAIRS
+  Text: 계단 근처에 놓을 수 없습니다
 - Key: HUDToolHoverUtils.10-638206939484544115
-  Text: NO MANA IN RANGE
+  Text: 범위 내에 마나가 부족합니다
 - Key: HUDToolHoverUtils.11-638206939484544115
-  Text: NO LECTURE SPOT
+  Text: 교사가 설 자리가 없습니다
 - Key: HUDToolHoverUtils.12-638206939484544115
-  Text: INVALID OUTPUT SPOT
+  Text: 제작물을 놓을 자리가 없습니다
 - Key: HUDToolHoverUtils.0-638345097633228256
-  Text: INVALID NEAR ROOM BATTLE
+  Text: 전투 중인 방 근처에는 놓을 수 없습니다
 - Key: HUDToolHoverUtils.11-638330714199807359
   Text: >
-    <color=#ffffff>NOT ENOUGH RESOURCES</color>
+    <color=#ffffff>자원이 부족합니다</color>
 - Key: HUDToolHoverUtils.12-638330714199807359
   Text: >
-    <color=#ff0000>INVALID PLACEMENT</color>
+    <color=#ff0000>부적절한 위치입니다</color>
 - Key: HUDToolHoverUtils.13-638330714199807359
   Text: >
-    <color=#ffD800>NOT SUPPORTED</color>
+    <color=#ffD800>지지대가 없습니다</color>
 
-    <color=#ff0000>No construction while unsupported</color>
+    <color=#ff0000>지지대를 건설하기 전에는 건설할 수 없습니다</color>
 - Key: HUDToolHoverUtils.14-638330714199807359
-  Text: Cancel
+  Text: 취소
 - Key: HUDToolHoverUtils.15-638330714199807359
-  Text: '{0} on {1}'
+  Text: '{1} 위에 {0}'
 - Key: HUDToolHoverUtils.16-638330714199807359
-  Text: Never
+  Text: 금지
 - Key: HUDToolHoverUtils.17-638330714199807359
-  Text: 'Set Task Priority: {0}'
+  Text: '작업 우선순위 설정: {0}'
 - Key: HUDToolHoverUtils.18-638330714199807359
-  Text: Select For Mining
+  Text: 채굴 범위 선택
 - Key: HUDToolHoverUtils.19-638330714199807359
-  Text: Select For Chopping
+  Text: 벌목 범위 선택
 - Key: HUDToolHoverUtils.20-638330714199807359
-  Text: Select For Harvesting
+  Text: 수확 범위 선택
 - Key: HUDToolHoverUtils.21-638330714199807359
-  Text: Select For Hunting
+  Text: 사냥 범위 선택
 - Key: HUDToolHoverUtils.0-638415221469807431
-  Text: Select For Gathering
+  Text: 채집 범위 선택
 - Key: HUDToolHoverUtils.0-638365180182599142
-  Text: Demolish Stairs & Ladders
+  Text: 계단과 사다리 철거
 - Key: HUDToolHoverUtils.1-638365180182599142
-  Text: Demolish Support & Columns
+  Text: 지지대와 기둥 철거
 - Key: HUDToolHoverUtils.0-638333917998560671
-  Text: Demolish Walls
+  Text: 벽 철거
 - Key: HUDToolHoverUtils.1-638333917998570638
-  Text: Demolish Floors
+  Text: 바닥 철거
 - Key: HUDToolHoverUtils.2-638333917998570638
-  Text: Demolish Roofs
+  Text: 지붕 철거
 - Key: HUDToolHoverUtils.3-638333917998570638
-  Text: Demolish Supports
+  Text: 지지대 철거
 - Key: HUDToolHoverUtils.4-638333917998570638
-  Text: Demolish Doors
+  Text: 문 철거
 - Key: HUDToolHoverUtils.5-638333917998570638
-  Text: Demolish Stairs
+  Text: 계단 철거
 - Key: HUDToolHoverUtils.6-638333917998570638
-  Text: Demolish Ladders
+  Text: 사다리 철거
 - Key: HUDToolHoverUtils.7-638333917998570638
-  Text: Demolish Magic Ladders
+  Text: 마법 사다리 철거
 - Key: HUDToolHoverUtils.8-638333917998570638
-  Text: Demolish Support Columns
+  Text: 지지 기둥 철거
 - Key: HUDToolHoverUtils.9-638333917998570638
-  Text: Demolish Outdoor Support Columns
+  Text: 야외 지지 기둥 철거
 - Key: HUDToolHoverUtils.10-638333917998570638
-  Text: Demolish Furniture
+  Text: 가구 철거
 - Key: HUDToolHoverUtils.11-638333917998570638
-  Text: Demolish
+  Text: 철거
 - Key: HUDToolHoverUtils.12-638333917998570638
-  Text: <size=-8>Reclaims Reagents</size>
+  Text: <size=-8>재료를 돌려받습니다</size>
 - Key: HUDToolHoverUtils.0-638416139809356659
-  Text: Ground Select
+  Text: 지면 선택
 - Key: HUDToolHoverUtils.1-638416139809356659
-  Text: Floor Select
+  Text: 바닥 선택
 - Key: HUDToolHoverUtils.2-638416139809356659
-  Text: Wall Select
+  Text: 벽 선택
 - Key: HUDToolHoverUtils.3-638416139809356659
-  Text: Wall Select
+  Text: 벽 선택
 - Key: HUDToolHoverUtils.41-638330714199807359
-  Text: Build {0}
+  Text: '{0} 건설'
 - Key: WandWidget.0-638331491639895890
-  Text: '{0} Skill {1}'
+  Text: '{0} 스킬 {1}'
 - Key: WandWidget.0-638282935946602520
-  Text: 'Ingredients:'
+  Text: '재료:'
 - Key: SchoolStartWindow.0-638277933340475101
-  Text: Select Starting Staff
+  Text: 시작 교사를 선택하세요
 - Key: SchoolStartWindow.0-638332392141811344
-  Text: Found School
+  Text: 학교 열기
 - Key: SchoolStartWindowEntry.0-638332392141821338
-  Text: Rename
+  Text: 이름 변경
 - Key: SchoolStartWindowEntry.1-638332392141821338
-  Text: Rename This Mage
+  Text: 마법사 이름 변경
 - Key: SchoolStartWindowEntry.2-638332392141821338
-  Text: Accept
+  Text: 확인
 - Key: SchoolStartWindowEntry.3-638332392141821338
-  Text: Cancel
+  Text: 취소
 - Key: SchoolStartWindowEntry.0-638379728725921878
-  Text: Re-roll Appearance
+  Text: 외형 재설정
 - Key: SchoolStartWindowEntry.4-638332392141821338
-  Text: Re-roll Mage
+  Text: 마법사 재설정
 - Key: SaveScreenUtils.0-637908904683628382
-  Text: Save Failed
+  Text: 저장 실패
 - Key: SaveScreenUtils.1-637908904683638374
-  Text: Overwriting an autosave is not allowed.
+  Text: 자동 저장 파일은 덮어쓸 수 없습니다.
 - Key: SaveScreenUtils.2-637908904683638374
-  Text: Overwrite?
+  Text: 덮어쓰시겠습니까?
 - Key: SaveScreenUtils.3-637908904683638374
-  Text: Are you sure you want to overwrite {0}?
+  Text: '{0}(을)를 덮어쓰시겠습니까?'
 - Key: SaveScreenUtils.0-638352274913662000
-  Text: OK
+  Text: 확인
 - Key: SaveScreenUtils.1-638352274913662000
-  Text: Cancel
+  Text: 취소
 - Key: SaveScreenUtils.4-637908904683638374
-  Text: Save current game to {0}?
+  Text: '{0}에 현재 게임을 저장하시겠습니까?'
 - Key: SaveScreenUtils.5-637908904683638374
-  Text: Save before quit?
+  Text: 나가기 전에 저장하시겠습니까?
 - Key: SaveScreenUtils.6-637908904683638374
-  Text: Save and Quit
+  Text: 저장하고 나가기
 - Key: SaveScreenUtils.7-637908904683638374
-  Text: Quit Without Save
+  Text: 저장하지 않고 나가기
 - Key: SaveScreenUtils.8-637908904683638374
-  Text: Cancel
+  Text: 취소
 - Key: SaveScreenUtils.9-637908904683638374
-  Text: Save Failed
+  Text: 저장 실패
 - Key: SaveScreenUtils.10-637908904683638374
-  Text: Save Name
+  Text: 저장 파일 이름
 - Key: SaveScreenUtils.11-637908904683638374
-  Text: OK
+  Text: 확인
 - Key: SaveScreenUtils.12-637908904683638374
-  Text: Cancel
+  Text: 취소
 - Key: SaveScreenUtils.13-637908904683638374
-  Text: Filename must contain at least one character
+  Text: 파일 이름은 1글자 이상이어야 합니다
 - Key: SaveScreenUtils.14-637908904683638374
-  Text: "'{0}' is reserved for autosaves."
+  Text: "'{0}'은 자동 저장을 위해 예약된 파일 이름입니다."
 - Key: SaveScreenUtils.15-637908904683638374
-  Text: 'Filename must not contain: {0}'
+  Text: 파일명에 '{0}'을 포함할 수 없습니다.
 - Key: SaveSlotsWidget.0-638332372939784740
-  Text: Save Slots
+  Text: 세이브 칸
 - Key: SaveSlotsWidget.1-638332372939784740
-  Text: New Save
+  Text: 새 저장 파일
 - Key: SettingsWindowOptions.0-638332372939804428
-  Text: Audio
+  Text: 소리
 - Key: SettingsWindowOptions.1-638332372939804428
-  Text: Graphics
+  Text: 그래픽
 - Key: SettingsWindowOptions.0-638415221469988019
   Text: UI
 - Key: SettingsWindowOptions.2-638332372939804428
-  Text: Controls
+  Text: 조작
 - Key: SettingsWindowOptions.3-638332372939804428
-  Text: Misc
+  Text: 기타
 - Key: SettingsWindowOptions_Audio.0-638332372939804428
-  Text: Master Volume
+  Text: 전체 음량
 - Key: SettingsWindowOptions_Audio.1-638332372939804428
-  Text: Music Volume
+  Text: 배경음악 음량
 - Key: SettingsWindowOptions_Audio.2-638332372939804428
-  Text: SFX Volume
+  Text: 특수효과 음량
 - Key: SettingsWindowOptions_Audio.3-638332372939804428
-  Text: Ambience Volume
+  Text: 환경 소리 음량
 - Key: SettingsWindowOptions_Audio.4-638332372939804428
-  Text: UI Volume
+  Text: UI 음량
 - Key: SettingsWindowOptions_Audio.5-638332372939804428
-  Text: Mute On Unfocused
+  Text: 화면이 켜져 있지 않을 때 소리 끄기
 - Key: SettingsWindowOptions_Controls.0-638423313418490383
   Text: >-
-    Hold Ctrl for Cancel Task Mode
+    Ctrl을 누르면 작업 취소 모드로 전환하기
 
-    Enables holding Ctrl to enter Cancel Task Mode. This may conflict with Shortcuts that use the Ctrl key.
+    Ctrl을 누르고 있는 동안 작업 취소 모드가 됩니다. Ctrl을 포함한 다른 단축키와 충돌을 일으킬 수 있습니다.
 - Key: SettingsWindowOptions_Controls.1-638423313418490383
-  Text: Universal Ctrl Cancel Mode Enabled
+  Text: Ctrl 취소 모드 활성화됨
 - Key: SettingsWindowOptions_Controls.0-638332372939816524
-  Text: Shortcuts
+  Text: 단축키
 - Key: SettingsWindowOptions_Controls.0-638421278416757112
-  Text: Find shortcut...
+  Text: 단축키 찾기
 - Key: SettingsWindowOptions_Controls.1-638421278416767106
-  Text: Clear
+  Text: 지우기
 - Key: SettingsWindowOptions_Controls.2-638421278416767106
-  Text: Category
+  Text: 카테고리
 - Key: SettingsWindowOptions_Controls.3-638421278416767106
-  Text: Command
+  Text: 명령어
 - Key: SettingsWindowOptions_Controls.4-638421278416767106
-  Text: 'Shortcut #1'
+  Text: 단축키 1
 - Key: SettingsWindowOptions_Controls.5-638421278416767106
-  Text: 'Shortcut #2'
+  Text: 단축키 2
 - Key: SettingsWindowOptions_Controls.2-638423313418490383
-  Text: Click to set. Ctrl-click to clear.
+  Text: 설정하려면 클릭하세요. Ctrl-클릭하여 단축키를 제거하세요.
 - Key: SettingsWindowOptions_Controls.3-638423313418490383
-  Text: Click to set. Ctrl-click to clear.
+  Text: 설정하려면 클릭하세요. Ctrl-클릭하여 단축키를 제거하세요.
 - Key: SettingsWindowOptions_Controls.1-638332372939816524
-  Text: Reset Defaults
+  Text: 설정 초기화
 - Key: SettingsWindowOptions_Controls.4-638423313418490383
-  Text: Control Key Conflict
+  Text: Ctrl 키 충돌
 - Key: SettingsWindowOptions_Controls.5-638423313418490383
   Text: >-
-    Enabling Control key for Cancel Mode may result in conflicts with the following shortcuts:
+    Ctrl 취소 모드를 활성화하면 다음 단축키들과 충돌이 발생할 수 있습니다:
       {0}
 - Key: SettingsWindowOptions_Controls.6-638423313418490383
-  Text: Set Anyway
+  Text: 그래도 설정하기
 - Key: SettingsWindowOptions_Controls.7-638423313418490383
-  Text: Cancel
+  Text: 취소
 - Key: SettingsWindowOptions_Controls.8-638423313418490383
-  Text: Control Key Conflict
+  Text: Ctrl 키 충돌
 - Key: SettingsWindowOptions_Controls.9-638423313418490383
-  Text: When using the Control key for Cancel Mode, shortcuts using the Control key may result in conflicts.
+  Text: Ctrl 취소 모드를 활성화하면 Ctrl 키를 포함하는 단축키들과 충돌이 발생할 수 있습니다.
 - Key: SettingsWindowOptions_Controls.10-638423313418490383
-  Text: Set Anyway
+  Text: 그래도 설정하기
 - Key: SettingsWindowOptions_Controls.11-638423313418490383
-  Text: Cancel
+  Text: 취소
 - Key: SettingsWindowOptions_Controls.2-638332372939816524
-  Text: Potential Conflicts
+  Text: 충돌 가능성이 있는 단축키
 - Key: SettingsWindowOptions_Controls.3-638332372939816524
-  Text: Replace
+  Text: 변경
 - Key: SettingsWindowOptions_Controls.6-638421278416767106
-  Text: Set Anyway
+  Text: 그래도 설정하기
 - Key: SettingsWindowOptions_Controls.4-638332372939816524
-  Text: Cancel
+  Text: 취소
 - Key: SettingsWindowOptions_Data.0-638390026272745635
-  Text: Tutorial Enabled
+  Text: 튜토리얼 활성화
 - Key: SettingsWindow.0-638185404764860756
-  Text: Reset Tutorial
+  Text: 튜토리얼 초기화
 - Key: SettingsWindowOptions_Graphics.2-638373896637877755
-  Text: Disable Combat Camera Motion
+  Text: 전투 카메라 모션 비활성화
 - Key: SettingsWindowOptions_Graphics.0-638398060494013842
-  Text: Enable Translation Tool
+  Text: 번역 툴 활성화
 - Key: SettingsWindowOptions_Data.0-638332372939831571
-  Text: Disable Data Send
+  Text: 분석 데이터 보내기 비활성화
 - Key: SettingsWindow.0-638207064683201869
-  Text: Exclusive Fullscreen
+  Text: 전체 화면
 - Key: SettingsWindow.1-638207064683211854
-  Text: Fullscreen Window
+  Text: 전체 화면 창
 - Key: SettingsWindow.2-638207064683211854
-  Text: Window
+  Text: 창
 - Key: SettingsWindowOptions_Graphics.1-638332372939831571
-  Text: Window Mode
+  Text: 창 모드
 - Key: SettingsWindowOptions_Graphics.2-638332372939831571
-  Text: Resolution
+  Text: 해상도
 - Key: SettingsWindowOptions_Graphics.3-638332372939831571
-  Text: Quality
+  Text: 품질
 - Key: SettingsWindowOptions_Graphics.4-638332372939831571
-  Text: Target FPS
+  Text: 목표 FPS
 - Key: SettingsWindowOptions_Graphics.5-638332372939831571
-  Text: Unlimited
+  Text: 제한 없음
 - Key: SettingsWindowOptions_Graphics.0-638373896637877755
-  Text: Brightness
+  Text: 밝기
 - Key: SettingsWindowOptions_Graphics.1-638373896637877755
-  Text: Reset
+  Text: 초기화
 - Key: SettingsWindowOptions_Graphics.0-638332372939831571
-  Text: UI Scale
+  Text: UI 크기
 - Key: SettingsWindowOptions_UI.0-638415221470023078
-  Text: Restrict UI Scale
+  Text: UI 크기 제한
 - Key: SettingsWindowOptions_Graphics.0-638386013538578606
-  Text: Pan Speed
+  Text: 화면 이동 속도
 - Key: SettingsWindowOptions_Graphics.0-638390026272780694
-  Text: Mouse Scroll Speed
+  Text: 마우스 스크롤 속도
 - Key: SettingsWindowTop.0-638332384326425996
-  Text: Save Game
+  Text: 저장하기
 - Key: SettingsWindowTop.1-638332384326425996
-  Text: Save As
+  Text: 다른 이름으로 저장하기
 - Key: SettingsWindowTop.2-638332384326425996
-  Text: Load Game
+  Text: 로드하기
 - Key: SettingsWindowTop.3-638332384326425996
-  Text: Settings
+  Text: 설정
 - Key: SettingsWindowTop.4-638332384326425996
-  Text: Tutorials
+  Text: 튜토리얼
 - Key: SettingsWindowTop.0-638379728726002051
-  Text: Send Feedback {0}
+  Text: '{0} 피드백 보내기'
 - Key: SettingsWindowTop.5-638332384326425996
-  Text: Master Volume
+  Text: 전체 음량
 - Key: SettingsWindowTop.1-638307324819531349
-  Text: Play Style
+  Text: 플레이 스타일
 - Key: SettingsWindowTop.6-638332384326425996
-  Text: Exit
+  Text: 나가기
 - Key: TranslationsWindow.0-638320989626568796
-  Text: Translations
+  Text: 번역
 - Key: TranslationsWindow.0-638379728726022054
   Text: Given the rapid updates during Early Access, translations are sometimes out of date, including those provided by Sparkypants. We are actively working on opening the process of adding and extending translations to the community in addition to official support for more languages as we approach the full launch of Mind Over Magic.
 - Key: TranslationsWindow.1-638320989626583848
   Text: Done
 - Key: TranslationsWindowNew.0-638398060494053162
-  Text: Steam Workshop
+  Text: 스팀 창작마당
 - Key: TutorialWindow.0-638333251365094668
-  Text: Tutorials
+  Text: 튜토리얼
 - Key: RoomTypeFilterAlertWidget.0-638322107133905617
   Text: >-
     {0}
 
-    <size=75%>Click to Dismiss ({1}s)</size>
+    <size=75%>없애려면 클릭 ({1}s)</size>
 - Key: RoomTypeFilterAlertWidget.0-638182061783390483
   Text: '{0} <slink=Luxury>'
 - Key: RightClickContextWidget.1-638330497791018852
-  Text: Yes
+  Text: 네
 - Key: RightClickContextWidget.2-638330497791018852
-  Text: Cancel
+  Text: 취소
 - Key: RightClickContextWidget.0-638290279819770937
-  Text: Immediate Task for any Staff
+  Text: 아무 교사에게나 직접 명령
 - Key: RightClickContextWidget.1-638290279819770937
-  Text: Immediate Task for {0}
+  Text: '{0}에게 직접 명령'
 - Key: RightClickContextWidgetEntityEntry.0-638330497791033920
   Text: >-
     {0}
 
-    <size=-6>Claimed by:{1}</size>
+    <size=-6>작업 예정:{1}</size>
 - Key: RightClickContextWidgetEntityEntry.1-638330497791033920
   Text: >-
     {0}
 
-    <size=-6>Claimed by:{1}</size>
+    <size=-6>작업 예정:{1}</size>
 - Key: RightClickContextWidgetEntityEntry.2-638330497791033920
   Text: >-
     <color=red>{0}</color>
 
-    <size=-6>Claimed by:{1}</size>
+    <size=-6>작업 예정:{1}</size>
 
     {2}
 - Key: RightClickContextWidgetEntityEntry.3-638330497791033920
   Text: >-
     <color=red>{0}</color>
 
-    <size=-6>Claimed by:{1}</size>
+    <size=-6>작업 예정:{1}</size>
 
     {2}
 - Key: RightClickContextWidgetEntityEntry.4-638330497791033920
   Text: >-
     {0}
 
-    Administer {1}
+    {1} 관리
 - Key: BookOfRitualsEntry.0-638331491640161516
-  Text: Ritual Requirements
+  Text: 의식 조건
 - Key: BookOfRitualsEntry.0-638315042893027606
-  Text: Costs Table
+  Text: 재료 표
 - Key: BookOfRitualsEntry.1-638315042893027606
-  Text: Start Ritual
+  Text: 의식 시작
 - Key: BookOfRitualsEntry.2-638315042893027606
-  Text: Select Ritual In Progress
+  Text: 진행 중인 의식 선택
 - Key: BookOfRitualsEntry.3-638315042893027606
-  Text: Build {0}
+  Text: '{0} 건설'
 - Key: BookOfRitualsTabButton.0-638290265805050566
-  Text: Founder's Message
+  Text: 창립자의 편지
 - Key: BookOfDreadStoryWindow.1-638163720611573942
-  Text: Continue
+  Text: 계속
 - Key: BookOfRitualsWindow.0-638265828315894514
-  Text: Rename School
+  Text: 학교 이름 변경
 - Key: BookOfRitualsWindow.0-638331491640176537
-  Text: A Nameless Wizard
+  Text: 이름없는 마법사
 - Key: BookOfRitualsWindow.1-638331491640176537
   Text: >2-
 
 
     - {0}
 
-    Founder, {1}
+    {1}의 창립자
 - Key: RitualCostsWidget.0-638331491640191587
-  Text: Ritual Costs
+  Text: 의식 재료
 - Key: RitualCostsWidget.1-638331491640191587
   Text: >
-    <size=125%><align=center>Level {0}</align></size>
+    <size=125%><align=center>레벨 {0}</align></size>
 - Key: CustomCharacterTooltip.0-638290929241279468
-  Text: Costs Change with Repel Distance
+  Text: 추방 거리에 따라 재료가 변경됩니다
 - Key: CustomCharacterTooltip.1-638290929241289604
-  Text: Costs Change by Number of Students
+  Text: 학생 수에 따라 재료가 변경됩니다
 - Key: CustomCharacterTooltip.2-638290929241289604
-  Text: Costs Change by Number of Staff
+  Text: 교사 수에 따라 재료가 변경됩니다
 - Key: CustomCharacterTooltip.3-638290929241289604
-  Text: Costs Change by Number of Mages
+  Text: 마법사 수에 따라 재료가 변경됩니다
 - Key: ViewRitualsUtils.0-638295488001958897
   Text: '{0}-{1} {2} (<color=#F96337>{3}</color>)'
 - Key: ViewRitualsUtils.1-638295488001958897
@@ -3532,79 +3526,79 @@
 - Key: ViewRitualsUtils.3-638295488001968891
   Text: '{0} {1} ({2})'
 - Key: ViewRitualsUtils.4-638295488001968891
-  Text: ' - must be Student'
+  Text: ' - 학생이어야 함'
 - Key: ViewRitualsUtils.5-638295488001968891
-  Text: ' - must be Staff'
+  Text: ' - 교사여야 함'
 - Key: ViewRitualsUtils.6-638295488001968891
-  Text: ' - Any Mage'
+  Text: ' - 학생 또는 교사'
 - Key: ViewRitualsUtils.0-638332336425688385
   Text: >2
-            {0} Skill {1}
+            {0} 스킬 {1}
 - Key: ViewRitualsUtils.1-638332336425688385
   Text: >2
-            {0} Skill Speciality
+            {0} 스킬 전문
 - Key: ViewRitualsUtils.2-638332336425688385
   Text: >2
-            {0} Total Skill
+            {0} 총 스킬
 - Key: ViewRitualsUtils.0-638357407851529148
   Text: >2
-            {0} Trauma
+            {0} 트라우마
 - Key: ViewRitualsUtils.3-638332336425688385
   Text: >2
-            {0} Hours on Staff
+            교사 재직 기간 {0}시간
 - Key: ViewRitualsUtils.4-638332336425688385
   Text: >2
-            Not {0}
+            {0}(이)가 아님
 - Key: ViewRitualsUtils.0-638379728726270666
-  Text: One Wand of any type
+  Text: 아무 지팡이 하나
 - Key: ViewRitualsUtils.7-638295488001968891
-  Text: Must be in <color=#F96337>{0}</color>
+  Text: <color=#F96337>{0}</color>에 있어야 함
 - Key: ViewRitualsUtils.0-638297049894487022
-  Text: Must be in <color=#F96337>{0}</color> or <color=#F96337>{1}</color>.
+  Text: <color=#F96337>{0}</color> 또는 <color=#F96337>{1}</color>에 있어야 함.
 - Key: ViewRitualsUtils.0-638297072940452486
-  Text: Must be in <color=#F96337>{0}</color>, <color=#F96337>{1}</color>, or <color=#F96337>{2}</color>.
+  Text: <color=#F96337>{0}</color>, <color=#F96337>{1}</color>, 또는 <color=#F96337>{2}</color>에 있어야 함.
 - Key: ViewRitualsUtils.1-638297049894487022
-  Text: Must be in valid room.
+  Text: 방 안에 있어야 함.
 - Key: ViewRitualsUtils.2-638297049894487022
-  Text: Must be in {0}
+  Text: '{0}에 있어야 함'
 - Key: ViewRitualsUtils.3-638297049894487022
-  Text: Must be in {0} or {1}.
+  Text: '{0} 또는 {1}에 있어야 함.'
 - Key: ViewRitualsUtils.1-638297072940467502
-  Text: Must be in {0}, {1}, or {2}.
+  Text: '{0}, {1}, 또는 {2}에 있어야 함.'
 - Key: ViewRitualsUtils.4-638297049894487022
-  Text: Must be in valid room.
+  Text: 방 안에 있어야 함.
 - Key: ViewRitualsUtils.0-638327089225751522
-  Text: Must not be broken.
+  Text: 파괴되지 않은 상태여야 함.
 - Key: ViewRitualsUtils.9-638295488001968891
   Text: >2-
 
-    Time: {0}
+    시간: {0}
 - Key: ViewRitualsUtils.0-638296858648216400
-  Text: '{0} retires'
+  Text: '{0}(이)가 은퇴함'
 - Key: ViewRitualsUtils.1-638296858648216400
-  Text: '{0} hired'
+  Text: '{0}(을)를 고용함'
 - Key: ViewRitualsUtils.1-638379728726270666
-  Text: '{0} expelled'
+  Text: '{0}(이)가 학교를 떠남'
 - Key: ViewRitualsUtils.2-638296858648216400
-  Text: '{0} graduates'
+  Text: '{0}(이)가 졸업함'
 - Key: ViewRitualsUtils.5-638332336425688385
-  Text: Student summoned
+  Text: 학생이 소환됨
 - Key: ViewRitualsUtils.3-638296858648216400
-  Text: '{0} Repel Fog'
+  Text: 안개가 {0}만큼 추방됨
 - Key: ViewRitualsUtils.0-638297617980455038
-  Text: Fog Repelled
+  Text: 안개가 추방됨
 - Key: ViewRitualsUtils.4-638296858648216400
-  Text: Underschool unlocked
+  Text: 지하세계가 열림
 - Key: ViewRitualsUtils.2-638379728726270666
-  Text: 'All Mages: {0}'
+  Text: '모든 마법사: {0}'
 - Key: HUDPanel_ClutterFilterLegendEntry.0-638326348617994786
   Text: >2-
 
-    - Clutter Range: {0:P0} - {1:P0}
+    - 쓰레기 범위: {0:P0} - {1:P0}
 - Key: HUDPanel_ClutterFilterLegendEntry.0-638362442906528307
   Text: >2-
 
-    - {0} spawn every {1:G7} hours.
+    - {1:G7}시간마다 {0}(이)가 나타납니다.
 - Key: HUDPanel_ClutterFilterLegendEntry.1-638362442906528307
   Text: >2-
 
