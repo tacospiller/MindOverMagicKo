@@ -11078,207 +11078,207 @@
 - Key: ResearchTechDefinition.TechTreeRoot.DisplayName
   Text: TechTreeRoot
 - Key: ResearchTechDefinition.BasicStorage.DisplayName
-  Text: Put Stuff Here
+  Text: 여기에 아무거나 넣으시오
 - Key: ResearchTechDefinition.BasicRituals.DisplayName
-  Text: Basic Rituals
+  Text: 의식 기초
 - Key: ResearchTechDefinition.BasicMusicRecreation.DisplayName
-  Text: Dancing The Night Away
+  Text: 춤을 춰요
 - Key: ResearchTechDefinition.BasicFurnishingsI.DisplayName
-  Text: Rustic Furnishings
+  Text: 투박한 가구
 - Key: ResearchTechDefinition.RitualAccessories.DisplayName
-  Text: Ritual Accessories
+  Text: 멋진 의식
 - Key: ResearchTechDefinition.ScholarsCornerI.DisplayName
-  Text: Quite Visionary
+  Text: 앞날이 보여
 - Key: ResearchTechDefinition.SchoolBasicsI.DisplayName
-  Text: Classroom Essentials
+  Text: 교실 필수품
 - Key: ResearchTechDefinition.FoodI.DisplayName
-  Text: Rustic Gourmet
+  Text: 소박한 식사
 - Key: ResearchTechDefinition.FoodIA.DisplayName
-  Text: Domesticated Gutberries
+  Text: 내장딸기 재배
 - Key: ResearchTechDefinition.FoodII.DisplayName
-  Text: Rustic Dining
+  Text: 투박한 식당
 - Key: ResearchTechDefinition.ManaSupplyI.DisplayName
-  Text: Shine On
+  Text: 반짝반짝 빛나라
 - Key: ResearchTechDefinition.LightingI.DisplayName
-  Text: Light My Fire
+  Text: 불타오르네
 - Key: ResearchTechDefinition.LightingII.DisplayName
-  Text: Luxurious Lighting
+  Text: 화려한 조명
 - Key: ResearchTechDefinition.MedicalI.DisplayName
-  Text: Critical Care
+  Text: 응급 처치
 - Key: ResearchTechDefinition.MedicalII.DisplayName
-  Text: Essential Medicine
+  Text: 약학 기초
 - Key: ResearchTechDefinition.MedicalIII.DisplayName
-  Text: Medicine and Medicine Accessories
+  Text: 더 많은 약품
 - Key: ResearchTechDefinition.GraveI.DisplayName
-  Text: Grave Thoughts
+  Text: 죽이는 아이디어
 - Key: ResearchTechDefinition.MiddenI.DisplayName
-  Text: Delightful Decomposition
+  Text: 즐거운 부패
 - Key: ResearchTechDefinition.SpindleI.DisplayName
-  Text: Creepiest Quilting
+  Text: 으스스한 누더기
 - Key: ResearchTechDefinition.SpindleII.DisplayName
-  Text: Graves and Mining
+  Text: 무덤과 채굴
 - Key: ResearchTechDefinition.SpindleIII.DisplayName
-  Text: Helpful Helpers
+  Text: 도움 되는 도우미
 - Key: ResearchTechDefinition.SpindleIV.DisplayName
-  Text: A Little Support
+  Text: 약간의 밑받침
 - Key: ResearchTechDefinition.ReagentsI.DisplayName
-  Text: Second Sight
+  Text: 새로운 시야
 - Key: ResearchTechDefinition.ReagentsII.DisplayName
-  Text: Braaaaaaiiins...
+  Text: 뇌...
 - Key: ResearchTechDefinition.ReagentsIII.DisplayName
-  Text: Use Every Part
+  Text: 마지막 한 점까지
 - Key: ResearchTechDefinition.GardenI.DisplayName
-  Text: Hardy Foliage
+  Text: 키우기 쉬운 식물들
 - Key: ResearchTechDefinition.GardenII.DisplayName
-  Text: Tidy Gardens
+  Text: 예쁜 정원
 - Key: ResearchTechDefinition.GardenIII.DisplayName
-  Text: Domesticated Bristlecone
+  Text: 털솔방울 재배
 - Key: ResearchTechDefinition.GardenIV.DisplayName
-  Text: Darker Growth
+  Text: 음습한 성장
 - Key: ResearchTechDefinition.GardenV.DisplayName
-  Text: Growth and Decor
+  Text: 정원 꾸미기
 - Key: ResearchTechDefinition.KitchenI.DisplayName
-  Text: Fully Stocked
+  Text: 식량 완비
 - Key: ResearchTechDefinition.KitchenII.DisplayName
-  Text: Spice Things Up
+  Text: 향신료를 조금만
 - Key: ResearchTechDefinition.KitchenIII.DisplayName
-  Text: Good Ventilations
+  Text: 환기는 중요해
 - Key: ResearchTechDefinition.KitchenIV.DisplayName
-  Text: Sooie!
+  Text: 꿀꿀!
 - Key: ResearchTechDefinition.KitchenV.DisplayName
-  Text: That's Some Pig
+  Text: 돼지가 실하네요
 - Key: ResearchTechDefinition.AlchemyI.DisplayName
-  Text: Boil and Bubble
+  Text: 붓고 끓이고
 - Key: ResearchTechDefinition.AlchemyIIA.DisplayName
-  Text: Domesticated Iceflower
+  Text: 얼음꽃 재배
 - Key: ResearchTechDefinition.AlchemyIIB.DisplayName
-  Text: Domesticated Phoenix's Kiss
+  Text: 피닉스의 입맞춤 재배
 - Key: ResearchTechDefinition.AlchemyIIC.DisplayName
-  Text: Domesticated Smokereed
+  Text: 연기갈대 재배
 - Key: ResearchTechDefinition.AlchemyIID.DisplayName
-  Text: Pick Me Ups
+  Text: 휴대용 물약
 - Key: ResearchTechDefinition.AlchemyIIX.DisplayName
-  Text: Throw Me
+  Text: 준비하시고 쏘세요
 - Key: ResearchTechDefinition.AlchemyIIE.DisplayName
-  Text: All You Can Drink
+  Text: 음료 무한 제공
 - Key: ResearchTechDefinition.AlchemyIIIE.DisplayName
-  Text: Bottoms Up!
+  Text: 기운내!
 - Key: ResearchTechDefinition.AirI.DisplayName
-  Text: Up In the Air
+  Text: 공중에 둥둥
 - Key: ResearchTechDefinition.AirIIA.DisplayName
-  Text: Patron of the Arts
+  Text: 예술 애호가
 - Key: ResearchTechDefinition.AirIIB.DisplayName
-  Text: So Fancy
+  Text: 멋진데
 - Key: ResearchTechDefinition.AirIIIA.DisplayName
-  Text: Air It Out
+  Text: 바람이 분다
 - Key: ResearchTechDefinition.AirIVA.DisplayName
-  Text: Gone Sailing
+  Text: 돛을 펼쳐라
 - Key: ResearchTechDefinition.DecorI.DisplayName
-  Text: Liven Up The Place
+  Text: 학교 꾸미기
 - Key: ResearchTechDefinition.DecorIIA.DisplayName
-  Text: Lighten Things Up
+  Text: 밝은 분위기로
 - Key: ResearchTechDefinition.DecorIIIA.DisplayName
-  Text: What A Relief
+  Text: 이 멋진 건 뭐죠
 - Key: ResearchTechDefinition.DecorIIB.DisplayName
-  Text: Tie The Room Together
+  Text: 안락한 학교
 - Key: ResearchTechDefinition.FoundationI.DisplayName
-  Text: Going Places
+  Text: 더 멀리 가볼까
 - Key: ResearchTechDefinition.FoundationIIA.DisplayName
-  Text: Solid As A Rock
+  Text: 바위처럼 단단히
 - Key: ResearchTechDefinition.FoundationIIC.DisplayName
-  Text: Flashes of Brilliance
+  Text: 번쩍이는 아이디어
 - Key: ResearchTechDefinition.NatureI.DisplayName
-  Text: All Natural
+  Text: 자연 지킴이
 - Key: ResearchTechDefinition.NatureIIA.DisplayName
-  Text: Support All The Way Down
+  Text: 굳건한 지지대
 - Key: ResearchTechDefinition.NatureIIIA.DisplayName
-  Text: Domesticated Runewood
+  Text: 룬 목재 재배
 - Key: ResearchTechDefinition.NatureIIIB.DisplayName
-  Text: Blowin' In the Wind
+  Text: 바람을 느끼며
 - Key: ResearchTechDefinition.WeaverI.DisplayName
-  Text: The Bird Is The Word
+  Text: 글자를 마시는 새
 - Key: ResearchTechDefinition.WeaverIIA.DisplayName
-  Text: Domesticated Magic
+  Text: 실내용 마법
 - Key: ResearchTechDefinition.WeaverIIB.DisplayName
-  Text: Grim Accessories
+  Text: 으스스한 장식품
 - Key: ResearchTechDefinition.WeaverIIIA.DisplayName
-  Text: Under Cover Sleeping
+  Text: 침대는 마법입니다
 - Key: ResearchTechDefinition.WeaverIIIB.DisplayName
-  Text: Wall To Wall
+  Text: 여기부터 저기까지
 - Key: ResearchTechDefinition.WeaverIIX.DisplayName
-  Text: Scrivenry For Fun And Profit
+  Text: 글쓰기는 즐거워
 - Key: ResearchTechDefinition.ScrivenryI.DisplayName
-  Text: Arcane Scrawl
+  Text: 날려 쓴 두루마리
 - Key: ResearchTechDefinition.ScrivenryII.DisplayName
-  Text: A Practiced Quill
+  Text: 제대로 쓴 두루마리
 - Key: ResearchTechDefinition.CronebugI.DisplayName
-  Text: The Cronebug!
+  Text: 크론벌레야!
 - Key: ResearchTechDefinition.CronebugIIA.DisplayName
-  Text: Getting Posh
+  Text: 고급 장식물
 - Key: ResearchTechDefinition.CronebugIIB.DisplayName
-  Text: Exotic Reagents
+  Text: 처음 보는 재료
 - Key: ResearchTechDefinition.CronebugIIC.DisplayName
-  Text: Getting Really Posh
+  Text: 최고급 장식물
 - Key: ResearchTechDefinition.FoundationIIIA.DisplayName
-  Text: Hold Up
+  Text: 쓰러지지 마
 - Key: ResearchTechDefinition.SupportI.DisplayName
-  Text: Spiky Spiky
+  Text: 뾰족뾰족
 - Key: ResearchTechDefinition.SupportIIA.DisplayName
-  Text: What Cairn You Do?
+  Text: 쓰러뜨릴 수 있을까?
 - Key: ResearchTechDefinition.SupportIIB.DisplayName
-  Text: Carve It Up
+  Text: 조각상 같네요
 - Key: ResearchTechDefinition.SupportIIIA.DisplayName
-  Text: A Whole Lotta Support
+  Text: 어떻게 떠 있는 거죠
 - Key: ResearchTechDefinition.RoofI.DisplayName
-  Text: Intimidating Silhouettes
+  Text: 위협적인 그림자
 - Key: ResearchTechDefinition.RoofIIX.DisplayName
-  Text: A Shocking Discovery
+  Text: 짜릿한 발견
 - Key: ResearchTechDefinition.RoofIIA.DisplayName
-  Text: Superconductive
+  Text: 초전도 무언가
 - Key: ResearchTechDefinition.RoofIIB.DisplayName
-  Text: Great Timing
+  Text: 정확한 시간
 - Key: ResearchTechDefinition.AdvancedPlantersI.DisplayName
-  Text: Domesticated Instability
+  Text: 아네모네 재배
 - Key: ResearchTechDefinition.AdvancedPlantersIIA.DisplayName
-  Text: With A Flourish
+  Text: 꽃바람처럼
 - Key: ResearchTechDefinition.AdvancedPlantersIIB.DisplayName
-  Text: This Stuff Is Scary
+  Text: 물리면 어떡하죠
 - Key: ResearchTechDefinition.AdvancedFireI.DisplayName
-  Text: There Be Dragons
+  Text: 용이 울부짖었다
 - Key: ResearchTechDefinition.AdvancedFireIIA.DisplayName
-  Text: This Class Is On Fire
+  Text: 뜨거운 수업
 - Key: ResearchTechDefinition.AdvancedFireIIB.DisplayName
-  Text: Scrumptious!
+  Text: 군침 도는데!
 - Key: ResearchTechDefinition.AdvancedFireIIIA.DisplayName
-  Text: Rock Candy Mountain
+  Text: 돌머리 말고 돌사탕
 - Key: ResearchTechDefinition.AdvancedFireIIIX.DisplayName
-  Text: A Passion for Burning
+  Text: 불타는 열정
 - Key: ResearchTechDefinition.AdvancedFireIVB.DisplayName
-  Text: Molten Gold
+  Text: 실내 용광로
 - Key: ResearchTechDefinition.AdvancedFireIIIB.DisplayName
-  Text: Sweetmeats
+  Text: 고기 좋아
 - Key: ResearchTechDefinition.AdvancedFireIIIC.DisplayName
-  Text: This Food Pops
+  Text: 통통 튀는 식사
 - Key: ResearchTechDefinition.AdvancedFireIVA.DisplayName
   Text: Ultimate Fire
 - Key: ResearchTechDefinition.AdvancedWaterI.DisplayName
-  Text: Pour It On
+  Text: 또르르 솨
 - Key: ResearchTechDefinition.AdvancedWaterIIA.DisplayName
-  Text: Need For Speed
+  Text: 니드 포 스피드
 - Key: ResearchTechDefinition.AdvancedWaterIIB.DisplayName
-  Text: Advanced Fog Defense
+  Text: 어둠의 안개 방어술
 - Key: ResearchTechDefinition.AdvancedWaterIIIA.DisplayName
-  Text: Eye For An Eye
+  Text: 눈에는 눈
 - Key: ResearchTechDefinition.AdvancedWaterIVA.DisplayName
   Text: Ultimate Water
 - Key: ResearchTechDefinition.AdvancedDarkI.DisplayName
-  Text: Dark Arts
+  Text: 어둠 속으로
 - Key: ResearchTechDefinition.AdvancedDarkIIA.DisplayName
-  Text: Darker and Darker
+  Text: 더 어둡게
 - Key: ResearchTechDefinition.AdvancedDarkIIIA.DisplayName
-  Text: And Darker Still
+  Text: 더욱 더 어둡게
 - Key: ResearchTechDefinition.AdvancedDarkIIIB.DisplayName
-  Text: Take a Look
+  Text: 심연을 들여다보면
 - Key: ResearchTechDefinition.AdvancedDarkIVA.DisplayName
   Text: Darkest Dark
 - Key: ResearchTechDefinition.Unlock0.DisplayName
@@ -11736,11 +11736,11 @@
 - Key: RoomTypeDefinition.UnderschoolRoom.Effects.0-638367831079140052
   Text: Gremlins and Ooze do not spawn here.
 - Key: RoomTypeDefinition.Hovel.DisplayName
-  Text: Austere Bedroom
+  Text: 소박한 침실
 - Key: RoomTypeDefinition.Hovel.Effects.0-638169128389213559
-  Text: +2.5 <slink=Mood> to sleepers
+  Text: 수면 시 +2.5 <slink=Mood>
 - Key: RoomTypeDefinition.Hovel.Rules.0-638122528420851451.Criteria.11-638122528420851451.ComponentRequirementDisplayName
-  Text: Cot, Plain Bed, Fancy Bed, or Canopy Bed
+  Text: 침상, 평범한 침대, 멋진 침대 또는 휘장 침대
 - Key: RoomTypeDefinition.Hovel.Rules.1-638122528420851451.Criteria.0-638122528420851451.ComponentRequirementDisplayName
   Text: Crafting Stations or Refining Beasts
 - Key: RoomTypeDefinition.Hovel.Rules.1-638122528420851451.Criteria.1-638122528420851451.ComponentRequirementDisplayName

@@ -1080,7 +1080,7 @@
 - Key: GroupUtils.7-638359255630959108
   Text: 모든 죽은 캐릭터
 - Key: GroupUtils.10-638359255630959108
-  Text: 부수는 중
+  Text: 정신착란
 - Key: InjuryUtils.0-638357407844437892
   Text: '회복 중: 시간당 {0:P0} ({1})'
 - Key: InjuryUtils.0-638318648041238028
@@ -3007,17 +3007,17 @@
 - Key: HUDFilter_RoomType.0-638326348617416549
   Text: 방 타입 {0}
 - Key: HUDFilter_RoomType.1-638326348617426552
-  Text: '{0} 제거'
+  Text: '{0}개 제거 필요:'
 - Key: HUDFilter_RoomType.2-638326348617426552
-  Text: '{0} 추가'
+  Text: '{0}개 추가 필요:'
 - Key: HUDFilter_RoomType.3-638326348617426552
-  Text: '{0} 추가'
+  Text: '{0}개 추가 필요:'
 - Key: HUDFilter_RoomType.4-638326348617426552
-  Text: '{0} 제거'
+  Text: '{0}개 제거 필요:'
 - Key: HUDFilter_RoomType.5-638326348617426552
-  Text: '{0} 제거'
+  Text: '{0}개 제거 필요:'
 - Key: HUDFilter_RoomType.6-638326348617426552
-  Text: '{0} 추가'
+  Text: '{0}개 추가 필요:'
 - Key: HUDFilter_RoomType.7-638326348617426552
   Text: '{0} {1}만큼 감소'
 - Key: HUDFilter_RoomType.8-638326348617426552
@@ -3038,7 +3038,7 @@
 - Key: HUDFilter_RoomType.0-638336722417446885
   Text: ' 또는'
 - Key: HUDFilter_RoomType.13-638326348617426552
-  Text: '  - {0} 필요'
+  Text: '  - {0}이어야 함'
 - Key: HUDFilter_RoomType.14-638326348617426552
   Text: '  - {0}(이)가 없어야 함'
 - Key: HUDFilter_RoomType.0-638334758545877628
@@ -3080,7 +3080,7 @@
 - Key: HUDPanel_TimeControl.3-638170763865078554
   Text: 3x 속도 {0}
 - Key: HUDPanel_TimeControl.4-638170763865078554
-  Text: 개교 이후 지난 날짜
+  Text: 개교 이후 지난 날짜입니다.
 - Key: HUDPanel_TimeControl.0-637907160392634673
   Text: 설정 조정 {0}
 - Key: HUDPanel_TimeControl.0-638379728725647504
@@ -3326,7 +3326,7 @@
 - Key: SettingsWindowOptions_Controls.0-638332372939816524
   Text: 단축키
 - Key: SettingsWindowOptions_Controls.0-638421278416757112
-  Text: 단축키 찾기
+  Text: 단축키 찾기...
 - Key: SettingsWindowOptions_Controls.1-638421278416767106
   Text: 지우기
 - Key: SettingsWindowOptions_Controls.2-638421278416767106
@@ -3558,17 +3558,17 @@
 - Key: ViewRitualsUtils.0-638297072940452486
   Text: <color=#F96337>{0}</color>, <color=#F96337>{1}</color>, 또는 <color=#F96337>{2}</color>에 있어야 함.
 - Key: ViewRitualsUtils.1-638297049894487022
-  Text: 방 안에 있어야 함.
+  Text: 방 안에서 치뤄져야 합니다.
 - Key: ViewRitualsUtils.2-638297049894487022
-  Text: '{0}에 있어야 함'
+  Text: '{0}에서 치뤄져야 함'
 - Key: ViewRitualsUtils.3-638297049894487022
-  Text: '{0} 또는 {1}에 있어야 함.'
+  Text: '{0} 또는 {1}에서 치뤄져야 합니다.'
 - Key: ViewRitualsUtils.1-638297072940467502
-  Text: '{0}, {1}, 또는 {2}에 있어야 함.'
+  Text: '{0}, {1}, 또는 {2}에서 치뤄져야 합니다.'
 - Key: ViewRitualsUtils.4-638297049894487022
-  Text: 방 안에 있어야 함.
+  Text: 방 안에서 치뤄져야 합니다.
 - Key: ViewRitualsUtils.0-638327089225751522
-  Text: 파괴되지 않은 상태여야 함.
+  Text: 파괴되지 않은 상태여야 합니다.
 - Key: ViewRitualsUtils.9-638295488001968891
   Text: >2-
 
@@ -3602,109 +3602,109 @@
 - Key: HUDPanel_ClutterFilterLegendEntry.1-638362442906528307
   Text: >2-
 
-    - No {0} will spawn.
+    {0}(이)가 나타나지 않습니다.
 - Key: HUDPanel_FilthFilterLegendEntry.0-638326348617994786
   Text: >2-
 
-    - Filth Range: {0:P0} - {1:P0}
+    - 찌꺼기 범위: {0:P0} - {1:P0}
 - Key: HUDPanel_FilthFilterLegendEntry.0-638362442906533328
   Text: >2-
 
-    - {0} spawn every {1:G7} hours.
+    - {1:G7}시간마다 {0}(이)가 나타납니다.
 - Key: HUDPanel_FilthFilterLegendEntry.1-638362442906533328
   Text: >2-
 
-    - No {0} will spawn.
+    {0}(이)가 나타나지 않습니다.
 - Key: HUDPanel_LightingFilterLegendEntry.0-638326348618009833
   Text: >2-
 
-    - Lighting Range: {0:P0} - {1:P0}
+    - 조명 범위: {0:P0} - {1:P0}
 - Key: HUDPanel_LightingFilterLegendEntry.0-638362442906543360
   Text: >2-
 
-    - {0} spawn every {1:G7} hours.
+    - {1:G7}시간마다 {0}(이)가 나타납니다.
 - Key: HUDPanel_LightingFilterLegendEntry.1-638362442906543360
   Text: >2-
 
-    - No {0} will spawn.
+    {0}(이)가 나타나지 않습니다.
 - Key: HUDPanel_PathingFilterLegend.0-638326348618009833
-  Text: Connected Areas
+  Text: 연결된 공간
 - Key: HUDPanel_PathingFilterLegend.1-638326348618009833
-  Text: '- Select character to show allowed pathing'
+  Text: '- 갈 수 있는 곳을 보려면 캐릭터를 선택하세요'
 - Key: HUDPanel_PathingFilterLegend.2-638326348618009833
-  Text: '- Showing pathing for {0}'
+  Text: '- {0}의 경로 출력 중'
 - Key: HUDPanel_PathingFilterLegend.3-638326348618009833
-  Text: '- Select character to show allowed pathing'
+  Text: '- 갈 수 있는 곳을 보려면 캐릭터를 선택하세요'
 - Key: HUDPanel_RoomFilterLegend.0-638194169947181746
-  Text: Rooms
+  Text: 방
 - Key: HUDPanel_RoomFilterLegend.0-638326348618019885
-  Text: 'Keywords: '
+  Text: '키워드: '
 - Key: HUDPanel_SupportFilterLegend.0-638187270792873019
-  Text: Support
+  Text: 지지대
 - Key: HUDPanel_SupportFilterLegend.0-638326348618029894
-  Text: New construction must be supported. Support lessens the further away a block connects laterally with a fully supported block.
+  Text: 바닥이나 벽을 건설하려면 지지대가 필요합니다. 벽이나 기둥에서 가로로 멀어질수록 지지력이 줄어듭니다.
 - Key: HUDPanel_SupportFilterLegend.1-638326348618029894
-  Text: Key
+  Text: 키
 - Key: HUDPanel_SupportFilterLegend.2-638326348618029894
-  Text: None
+  Text: 없음
 - Key: HUDPanel_SupportFilterLegend.3-638326348618029894
-  Text: Full
+  Text: 최대
 - Key: SchoolScoreWidget.0-638326348618039894
-  Text: 'M.A.G.E. Score: {0}'
+  Text: 'M.A.G.E. 점수: {0}'
 - Key: SchoolScoreWidget.1-638326348618039894
   Text: >2-
 
-      Magic Skill: {0}
+      마법 스킬: {0}
 - Key: SchoolScoreWidget.2-638326348618039894
   Text: >2-
 
-      Reagents: {0}
+      마법 재료: {0}
 - Key: SchoolScoreWidget.3-638326348618039894
   Text: >2-
 
-      Crafted: {0}
+      제작: {0}
 - Key: SchoolScoreWidget.4-638326348618039894
   Text: >2-
 
-      Assembled: {0}
+      조립: {0}
 - Key: SchoolScoreWidget.5-638326348618039894
   Text: >2-
 
-      Constructed: {0}
+      건설: {0}
 - Key: SchoolScoreWidget.6-638326348618039894
   Text: >2-
 
-      Research Magic: {0}
+      마법 연구: {0}
 - Key: SchoolScoreWidget.7-638326348618039894
   Text: >2-
 
-      Assemble Magic: {0}
+      조립 마법: {0}
 - Key: SchoolScoreWidget.8-638326348618039894
   Text: >2-
 
-      Construct Magic: {0}
+      건설 마법: {0}
 - Key: SchoolScoreWidget.9-638326348618039894
   Text: >2-
 
-      Crafting Magic: {0}
+      제작 마법: {0}
 - Key: SchoolScoreWidget.10-638326348618039894
   Text: >2-
 
-      Rooms: {0}
+      방: {0}
 - Key: SchoolScoreWidget.11-638326348618039894
   Text: >2-
 
-      Custom: {0}
+      커스텀: {0}
 - Key: SchoolScoreWidget.12-638326348618039894
   Text: >2-
 
-      Days: {0}
+      날짜: {0}
 - Key: SchoolScoreWidget.13-638326348618039894
   Text: >2-
 
-      Exploration: {0}
+      탐험: {0}
 - Key: GameDurabilityWidget.0-637967843896996231
-  Text: ' (Immune to rain damage)'
+  Text: ' (빗물 데미지에 면역)'
 - Key: GameDurabilityWidget.0-638163814023173095
   Text: >2-
 
@@ -3714,113 +3714,113 @@
 - Key: GameHPWidget.1-638324680265196248
   Text: >2-
 
-    {0} {1} / Hour {2}
+    {0} 시간당 {1} {2}
 - Key: GameHPWidget.2-638324680265196248
   Text: >2-
 
-    {0} {1} / Hour {2}
+    {0} 시간당 {1} {2}
 - Key: GameHPWidget.3-638324680265196248
-  Text: ({0} Temp HP)
+  Text: ({0} 임시 HP)
 - Key: GameManaWidget.0-638324730169948598
-  Text: "\n\n{0} {1} / Hour "
+  Text: "\n\n{0} 시간당 {1} "
 - Key: GameManaWidget.1-638324730169948598
   Text: >
-    {0} {1} / Hour {2}
+    {0} 시간당 {1} {2}
 - Key: GameManaWidget.2-638324730169948598
   Text: >
-    {0} {1} / Hour {2}
+    {0} 시간당 {1} {2}
 - Key: GroupEntryConditional.0-638359255638337871
-  Text: All
+  Text: 전체
 - Key: GroupEntryConditional.0-638386013539340605
-  Text: Any
+  Text: 아무거나
 - Key: GroupEntryConditional.0-638324680265221382
-  Text: Membership
+  Text: 그룹 구성
 - Key: GroupEntryConditional.1-638324680265221382
-  Text: Is Member
+  Text: 구성원임
 - Key: GroupEntryConditional.2-638324680265221382
-  Text: Is Not Member
+  Text: 구성원이 아님
 - Key: GroupEntryConditional.3-638324680265221382
-  Text: Faction
+  Text: 종족
 - Key: GroupEntryConditional.4-638324680265221382
-  Text: Is
+  Text: 포함
 - Key: GroupEntryConditional.5-638324680265221382
-  Text: Is Not
+  Text: 미포함
 - Key: GroupEntryConditional.6-638324680265221382
-  Text: Status
+  Text: 상태
 - Key: GroupEntryConditional.7-638324680265221382
-  Text: Has
+  Text: 보유
 - Key: GroupEntryConditional.8-638324680265221382
-  Text: Does Not Have
+  Text: 미보유
 - Key: GroupEntryConditional.9-638324680265221382
-  Text: Wand Tier
+  Text: 지팡이 티어
 - Key: GroupEntryConditional.10-638324680265221382
-  Text: In Tier Range
+  Text: 범위 안
 - Key: GroupEntryConditional.11-638324680265221382
-  Text: Outside Tier Range
+  Text: 범위 바깥
 - Key: GroupEntryConditional.12-638324680265221382
-  Text: In Skill Range
+  Text: 스킬 범위 안
 - Key: GroupEntryConditional.13-638324680265221382
-  Text: Not In Skill Range
+  Text: 스킬 범위 바깥
 - Key: GroupEntryConditional.14-638324680265221382
-  Text: Skill Capped
+  Text: 스킬 한계 도달
 - Key: GroupEntryConditional.15-638324680265221382
-  Text: Is Capped
+  Text: 도달
 - Key: GroupEntryConditional.16-638324680265221382
-  Text: Is Not Capped
+  Text: 미도달
 - Key: GroupEntryConditional.17-638324680265221382
-  Text: Sanity
+  Text: 만족도
 - Key: GroupEntryConditional.18-638324680265221382
-  Text: In Range
+  Text: 범위 안
 - Key: GroupEntryConditional.19-638324680265221382
-  Text: Not In Range
+  Text: 범위 바깥
 - Key: GroupEntryConditionalRead.0-638324680265231377
-  Text: Membership
+  Text: 그룹 구성
 - Key: GroupEntryConditionalRead.1-638324680265231377
-  Text: Is Member
+  Text: 구성원임
 - Key: GroupEntryConditionalRead.2-638324680265231377
-  Text: Is Not Member
+  Text: 구성원이 아님
 - Key: GroupEntryConditionalRead.3-638324680265231377
-  Text: Faction
+  Text: 종족
 - Key: GroupEntryConditionalRead.4-638324680265231377
-  Text: Is
+  Text: 포함
 - Key: GroupEntryConditionalRead.5-638324680265231377
-  Text: Is Not
+  Text: 미포함
 - Key: GroupEntryConditionalRead.6-638324680265231377
-  Text: Status
+  Text: 상태
 - Key: GroupEntryConditionalRead.7-638324680265231377
-  Text: Has
+  Text: 보유
 - Key: GroupEntryConditionalRead.8-638324680265231377
-  Text: Does Not Have
+  Text: 미보유
 - Key: GroupEntryConditionalRead.9-638324680265231377
-  Text: Wand Tier
+  Text: 지팡이 티어
 - Key: GroupEntryConditionalRead.10-638324680265231377
-  Text: In Range
+  Text: 범위 안
 - Key: GroupEntryConditionalRead.11-638324680265231377
-  Text: Outside Range
+  Text: 범위 바깥
 - Key: GroupEntryConditionalRead.12-638324680265231377
-  Text: In Skill Range
+  Text: 스킬 범위 안
 - Key: GroupEntryConditionalRead.13-638324680265231377
-  Text: Not In Skill Range
+  Text: 스킬 범위 바깥
 - Key: GroupEntryConditionalRead.14-638324680265231377
-  Text: Skill Capped
+  Text: 스킬 한계 도달
 - Key: GroupEntryConditionalRead.15-638324680265231377
-  Text: Is Capped
+  Text: 도달
 - Key: GroupEntryConditionalRead.16-638324680265231377
-  Text: Is Not Capped
+  Text: 미도달
 - Key: GroupEntryConditionalRead.17-638324680265231377
-  Text: Sanity
+  Text: 만족도
 - Key: GroupEntryConditionalRead.18-638324680265231377
-  Text: In Range
+  Text: 범위 안
 - Key: GroupEntryConditionalRead.19-638324680265231377
-  Text: Not In Range
+  Text: 범위 바깥
 - Key: HUDWindow_Construct.0-638043652991285390
-  Text: Build
+  Text: 건설
 - Key: HUDWindow_Construct.1-638043652991285390
-  Text: Build and furnish your school
+  Text: 학교를 건설하고 꾸미세요
 - Key: HUDWindow_Construct.0-638324680265283620
-  Text: Build
+  Text: 건설
 - Key: HUDWindow_Construct_Button.0-638324680265294020
-  Text: NEW
+  Text: 신규
 - Key: HUDWindow_Divination.0-637913965328445929
   Text: Augury
 - Key: HUDWindow_Divination.0-638324680265294020
@@ -3834,400 +3834,400 @@
 - Key: HUDWindow_Divination.4-638324680265294020
   Text: The future is murky, build more divination hardware.
 - Key: HUDWindow_Groups.0-637907331316919602
-  Text: Groups
+  Text: 그룹
 - Key: HUDWindow_Groups.1-637907331316919602
-  Text: Manage Groups
+  Text: 그룹 관리
 - Key: HUDWindow_Groups.0-638324680265309074
-  Text: Groups
+  Text: 그룹
 - Key: HUDWindow_Groups.1-638324680265309074
-  Text: Add Custom Group
+  Text: 사용자 그룹 추가
 - Key: HUDWindow_Groups.0-638193233581570383
-  Text: Add a new custom group.
+  Text: 사용자 그룹을 추가할 수 있습니다.
 - Key: HUDWindow_Groups.2-638324680265309074
-  Text: Create New Group
+  Text: 신규 그룹 추가
 - Key: HUDWindow_Groups.3-638324680265309074
-  Text: Name your new group.
+  Text: 새 그룹의 이름을 입력하세요.
 - Key: HUDWindow_Groups.4-638324680265309074
-  Text: New Group
+  Text: 신규 그룹
 - Key: HUDWindow_Groups_Entry.0-638324680265319145
-  Text: Membership
+  Text: 그룹 구성
 - Key: HUDWindow_Groups_Entry.1-638324680265319145
-  Text: Status
+  Text: 상태
 - Key: HUDWindow_Groups_Entry.2-638324680265319145
-  Text: Faction
+  Text: 종족
 - Key: HUDWindow_Groups_Entry.3-638324680265319145
-  Text: Wand Tier
+  Text: 지팡이 티어
 - Key: HUDWindow_Groups_Entry.4-638324680265319145
-  Text: In Skill Range
+  Text: 스킬 범위 안
 - Key: HUDWindow_Groups_Entry.5-638324680265319145
-  Text: Not In Skill Range
+  Text: 스킬 범위 바깥
 - Key: HUDWindow_Groups_Entry.6-638324680265319145
-  Text: Skill Capped
+  Text: 스킬 한계 도달
 - Key: HUDWindow_Groups_Entry.7-638324680265319145
-  Text: Conviction
+  Text: 만족도
 - Key: HUDWindow_Groups_Entry.8-638324680265319145
-  Text: Click to change
+  Text: 클릭해서 변경
 - Key: HUDWindow_Groups_Entry.9-638324680265319145
-  Text: '{0}Remove'
+  Text: '{0}삭제'
 - Key: HUDWindow_Groups_Entry.10-638324680265319145
-  Text: Confirm
+  Text: 확인
 - Key: HUDWindow_Groups_Entry.11-638324680265319145
-  Text: Delete group?
+  Text: 그룹을 삭제하시겠습니까?
 - Key: HUDWindow_Groups_Entry.12-638324680265319145
-  Text: Rules
+  Text: 규칙
 - Key: HUDWindow_Groups_Entry.13-638324680265319145
-  Text: Members
+  Text: 구성원
 - Key: HUDWindow_Groups_Entry.14-638324680265319145
-  Text: Add Rule
+  Text: 규칙 추가
 - Key: HUDWindow_Log.0-638066078344889005
-  Text: Log
+  Text: 로그
 - Key: HUDWindow_Log.1-638066078344889005
-  Text: View Game Log
+  Text: 게임 로그 보기
 - Key: HUDWindow_Log.0-638324680265319145
-  Text: General
+  Text: 일반
 - Key: HUDWindow_Log_Item.0-638168256247029883
-  Text: Day {0} - {1}
+  Text: '{0}일째 - {1}'
 - Key: HUDWindow_Log_Panel.0-638324680265332346
-  Text: SEARCH
+  Text: 검색
 - Key: HUDWindow_SchedulesNew.0-638018701494529608
-  Text: Schedule
+  Text: 스케줄
 - Key: HUDWindow_SchedulesNew.1-638018701494539598
-  Text: Set class schedules.
+  Text: 수업 스케줄을 설정하세요.
 - Key: HUDWindow_Schedules.0-638324680265342689
-  Text: Schedules
+  Text: 스케줄
 - Key: HUDWindow_Schedules.1-638324680265342689
-  Text: Add Custom Schedule
+  Text: 사용자 스케줄 추가
 - Key: HUDWindow_Schedules.0-638156892160228191
-  Text: Add a new schedule and customize it for specific characters.
+  Text: 캐릭터들을 위한 스케줄을 추가하고 변경할 수 있습니다.
 - Key: HUDWindow_Schedules.0-638186431640854445
-  Text: Choose a category below to assign it to hourly timeslots.
+  Text: 아래 카테고리를 선택하고 스케줄 시간 슬롯을 클릭하면 스케줄을 지정할 수 있습니다.
 - Key: HUDWindow_SchedulesToggleButton.0-638156892160238185
-  Text: Sleep
+  Text: 수면
 - Key: HUDWindow_SchedulesToggleButton.1-638156892160238185
-  Text: Select to assign <slink=JobType_Sleep> times.
+  Text: <slink=JobType_Sleep> 시간을 지정하세요.
 - Key: HUDWindow_SchedulesToggleButton.2-638156892160238185
-  Text: Eat
+  Text: 식사
 - Key: HUDWindow_SchedulesToggleButton.3-638156892160238185
-  Text: Select to assign <slink=JobType_Eat> times.
+  Text: <slink=JobType_Eat> 시간을 지정하세요.
 - Key: HUDWindow_SchedulesToggleButton.4-638156892160238185
-  Text: Recreation
+  Text: 휴식
 - Key: HUDWindow_SchedulesToggleButton.5-638156892160238185
-  Text: Select to assign <slink=JobType_Recreation> times.
+  Text: <slink=JobType_Recreation> 시간을 지정하세요.
 - Key: HUDWindow_SchedulesToggleButton.6-638156892160238185
-  Text: Tasks
+  Text: 작업
 - Key: HUDWindow_SchedulesToggleButton.7-638156892160238185
-  Text: Select to assign times for <slink=Tasks>. Mages will work on Tasks accoring to their priorities.
+  Text: <slink=Tasks> 시간을 지정하세요. 마법사들은 우선 순위에 따라 작업을 진행합니다.
 - Key: HUDWindow_SchedulesToggleButton.0-638324680265357738
-  Text: Class
+  Text: 수업
 - Key: HUDWindow_SchedulesToggleButton.8-638156892160238185
-  Text: Select to assign times for Class. Students and Staff will attend classes according to permissions, Skills, and available slots.
+  Text: 수업 시간을 지정하세요. 학생들과 교사들은 접근 권한, 스킬, 사용 가능한 교실 여부에 따라 수업을 진행할 것입니다.
 - Key: HUDWindow_Schedules_Entry.0-638324680265367969
-  Text: Schedule Name
+  Text: 스케줄 이름
 - Key: HUDWindow_Schedules_Entry.0-638186431640979171
-  Text: Delete custom schedule
+  Text: 사용자 스케줄 삭제
 - Key: HUDWindow_Schedules_Entry.1-638324680265367969
-  Text: Confirm
+  Text: 확인
 - Key: HUDWindow_Schedules_Entry.2-638324680265367969
-  Text: Delete schedule?
+  Text: 스케줄을 삭제하시겠습니까?
 - Key: RibbonButtonWithText.0-638324680265414081
-  Text: NEW
+  Text: 신규
 - Key: SelectedEntityInfoWidget.0-638324680265424473
-  Text: ' Staff'
+  Text: ' 교사'
 - Key: SelectedEntityInfoWidget.1-638324680265424473
-  Text: ' Student'
+  Text: ' 학생'
 - Key: HUDToolPanel_Orders_Cancel.0-637913296786148834
-  Text: Cancel
+  Text: 취소
 - Key: HUDToolPanel_Orders_Cancel.1-637913296786158826
-  Text: Cancel Tasks
+  Text: 작업 취소
 - Key: HUDToolPanel_Orders_Cancel.0-638206939490295145
-  Text: Cancel Tool
+  Text: 툴 취소
 - Key: HUDToolPanel_Orders_Cancel.0-638404054174402460
-  Text: Mark for cancel in bulk.
+  Text: 여러 작업을 동시에 취소합니다.
 - Key: HUDToolPanel_Orders_Cancel.1-638404054174402460
   Text: >-
-    Left-Click: Mark for cancel
+    왼쪽 클릭: 작업 취소
 
-    Right-Click: Back
+    오른쪽 클릭: 돌아가기
 
-    Hold Ctrl: Global Cancel Mode
+    Ctrl 누르기: 전체 취소 모드
 - Key: HUDToolPanel_Orders_Deconstruct.0-637913973990974696
-  Text: Demolish
+  Text: 철거
 - Key: HUDToolPanel_Orders_Deconstruct.1-637913973990974696
-  Text: Remove construction blocks to reclaim reagents.
+  Text: 건설 블록을 제거하고 재료를 회수합니다.
 - Key: HUDToolPanel_Orders_Deconstruct.0-638182796312185185
-  Text: Demolish Tool
+  Text: 철거 툴
 - Key: HUDToolPanel_Orders_Deconstruct.0-638308888247926832
-  Text: Mark for demolish in a batch. Reclaims all reagents.
+  Text: 여러 블록을 동시에 철거 지정합니다. 철거된 블록 건설에 사용된 모든 재료는 회수됩니다.
 - Key: HUDToolPanel_Orders_Deconstruct.1-638308888247926832
-  Text: Filter
+  Text: 필터
 - Key: HUDToolPanel_Orders_Deconstruct.0-638365180183367517
-  Text: Stairs & Ladders
+  Text: 계단&사다리
 - Key: HUDToolPanel_Orders_Deconstruct.1-638365180183367517
-  Text: Supports & Columns
+  Text: 지지대 & 기둥
 - Key: HUDToolPanel_Orders_Deconstruct.1-638182796312185185
-  Text: Walls
+  Text: 벽
 - Key: HUDToolPanel_Orders_Deconstruct.2-638182796312185185
-  Text: Floors
+  Text: 바닥
 - Key: HUDToolPanel_Orders_Deconstruct.3-638182796312185185
-  Text: Roofs
+  Text: 지붕
 - Key: HUDToolPanel_Orders_Deconstruct.4-638182796312185185
-  Text: Ceilings
+  Text: 천장
 - Key: HUDToolPanel_Orders_Deconstruct.5-638182796312185185
-  Text: Ladders
+  Text: 사다리
 - Key: HUDToolPanel_Orders_Deconstruct.6-638182796312185185
-  Text: Supports
+  Text: 지지대
 - Key: HUDToolPanel_Orders_Deconstruct.7-638182796312185185
-  Text: Foundations
+  Text: 토대
 - Key: HUDToolPanel_Orders_Deconstruct.8-638182796312185185
-  Text: Elevators
+  Text: 엘리베이터
 - Key: HUDToolPanel_Orders_Deconstruct.9-638182796312185185
-  Text: Doors
+  Text: 문
 - Key: HUDToolPanel_Orders_Deconstruct.10-638182796312185185
-  Text: Stairs
+  Text: 계단
 - Key: HUDToolPanel_Orders_Deconstruct.11-638182796312185185
-  Text: Columns
+  Text: 기둥
 - Key: HUDToolPanel_Orders_Deconstruct.12-638182796312185185
-  Text: Double Columns
+  Text: 이중기둥
 - Key: HUDToolPanel_Orders_Deconstruct.13-638182796312185185
-  Text: Spiral Stairs
+  Text: 나선계단
 - Key: HUDToolPanel_Orders_Deconstruct.14-638182796312185185
-  Text: Furniture
+  Text: 가구
 - Key: HUDToolPanel_Orders_Deconstruct.15-638182796312185185
-  Text: All
+  Text: 전체
 - Key: HUDToolPanel_Orders_Deconstruct.2-638365180183367517
-  Text: UNKNOWN
+  Text: 알 수 없음
 - Key: HUDToolPanel_Orders_Deconstruct.2-638308888247926832
   Text: >-
-    Left-Click: Mark for demolish
+    왼쪽 클릭: 철거 지정
 
-    Right-Click: Back
+    오른쪽 클릭: 돌아가기
 
-    Hold Ctrl: Cancel Mode
+    Ctrl 누르기: 취소 모드
 - Key: HUDToolPanel_Orders_Gather.0-638206939490440125
-  Text: Gather
+  Text: 수집
 - Key: HUDToolPanel_Orders_Gather.1-637913284774964708
-  Text: Mark resources for gather.
+  Text: 자원을 수집하도록 지정합니다.
 - Key: HUDToolPanel_Orders_Gather.0-638182796312195180
-  Text: Gather Tool
+  Text: 수집 툴
 - Key: HUDToolPanel_Orders_Gather.1-638182796312195180
-  Text: Any
+  Text: 전체
 - Key: HUDToolPanel_Orders_Gather.2-638182796312195180
-  Text: Mine
+  Text: 채굴
 - Key: HUDToolPanel_Orders_Gather.3-638182796312195180
-  Text: Chop
+  Text: 벌목
 - Key: HUDToolPanel_Orders_Gather.4-638182796312195180
-  Text: Harvest
+  Text: 수확
 - Key: HUDToolPanel_Orders_Gather.5-638182796312195180
-  Text: Hunt
+  Text: 사냥
 - Key: HUDToolPanel_Orders_Priority.0-637913965328545929
-  Text: Task Pri
+  Text: 작업 우선순위
 - Key: HUDToolPanel_Orders_Priority.0-637913283030850884
-  Text: Set Task Priority for specific items.
+  Text: 개별 아이템의 작업 우선순위를 지정합니다.
 - Key: HUDToolPanel_Orders_Priority.0-638182796312205559
-  Text: Task Priority
+  Text: 작업 우선순위
 - Key: HUDToolPanel_Orders_Priority.0-638404054174442590
   Text: >-
-    Prioritize <slink=Tasks> against others set to the same <slink=TaskType> Priority level.
+    같은 <slink=TaskType> 우선 순위를 지닌 다른 작업에 대해 개별 <slink=Tasks> 우선 순위를 지정합니다.
 
 
-    <align=center>X = Never, 1 = Low, 5 = High</align>
+    <align=center>X = 금지, 1 = 낮음, 5 = 높음</align>
 - Key: RitualAvailableEntry.0-638343560426441659
-  Text: Unconscious
+  Text: 기절
 - Key: RitualAvailableEntry.1-638343560426441659
-  Text: Breaking
+  Text: 정신착란
 - Key: RitualAvailableEntry.0-638373896638684530
-  Text: Cursebound
+  Text: 저주받음
 - Key: RitualAvailableEntry.2-638343560426441659
-  Text: On Underschool Run
+  Text: 지하세계 탐험 중
 - Key: RitualAvailableEntry.0-638346121957584121
-  Text: In Ritual ({0})
+  Text: 의식 치르는 중 ({0})
 - Key: RitualAvailableEntry.3-638343560426441659
-  Text: In Ritual
+  Text: 의식 치르는 중
 - Key: RitualAvailableEntry.4-638343560426441659
-  Text: No Path
+  Text: 의식 장소로 갈 수 없음
 - Key: RitualIngredients.0-638297022191271576
-  Text: Ingredients
+  Text: 재료
 - Key: RitualResourcesRevealed.0-638379728726905639
-  Text: Possibly Revealed
+  Text: 접근 가능할지도 모름
 - Key: RitualRewards.0-638296808844246323
-  Text: Effects
+  Text: 효과
 - Key: RitualsWindow.0-638331491640705052
-  Text: Party Selection
+  Text: 파티 선택
 - Key: RitualsWindow.0-638357407852203588
-  Text: Fill Mana Before Battle
+  Text: 전투 시작 전에 마나를 최대로 충전
 - Key: RitualsWindow.0-638266729428643086
-  Text: Begin Battle
+  Text: 전투 시작
 - Key: RitualsWindow.1-638266729428643086
-  Text: Begin Ritual
+  Text: 의식 시작
 - Key: RitualsWindow.1-638331491640705052
-  Text: 'Ritual Time: {0}'
+  Text: '의식 진행 시간: {0}'
 - Key: RitualsWindow.0-638330671629113871
-  Text: Add {0} more {1}
+  Text: '{1}(이)가 {0} 더 필요함'
 - Key: RitualsWindow.1-638330671629123954
-  Text: Missing ingredients
+  Text: 재료 부족
 - Key: RitualsWindow.2-638330671629123954
-  Text: Must select a wand
+  Text: 지팡이 선택 필요
 - Key: RitualsWindow.0-638297163490372863
-  Text: No {0} Available
+  Text: '{0} 부족'
 - Key: RitualsWindow.3-638330671629123954
   Text: >2-
 
-    Not enough space near {0} for all ritual participants to stand.
+    {0} 옆에 의식 참석자들이 설 자리가 부족합니다.
 - Key: RitualsWindow.0-638288946223495401
-  Text: '{0} must be in {1}.'
+  Text: '{0}(은)는 {1}에 있어야 합니다.'
 - Key: RitualsWindow.0-638297049895090200
-  Text: '{0} must be in {1} or {2}.'
+  Text: '{0}(은)는 {1} 또는 {2}에 있어야 합니다.'
 - Key: RitualsWindow.0-638297655927221556
-  Text: '{0} must be in {1}, {2}, or {3}.'
+  Text: '{0}(은)는 {1}, {2} 또는 {3}에 있어야 합니다.'
 - Key: RitualsWindow.1-638297049895090200
-  Text: '{0} must be in the proper room.'
+  Text: '{0}(은)는 적절한 방에 있어야 합니다.'
 - Key: RitualsWindow.0-638327089231298094
-  Text: Must not be broken.
+  Text: 파괴되지 않은 상태여야 합니다.
 - Key: BattlePrep_PartySelect_Potions.1-638155327346073139
-  Text: No Potions available.
+  Text: 물약이 부족합니다.
 - Key: RitualsWindowPotionSelect.0-638379728727056208
-  Text: Unavailable Potions
+  Text: 물약 부족
 - Key: RitualsWindowPotionSelect.0-638331491640715056
-  Text: Bring Supplies {0} / {1}
+  Text: 재료 가져오는 중 {0} / {1}
 - Key: RitualWandPicker.0-638297677623257846
-  Text: No Wands in Inventory - Craft at the Wand Shaper
+  Text: 지팡이 없음 - 지팡이 제작대에서 제작 필요
 - Key: RitualWandSelect.0-638359255638849793
-  Text: Wand Selection
+  Text: 지팡이 선택
 - Key: RitualWandSelect.0-638297163490417915
-  Text: Click to Change
+  Text: 클릭해서 변경
 - Key: RitualWandSelect.1-638297163490417915
-  Text: Click To Select
+  Text: 클릭해서 선택
 - Key: ActionButtonWidget.0-638416139810522348
-  Text: Cancel
+  Text: 취소
 - Key: HUDPanel_SelectedEntity.0-637909916635936857
-  Text: Select
+  Text: 선택
 - Key: HUDPanel_SelectedEntity.0-637909990229582770
-  Text: Show selected
+  Text: 선택 보기
 - Key: HUDPanel_SelectedEntity.0-638324680265261390
-  Text: '   (Cycle Tabs {0})'
+  Text: '   (탭 순환 {0})'
 - Key: HUDPanel_SelectedEntity_CaptionArea.0-638324680265272673
-  Text: Rename
+  Text: 이름 변경
 - Key: HUDPanel_SelectedEntity_CaptionArea.1-638324680265272673
-  Text: Rename This Mage
+  Text: 마법사 이름 변경
 - Key: HUDPanel_SelectedEntity_CaptionArea.2-638324680265272673
-  Text: Accept
+  Text: 확인
 - Key: HUDPanel_SelectedEntity_CaptionArea.3-638324680265272673
-  Text: Cancel
+  Text: 취소
 - Key: HUDPanel_SelectedEntity_CaptionArea_Multi.0-638421278417817243
   Text: >-
-    {0} <indent=160px>Select category or type</indent>
+    {0} <indent=160px>카테고리나 타입 선택</indent>
 
-    {1} + Ctrl <indent=160px>Remove category or type</indent>
+    {1} + Ctrl <indent=160px>카테고리나 타입 제거</indent>
 - Key: HUDPanel_SelectedEntity_CaptionArea_Multi.0-638415221471261716
-  Text: '{0} Selected'
+  Text: '{0} 선택'
 - Key: HUDWindow_Consumables.0-637913965328385929
-  Text: Consume
+  Text: 섭취
 - Key: HUDWindow_Consumables.0-637905515052161993
-  Text: Manage Meals and Consumables
+  Text: 식사 및 사용 아이템 관리
 - Key: HUDWindow_Consumables.0-638324680265875836
-  Text: Consumables
+  Text: 사용 아이템
 - Key: HUDWindow_Consumables_Meals.0-638324680265885910
-  Text: Group
+  Text: 그룹
 - Key: HUDWindow_Consumables_Meals.1-638324680265885910
-  Text: Allowed Meals
+  Text: 음식
 - Key: HUDWindow_Consumables_Meals.2-638324680265885910
-  Text: Meal Controls
+  Text: 음식 허용
 - Key: HUDWindow_Consumables_Meals.3-638324680265885910
-  Text: Add Restriction
+  Text: 설정 추가
 - Key: MealRestrictionWidget.0-638324680265896212
-  Text: Meals
+  Text: 음식
 - Key: MealRestrictionWidget.1-638324680265896212
-  Text: Allow All
+  Text: 모두 허용
 - Key: MealRestrictionWidget.2-638324680265896212
-  Text: Allows All Meals
+  Text: 모든 음식 허용
 - Key: MealRestrictionWidget.3-638324680265896212
-  Text: Clear All
+  Text: 모두 금지
 - Key: MealRestrictionWidget.4-638324680265896212
-  Text: Disallows All Meals
+  Text: 모든 음식 금지
 - Key: MealRestrictionWidget.5-638324680265896212
-  Text: Copy Allowed Meals
+  Text: 음식 설정 복사
 - Key: MealRestrictionWidget.6-638324680265896212
-  Text: Paste Allowed Meals
+  Text: 음식 설정 붙여넣기
 - Key: MealRestrictionWidget.7-638324680265896212
-  Text: Delete Restriction
+  Text: 설정 제거
 - Key: HUDWindow_StaffPriorities.0-637910697317107076
-  Text: Priority
+  Text: 우선순위
 - Key: HUDWindow_StaffPriorities.0-637913307234342114
-  Text: Set Task Type priorities for Mages, Ghosts, and Helpers.
+  Text: 마법사, 유령, 누더기들에게 작업 우선순위를 설정합니다.
 - Key: HUDWindow_JobPriorities.0-638324680265906824
-  Text: Task Type Priority
+  Text: 작업 우선순위
 - Key: HUDWindow_JobPriorities.1-638324680265906824
-  Text: Higher Pri
+  Text: 높음
 - Key: HUDWindow_JobPriorities.2-638324680265906824
-  Text: Lower Pri
+  Text: 낮음
 - Key: HUDWindow_JobPriorities_HeaderEntry.0-638324680265921871
-  Text: Set priority for all.
+  Text: 전체 우선순위를 변경합니다.
 - Key: HUDWindow_JobPriorities_HeaderEntry.1-638324680265921871
-  Text: Set All
+  Text: 전체 변경
 - Key: PriorityEntryWidget.0-638324680265932028
-  Text: Not allowed to do this type of job.
+  Text: 이 작업을 할 수 없습니다.
 - Key: PriorityEntryWidget.1-638324680265932028
-  Text: Does not have the proper Skill for this job.
+  Text: 이 작업에 필요한 스킬을 보유하고 있지 않습니다.
 - Key: HUDWindow_Research.0-638324680265968547
-  Text: Research
+  Text: 연구
 - Key: HUDWindow_Research.1-638324680265968547
-  Text: Select Research
+  Text: 연구 선택
 - Key: HUDWindow_Research.2-638324680265968547
   Text: >-
-    Select Research
+    연구 선택
 
 
-    Requires <slink=ResearchBench>
+    <slink=ResearchBench> 필요
 - Key: HUDWindow_Research.0-638306300620685681
-  Text: FIND
+  Text: 검색
 - Key: HUDWindow_Research.0-638336722418129596
-  Text: Clear
+  Text: 초기화
 - Key: HUDWindow_Research.1-638336722418129596
-  Text: Next
+  Text: 다음
 - Key: HUDWindow_Research.4-638324680265968547
-  Text: None
+  Text: 없음
 - Key: HUDWindow_Research.2-638336722418129596
-  Text: 'Researching: {0}'
+  Text: '연구 중: {0}'
 - Key: ResearchEntryWidget.0-638332302855896336
-  Text: Completed
+  Text: 완료
 - Key: ResearchEntryWidget.1-638306300620937848
-  Text: Completed
+  Text: 완료
 - Key: ResearchEntryWidget.2-638306300620937848
-  Text: Pause Research
+  Text: 연구 중지
 - Key: ResearchEntryWidget.3-638306300620937848
-  Text: Set Research
+  Text: 연구 설정
 - Key: AutoRoofMainWidget.0-638336722418185876
-  Text: Confirm
+  Text: 확인
 - Key: AutoRoofWidget.0-638175857848065749
-  Text: No Wonk
+  Text: 반듯함
 - Key: AutoRoofWidget.1-638175857848075745
-  Text: Max Wonk
+  Text: 최대 구부러짐
 - Key: AutoRoofWidget.2-638175857848075745
-  Text: '{0:P0} Wonk'
+  Text: '{0:P0} 구부러짐'
 - Key: AutoRoofNodeWidget.0-638331491640925565
-  Text: Drag to adjust.
+  Text: 드래그해서 조정하세요.
 - Key: AssembleFlatpackButtonProvider.0-638327234819551348
-  Text: Cancel Enlarge
+  Text: 확대 취소
 - Key: AssembleFlatpackButtonProvider.1-638327234819551348
-  Text: Enlarge
+  Text: 확대
 - Key: AssembleFlatpackButtonProvider.2-638327234819551348
-  Text: Click to cancel.
+  Text: 취소하려면 클릭하세요.
 - Key: AssembleFlatpackButtonProvider.3-638327234819551348
-  Text: Enlarge at a different location. Uses {0:false)}.
+  Text: 다른 곳에서 확대합니다. {0:false)}(을)를 사용합니다.
 - Key: BlockingButtonProvider.0-638327234819596921
-  Text: Close
+  Text: 닫기
 - Key: BlockingButtonProvider.1-638327234819596921
-  Text: Open
+  Text: 열기
 - Key: BlockingButtonProvider.2-638327234819596921
-  Text: Click to close.
+  Text: 닫으려면 클릭하세요.
 - Key: BlockingButtonProvider.3-638327234819596921
-  Text: Click to open.
+  Text: 열려면 클릭하세요.
 - Key: BuildCopyButtonProvider.0-638327234819606918
-  Text: Build Copy
+  Text: 복사 건설
 - Key: BuildCopyButtonProvider.0-638368649815337612
-  Text: 'Build a copy of this somewhere else. Uses {0: false)}.'
+  Text: '이 물체를 복사해서 다른 곳에 건설합니다. {0: false)}(을)를 사용합니다.'
 - Key: BuildCopyButtonProvider.0-638191561193062448
-  Text: 'Build a copy of this somewhere else. Uses {0: false)}.'
+  Text: '이 물체를 복사해서 다른 곳에 건설합니다. {0: false)}(을)를 사용합니다.'
 - Key: BuildCopyWithSettingsButtonProvider.0-638385715195613717
   Text: Build Copy With Settings
 - Key: BuildCopyWithSettingsButtonProvider.1-638385715195613717

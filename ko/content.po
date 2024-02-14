@@ -27356,457 +27356,457 @@ msgstr ""
 #. Key: ResearchTechDefinition.BasicStorage.DisplayName
 msgctxt "ResearchTechDefinition.BasicStorage.DisplayName"
 msgid "Put Stuff Here"
-msgstr ""
+msgstr "여기에 아무거나 넣으시오"
 
 #. Key: ResearchTechDefinition.BasicRituals.DisplayName
 msgctxt "ResearchTechDefinition.BasicRituals.DisplayName"
 msgid "Basic Rituals"
-msgstr ""
+msgstr "의식 기초"
 
 #. Key: ResearchTechDefinition.BasicMusicRecreation.DisplayName
 msgctxt "ResearchTechDefinition.BasicMusicRecreation.DisplayName"
 msgid "Dancing The Night Away"
-msgstr ""
+msgstr "춤을 춰요"
 
 #. Key: ResearchTechDefinition.BasicFurnishingsI.DisplayName
 msgctxt "ResearchTechDefinition.BasicFurnishingsI.DisplayName"
 msgid "Rustic Furnishings"
-msgstr ""
+msgstr "투박한 가구"
 
 #. Key: ResearchTechDefinition.RitualAccessories.DisplayName
 msgctxt "ResearchTechDefinition.RitualAccessories.DisplayName"
 msgid "Ritual Accessories"
-msgstr ""
+msgstr "멋진 의식"
 
 #. Key: ResearchTechDefinition.ScholarsCornerI.DisplayName
 msgctxt "ResearchTechDefinition.ScholarsCornerI.DisplayName"
 msgid "Quite Visionary"
-msgstr ""
+msgstr "앞날이 보여"
 
 #. Key: ResearchTechDefinition.SchoolBasicsI.DisplayName
 msgctxt "ResearchTechDefinition.SchoolBasicsI.DisplayName"
 msgid "Classroom Essentials"
-msgstr ""
+msgstr "교실 필수품"
 
 #. Key: ResearchTechDefinition.FoodI.DisplayName
 msgctxt "ResearchTechDefinition.FoodI.DisplayName"
 msgid "Rustic Gourmet"
-msgstr ""
+msgstr "소박한 식사"
 
 #. Key: ResearchTechDefinition.FoodIA.DisplayName
 msgctxt "ResearchTechDefinition.FoodIA.DisplayName"
 msgid "Domesticated Gutberries"
-msgstr ""
+msgstr "내장딸기 재배"
 
 #. Key: ResearchTechDefinition.FoodII.DisplayName
 msgctxt "ResearchTechDefinition.FoodII.DisplayName"
 msgid "Rustic Dining"
-msgstr ""
+msgstr "투박한 식당"
 
 #. Key: ResearchTechDefinition.ManaSupplyI.DisplayName
 msgctxt "ResearchTechDefinition.ManaSupplyI.DisplayName"
 msgid "Shine On"
-msgstr ""
+msgstr "반짝반짝 빛나라"
 
 #. Key: ResearchTechDefinition.LightingI.DisplayName
 msgctxt "ResearchTechDefinition.LightingI.DisplayName"
 msgid "Light My Fire"
-msgstr ""
+msgstr "불타오르네"
 
 #. Key: ResearchTechDefinition.LightingII.DisplayName
 msgctxt "ResearchTechDefinition.LightingII.DisplayName"
 msgid "Luxurious Lighting"
-msgstr ""
+msgstr "화려한 조명"
 
 #. Key: ResearchTechDefinition.MedicalI.DisplayName
 msgctxt "ResearchTechDefinition.MedicalI.DisplayName"
 msgid "Critical Care"
-msgstr ""
+msgstr "응급 처치"
 
 #. Key: ResearchTechDefinition.MedicalII.DisplayName
 msgctxt "ResearchTechDefinition.MedicalII.DisplayName"
 msgid "Essential Medicine"
-msgstr ""
+msgstr "약학 기초"
 
 #. Key: ResearchTechDefinition.MedicalIII.DisplayName
 msgctxt "ResearchTechDefinition.MedicalIII.DisplayName"
 msgid "Medicine and Medicine Accessories"
-msgstr ""
+msgstr "더 많은 약품"
 
 #. Key: ResearchTechDefinition.GraveI.DisplayName
 msgctxt "ResearchTechDefinition.GraveI.DisplayName"
 msgid "Grave Thoughts"
-msgstr ""
+msgstr "죽이는 아이디어"
 
 #. Key: ResearchTechDefinition.MiddenI.DisplayName
 msgctxt "ResearchTechDefinition.MiddenI.DisplayName"
 msgid "Delightful Decomposition"
-msgstr ""
+msgstr "즐거운 부패"
 
 #. Key: ResearchTechDefinition.SpindleI.DisplayName
 msgctxt "ResearchTechDefinition.SpindleI.DisplayName"
 msgid "Creepiest Quilting"
-msgstr ""
+msgstr "으스스한 누더기"
 
 #. Key: ResearchTechDefinition.SpindleII.DisplayName
 msgctxt "ResearchTechDefinition.SpindleII.DisplayName"
 msgid "Graves and Mining"
-msgstr ""
+msgstr "무덤과 채굴"
 
 #. Key: ResearchTechDefinition.SpindleIII.DisplayName
 msgctxt "ResearchTechDefinition.SpindleIII.DisplayName"
 msgid "Helpful Helpers"
-msgstr ""
+msgstr "도움 되는 도우미"
 
 #. Key: ResearchTechDefinition.SpindleIV.DisplayName
 msgctxt "ResearchTechDefinition.SpindleIV.DisplayName"
 msgid "A Little Support"
-msgstr ""
+msgstr "약간의 밑받침"
 
 #. Key: ResearchTechDefinition.ReagentsI.DisplayName
 msgctxt "ResearchTechDefinition.ReagentsI.DisplayName"
 msgid "Second Sight"
-msgstr ""
+msgstr "새로운 시야"
 
 #. Key: ResearchTechDefinition.ReagentsII.DisplayName
 msgctxt "ResearchTechDefinition.ReagentsII.DisplayName"
 msgid "Braaaaaaiiins..."
-msgstr ""
+msgstr "뇌..."
 
 #. Key: ResearchTechDefinition.ReagentsIII.DisplayName
 msgctxt "ResearchTechDefinition.ReagentsIII.DisplayName"
 msgid "Use Every Part"
-msgstr ""
+msgstr "마지막 한 점까지"
 
 #. Key: ResearchTechDefinition.GardenI.DisplayName
 msgctxt "ResearchTechDefinition.GardenI.DisplayName"
 msgid "Hardy Foliage"
-msgstr ""
+msgstr "키우기 쉬운 식물들"
 
 #. Key: ResearchTechDefinition.GardenII.DisplayName
 msgctxt "ResearchTechDefinition.GardenII.DisplayName"
 msgid "Tidy Gardens"
-msgstr ""
+msgstr "예쁜 정원"
 
 #. Key: ResearchTechDefinition.GardenIII.DisplayName
 msgctxt "ResearchTechDefinition.GardenIII.DisplayName"
 msgid "Domesticated Bristlecone"
-msgstr ""
+msgstr "털솔방울 재배"
 
 #. Key: ResearchTechDefinition.GardenIV.DisplayName
 msgctxt "ResearchTechDefinition.GardenIV.DisplayName"
 msgid "Darker Growth"
-msgstr ""
+msgstr "음습한 성장"
 
 #. Key: ResearchTechDefinition.GardenV.DisplayName
 msgctxt "ResearchTechDefinition.GardenV.DisplayName"
 msgid "Growth and Decor"
-msgstr ""
+msgstr "정원 꾸미기"
 
 #. Key: ResearchTechDefinition.KitchenI.DisplayName
 msgctxt "ResearchTechDefinition.KitchenI.DisplayName"
 msgid "Fully Stocked"
-msgstr ""
+msgstr "식량 완비"
 
 #. Key: ResearchTechDefinition.KitchenII.DisplayName
 msgctxt "ResearchTechDefinition.KitchenII.DisplayName"
 msgid "Spice Things Up"
-msgstr ""
+msgstr "향신료를 조금만"
 
 #. Key: ResearchTechDefinition.KitchenIII.DisplayName
 msgctxt "ResearchTechDefinition.KitchenIII.DisplayName"
 msgid "Good Ventilations"
-msgstr ""
+msgstr "환기는 중요해"
 
 #. Key: ResearchTechDefinition.KitchenIV.DisplayName
 msgctxt "ResearchTechDefinition.KitchenIV.DisplayName"
 msgid "Sooie!"
-msgstr ""
+msgstr "꿀꿀!"
 
 #. Key: ResearchTechDefinition.KitchenV.DisplayName
 msgctxt "ResearchTechDefinition.KitchenV.DisplayName"
 msgid "That's Some Pig"
-msgstr ""
+msgstr "돼지가 실하네요"
 
 #. Key: ResearchTechDefinition.AlchemyI.DisplayName
 msgctxt "ResearchTechDefinition.AlchemyI.DisplayName"
 msgid "Boil and Bubble"
-msgstr ""
+msgstr "붓고 끓이고"
 
 #. Key: ResearchTechDefinition.AlchemyIIA.DisplayName
 msgctxt "ResearchTechDefinition.AlchemyIIA.DisplayName"
 msgid "Domesticated Iceflower"
-msgstr ""
+msgstr "얼음꽃 재배"
 
 #. Key: ResearchTechDefinition.AlchemyIIB.DisplayName
 msgctxt "ResearchTechDefinition.AlchemyIIB.DisplayName"
 msgid "Domesticated Phoenix's Kiss"
-msgstr ""
+msgstr "피닉스의 입맞춤 재배"
 
 #. Key: ResearchTechDefinition.AlchemyIIC.DisplayName
 msgctxt "ResearchTechDefinition.AlchemyIIC.DisplayName"
 msgid "Domesticated Smokereed"
-msgstr ""
+msgstr "연기갈대 재배"
 
 #. Key: ResearchTechDefinition.AlchemyIID.DisplayName
 msgctxt "ResearchTechDefinition.AlchemyIID.DisplayName"
 msgid "Pick Me Ups"
-msgstr ""
+msgstr "휴대용 물약"
 
 #. Key: ResearchTechDefinition.AlchemyIIX.DisplayName
 msgctxt "ResearchTechDefinition.AlchemyIIX.DisplayName"
 msgid "Throw Me"
-msgstr ""
+msgstr "준비하시고 쏘세요"
 
 #. Key: ResearchTechDefinition.AlchemyIIE.DisplayName
 msgctxt "ResearchTechDefinition.AlchemyIIE.DisplayName"
 msgid "All You Can Drink"
-msgstr ""
+msgstr "음료 무한 제공"
 
 #. Key: ResearchTechDefinition.AlchemyIIIE.DisplayName
 msgctxt "ResearchTechDefinition.AlchemyIIIE.DisplayName"
 msgid "Bottoms Up!"
-msgstr ""
+msgstr "기운내!"
 
 #. Key: ResearchTechDefinition.AirI.DisplayName
 msgctxt "ResearchTechDefinition.AirI.DisplayName"
 msgid "Up In the Air"
-msgstr ""
+msgstr "공중에 둥둥"
 
 #. Key: ResearchTechDefinition.AirIIA.DisplayName
 msgctxt "ResearchTechDefinition.AirIIA.DisplayName"
 msgid "Patron of the Arts"
-msgstr ""
+msgstr "예술 애호가"
 
 #. Key: ResearchTechDefinition.AirIIB.DisplayName
 msgctxt "ResearchTechDefinition.AirIIB.DisplayName"
 msgid "So Fancy"
-msgstr ""
+msgstr "멋진데"
 
 #. Key: ResearchTechDefinition.AirIIIA.DisplayName
 msgctxt "ResearchTechDefinition.AirIIIA.DisplayName"
 msgid "Air It Out"
-msgstr ""
+msgstr "바람이 분다"
 
 #. Key: ResearchTechDefinition.AirIVA.DisplayName
 msgctxt "ResearchTechDefinition.AirIVA.DisplayName"
 msgid "Gone Sailing"
-msgstr ""
+msgstr "돛을 펼쳐라"
 
 #. Key: ResearchTechDefinition.DecorI.DisplayName
 msgctxt "ResearchTechDefinition.DecorI.DisplayName"
 msgid "Liven Up The Place"
-msgstr ""
+msgstr "학교 꾸미기"
 
 #. Key: ResearchTechDefinition.DecorIIA.DisplayName
 msgctxt "ResearchTechDefinition.DecorIIA.DisplayName"
 msgid "Lighten Things Up"
-msgstr ""
+msgstr "밝은 분위기로"
 
 #. Key: ResearchTechDefinition.DecorIIIA.DisplayName
 msgctxt "ResearchTechDefinition.DecorIIIA.DisplayName"
 msgid "What A Relief"
-msgstr ""
+msgstr "이 멋진 건 뭐죠"
 
 #. Key: ResearchTechDefinition.DecorIIB.DisplayName
 msgctxt "ResearchTechDefinition.DecorIIB.DisplayName"
 msgid "Tie The Room Together"
-msgstr ""
+msgstr "안락한 학교"
 
 #. Key: ResearchTechDefinition.FoundationI.DisplayName
 msgctxt "ResearchTechDefinition.FoundationI.DisplayName"
 msgid "Going Places"
-msgstr ""
+msgstr "더 멀리 가볼까"
 
 #. Key: ResearchTechDefinition.FoundationIIA.DisplayName
 msgctxt "ResearchTechDefinition.FoundationIIA.DisplayName"
 msgid "Solid As A Rock"
-msgstr ""
+msgstr "바위처럼 단단히"
 
 #. Key: ResearchTechDefinition.FoundationIIC.DisplayName
 msgctxt "ResearchTechDefinition.FoundationIIC.DisplayName"
 msgid "Flashes of Brilliance"
-msgstr ""
+msgstr "번쩍이는 아이디어"
 
 #. Key: ResearchTechDefinition.NatureI.DisplayName
 msgctxt "ResearchTechDefinition.NatureI.DisplayName"
 msgid "All Natural"
-msgstr ""
+msgstr "자연 지킴이"
 
 #. Key: ResearchTechDefinition.NatureIIA.DisplayName
 msgctxt "ResearchTechDefinition.NatureIIA.DisplayName"
 msgid "Support All The Way Down"
-msgstr ""
+msgstr "굳건한 지지대"
 
 #. Key: ResearchTechDefinition.NatureIIIA.DisplayName
 msgctxt "ResearchTechDefinition.NatureIIIA.DisplayName"
 msgid "Domesticated Runewood"
-msgstr ""
+msgstr "룬 목재 재배"
 
 #. Key: ResearchTechDefinition.NatureIIIB.DisplayName
 msgctxt "ResearchTechDefinition.NatureIIIB.DisplayName"
 msgid "Blowin' In the Wind"
-msgstr ""
+msgstr "바람을 느끼며"
 
 #. Key: ResearchTechDefinition.WeaverI.DisplayName
 msgctxt "ResearchTechDefinition.WeaverI.DisplayName"
 msgid "The Bird Is The Word"
-msgstr ""
+msgstr "글자를 마시는 새"
 
 #. Key: ResearchTechDefinition.WeaverIIA.DisplayName
 msgctxt "ResearchTechDefinition.WeaverIIA.DisplayName"
 msgid "Domesticated Magic"
-msgstr ""
+msgstr "실내용 마법"
 
 #. Key: ResearchTechDefinition.WeaverIIB.DisplayName
 msgctxt "ResearchTechDefinition.WeaverIIB.DisplayName"
 msgid "Grim Accessories"
-msgstr ""
+msgstr "으스스한 장식품"
 
 #. Key: ResearchTechDefinition.WeaverIIIA.DisplayName
 msgctxt "ResearchTechDefinition.WeaverIIIA.DisplayName"
 msgid "Under Cover Sleeping"
-msgstr ""
+msgstr "침대는 마법입니다"
 
 #. Key: ResearchTechDefinition.WeaverIIIB.DisplayName
 msgctxt "ResearchTechDefinition.WeaverIIIB.DisplayName"
 msgid "Wall To Wall"
-msgstr ""
+msgstr "여기부터 저기까지"
 
 #. Key: ResearchTechDefinition.WeaverIIX.DisplayName
 msgctxt "ResearchTechDefinition.WeaverIIX.DisplayName"
 msgid "Scrivenry For Fun And Profit"
-msgstr ""
+msgstr "글쓰기는 즐거워"
 
 #. Key: ResearchTechDefinition.ScrivenryI.DisplayName
 msgctxt "ResearchTechDefinition.ScrivenryI.DisplayName"
 msgid "Arcane Scrawl"
-msgstr ""
+msgstr "날려 쓴 두루마리"
 
 #. Key: ResearchTechDefinition.ScrivenryII.DisplayName
 msgctxt "ResearchTechDefinition.ScrivenryII.DisplayName"
 msgid "A Practiced Quill"
-msgstr ""
+msgstr "제대로 쓴 두루마리"
 
 #. Key: ResearchTechDefinition.CronebugI.DisplayName
 msgctxt "ResearchTechDefinition.CronebugI.DisplayName"
 msgid "The Cronebug!"
-msgstr ""
+msgstr "크론벌레야!"
 
 #. Key: ResearchTechDefinition.CronebugIIA.DisplayName
 msgctxt "ResearchTechDefinition.CronebugIIA.DisplayName"
 msgid "Getting Posh"
-msgstr ""
+msgstr "고급 장식물"
 
 #. Key: ResearchTechDefinition.CronebugIIB.DisplayName
 msgctxt "ResearchTechDefinition.CronebugIIB.DisplayName"
 msgid "Exotic Reagents"
-msgstr ""
+msgstr "처음 보는 재료"
 
 #. Key: ResearchTechDefinition.CronebugIIC.DisplayName
 msgctxt "ResearchTechDefinition.CronebugIIC.DisplayName"
 msgid "Getting Really Posh"
-msgstr ""
+msgstr "최고급 장식물"
 
 #. Key: ResearchTechDefinition.FoundationIIIA.DisplayName
 msgctxt "ResearchTechDefinition.FoundationIIIA.DisplayName"
 msgid "Hold Up"
-msgstr ""
+msgstr "쓰러지지 마"
 
 #. Key: ResearchTechDefinition.SupportI.DisplayName
 msgctxt "ResearchTechDefinition.SupportI.DisplayName"
 msgid "Spiky Spiky"
-msgstr ""
+msgstr "뾰족뾰족"
 
 #. Key: ResearchTechDefinition.SupportIIA.DisplayName
 msgctxt "ResearchTechDefinition.SupportIIA.DisplayName"
 msgid "What Cairn You Do?"
-msgstr ""
+msgstr "쓰러뜨릴 수 있을까?"
 
 #. Key: ResearchTechDefinition.SupportIIB.DisplayName
 msgctxt "ResearchTechDefinition.SupportIIB.DisplayName"
 msgid "Carve It Up"
-msgstr ""
+msgstr "조각상 같네요"
 
 #. Key: ResearchTechDefinition.SupportIIIA.DisplayName
 msgctxt "ResearchTechDefinition.SupportIIIA.DisplayName"
 msgid "A Whole Lotta Support"
-msgstr ""
+msgstr "어떻게 떠 있는 거죠"
 
 #. Key: ResearchTechDefinition.RoofI.DisplayName
 msgctxt "ResearchTechDefinition.RoofI.DisplayName"
 msgid "Intimidating Silhouettes"
-msgstr ""
+msgstr "위협적인 그림자"
 
 #. Key: ResearchTechDefinition.RoofIIX.DisplayName
 msgctxt "ResearchTechDefinition.RoofIIX.DisplayName"
 msgid "A Shocking Discovery"
-msgstr ""
+msgstr "짜릿한 발견"
 
 #. Key: ResearchTechDefinition.RoofIIA.DisplayName
 msgctxt "ResearchTechDefinition.RoofIIA.DisplayName"
 msgid "Superconductive"
-msgstr ""
+msgstr "초전도 무언가"
 
 #. Key: ResearchTechDefinition.RoofIIB.DisplayName
 msgctxt "ResearchTechDefinition.RoofIIB.DisplayName"
 msgid "Great Timing"
-msgstr ""
+msgstr "정확한 시간"
 
 #. Key: ResearchTechDefinition.AdvancedPlantersI.DisplayName
 msgctxt "ResearchTechDefinition.AdvancedPlantersI.DisplayName"
 msgid "Domesticated Instability"
-msgstr ""
+msgstr "아네모네 재배"
 
 #. Key: ResearchTechDefinition.AdvancedPlantersIIA.DisplayName
 msgctxt "ResearchTechDefinition.AdvancedPlantersIIA.DisplayName"
 msgid "With A Flourish"
-msgstr ""
+msgstr "꽃바람처럼"
 
 #. Key: ResearchTechDefinition.AdvancedPlantersIIB.DisplayName
 msgctxt "ResearchTechDefinition.AdvancedPlantersIIB.DisplayName"
 msgid "This Stuff Is Scary"
-msgstr ""
+msgstr "물리면 어떡하죠"
 
 #. Key: ResearchTechDefinition.AdvancedFireI.DisplayName
 msgctxt "ResearchTechDefinition.AdvancedFireI.DisplayName"
 msgid "There Be Dragons"
-msgstr ""
+msgstr "용이 울부짖었다"
 
 #. Key: ResearchTechDefinition.AdvancedFireIIA.DisplayName
 msgctxt "ResearchTechDefinition.AdvancedFireIIA.DisplayName"
 msgid "This Class Is On Fire"
-msgstr ""
+msgstr "뜨거운 수업"
 
 #. Key: ResearchTechDefinition.AdvancedFireIIB.DisplayName
 msgctxt "ResearchTechDefinition.AdvancedFireIIB.DisplayName"
 msgid "Scrumptious!"
-msgstr ""
+msgstr "군침 도는데!"
 
 #. Key: ResearchTechDefinition.AdvancedFireIIIA.DisplayName
 msgctxt "ResearchTechDefinition.AdvancedFireIIIA.DisplayName"
 msgid "Rock Candy Mountain"
-msgstr ""
+msgstr "돌머리 말고 돌사탕"
 
 #. Key: ResearchTechDefinition.AdvancedFireIIIX.DisplayName
 msgctxt "ResearchTechDefinition.AdvancedFireIIIX.DisplayName"
 msgid "A Passion for Burning"
-msgstr ""
+msgstr "불타는 열정"
 
 #. Key: ResearchTechDefinition.AdvancedFireIVB.DisplayName
 msgctxt "ResearchTechDefinition.AdvancedFireIVB.DisplayName"
 msgid "Molten Gold"
-msgstr ""
+msgstr "실내 용광로"
 
 #. Key: ResearchTechDefinition.AdvancedFireIIIB.DisplayName
 msgctxt "ResearchTechDefinition.AdvancedFireIIIB.DisplayName"
 msgid "Sweetmeats"
-msgstr ""
+msgstr "고기 좋아"
 
 #. Key: ResearchTechDefinition.AdvancedFireIIIC.DisplayName
 msgctxt "ResearchTechDefinition.AdvancedFireIIIC.DisplayName"
 msgid "This Food Pops"
-msgstr ""
+msgstr "통통 튀는 식사"
 
 #. Key: ResearchTechDefinition.AdvancedFireIVA.DisplayName
 msgctxt "ResearchTechDefinition.AdvancedFireIVA.DisplayName"
@@ -27816,22 +27816,22 @@ msgstr ""
 #. Key: ResearchTechDefinition.AdvancedWaterI.DisplayName
 msgctxt "ResearchTechDefinition.AdvancedWaterI.DisplayName"
 msgid "Pour It On"
-msgstr ""
+msgstr "또르르 솨"
 
 #. Key: ResearchTechDefinition.AdvancedWaterIIA.DisplayName
 msgctxt "ResearchTechDefinition.AdvancedWaterIIA.DisplayName"
 msgid "Need For Speed"
-msgstr ""
+msgstr "니드 포 스피드"
 
 #. Key: ResearchTechDefinition.AdvancedWaterIIB.DisplayName
 msgctxt "ResearchTechDefinition.AdvancedWaterIIB.DisplayName"
 msgid "Advanced Fog Defense"
-msgstr ""
+msgstr "어둠의 안개 방어술"
 
 #. Key: ResearchTechDefinition.AdvancedWaterIIIA.DisplayName
 msgctxt "ResearchTechDefinition.AdvancedWaterIIIA.DisplayName"
 msgid "Eye For An Eye"
-msgstr ""
+msgstr "눈에는 눈"
 
 #. Key: ResearchTechDefinition.AdvancedWaterIVA.DisplayName
 msgctxt "ResearchTechDefinition.AdvancedWaterIVA.DisplayName"
@@ -27841,22 +27841,22 @@ msgstr ""
 #. Key: ResearchTechDefinition.AdvancedDarkI.DisplayName
 msgctxt "ResearchTechDefinition.AdvancedDarkI.DisplayName"
 msgid "Dark Arts"
-msgstr ""
+msgstr "어둠 속으로"
 
 #. Key: ResearchTechDefinition.AdvancedDarkIIA.DisplayName
 msgctxt "ResearchTechDefinition.AdvancedDarkIIA.DisplayName"
 msgid "Darker and Darker"
-msgstr ""
+msgstr "더 어둡게"
 
 #. Key: ResearchTechDefinition.AdvancedDarkIIIA.DisplayName
 msgctxt "ResearchTechDefinition.AdvancedDarkIIIA.DisplayName"
 msgid "And Darker Still"
-msgstr ""
+msgstr "더욱 더 어둡게"
 
 #. Key: ResearchTechDefinition.AdvancedDarkIIIB.DisplayName
 msgctxt "ResearchTechDefinition.AdvancedDarkIIIB.DisplayName"
 msgid "Take a Look"
-msgstr ""
+msgstr "심연을 들여다보면"
 
 #. Key: ResearchTechDefinition.AdvancedDarkIVA.DisplayName
 msgctxt "ResearchTechDefinition.AdvancedDarkIVA.DisplayName"
@@ -28849,17 +28849,17 @@ msgstr ""
 #. Key: RoomTypeDefinition.Hovel.DisplayName
 msgctxt "RoomTypeDefinition.Hovel.DisplayName"
 msgid "Austere Bedroom"
-msgstr ""
+msgstr "소박한 침실"
 
 #. Key: RoomTypeDefinition.Hovel.Effects.0-638169128389213559
 msgctxt "RoomTypeDefinition.Hovel.Effects.0-638169128389213559"
 msgid "+2.5 <slink=Mood> to sleepers"
-msgstr ""
+msgstr "수면 시 +2.5 <slink=Mood>"
 
 #. Key: RoomTypeDefinition.Hovel.Rules.0-638122528420851451.Criteria.11-638122528420851451.ComponentRequirementDisplayName
 msgctxt "RoomTypeDefinition.Hovel.Rules.0-638122528420851451.Criteria.11-638122528420851451.ComponentRequirementDisplayName"
 msgid "Cot, Plain Bed, Fancy Bed, or Canopy Bed"
-msgstr ""
+msgstr "침상, 평범한 침대, 멋진 침대 또는 휘장 침대"
 
 #. Key: RoomTypeDefinition.Hovel.Rules.1-638122528420851451.Criteria.0-638122528420851451.ComponentRequirementDisplayName
 msgctxt "RoomTypeDefinition.Hovel.Rules.1-638122528420851451.Criteria.0-638122528420851451.ComponentRequirementDisplayName"
