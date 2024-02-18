@@ -1563,12 +1563,12 @@ msgstr "지붕 위"
 #. Key: PlacementConfig.7-638310755350296453
 msgctxt "PlacementConfig.7-638310755350296453"
 msgid "Placeable"
-msgstr "위치 가능"
+msgstr "배치 가능 위치:"
 
 #. Key: PlacementConfig.8-638310755350296453
 msgctxt "PlacementConfig.8-638310755350296453"
 msgid " outside"
-msgstr " 바깥"
+msgstr " 외부"
 
 #. Key: PlacementConfig.9-638310755350296453
 msgctxt "PlacementConfig.9-638310755350296453"
@@ -6365,7 +6365,7 @@ msgstr ""
 #. - TimeUtils.GetFriendlyStringFromDuration(lifetime.TTLGameTime)
 msgctxt "AboveGroundBattleAlert.0-638303859719808052"
 msgid "A battle awaits. ({0})"
-msgstr "전투가 기다립니다. ({0})"
+msgstr "전투 가능. ({0})"
 
 #. Key: AboveGroundBattleAlert.1-638303859719808052
 #. Args:
