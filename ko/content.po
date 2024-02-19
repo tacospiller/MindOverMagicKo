@@ -4050,7 +4050,7 @@ msgstr "약간 거칠거칠합니다."
 #. Key: Archetype.BookOfDreadPage.DescriptionConfig.0.DisplayName
 msgctxt "Archetype.BookOfDreadPage.DescriptionConfig.0.DisplayName"
 msgid "Arcane Scroll"
-msgstr "마법사의 두루마리"
+msgstr "마법의 두루마리"
 
 #. Key: Archetype.BookOfDreadPage.DescriptionConfig.0.Description
 msgctxt "Archetype.BookOfDreadPage.DescriptionConfig.0.Description"
@@ -4071,7 +4071,7 @@ msgstr "고대의 지혜가 갇혀 있습니다."
 #. Key: Archetype.AdeptScroll.Configs.0-638345097723129667.DisplayName
 msgctxt "Archetype.AdeptScroll.Configs.0-638345097723129667.DisplayName"
 msgid "Adept Scroll"
-msgstr "숙련된 마법사의 두루마리"
+msgstr "숙련의 두루마리"
 
 #. Key: Archetype.AdeptScroll.Configs.0-638345097723129667.Description
 msgctxt "Archetype.AdeptScroll.Configs.0-638345097723129667.Description"
@@ -4092,7 +4092,7 @@ msgstr "신비로운 문양과 룬들이 새겨져 있습니다."
 #. Key: Archetype.SavantScroll.Configs.0-638345097723129667.DisplayName
 msgctxt "Archetype.SavantScroll.Configs.0-638345097723129667.DisplayName"
 msgid "Savant Scroll"
-msgstr "박식한 마법사의 두루마리"
+msgstr "박식의 두루마리"
 
 #. Key: Archetype.SavantScroll.Configs.0-638345097723129667.Description
 msgctxt "Archetype.SavantScroll.Configs.0-638345097723129667.Description"
@@ -4113,7 +4113,7 @@ msgstr "섬세한 문양과 룬들이 새겨져 있습니다."
 #. Key: Archetype.MasterScroll.Configs.0-638345097723129667.DisplayName
 msgctxt "Archetype.MasterScroll.Configs.0-638345097723129667.DisplayName"
 msgid "Master Scroll"
-msgstr "통달한 마법사의 두루마리"
+msgstr "통달의 두루마리"
 
 #. Key: Archetype.MasterScroll.Configs.0-638345097723129667.Description
 msgctxt "Archetype.MasterScroll.Configs.0-638345097723129667.Description"
@@ -5896,12 +5896,12 @@ msgstr "네스트 플러퍼"
 #. Key: Archetype.EarthRefinery.DescriptionConfig.0.DisplayName
 msgctxt "Archetype.EarthRefinery.DescriptionConfig.0.DisplayName"
 msgid "Cronebug Pen"
-msgstr "크로네버그 펜"
+msgstr "크론벌레 우리"
 
 #. Key: Archetype.EarthRefinery.DescriptionConfig.0.Description
 msgctxt "Archetype.EarthRefinery.DescriptionConfig.0.Description"
 msgid "A <slink=Refining_Beast> for creating advanced mineral and crystal Reagents. Must be <slink=CronebugHatched>."
-msgstr ""
+msgstr "고급 광물과 크리스탈 아이템을 생성하는 <slink=Refining_Beast>입니다. <slink=CronebugHatched> 의식을 치러 부화시켜야 합니다."
 
 #. Key: Archetype.EarthRefinery.DescriptionConfig.0.FlavorText
 msgctxt "Archetype.EarthRefinery.DescriptionConfig.0.FlavorText"
@@ -5953,32 +5953,32 @@ msgstr " 이 자주 버릇없는 생물들은 외부의 환경이 알주머니 �
 #. Key: Archetype.EarthRefinery.Configs.20-638255505141147608.ButtonName
 msgctxt "Archetype.EarthRefinery.Configs.20-638255505141147608.ButtonName"
 msgid "Hatch Cronebug"
-msgstr "해치 크로네버그"
+msgstr "크론벌레 부화"
 
 #. Key: Archetype.EarthRefinery.Configs.20-638289151908472039.ButtonDescription
 msgctxt "Archetype.EarthRefinery.Configs.20-638289151908472039.ButtonDescription"
 msgid "Hatch the egg into a fully grown Cronebug."
-msgstr "달걀을 완전히 자란 크로네버그로 부화시키십시오."
+msgstr "알을 다 자란 크론벌레로 부화시킵니다."
 
 #. Key: Archetype.EarthRefinery.Configs.20-638289151908472039.WindowDescription
 msgctxt "Archetype.EarthRefinery.Configs.20-638289151908472039.WindowDescription"
 msgid "Hatch the Cronebug Egg in the pen. Cronebugs have powerful grinding jaws to grind up stone, and grow more impressive minerals beneath their wings. \n"
-msgstr "크로네버그 알을 펜에 부화시킵니다. Cronebugs는 돌을 갈기 위해 강력한 연삭 턱을 가지고 있으며 날개 아래에서 더 인상적인 미네랄을 재배합니다. \n"
+msgstr "크론벌레 알을 우리 내에서 부화시킵니다. 크론벌레는 강력한 턱으로 돌을 씹어먹고 희귀한 광물로 변환시킬 수 있습니다.\n"
 
 #. Key: Archetype.EarthRefinery.Configs.20-638289051726531585.Buckets.0-638289051726531585.Name
 msgctxt "Archetype.EarthRefinery.Configs.20-638289051726531585.Buckets.0-638289051726531585.Name"
 msgid "Leaftender"
-msgstr ""
+msgstr "둥지 돌보미"
 
 #. Key: Archetype.EarthRefinery.Configs.20-638289051726531585.Buckets.1-638289051726531585.Name
 msgctxt "Archetype.EarthRefinery.Configs.20-638289051726531585.Buckets.1-638289051726531585.Name"
 msgid "Pen Cleaner"
-msgstr ""
+msgstr "우리 청소부"
 
 #. Key: Archetype.EarthRefinery.Configs.20-638289051726531585.Buckets.2-638289051726531585.Name
 msgctxt "Archetype.EarthRefinery.Configs.20-638289051726531585.Buckets.2-638289051726531585.Name"
 msgid "Shellcracker"
-msgstr ""
+msgstr "알껍질 까기"
 
 #. Key: Archetype.FireRefinery.DescriptionConfig.0.DisplayName
 msgctxt "Archetype.FireRefinery.DescriptionConfig.0.DisplayName"
@@ -6543,7 +6543,7 @@ msgstr "지팡이를 사용하여 새 학생을 학교에 데려오세요."
 #. Key: Archetype.SummoningFocus.Configs.18-638303103272231254.WindowDescription
 msgctxt "Archetype.SummoningFocus.Configs.18-638303103272231254.WindowDescription"
 msgid "Choose a wand to grant to a new student. This is the longest the ritual takes and the most requirements the ritual has.\n"
-msgstr "새 학생에게 부여할 지팡이를 선택하세요. "
+msgstr "새 학생을 소환할 지팡이를 선택하세요. 학생 수가 많아 최대 시간과 최대 비용이 듭니다.\n"
 
 #. Key: Archetype.SummoningFocus.Configs.18-638303104456977029.Buckets.0-638303104456977029.Name
 msgctxt "Archetype.SummoningFocus.Configs.18-638303104456977029.Buckets.0-638303104456977029.Name"
@@ -9334,7 +9334,9 @@ msgid ""
 "\n"
 "The more Staff you have already in your school, the longer the ritual takes and the more requirements the ritual has.\n"
 msgstr ""
-" 그들은 더 많은 작업 유형을 수행할 수 있지만, 더 이상 시험을 완료하고 메달을 획득할 수 없습니다. \n\n이미 학교에 다니는 직원이 많을수록 의식에 걸리는 시간이 길어지고 의식에 필요한 요구 사항이 늘어납니다.\n"
+" 그들은 더 많은 작업 유형을 수행할 수 있지만, 더 이상 시험을 완료하고 메달을 획득할 수 없습니다. \n"
+"\n"
+"이미 학교에 다니는 직원이 많을수록 의식에 걸리는 시간이 길어지고 의식에 필요한 요구 사항이 늘어납니다.\n"
 
 #. Key: Archetype.BookOfNightmares.Configs.4-638218125766505599.Buckets.0-638218125766505599.Name
 msgctxt "Archetype.BookOfNightmares.Configs.4-638218125766505599.Buckets.0-638218125766505599.Name"
@@ -9363,7 +9365,9 @@ msgid ""
 "\n"
 "The more Staff you have already in your school, the longer the ritual takes and the more requirements the ritual has.\n"
 msgstr ""
-" 그들은 더 많은 작업 유형을 수행할 수 있지만, 더 이상 시험을 완료하고 메달을 획득할 수 없습니다. \n\n이미 학교에 다니는 직원이 많을수록 의식에 걸리는 시간이 길어지고 의식에 필요한 요구 사항이 늘어납니다.\n"
+" 그들은 더 많은 작업 유형을 수행할 수 있지만, 더 이상 시험을 완료하고 메달을 획득할 수 없습니다. \n"
+"\n"
+"이미 학교에 다니는 직원이 많을수록 의식에 걸리는 시간이 길어지고 의식에 필요한 요구 사항이 늘어납니다.\n"
 
 #. Key: Archetype.BookOfNightmares.Configs.5-638218125766505599.Buckets.0-638218125766505599.Name
 msgctxt "Archetype.BookOfNightmares.Configs.5-638218125766505599.Buckets.0-638218125766505599.Name"
@@ -9391,8 +9395,7 @@ msgid ""
 "Hire a Student as a Staff member. They can perform more Task Types, but can no longer complete Trials and earn Medallions. \n"
 "\n"
 "The more Staff you have already in your school, the longer the ritual takes and the more requirements the ritual has.\n"
-msgstr ""
-" 그들은 더 많은 작업 유형을 수행할 수 있지만, 더 이상 시험을 완료하고 메달을 획득할 수 없습니다. "
+msgstr " 그들은 더 많은 작업 유형을 수행할 수 있지만, 더 이상 시험을 완료하고 메달을 획득할 수 없습니다. "
 
 #. Key: Archetype.BookOfNightmares.Configs.6-638218125766505599.Buckets.0-638218125766505599.Name
 msgctxt "Archetype.BookOfNightmares.Configs.6-638218125766505599.Buckets.0-638218125766505599.Name"
@@ -9420,8 +9423,7 @@ msgid ""
 "Hire a Student as a Staff member. They can perform more Task Types, but can no longer complete Trials and earn Medallions. \n"
 "\n"
 "The more Staff you have already in your school, the longer the ritual takes and the more requirements the ritual has.\n"
-msgstr ""
-" 그들은 더 많은 작업 유형을 수행할 수 있지만, 더 이상 시험을 완료하고 메달을 획득할 수 없습니다. "
+msgstr " 그들은 더 많은 작업 유형을 수행할 수 있지만, 더 이상 시험을 완료하고 메달을 획득할 수 없습니다. "
 
 #. Key: Archetype.BookOfNightmares.Configs.7-638218125766505599.Buckets.0-638218125766505599.Name
 msgctxt "Archetype.BookOfNightmares.Configs.7-638218125766505599.Buckets.0-638218125766505599.Name"
@@ -9449,8 +9451,7 @@ msgid ""
 "Hire a Student as a Staff member. They can perform more Task Types, but can no longer complete Trials and earn Medallions. \n"
 "\n"
 "The more Staff you have already in your school, the longer the ritual takes and the more requirements the ritual has.\n"
-msgstr ""
-" 그들은 더 많은 작업 유형을 수행할 수 있지만, 더 이상 시험을 완료하고 메달을 획득할 수 없습니다. "
+msgstr " 그들은 더 많은 작업 유형을 수행할 수 있지만, 더 이상 시험을 완료하고 메달을 획득할 수 없습니다. "
 
 #. Key: Archetype.BookOfNightmares.Configs.8-638218125766505599.Buckets.0-638218125766505599.Name
 msgctxt "Archetype.BookOfNightmares.Configs.8-638218125766505599.Buckets.0-638218125766505599.Name"
@@ -9478,8 +9479,7 @@ msgid ""
 "Hire a Student as a Staff member. They can perform more Task Types, but can no longer complete Trials and earn Medallions. \n"
 "\n"
 "The more Staff you have already in your school, the longer the ritual takes and the more requirements the ritual has.\n"
-msgstr ""
-" 그들은 더 많은 작업 유형을 수행할 수 있지만, 더 이상 시험을 완료하고 메달을 획득할 수 없습니다. "
+msgstr " 그들은 더 많은 작업 유형을 수행할 수 있지만, 더 이상 시험을 완료하고 메달을 획득할 수 없습니다. "
 
 #. Key: Archetype.BookOfNightmares.Configs.9-638218125766505599.Buckets.0-638218125766505599.Name
 msgctxt "Archetype.BookOfNightmares.Configs.9-638218125766505599.Buckets.0-638218125766505599.Name"
@@ -9508,7 +9508,9 @@ msgid ""
 "\n"
 "The more Staff you have already in your school, the longer the ritual takes and the more requirements the ritual has.\n"
 msgstr ""
-" 그들은 더 많은 작업 유형을 수행할 수 있지만, 더 이상 시험을 완료하고 메달을 획득할 수 없습니다. \n\n이미 학교에 다니는 직원이 많을수록 의식에 걸리는 시간이 길어지고 의식에 필요한 요구 사항이 늘어납니다.\n"
+" 그들은 더 많은 작업 유형을 수행할 수 있지만, 더 이상 시험을 완료하고 메달을 획득할 수 없습니다. \n"
+"\n"
+"이미 학교에 다니는 직원이 많을수록 의식에 걸리는 시간이 길어지고 의식에 필요한 요구 사항이 늘어납니다.\n"
 
 #. Key: Archetype.RitualSpot.Configs.14-638303104457840346.Buckets.0-638303104457840346.Name
 msgctxt "Archetype.RitualSpot.Configs.14-638303104457840346.Buckets.0-638303104457840346.Name"
@@ -9536,8 +9538,7 @@ msgid ""
 "Hire a Student as a Staff member. They can perform more Task Types, but can no longer complete Trials and earn Medallions. \n"
 "\n"
 "The more Staff you have already in your school, the longer the ritual takes and the more requirements the ritual has.\n"
-msgstr ""
-" 그들은 더 많은 작업 유형을 수행할 수 있지만, 더 이상 시험을 완료하고 메달을 획득할 수 없습니다. "
+msgstr " 그들은 더 많은 작업 유형을 수행할 수 있지만, 더 이상 시험을 완료하고 메달을 획득할 수 없습니다. "
 
 #. Key: Archetype.RitualSpot.Configs.15-638303104457840346.Buckets.0-638303104457840346.Name
 msgctxt "Archetype.RitualSpot.Configs.15-638303104457840346.Buckets.0-638303104457840346.Name"
@@ -9565,8 +9566,7 @@ msgid ""
 "Hire a Student as a Staff member. They can perform more Task Types, but can no longer complete Trials and earn Medallions. \n"
 "\n"
 "The more Staff you have already in your school, the longer the ritual takes and the more requirements the ritual has.\n"
-msgstr ""
-" 그들은 더 많은 작업 유형을 수행할 수 있지만, 더 이상 시험을 완료하고 메달을 획득할 수 없습니다. "
+msgstr " 그들은 더 많은 작업 유형을 수행할 수 있지만, 더 이상 시험을 완료하고 메달을 획득할 수 없습니다. "
 
 #. Key: Archetype.RitualSpot.Configs.16-638303104457840346.Buckets.0-638303104457840346.Name
 msgctxt "Archetype.RitualSpot.Configs.16-638303104457840346.Buckets.0-638303104457840346.Name"
@@ -9594,8 +9594,7 @@ msgid ""
 "Hire a Student as a Staff member. They can perform more Task Types, but can no longer complete Trials and earn Medallions. \n"
 "\n"
 "This is the longest the ritual takes and the most requirements the ritual has.\n"
-msgstr ""
-" 그들은 더 많은 작업 유형을 수행할 수 있지만, 더 이상 시험을 완료하고 메달을 획득할 수 없습니다. "
+msgstr " 그들은 더 많은 작업 유형을 수행할 수 있지만, 더 이상 시험을 완료하고 메달을 획득할 수 없습니다. "
 
 #. Key: Archetype.RitualSpot.Configs.17-638303104457850356.Buckets.0-638303104457850356.Name
 msgctxt "Archetype.RitualSpot.Configs.17-638303104457850356.Buckets.0-638303104457850356.Name"
@@ -10105,12 +10104,12 @@ msgstr ""
 #. Key: Archetype.SoulAltar.Configs.2-638278745841866523.ButtonDescription
 msgctxt "Archetype.SoulAltar.Configs.2-638278745841866523.ButtonDescription"
 msgid "Permanently upgrades a Student's combat stats, but permanently degrades their Conviction."
-msgstr ""
+msgstr "학생의 전투 능력을 영구히 향상시키고 만족도를 영구히 감소시킵니다."
 
 #. Key: Archetype.SoulAltar.Configs.8-638289151912109765.WindowDescription
 msgctxt "Archetype.SoulAltar.Configs.8-638289151912109765.WindowDescription"
 msgid "Performs an evil ritual, boosting a Student's combat stats at a permanent, dire cost to their Conviction. Students can only gain this dark boon once.\n"
-msgstr "사악한 의식을 수행하여 학생의 전투 통계를 영구적이고 끔찍한 비용으로 신념을 높입니다. "
+msgstr "사악한 의식을 수행하여 학생의 전투 능력을 크게 향상시키고 만족도를 감소시킵니다. 한 학생에 한 번만 수행할 수 있습니다.\n"
 
 #. Key: Archetype.SoulAltar.Configs.2-638278745841866523.Buckets.0-638278745841866523.Name
 msgctxt "Archetype.SoulAltar.Configs.2-638278745841866523.Buckets.0-638278745841866523.Name"
@@ -13756,7 +13755,7 @@ msgstr ""
 #. Key: CharacterStatusConfig.Enemy_FirstDegreeBurns_Debuff.Description
 msgctxt "CharacterStatusConfig.Enemy_FirstDegreeBurns_Debuff.Description"
 msgid "The character heals 50% slower and healing potions are 50% less effective. Has a 50% chance to turn into <slink=Enemy_SecondDegreeBurns_Debuff> when the character is struck by a <slink=Hellmaw>.\n"
-msgstr "캐릭터의 회복 속도가 50% 느려지고 healing 물약의 효과가 50% 감소합니다. "
+msgstr "캐릭터의 체력 회복 속도가 50% 느려지고 회복 물약의 성능이 50% 감소합니다. <slink=Hellmaw> 기술에 피격당하면 50%확률로 <slink=Enemy_SecondDegreeBurns_Debuff>으로 변합니다.\n"
 
 #. Key: CharacterStatusConfig.Enemy_FirstDegreeBurns_Debuff.BattleString
 msgctxt "CharacterStatusConfig.Enemy_FirstDegreeBurns_Debuff.BattleString"
@@ -23889,7 +23888,8 @@ msgid ""
 "Fire magic can be used in the school to <slink=JobType_Cook>, <slink=JobType_Hunting>, and <slink=JobType_Uproot> obstacles.\n"
 "In combat, Fire attacks are focused on high damage output, such as landing Critical Hits, but can be Mana-intensive to cast. Fire magic can also allow a Mage to retaliate when attacked by enemies."
 msgstr ""
-"화재 마법은 학교에서 <slink=JobType_Cook>, <slink=JobType_Hunting>및 <slink=JobType_Uproot> 장애물에 사용할 수 있습니다.\n전투에서 화재 공격은 중요 히트 착륙과 같은 높은 피해 출력에 초점을 맞추지만 마나 집약적일 수 있습니다. "
+"화재 마법은 학교에서 <slink=JobType_Cook>, <slink=JobType_Hunting>및 <slink=JobType_Uproot> 장애물에 사용할 수 있습니다.\n"
+"전투에서 화재 공격은 중요 히트 착륙과 같은 높은 피해 출력에 초점을 맞추지만 마나 집약적일 수 있습니다. "
 
 #. Key: KeywordDefinition.Skill_Hydrokinesis.DisplayName
 msgctxt "KeywordDefinition.Skill_Hydrokinesis.DisplayName"
@@ -23902,7 +23902,8 @@ msgid ""
 "Water magic can be used in the school for <slink=JobType_Alchemy> and to <slink=JobType_Clean>, and mastery of Water is necessary for various healing rituals.\n"
 "In combat, Water attacks are somewhat weak and prefer being cast from the back row, but often lower the Attack and Speed of enemies. Water magic also excels at cleansing negative statuses from allies."
 msgstr ""
-"물 마법은 학교에서 사용할 수 <slink=JobType_Alchemy> <slink=JobType_Clean>있으며, 다양한 치유 의식을 위해 물의 숙달이 필요합니다.\n전투에서 물 공격은 다소 약하고 뒷줄에서 던져지는 것을 선호하지만 종종 적의 공격과 속도를 낮춥니다. "
+"물 마법은 학교에서 사용할 수 <slink=JobType_Alchemy> <slink=JobType_Clean>있으며, 다양한 치유 의식을 위해 물의 숙달이 필요합니다.\n"
+"전투에서 물 공격은 다소 약하고 뒷줄에서 던져지는 것을 선호하지만 종종 적의 공격과 속도를 낮춥니다. "
 
 #. Key: KeywordDefinition.Skill_Necromancy.DisplayName
 msgctxt "KeywordDefinition.Skill_Necromancy.DisplayName"
@@ -23914,8 +23915,7 @@ msgctxt "KeywordDefinition.Skill_Necromancy.Description"
 msgid ""
 "Dark magic can be used in the school to <slink=JobType_Quilting> and <slink=JobType_Ward>.\n"
 "In combat, Dark magic allows the Mage to create <slink=Cover>, and to attack from the shadows for huge damage. Some Dark attacks hit many enemies, and are great for crowd control. "
-msgstr ""
-" 일부 어두운 공격은 많은 적을 공격하고 군중 통제에 좋습니다. "
+msgstr " 일부 어두운 공격은 많은 적을 공격하고 군중 통제에 좋습니다. "
 
 #. Key: KeywordDefinition.Skill_Manipulation.DisplayName
 msgctxt "KeywordDefinition.Skill_Manipulation.DisplayName"
@@ -23940,7 +23940,8 @@ msgid ""
 "Earth magic can be used in the school to <slink=JobType_Construct>, <slink=JobType_Carving>, <slink=JobType_Mining>, and <slink=JobType_Repair>.\n"
 "In combat, Earth attacks with powerful spells that are often even more powerful when cast at full HP. Earth magic can also let a Mage put up Armor to absorb blows and Taunt to goad enemies."
 msgstr ""
-"지구의 마법은 학교에서 <slink=JobType_Construct>, <slink=JobType_Carving>, , <slink=JobType_Mining>및 <slink=JobType_Repair>.\n전투 중에 지구는 최대 HP로 발동할 때 종종 더 강력한 강력한 주문으로 공격합니다. "
+"지구의 마법은 학교에서 <slink=JobType_Construct>, <slink=JobType_Carving>, , <slink=JobType_Mining>및 <slink=JobType_Repair>.\n"
+"전투 중에 지구는 최대 HP로 발동할 때 종종 더 강력한 강력한 주문으로 공격합니다. "
 
 #. Key: KeywordDefinition.Skill_Divination.DisplayName
 msgctxt "KeywordDefinition.Skill_Divination.DisplayName"
@@ -23953,7 +23954,8 @@ msgid ""
 "Lightning magic can be used in the school to <slink=JobType_Charge>, <slink=JobType_Scrivening>, and <slink=JobType_Research>.\n"
 "In combat, Lightning attacks are great at targeting specific foes, often slowing them in the process. Lightning magic also support allies with additional Mana and Speed."
 msgstr ""
-"번개 마법은 학교에서 <slink=JobType_Charge>, <slink=JobType_Scrivening>및 <slink=JobType_Research>.에 사용할 수 있습니다.\n전투에서 번개 공격은 특정 적을 목표로하는 데 유용하며 종종 그 과정에서 속도를 늦춥니다. "
+"번개 마법은 학교에서 <slink=JobType_Charge>, <slink=JobType_Scrivening>및 <slink=JobType_Research>.에 사용할 수 있습니다.\n"
+"전투에서 번개 공격은 특정 적을 목표로하는 데 유용하며 종종 그 과정에서 속도를 늦춥니다. "
 
 #. Key: KeywordDefinition.Skill_Viturgy.DisplayName
 msgctxt "KeywordDefinition.Skill_Viturgy.DisplayName"
@@ -24991,7 +24993,9 @@ msgid ""
 "\n"
 "This may also be due to insufficient spell range. Mages get more range in spells for <slink=JobType_Construct>, <slink=JobType_Assemble>, and <slink=JobType_Haul> as they gain more skill."
 msgstr ""
-"현재 일부 개체에 연결할 수 없습니다.\n\n학교 일부가 빌드된 개체에 의해 차단되어 있을 수 있습니다.  "
+"현재 일부 개체에 연결할 수 없습니다.\n"
+"\n"
+"학교 일부가 빌드된 개체에 의해 차단되어 있을 수 있습니다.  "
 
 #. Key: KeywordDefinition.WeaverBirdHatched.DisplayName
 msgctxt "KeywordDefinition.WeaverBirdHatched.DisplayName"
@@ -25263,8 +25267,7 @@ msgid ""
 "- Mushrooms of all types abound! <slink=ReapersMushroom>, <slink=FractalMold>, and <slink=VoidShroom> grow twice as fast.\n"
 "- Nature specialized Mages start battle with <slink=Nature_Waxing_Battle>, and Earth specialized Mages start battle with <slink=Earth_Waning_Battle>.\n"
 "- Enemies from the Fungal Caverns will show up in some above ground battles."
-msgstr ""
-"- 모든 종류의 버섯이 풍부합니다! "
+msgstr "- 모든 종류의 버섯이 풍부합니다! "
 
 #. Key: GlobalEventDefinition.FungalBloom.DivinationText
 msgctxt "GlobalEventDefinition.FungalBloom.DivinationText"
@@ -25292,8 +25295,7 @@ msgid ""
 "- It's Gutberry season! <slink=GutberryPlant> spawn at a much higher rate than normal in the garden next to the school.\n"
 "- Air specialized Mages start battle with <slink=Air_Waxing_Battle>, and Lightning specialized Mages start battle with <slink=Lightning_Waning_Battle>.\n"
 "- Mages eating Gutberries or Gutberry Soup suffer an additional <slink=Mood> penalty."
-msgstr ""
-"- 거트베리 시즌이야! "
+msgstr "- 거트베리 시즌이야! "
 
 #. Key: GlobalEventDefinition.HighStink.DivinationText
 msgctxt "GlobalEventDefinition.HighStink.DivinationText"
@@ -25515,7 +25517,9 @@ msgid ""
 "- Lightning will damage roofs not protected by a <slink=LightningRod>.\n"
 "- Lightning specialized Mages start battle with <slink=Lightning_Waxing_Battle>, and Fire specialized Mages start battle with <slink=Fire_Waning_Battle>."
 msgstr ""
-"- 폭력은 <slink=Rain> 손상하고 결국 지붕에 의해 보호되지 않는 것을 파괴합니다\n- 번개는 보호되지 않는 지붕을 손상시킵니다 <slink=LightningRod>.\n- 번개 전문 마법사와 <slink=Lightning_Waxing_Battle>전투를 시작, 화재 전문 마법사와 전투를 시작합니다 <slink=Fire_Waning_Battle>."
+"- 폭력은 <slink=Rain> 손상하고 결국 지붕에 의해 보호되지 않는 것을 파괴합니다\n"
+"- 번개는 보호되지 않는 지붕을 손상시킵니다 <slink=LightningRod>.\n"
+"- 번개 전문 마법사와 <slink=Lightning_Waxing_Battle>전투를 시작, 화재 전문 마법사와 전투를 시작합니다 <slink=Fire_Waning_Battle>."
 
 #. Key: GlobalEventDefinition.LightningStormLong.EventComingAlertText
 msgctxt "GlobalEventDefinition.LightningStormLong.EventComingAlertText"
@@ -27030,17 +27034,17 @@ msgstr "이그니움"
 #. Key: RecipeDefinition.ArcaneScrollRecipe.DisplayName
 msgctxt "RecipeDefinition.ArcaneScrollRecipe.DisplayName"
 msgid "Arcane Scrolls"
-msgstr "마법사의 두루마리"
+msgstr "마법의 두루마리"
 
 #. Key: RecipeDefinition.MasteryScrollRecipe.DisplayName
 msgctxt "RecipeDefinition.MasteryScrollRecipe.DisplayName"
 msgid "Adept Scrolls"
-msgstr "숙련된 마법사의 두루마리"
+msgstr "숙련의 두루마리"
 
 #. Key: RecipeDefinition.SavantScrollRecipe.DisplayName
 msgctxt "RecipeDefinition.SavantScrollRecipe.DisplayName"
 msgid "Savant Scrolls"
-msgstr "박식한 마법사의 두루마리"
+msgstr "박식의 두루마리"
 
 #. Key: ShopCategoryConfig.Construction.DisplayName
 msgctxt "ShopCategoryConfig.Construction.DisplayName"
@@ -28082,8 +28086,7 @@ msgctxt "JobTypeDefinition.JobType_Hunting.Description"
 msgid ""
 "Hunt wild creatures for resources.\n"
 "Can do Task: Staff"
-msgstr ""
-" 교사"
+msgstr " 교사"
 
 #. Key: JobTypeDefinition.JobType_Healing.DisplayName
 msgctxt "JobTypeDefinition.JobType_Healing.DisplayName"
@@ -28095,8 +28098,7 @@ msgctxt "JobTypeDefinition.JobType_Healing.Description"
 msgid ""
 "Remove dangerous statuses from characters and administer potions.\n"
 "Can do Task: Staff"
-msgstr ""
-" 교사"
+msgstr " 교사"
 
 #. Key: JobTypeDefinition.JobType_Dining.DisplayName
 msgctxt "JobTypeDefinition.JobType_Dining.DisplayName"
@@ -28118,8 +28120,7 @@ msgctxt "JobTypeDefinition.JobType_Gearmaking.Description"
 msgid ""
 "Craft rings and amulets.\n"
 "Can do Task: Staff"
-msgstr ""
-" 교사"
+msgstr " 교사"
 
 #. Key: JobTypeDefinition.JobType_Wandmaking.DisplayName
 msgctxt "JobTypeDefinition.JobType_Wandmaking.DisplayName"
@@ -28132,7 +28133,8 @@ msgid ""
 "Create wands.\n"
 "Can do Task: Staff"
 msgstr ""
-"지팡이를 만듭니다.\n작업 가능: 교사"
+"지팡이를 만듭니다.\n"
+"작업 가능: 교사"
 
 #. Key: JobTypeDefinition.JobType_NeedFulfillment.DisplayName
 msgctxt "JobTypeDefinition.JobType_NeedFulfillment.DisplayName"
@@ -28214,8 +28216,7 @@ msgctxt "JobTypeDefinition.JobType_Teach.Description"
 msgid ""
 "Teach students during scheduled classes. Teaching effectiveness is determined by the character's skill in the discipline.\n"
 "Can do Task: Staff"
-msgstr ""
-"  교사"
+msgstr "  교사"
 
 #. Key: JobTypeDefinition.JobType_Learn.DisplayName
 msgctxt "JobTypeDefinition.JobType_Learn.DisplayName"
@@ -28227,8 +28228,7 @@ msgctxt "JobTypeDefinition.JobType_Learn.Description"
 msgid ""
 "Attend classes to learn magic.\n"
 "Can do Task: Students"
-msgstr ""
-" 학생"
+msgstr " 학생"
 
 #. Key: JobTypeDefinition.JobType_Eat.DisplayName
 msgctxt "JobTypeDefinition.JobType_Eat.DisplayName"
@@ -28270,8 +28270,7 @@ msgctxt "JobTypeDefinition.JobType_Cook.Description"
 msgid ""
 "Prepare food using cooking stations.\n"
 "Can do Task: Staff"
-msgstr ""
-" 교사"
+msgstr " 교사"
 
 #. Key: JobTypeDefinition.JobType_Construct.DisplayName
 msgctxt "JobTypeDefinition.JobType_Construct.DisplayName"
@@ -28283,8 +28282,7 @@ msgctxt "JobTypeDefinition.JobType_Construct.Description"
 msgid ""
 "Build new floors, walls, supports, and stairs.\n"
 "Can do Task: Staff"
-msgstr ""
-" 교사"
+msgstr " 교사"
 
 #. Key: JobTypeDefinition.JobType_Mining.DisplayName
 msgctxt "JobTypeDefinition.JobType_Mining.DisplayName"
@@ -28296,8 +28294,7 @@ msgctxt "JobTypeDefinition.JobType_Mining.Description"
 msgid ""
 "Harvest stone and other resources from the earth.\n"
 "Can do Task: Staff, Quilted"
-msgstr ""
-" 교사, 누더기"
+msgstr " 교사, 누더기"
 
 #. Key: JobTypeDefinition.JobType_Assemble.DisplayName
 msgctxt "JobTypeDefinition.JobType_Assemble.DisplayName"
@@ -28309,8 +28306,7 @@ msgctxt "JobTypeDefinition.JobType_Assemble.Description"
 msgid ""
 "Create and move furniture for the school.\n"
 "Can do Task: Staff"
-msgstr ""
-" 교사"
+msgstr " 교사"
 
 #. Key: JobTypeDefinition.JobType_Repair.DisplayName
 msgctxt "JobTypeDefinition.JobType_Repair.DisplayName"
@@ -28322,8 +28318,7 @@ msgctxt "JobTypeDefinition.JobType_Repair.Description"
 msgid ""
 "Restore Durability to damaged furnishings.\n"
 "Can do Task: Staff, Students, Quilted"
-msgstr ""
-" 교사, 학생, 누더기"
+msgstr " 교사, 학생, 누더기"
 
 #. Key: JobTypeDefinition.JobType_Harvest.DisplayName
 msgctxt "JobTypeDefinition.JobType_Harvest.DisplayName"
@@ -28336,7 +28331,8 @@ msgid ""
 "Harvest plants to collect their Reagents.\n"
 "Can do Task: Staff"
 msgstr ""
-"식물을 수확하여 재료를 수집합니다.\n작업 가능: 교사"
+"식물을 수확하여 재료를 수집합니다.\n"
+"작업 가능: 교사"
 
 #. Key: JobTypeDefinition.JobType_Tend.DisplayName
 msgctxt "JobTypeDefinition.JobType_Tend.DisplayName"
@@ -28349,7 +28345,8 @@ msgid ""
 "Plant seeds and fertilize crops.\n"
 "Can do Task: Staff, Students"
 msgstr ""
-"씨앗을 심고 작물에 비료를 줍니다.\n작업 가능: 교사, 학생"
+"씨앗을 심고 작물에 비료를 줍니다.\n"
+"작업 가능: 교사, 학생"
 
 #. Key: JobTypeDefinition.JobType_Uproot.DisplayName
 msgctxt "JobTypeDefinition.JobType_Uproot.DisplayName"
@@ -28361,8 +28358,7 @@ msgctxt "JobTypeDefinition.JobType_Uproot.Description"
 msgid ""
 "Destroy plants that are in the way. Does not provide any Reagents.\n"
 "Can do Task: Staff, Students"
-msgstr ""
-"방해가 되는 식물을 뽑으세요.  교사, 학생"
+msgstr "방해가 되는 식물을 뽑으세요.  교사, 학생"
 
 #. Key: JobTypeDefinition.JobType_Chop.DisplayName
 msgctxt "JobTypeDefinition.JobType_Chop.DisplayName"
@@ -28374,8 +28370,7 @@ msgctxt "JobTypeDefinition.JobType_Chop.Description"
 msgid ""
 "Chop down trees for Reagents.\n"
 "Can do Task: Staff, Quilted"
-msgstr ""
-" 교사, 누더기"
+msgstr " 교사, 누더기"
 
 #. Key: JobTypeDefinition.JobType_Shaping.DisplayName
 msgctxt "JobTypeDefinition.JobType_Shaping.DisplayName"
@@ -28387,8 +28382,7 @@ msgctxt "JobTypeDefinition.JobType_Shaping.Description"
 msgid ""
 "Combine Reagents into advanced Reagents.\n"
 "Can do Task: Staff"
-msgstr ""
-" 교사"
+msgstr " 교사"
 
 #. Key: JobTypeDefinition.JobType_Alchemy.DisplayName
 msgctxt "JobTypeDefinition.JobType_Alchemy.DisplayName"
@@ -28400,8 +28394,7 @@ msgctxt "JobTypeDefinition.JobType_Alchemy.Description"
 msgid ""
 "Brew helpful potions.\n"
 "Can do Task: Staff"
-msgstr ""
-" 교사"
+msgstr " 교사"
 
 #. Key: JobTypeDefinition.JobType_Quilting.DisplayName
 msgctxt "JobTypeDefinition.JobType_Quilting.DisplayName"
@@ -28413,8 +28406,7 @@ msgctxt "JobTypeDefinition.JobType_Quilting.Description"
 msgid ""
 "Create undead helpers.\n"
 "Can do Task: Staff"
-msgstr ""
-" 교사"
+msgstr " 교사"
 
 #. Key: JobTypeDefinition.JobType_Clean.DisplayName
 msgctxt "JobTypeDefinition.JobType_Clean.DisplayName"
@@ -28426,8 +28418,7 @@ msgctxt "JobTypeDefinition.JobType_Clean.Description"
 msgid ""
 "Get rid of messy crafting byproducts in the school.\n"
 "Can do Task: Staff, Students, Quilted"
-msgstr ""
-" 교사, 학생, 누더기"
+msgstr " 교사, 학생, 누더기"
 
 #. Key: JobTypeDefinition.JobType_Haul.DisplayName
 msgctxt "JobTypeDefinition.JobType_Haul.DisplayName"
@@ -28439,8 +28430,7 @@ msgctxt "JobTypeDefinition.JobType_Haul.Description"
 msgid ""
 "Move items by carrying or teleporting them.\n"
 "Can do Task: Staff, Students, Quilted"
-msgstr ""
-" 교사, 학생, 누더기"
+msgstr " 교사, 학생, 누더기"
 
 #. Key: JobTypeDefinition.JobType_Research.DisplayName
 msgctxt "JobTypeDefinition.JobType_Research.DisplayName"
@@ -28452,8 +28442,7 @@ msgctxt "JobTypeDefinition.JobType_Research.Description"
 msgid ""
 "Investigate the secrets of magic to unlock new furnishings and recipes.\n"
 "Can do Task: Staff"
-msgstr ""
-" 교사"
+msgstr " 교사"
 
 #. Key: JobTypeDefinition.JobType_RefineryCare.DisplayName
 msgctxt "JobTypeDefinition.JobType_RefineryCare.DisplayName"
@@ -28465,8 +28454,7 @@ msgctxt "JobTypeDefinition.JobType_RefineryCare.Description"
 msgid ""
 "Keep your refining beasts happy and working well.\n"
 "Can do Task: Students"
-msgstr ""
-" 학생"
+msgstr " 학생"
 
 #. Key: JobTypeDefinition.JobType_Charge.DisplayName
 msgctxt "JobTypeDefinition.JobType_Charge.DisplayName"
@@ -28479,7 +28467,8 @@ msgid ""
 "Refill the charge in a <slink=ManaLantern>.    \n"
 "Can do Task: Staff, Students"
 msgstr ""
-"    \n작업 가능: 교사, 학생"
+"    \n"
+"작업 가능: 교사, 학생"
 
 #. Key: JobTypeDefinition.JobType_FuneralSpeaker.DisplayName
 msgctxt "JobTypeDefinition.JobType_FuneralSpeaker.DisplayName"
@@ -28491,8 +28480,7 @@ msgctxt "JobTypeDefinition.JobType_FuneralSpeaker.Description"
 msgid ""
 "Speak at a funeral.\n"
 "Can do Task: Staff"
-msgstr ""
-" 교사"
+msgstr " 교사"
 
 #. Key: JobTypeDefinition.JobType_FuneralMourner.DisplayName
 msgctxt "JobTypeDefinition.JobType_FuneralMourner.DisplayName"
@@ -28504,8 +28492,7 @@ msgctxt "JobTypeDefinition.JobType_FuneralMourner.Description"
 msgid ""
 "Attend a funeral.\n"
 "Can do Task: Staff, Students"
-msgstr ""
-" 교사, 학생"
+msgstr " 교사, 학생"
 
 #. Key: JobTypeDefinition.JobType_Recreation.DisplayName
 msgctxt "JobTypeDefinition.JobType_Recreation.DisplayName"
@@ -28627,8 +28614,7 @@ msgctxt "JobTypeDefinition.JobType_Ward.Description"
 msgid ""
 "Protective magic used to reset a <slink=DungeonRespawnTimer>. Can also enable a <slink=Scarecroa> or a <slink=FogLantern> to function.\n"
 "Can do Task: Staff, Students"
-msgstr ""
-"  교사, 학생"
+msgstr "  교사, 학생"
 
 #. Key: JobTypeDefinition.JobType_Painting.DisplayName
 msgctxt "JobTypeDefinition.JobType_Painting.DisplayName"
@@ -28640,8 +28626,7 @@ msgctxt "JobTypeDefinition.JobType_Painting.Description"
 msgid ""
 "Create paintings.\n"
 "Can do Task: Staff"
-msgstr ""
-" 교사"
+msgstr " 교사"
 
 #. Key: JobTypeDefinition.JobType_Carving.DisplayName
 msgctxt "JobTypeDefinition.JobType_Carving.DisplayName"
@@ -28654,7 +28639,8 @@ msgid ""
 "Create statues.\n"
 "Can do Task: Staff"
 msgstr ""
-"조각상을 만듭니다.\n작업 가능: 교사"
+"조각상을 만듭니다.\n"
+"작업 가능: 교사"
 
 #. Key: JobTypeDefinition.JobType_Scrivening.DisplayName
 msgctxt "JobTypeDefinition.JobType_Scrivening.DisplayName"
@@ -28667,7 +28653,8 @@ msgid ""
 "Create and copy scrolls.\n"
 "Can do Task: Staff"
 msgstr ""
-"두루마리를 만들고 복제합니다.\n작업 가능: 교사"
+"두루마리를 만들고 복제합니다.\n"
+"작업 가능: 교사"
 
 #. Key: NeedsDefinition.None.DisplayName
 msgctxt "NeedsDefinition.None.DisplayName"
@@ -30352,7 +30339,7 @@ msgstr ""
 #. Key: RoomTypeDefinition.HouseCommons.Rules.0-638122528420851451.Criteria.10-638122528420851451.ComponentRequirementDisplayName
 msgctxt "RoomTypeDefinition.HouseCommons.Rules.0-638122528420851451.Criteria.10-638122528420851451.ComponentRequirementDisplayName"
 msgid "Plain Beds, Fancy Beds, or Canopy Beds"
-msgstr ""
+msgstr "일반 침대, 멋진 침대 또는 휘장 침대"
 
 #. Key: RoomTypeDefinition.HouseCommons.Rules.0-638122528421041227.Criteria.3-638122528421041227.ComponentRequirementDisplayName
 msgctxt "RoomTypeDefinition.HouseCommons.Rules.0-638122528421041227.Criteria.3-638122528421041227.ComponentRequirementDisplayName"
@@ -30362,22 +30349,22 @@ msgstr "식탁"
 #. Key: RoomTypeDefinition.HouseCommons.Rules.0-638122528421041227.Criteria.4-638122528421041227.ComponentRequirementDisplayName
 msgctxt "RoomTypeDefinition.HouseCommons.Rules.0-638122528421041227.Criteria.4-638122528421041227.ComponentRequirementDisplayName"
 msgid "Recreation Furnishings"
-msgstr ""
+msgstr "휴식 시설"
 
 #. Key: RoomTypeDefinition.HouseCommons.Rules.0-638122528420841473.Criteria.5-638122528420841473.ComponentRequirementDisplayName
 msgctxt "RoomTypeDefinition.HouseCommons.Rules.0-638122528420841473.Criteria.5-638122528420841473.ComponentRequirementDisplayName"
 msgid "Large Windows"
-msgstr "큰 창"
+msgstr "큰 창문"
 
 #. Key: RoomTypeDefinition.HouseCommons.Rules.1-638122528420851451.Criteria.0-638122528420851451.ComponentRequirementDisplayName
 msgctxt "RoomTypeDefinition.HouseCommons.Rules.1-638122528420851451.Criteria.0-638122528420851451.ComponentRequirementDisplayName"
 msgid "Crafting Stations or Refining Beasts"
-msgstr ""
+msgstr "제작대 또는 정제 괴물"
 
 #. Key: RoomTypeDefinition.HouseCommons.Rules.1-638122528420851451.Criteria.1-638122528420851451.ComponentRequirementDisplayName
 msgctxt "RoomTypeDefinition.HouseCommons.Rules.1-638122528420851451.Criteria.1-638122528420851451.ComponentRequirementDisplayName"
 msgid "Research or Crafting Stations"
-msgstr ""
+msgstr "연구대 또는 제작대"
 
 #. Key: RoomTypeDefinition.HouseCommons.Rules.1-638122528420851451.Criteria.2-638122528420851451.ComponentRequirementDisplayName
 msgctxt "RoomTypeDefinition.HouseCommons.Rules.1-638122528420851451.Criteria.2-638122528420851451.ComponentRequirementDisplayName"
@@ -30387,22 +30374,22 @@ msgstr "강단"
 #. Key: RoomTypeDefinition.BasicRitualRoom.DisplayName
 msgctxt "RoomTypeDefinition.BasicRitualRoom.DisplayName"
 msgid "Assembly Hall"
-msgstr ""
+msgstr "회관"
 
 #. Key: RoomTypeDefinition.BasicRitualRoom.Effects.0-638169128389288700
 msgctxt "RoomTypeDefinition.BasicRitualRoom.Effects.0-638169128389288700"
 msgid "Required for basic Rituals."
-msgstr "기본 의식에 필요합니다."
+msgstr "기본적인 의식을 치를 수 있습니다."
 
 #. Key: RoomTypeDefinition.BasicRitualRoom.Rules.1-638122528420901400.Criteria.0-638122528420901400.ComponentRequirementDisplayName
 msgctxt "RoomTypeDefinition.BasicRitualRoom.Rules.1-638122528420901400.Criteria.0-638122528420901400.ComponentRequirementDisplayName"
 msgid "Crafting Stations or Refining Beasts"
-msgstr ""
+msgstr "제작대 또는 정제 괴물"
 
 #. Key: RoomTypeDefinition.BasicRitualRoom.Rules.1-638122528420901400.Criteria.1-638122528420901400.ComponentRequirementDisplayName
 msgctxt "RoomTypeDefinition.BasicRitualRoom.Rules.1-638122528420901400.Criteria.1-638122528420901400.ComponentRequirementDisplayName"
 msgid "Research or Crafting Stations"
-msgstr ""
+msgstr "연구대 또는 제작대"
 
 #. Key: RoomTypeDefinition.BasicRitualRoom.Rules.1-638122528420901400.Criteria.2-638122528420901400.ComponentRequirementDisplayName
 msgctxt "RoomTypeDefinition.BasicRitualRoom.Rules.1-638122528420901400.Criteria.2-638122528420901400.ComponentRequirementDisplayName"
@@ -30422,7 +30409,7 @@ msgstr "강단"
 #. Key: RoomTypeDefinition.IntermediateRitualRoom.DisplayName
 msgctxt "RoomTypeDefinition.IntermediateRitualRoom.DisplayName"
 msgid "Auditorium"
-msgstr ""
+msgstr "강당"
 
 #. Key: RoomTypeDefinition.IntermediateRitualRoom.Effects.0-638169128389298705
 msgctxt "RoomTypeDefinition.IntermediateRitualRoom.Effects.0-638169128389298705"
@@ -30437,12 +30424,12 @@ msgstr ""
 #. Key: RoomTypeDefinition.IntermediateRitualRoom.Rules.1-638122528420901400.Criteria.0-638122528420901400.ComponentRequirementDisplayName
 msgctxt "RoomTypeDefinition.IntermediateRitualRoom.Rules.1-638122528420901400.Criteria.0-638122528420901400.ComponentRequirementDisplayName"
 msgid "Crafting Stations or Refining Beasts"
-msgstr ""
+msgstr "제작대 또는 정제 괴물"
 
 #. Key: RoomTypeDefinition.IntermediateRitualRoom.Rules.1-638122528420901400.Criteria.1-638122528420901400.ComponentRequirementDisplayName
 msgctxt "RoomTypeDefinition.IntermediateRitualRoom.Rules.1-638122528420901400.Criteria.1-638122528420901400.ComponentRequirementDisplayName"
 msgid "Research or Crafting Stations"
-msgstr ""
+msgstr "연구대 또는 제작대"
 
 #. Key: RoomTypeDefinition.IntermediateRitualRoom.Rules.1-638122528420901400.Criteria.2-638122528420901400.ComponentRequirementDisplayName
 msgctxt "RoomTypeDefinition.IntermediateRitualRoom.Rules.1-638122528420901400.Criteria.2-638122528420901400.ComponentRequirementDisplayName"
@@ -30462,7 +30449,7 @@ msgstr "강단"
 #. Key: RoomTypeDefinition.AdvancedRitualRoom.DisplayName
 msgctxt "RoomTypeDefinition.AdvancedRitualRoom.DisplayName"
 msgid "Great Hall"
-msgstr ""
+msgstr "대강당"
 
 #. Key: RoomTypeDefinition.AdvancedRitualRoom.Effects.0-638169128389298705
 msgctxt "RoomTypeDefinition.AdvancedRitualRoom.Effects.0-638169128389298705"
@@ -30482,12 +30469,12 @@ msgstr ""
 #. Key: RoomTypeDefinition.AdvancedRitualRoom.Rules.1-638122528420901400.Criteria.0-638122528420911373.ComponentRequirementDisplayName
 msgctxt "RoomTypeDefinition.AdvancedRitualRoom.Rules.1-638122528420901400.Criteria.0-638122528420911373.ComponentRequirementDisplayName"
 msgid "Crafting Stations or Refining Beasts"
-msgstr ""
+msgstr "제작대 또는 정제 괴물"
 
 #. Key: RoomTypeDefinition.AdvancedRitualRoom.Rules.1-638122528420901400.Criteria.1-638122528420911373.ComponentRequirementDisplayName
 msgctxt "RoomTypeDefinition.AdvancedRitualRoom.Rules.1-638122528420901400.Criteria.1-638122528420911373.ComponentRequirementDisplayName"
 msgid "Research or Crafting Stations"
-msgstr ""
+msgstr "연구대 또는 제작대"
 
 #. Key: RoomTypeDefinition.AdvancedRitualRoom.Rules.1-638122528420901400.Criteria.2-638122528420911373.ComponentRequirementDisplayName
 msgctxt "RoomTypeDefinition.AdvancedRitualRoom.Rules.1-638122528420901400.Criteria.2-638122528420911373.ComponentRequirementDisplayName"
@@ -30507,57 +30494,57 @@ msgstr "강단"
 #. Key: RoomLightingDefinition.Dark.DisplayName
 msgctxt "RoomLightingDefinition.Dark.DisplayName"
 msgid "Dark Room"
-msgstr ""
+msgstr "어두움"
 
 #. Key: RoomLightingDefinition.Lit.DisplayName
 msgctxt "RoomLightingDefinition.Lit.DisplayName"
 msgid "Dimly Lit Room"
-msgstr ""
+msgstr "어스름함"
 
 #. Key: RoomLightingDefinition.Bright.DisplayName
 msgctxt "RoomLightingDefinition.Bright.DisplayName"
 msgid "Well Lit Room"
-msgstr ""
+msgstr "밝음"
 
 #. Key: RoomClutterDefinition.Empty.DisplayName
 msgctxt "RoomClutterDefinition.Empty.DisplayName"
 msgid "Neat Room"
-msgstr ""
+msgstr "정리됨"
 
 #. Key: RoomClutterDefinition.Low.DisplayName
 msgctxt "RoomClutterDefinition.Low.DisplayName"
 msgid "Untidy Room"
-msgstr ""
+msgstr "정리되지 않음"
 
 #. Key: RoomClutterDefinition.Medium.DisplayName
 msgctxt "RoomClutterDefinition.Medium.DisplayName"
 msgid "Messy Room"
-msgstr ""
+msgstr "어질러져 있음"
 
 #. Key: RoomClutterDefinition.High.DisplayName
 msgctxt "RoomClutterDefinition.High.DisplayName"
 msgid "Chaotic Room"
-msgstr ""
+msgstr "난장판임"
 
 #. Key: RoomFilthDefinition.Empty.DisplayName
 msgctxt "RoomFilthDefinition.Empty.DisplayName"
 msgid "Clean Room"
-msgstr ""
+msgstr "깨끗함"
 
 #. Key: RoomFilthDefinition.Low.DisplayName
 msgctxt "RoomFilthDefinition.Low.DisplayName"
 msgid "Dirty Room"
-msgstr ""
+msgstr "지저분함"
 
 #. Key: RoomFilthDefinition.Medium.DisplayName
 msgctxt "RoomFilthDefinition.Medium.DisplayName"
 msgid "Grimy Room"
-msgstr ""
+msgstr "더러움"
 
 #. Key: RoomFilthDefinition.High.DisplayName
 msgctxt "RoomFilthDefinition.High.DisplayName"
 msgid "Filthy Room"
-msgstr ""
+msgstr "매우 더러움"
 
 #. Key: BookOfDreadIntroDefinition.NoSweat.Intro
 msgctxt "BookOfDreadIntroDefinition.NoSweat.Intro"
@@ -30568,7 +30555,9 @@ msgid ""
 "\n"
 "Though my body is long gone, my spirit yet lingers and will serve you faithfully."
 msgstr ""
-" 그러나 시간은 그 훌륭한 기관을 파괴 할 것입니다.  화려한 새로운 마법사들을 훈련시키세요.  쉽지는 않겠지만, 당신이 맡은 일에 전념하고 있다고 믿습니다.\n\n내 몸은 이미 오래 전에 없어졌고, 내 영혼은 여전히 머물러 있고, 당신을 충실히 섬길 것입니다."
+" 그러나 시간은 그 훌륭한 기관을 파괴 할 것입니다.  화려한 새로운 마법사들을 훈련시키세요.  쉽지는 않겠지만, 당신이 맡은 일에 전념하고 있다고 믿습니다.\n"
+"\n"
+"내 몸은 이미 오래 전에 없어졌고, 내 영혼은 여전히 머물러 있고, 당신을 충실히 섬길 것입니다."
 
 #. Key: BookOfDreadIntroDefinition.Survival.Intro
 msgctxt "BookOfDreadIntroDefinition.Survival.Intro"
@@ -30579,31 +30568,36 @@ msgid ""
 "\n"
 "Though my body is long gone, my spirit yet lingers and will serve you faithfully."
 msgstr ""
+"한때 이곳에 마법 학교가 있었다. 우리는 이 학교가 사악한 안개의 방어막이 되기를 바랬지만, 우리의 힘은 너무 약했다. 마나 우물은 오염됐고 모든 것이 끝난 것처럼 보였다.\n"
+"\n"
+"학교를 재건하라. 재능있는 학생들을 키워내라. 지하세계의 공포에 맞서라. 살아남기 위해서는 재치와 끈기가 필요할 것이다.\n"
+"\n"
+"내 몸은 오래 전에 죽었지만, 내 영혼은 아직 여기에 남아 너희를 도울 것이다."
 
 #. Key: RoomKeywordDefinition.Elevated.DisplayName
 msgctxt "RoomKeywordDefinition.Elevated.DisplayName"
 msgid "Elevated"
-msgstr ""
+msgstr "떠 있음"
 
 #. Key: RoomKeywordDefinition.Elevated.Description
 msgctxt "RoomKeywordDefinition.Elevated.Description"
 msgid "No adjacent Rooms or Foundation below."
-msgstr "아래에 인접한 방이나 재단이 없습니다."
+msgstr "아래쪽으로 인접한 방이나 토대가 없습니다."
 
 #. Key: RoomKeywordDefinition.Grounded.DisplayName
 msgctxt "RoomKeywordDefinition.Grounded.DisplayName"
 msgid "Grounded"
-msgstr ""
+msgstr "지면에 붙음"
 
 #. Key: RoomKeywordDefinition.Grounded.Description
 msgctxt "RoomKeywordDefinition.Grounded.Description"
 msgid "Must touch Foundation or be Underground."
-msgstr ""
+msgstr "토대에 붙어 있거나 지하에 위치해야 합니다."
 
 #. Key: RoomKeywordDefinition.Towered.DisplayName
 msgctxt "RoomKeywordDefinition.Towered.DisplayName"
 msgid "Towered"
-msgstr ""
+msgstr "탑 모양"
 
 #. Key: RoomKeywordDefinition.Towered.Description
 msgctxt "RoomKeywordDefinition.Towered.Description"
@@ -30613,52 +30607,52 @@ msgstr "왼쪽, 오른쪽 또는 위에 인접한 방이 없습니다."
 #. Key: RoomKeywordDefinition.Skewed.DisplayName
 msgctxt "RoomKeywordDefinition.Skewed.DisplayName"
 msgid "Skewed"
-msgstr ""
+msgstr "비틀린 모양"
 
 #. Key: RoomKeywordDefinition.Skewed.Description
 msgctxt "RoomKeywordDefinition.Skewed.Description"
 msgid "One outer wall at least 3 blocks taller than the other."
-msgstr "한 외벽은 다른 벽보다 적어도 3 블록 높습니다."
+msgstr "한쪽 외벽이 다른 쪽 외벽보다 3블록 이상 높습니다."
 
 #. Key: RoomKeywordDefinition.Lofted.DisplayName
 msgctxt "RoomKeywordDefinition.Lofted.DisplayName"
 msgid "Lofted"
-msgstr ""
+msgstr "길쭉한 모양"
 
 #. Key: RoomKeywordDefinition.Lofted.Description
 msgctxt "RoomKeywordDefinition.Lofted.Description"
 msgid "Taller than it is wide."
-msgstr "넓이보다 높다."
+msgstr "방 너비보다 높이가 깁니다."
 
 #. Key: RoomKeywordDefinition.Private.DisplayName
 msgctxt "RoomKeywordDefinition.Private.DisplayName"
 msgid "Private"
-msgstr ""
+msgstr "사유지"
 
 #. Key: RoomKeywordDefinition.Private.Description
 msgctxt "RoomKeywordDefinition.Private.Description"
 msgid "Only one point of entry."
-msgstr ""
+msgstr "출입구가 하나입니다."
 
 #. Key: RoomKeywordDefinition.Isolated.DisplayName
 msgctxt "RoomKeywordDefinition.Isolated.DisplayName"
 msgid "Isolated"
-msgstr ""
+msgstr "독립됨"
 
 #. Key: RoomKeywordDefinition.Isolated.Description
 msgctxt "RoomKeywordDefinition.Isolated.Description"
 msgid "No path to another room."
-msgstr ""
+msgstr "다른 방으로 향하는 출입구가 없습니다."
 
 #. Key: RoomKeywordDefinition.Underground.DisplayName
 msgctxt "RoomKeywordDefinition.Underground.DisplayName"
 msgid "Underground"
-msgstr ""
+msgstr "지하"
 
 #. Key: RoomKeywordDefinition.Underground.Description
 msgctxt "RoomKeywordDefinition.Underground.Description"
 msgid "In the Underschool."
-msgstr ""
+msgstr "지하세계에 있습니다."
 
 #. Key: TutorialDefinition.BasicControls.Feed
 msgctxt "TutorialDefinition.BasicControls.Feed"
@@ -30698,7 +30692,15 @@ msgid ""
 "\n"
 "If nothing is selected, the Esc key will bring up the pause menu. Remap hotkeys in Settings -> Controls.\n"
 msgstr ""
-"    피드 메시지를 마우스로 가리키고 클릭하여 관련 지점을 확대합니다.\n\n화면 하단 중앙에는 시간 컨트롤이 있습니다.      "
+"카메라를 조작하려면 오른쪽 마우스 버튼을 누른 채로 드래그하세요. 또는 <slink=PanUp><slink=PanLeft><slink=PanDown><slink=PanRight>키로도 카메라를 조작할 수 있습니다. <slink=ZoomIn>과 <slink=ZoomOut>을 통해 줌인하거나 줌아웃하세요.\n"
+"\n"
+"이 튜토리얼 메시지가 나타나 있던 화면 왼쪽 위를 피드라고 부릅니다. 중요한 정보나 알림이 피드에 나타날 것입니다. 피드 메시지에 마우스를 올려 추가적인 정보를 확인할 수 있으며, 피드 메시지를 클릭하여 사건이 벌어지고 있는 곳으로 카메라를 이동할 수 있습니다.\n"
+"\n"
+"화면 아래 중앙에는 시간 관련 UI가 있습니다. 일시정지 아이콘을 누르거나 <slink=Pause>키를 눌러 게임을 일시정지하세요. 속도 조작 버튼을 누르거나, <slink=Speed_Slower>(느리게) 키나 <slink=Speed_Faster>(빠르게) 키를 눌러 게임 진행 속도를 조작할 수 있습니다.\n"
+"\n"
+"화면 아래 오른쪽과 왼쪽에는 다양한 툴과 뷰, 정보 탭이 있습니다. 이들 대부분은 다른 튜토리얼에서 설명할 것입니다. Esc 키를 눌러 메뉴 창이나 선택 상태에서 벗어날 수 있습니다.\n"
+"\n"
+"아무것도 선택하지 않은 상태에서 Esc 버튼을 누르면 게임 메뉴가 나타납니다. 설정 -> 조작에서 단축키를 변경할 수 있습니다.\n"
 
 #. Key: TutorialDefinition.CleanseRitual.Feed
 msgctxt "TutorialDefinition.CleanseRitual.Feed"
@@ -30734,6 +30736,11 @@ msgid ""
 "\n"
 "Force the fog to retreat by performing the Repel Fog Ritual at the <slink=ManaFont>.\n"
 msgstr ""
+"학교를 둘러싼 안개는 매일 저녁마다 가까워져 옵니다. 안개로 뒤덮인 대부분의 구조물은 파괴됩니다. \n"
+"\n"
+"안개가 학교를 완전히 뒤덮으면 학교는 파괴되고 게임이 끝납니다. 안개를 멀리 밀어내면 더 다양한 자원을 발견할 수 있으며, 새로운 위험에도 맞닥뜨릴 수 있습니다.\n"
+"\n"
+"<slink=ManaFont>에서 안개 추방 의식을 통해 안개를 밀어내세요.\n"
 
 #. Key: TutorialDefinition.Materials.Feed
 msgctxt "TutorialDefinition.Materials.Feed"
@@ -30771,7 +30778,13 @@ msgid ""
 "\n"
 "Collecting resources from objects in the world is necessary to construct a school. Pushing the Fog away also reveals more and more varied resources to exploit.\n"
 msgstr ""
-" 세계의 객체에서 수행할 마법사의 작업을 표시하면 우선 순위에 따라 해당 작업을 처리합니다.\n\n세계의 객체를 클릭하여 선택합니다. 작업 버튼이 왼쪽 하단의 창 옆에 나타납니다. 예를 들어 돌 노두의 \"광산\", 햇빛 나무의 \"Chop\", 무서운 쥐의 \"사냥\"이 있습니다.\n\n실행 버튼이 켜지면 마법사가 해당 작업을 처리합니다. 완료해야 할 작업이 많은 경우 선택 창 하단의 1-5 버튼을 사용하여 작업의 우선 순위를 지정하거나 우선 순위 도구 <slink=JobsPanel>를 사용하여 Mage의 개별 우선 순위를 편집합니다.\n\n학교를 구성하려면 전세계의 개체에서 리소스를 수집해야 합니다. "
+"Mind Over Magic은 마법사들을 간접적으로 조작하는 게임입니다. 마법사들이 수행할 작업을 지정하면 마법사들이 스케줄과 우선순위에 맞춰 작업을 수행할 것입니다.\n"
+"\n"
+"게임 상의 물체를 선택하려면 클릭하세요. 팝업창의 왼쪽 아래에 행동 버튼이 나타날 것입니다. 예를 들면 돌 더미에는 \"채굴\" 버튼이 나타날 것이고, 해그림자 나무를 클릭하면 \"벌목\"버튼이 나타날 것입니다.\n"
+"\n"
+"행동 버튼이 활성화되면 마법사들이 해당 행동을 수행할 것입니다. 마법사들이 수행할 행동이 많다면 팝업창 하단의 1-5 버튼을 통해 작업의 우선순위를 지정하거나, 우선순위 탭<slink=JobsPanel>에서 마법사 개인의 작업 우선순위를 지정할 수 있습니다.\n"
+"\n"
+"학교 주변의 물체들로부터 자원을 수집하는 것은 학교 건설에 필수적입니다. 안개를 멀리 밀어낼수록 더 다양한 자원에 접근할 수 있습니다.\n"
 
 #. Key: TutorialDefinition.Hunger.Feed
 msgctxt "TutorialDefinition.Hunger.Feed"
@@ -30807,7 +30820,11 @@ msgid ""
 "\n"
 "Better meals can be made by crafting them with a <slink=GruelPot>. See the Crafting tutorial for help. \n"
 msgstr ""
-"마법사는 생존을 위해 음식을 필요로 합니다.  빈 굶주림 막대가있는 마법사는 신념에 높은 처벌을 받게됩니다.\n\n마법사에게 먹이를 줄 수있는 가장 간단한 방법은 수확 <slink=GutberryPlant>입니다. 아무도 <slink=Gutberry> 식사를 좋아하지 않지만 배고픔을 만족시킵니다.\n\n배터 식사는 로 만들 수 있습니다. <slink=GruelPot>  \n"
+"마법사는 살기 위해 음식을 필요로 합니다. 필요 탭에서 <slink=Hunger> 레벨을 확인하세요. 배고픔은 만족도에 큰 영향을 줍니다. \n"
+"\n"
+"가장 쉽게 획득할 수 있는 음식은 <slink=GutberryPlant>입니다. 아무도 <slink=Gutberry>를 좋아하지 않지만 배고픔을 면하게 해 줍니다.\n"
+"\n"
+"더 나은 식사는 <slink=GruelPot>에서 제작할 수 있습니다. 제작 튜토리얼을 참고하세요. \n"
 
 #. Key: TutorialDefinition.Construction.Feed
 msgctxt "TutorialDefinition.Construction.Feed"
@@ -30849,7 +30866,13 @@ msgid ""
 "\n"
 "They will only use materials that are available to them, so separately ordering Mages to collect resources is a prerequisite to Construction and Assembly. See the Collecting Resources tutorial for help.             \n"
 msgstr ""
-" 마우스 왼쪽 버튼을 클릭하여 첫 번째 블록을 배치한 다음 마우스를 이동하고 마우스 왼쪽 버튼을 다시 클릭하여 배치를 완료합니다.\n\n배치를 선택하면 사용 가능한 마법사가 필요한 재료를 수집하고 학교를 건설하기 위해 건설 현장으로 가져올 수 있습니다. \n\n배치를 취소하거나, 시공을 해체하거나, 완성된 가구를 분해하면 사용된 모든 자원이 환불되므로 실험을 두려워하지 마십시오!\n\n사용할 수 있는 자재만 사용하므로, 건축 및 조립 시 마지를 별도로 주문해야 합니다.              \n"
+" 마우스 왼쪽 버튼을 클릭하여 첫 번째 블록을 배치한 다음 마우스를 이동하고 마우스 왼쪽 버튼을 다시 클릭하여 배치를 완료합니다.\n"
+"\n"
+"배치를 선택하면 사용 가능한 마법사가 필요한 재료를 수집하고 학교를 건설하기 위해 건설 현장으로 가져올 수 있습니다. \n"
+"\n"
+"배치를 취소하거나, 시공을 해체하거나, 완성된 가구를 분해하면 사용된 모든 자원이 환불되므로 실험을 두려워하지 마십시오!\n"
+"\n"
+"사용할 수 있는 자재만 사용하므로, 건축 및 조립 시 마지를 별도로 주문해야 합니다.              \n"
 
 #. Key: TutorialDefinition.DoorsAndHallways.Feed
 msgctxt "TutorialDefinition.DoorsAndHallways.Feed"
@@ -30883,6 +30906,9 @@ msgid ""
 "\n"
 "A <slink=Hallway> is free to place and uses no Mana. A <slink=Door> keeps unwanted creatures out and has assignable rules for which Mages may pass through it.\n"
 msgstr ""
+"바닥과 벽의 경계에 <slink=Door>이나 <slink=Hallway>를 설치하면 마법사들이 지나다닐 수 있는 통로가 됩니다.\n"
+"\n"
+"<slink=Hallway>는 무료이며, 짓는 데 마나가 들지 않습니다. <slink=Door>는 야생 동물들이 지나다니는 것을 막을 수 있으며, 통행 규칙을 설정해 특정 마법사나 생명체만 지나다니도록 할 수 있습니다.\n"
 
 #. Key: TutorialDefinition.Rooms.Feed
 msgctxt "TutorialDefinition.Rooms.Feed"
@@ -30924,7 +30950,17 @@ msgid ""
 "\n"
 "Open the Room View <slink=Filter_RoomType> to browse all the currently available types of Room. See the Room Keywords tutorial for help.\n"
 msgstr ""
-"방은 학교의 기본 빌딩 블록입니다. 벽, 바닥 및 지붕의 조합을 사용하여 공간을 둘러싸면 자동으로 방이 만들어집니다.\n\n루프는 저렴하고 조립이 빠르며 비를 방지합니다. 바닥은 조금 더 비싸지만 마법사가 그들을 가로질러 가도록 합니다     "
+"방은 학교의 기본 건설 블록입니다. 벽, 바닥 및 지붕의 조합을 사용하여 공간을 둘러싸면 자동으로 방이 만들어집니다.\n"
+"\n"
+"지붕은 저렴하고 건설이 빠르며, 비를 막아 줍니다. 바닥은 조금 더 비싸지만 마법사들이 지나다닐 수 있게 해 줍니다. 벽은 건축물을 지지합니다.\n"
+"\n"
+"아무때나 건축물을 철거할 수 있고, 건축물을 철거하면 건축에 사용된 재료를 모두 돌려받습니다. 상황에 따라 건축물을 지었다가 철거하는 것을 두려워하지 마세요.\n"
+"\n"
+"방은 비바람을 막아 줄 뿐만 아니라, 적절한 가구 배치에 따라 새로운 의식이나 작업을 수행할 수 있게 해 줍니다.\n"
+"\n"
+"방의 타입은 방의 크기, 위치, 가구, 모양에 따라 정해집니다.\n"
+"\n"
+"방 필터  <slink=Filter_RoomType>를 통해 건설된 방의 타입을 알아보세요. 방 키워드 튜토리얼을 참고하세요.\n"
 
 #. Key: TutorialDefinition.Lighting.Feed
 msgctxt "TutorialDefinition.Lighting.Feed"
@@ -30958,6 +30994,9 @@ msgid ""
 "  \n"
 "A room's lighting is determined by placing windows, torches, or other light sources. The <slink=LightingFilter> <slink=Filter_Lighting> provides a quick way to see how lighting is affecting rooms.\n"
 msgstr ""
+"횃불이나 다른 광원이 없으면 방이 어두워집니다. 어두운 방은 <slink=VoidShroom>에 취약해집니다. 다 자란 어둠버섯은 근처의 마법사들로부터 마나를 흡수합니다. <slink=Skill_Viturgy>를 사용해 <slink=Voidcap>을 수확할 수 있습니다.\n"
+"\n"
+"방의 조명은 창문, 횃불, 또는 다른 조명의 배치에 따라 정해집니다. <slink=LightingFilter> <slink=Filter_Lighting>를 이용하면 방들의 조명 수준을 빠르게 확인할 수 있습니다.\n"
 
 #. Key: TutorialDefinition.Stairs.Feed
 msgctxt "TutorialDefinition.Stairs.Feed"
@@ -30994,7 +31033,12 @@ msgid ""
 "A <slink=SpiralStairForPalette> rises vertically in a spiral pattern and will cut through floors.\n"
 "      \n"
 msgstr ""
-" 그들은 벽과 바닥을 뚫고 길을 만듭니다. "
+"계단은 층과 층 사이를 이동할 수 있게 만들어 줍니다.\n"
+"\n"
+"<slink=BackStairR>은 맨 뒤쪽에만 설치할 수 있으며 45도 각도로 설치됩니다. 계단이 지나가는 길에 있는 벽과 바닥에는 계단을 위한 통로가 생깁니다.\n"
+"\n"
+"<slink=SpiralStairForPalette>은 수직으로 배치할 수 있으며 바닥을 뚫고 올라갈 수 있습니다.\n"
+"      \n"
 
 #. Key: TutorialDefinition.Research.Feed
 msgctxt "TutorialDefinition.Research.Feed"
@@ -31028,6 +31072,9 @@ msgid ""
 "\n"
 "Some topics require <slink=BookOfDreadPage>, <slink=AdeptScroll>, or <slink=SavantScroll> in order to make progess. See the Arcane, Adept, and Savant Scroll tutorial for help.\n"
 msgstr ""
+"<slink=ResearchBench>를 이용해 연구를 진행할 수 있습니다. 연구 주제를 선택하면 <slink=Skill_Divination>을 이용해 연구를 시작할 것입니다.\n"
+"\n"
+"일부 연구 주제는 연구에 <slink=BookOfDreadPage>, <slink=AdeptScroll>, 또는 <slink=SavantScroll>를 필요로 합니다. 두루마리 튜토리얼을 참고하세요.\n"
 
 #. Key: TutorialDefinition.Summoning.Feed
 msgctxt "TutorialDefinition.Summoning.Feed"
@@ -31052,7 +31099,7 @@ msgstr "학생 소환"
 #. Key: TutorialDefinition.Summoning.Flavor
 msgctxt "TutorialDefinition.Summoning.Flavor"
 msgid "Wands are indispensible tools of magic. They attune to the pattern of mana flowing through their unique bearer. Attempting magic with another's wand is as taboo as it is lethal.\n"
-msgstr "지팡이는 마법의 필수 도구입니다. 지팡이는 그들 고유의 소지자를 통해 흐르는 마나의 패턴에 적응합니다. "
+msgstr ""
 
 #. Key: TutorialDefinition.Summoning.Body
 msgctxt "TutorialDefinition.Summoning.Body"
@@ -31061,6 +31108,9 @@ msgid ""
 "\n"
 "To craft a wand, start a Wand Order at a <slink=LesserWandStation>. Staff will gather ingredients and use <slink=Skill_Viturgy> to craft the Wand. See the Crafting tutorial for help.\n"
 msgstr ""
+"학생을 소환하려면 <slink=SummoningFocus>에서 지팡이에 맞는 학생을 소환하는 의식을 치르세요.\n"
+"\n"
+"지팡이는 <slink=LesserWandStation>에서 제작할 수 있습니다. 제작 지시를 내리면 교사들이 <slink=Skill_Viturgy>을 통해 지팡이를 제작할 것입니다. 제작 튜토리얼을 참고하세요.\n"
 
 #. Key: TutorialDefinition.Support.Feed
 msgctxt "TutorialDefinition.Support.Feed"
@@ -31096,6 +31146,11 @@ msgid ""
 "\n"
 "The Support filter <slink=Filter_Support> will show a heatmap of the Support of the school's construction.\n"
 msgstr ""
+"학교를 높게 건설하려면 지지대가 필요합니다. 토대가 기본적인 지지대 역할을 하며, 벽이나 아치, 기둥을 통해 지지력을 전달할 수 있습니다.\n"
+"\n"
+"벽에서 가로 방향으로 구조물을 건축할 때에는 일정 거리까지밖에 지지력이 닿지 않습니다. 학교를 가로로 넓게 건축하려면 추가적인 지지대가 필요합니다.\n"
+"\n"
+"<slink=Filter_Support>를 통해 학교 구조물의 지지력 분포를 확인할 수 있습니다.\n"
 
 #. Key: TutorialDefinition.SanityandConviction.Feed
 msgctxt "TutorialDefinition.SanityandConviction.Feed"
@@ -31131,7 +31186,11 @@ msgid ""
 "\n"
 "Getting some Recreation or using fancier eating, dining, and sleeping quarters are some ways to bolster Mages' Conviction. See the Recreation tutorial for help.\n"
 msgstr ""
-"위험한 세상의 끊임없는 스트레스는 가장 노련한 마법사조차도 벼랑 끝까지 밀어 붙이기에 충분합니다.\n\n너무 오랫동안 너무 많이 두면 마법사가 <slink=break>. 그들의 욕구를 충족시키면 학교의 사명에 대한 믿음이 유지될 것입니다.\n\n레크리에이션을 받거나 더 멋진 식사, 식사 및 수면 공간을 사용하는 것은 마법사의 신념을 강화하는 몇 가지 방법입니다. "
+"위험한 세상의 끊임없는 스트레스는 가장 노련한 마법사조차도 벼랑 끝까지 밀어 붙이기에 충분합니다.\n"
+"\n"
+"마법사를 너무 힘들게 하면 <slink=break>을 일으킬 것입니다. 마법사들의 사명감을 유지시키려면 마법사들의 욕구를 충족시켜 주어야 합니다.\n"
+"\n"
+"적절한 휴식을 제공하거나 멋진 식사나 식당 또는 침실을 제공하는 것은 마법사의 만족도를 높이는 데 도음이 됩니다. 휴식 튜토리얼을 참고하세요.\n"
 
 #. Key: TutorialDefinition.Recreation.Feed
 msgctxt "TutorialDefinition.Recreation.Feed"
@@ -31165,26 +31224,29 @@ msgid ""
 "\n"
 "Mages will only Recreate during scheduled times. Use the Schedule <slink=SchedulePanel> to select Recreation times. See the Scheduling tutorial for help.\n"
 msgstr ""
+"마법사들에게는 휴식이 필요합니다. 충분한 휴식이 주어졌을 때에는 <slink=Mood>에 긍정적인 영향을 주지만, 휴식이 부족하다고 해서 만족도가 낮아지지는 않습니다. 하지만 언제나 휴식은 달콤한 법이죠!\n"
+"\n"
+"마법사들은 스케줄에 휴식 시간이 있을 때에만 휴식할 것입니다. <slink=SchedulePanel>을 통해 휴식 시간을 지정하세요. 스케줄 튜토리얼을 참고하세요.\n"
 
 #. Key: TutorialDefinition.GremlinsandClutter.Feed
 msgctxt "TutorialDefinition.GremlinsandClutter.Feed"
 msgid "Learn about Gremlins and Clutter"
-msgstr "그렘린과 쓰레기에 대해 알아보기"
+msgstr "그렘린과 잡동사니에 대해 알아보기"
 
 #. Key: TutorialDefinition.GremlinsAndClutter.Listing
 msgctxt "TutorialDefinition.GremlinsAndClutter.Listing"
 msgid "Gremlins and Clutter"
-msgstr "그렘린과 쓰레기"
+msgstr "그렘린과 잡동사니"
 
 #. Key: TutorialDefinition.GremlinsandClutter.FeedHover
 msgctxt "TutorialDefinition.GremlinsandClutter.FeedHover"
 msgid "Click to learn about Gremlins and Clutter"
-msgstr "그렘린과 쓰레기에 대해 알아보려면 클릭하세요"
+msgstr "그렘린과 잡동사니에 대해 알아보려면 클릭하세요"
 
 #. Key: TutorialDefinition.GremlinsandClutter.Title
 msgctxt "TutorialDefinition.GremlinsandClutter.Title"
 msgid "Gremlins and Clutter"
-msgstr "그렘린과 쓰레기"
+msgstr "그렘린과 잡동사니"
 
 #. Key: TutorialDefinition.GremlinsAndClutter.Flavor
 msgctxt "TutorialDefinition.GremlinsAndClutter.Flavor"
@@ -31200,27 +31262,31 @@ msgid ""
 "\n"
 "The Clutter filter <slink=Filter_Clutter> shows which Rooms are most at risk for Gremlins.\n"
 msgstr ""
-"그렘린은 불쾌한 짐승으로, 그들이 파괴할 수 있는 어수선함(느슨한 시약, 물약, 식사)을 포함하는 방에서 구체화된다.   \n\n클러터 필터는 <slink=Filter_Clutter> 그렘린에게 가장 위험할 수 있는 방을 표시합니다.\n"
+"그렘린은 잡동사니(상자에 들어 있지 않은 아이템, 식사, 물약 등)가 있는 방에 나타나 아이템을 파괴하는 못된 짐승입니다. <slink=Skill_Pyromancy>을 사용해 사냥하세요.\n"
+"\n"
+"그렘린이 나타나는 것을 막으려면 아이템을 저장할 <slink=Chest>를 건설하고, 마법사들이 <slink=JobType_Haul>을 통해 아이템을 저장하도록 스케줄을 조정하세요.\n"
+"\n"
+"잡동사니 필터 <slink=Filter_Clutter> 를 통해 어느 방이 그렘린이 나타나기 쉬울지 확인할 수 있습니다.\n"
 
 #. Key: TutorialDefinition.OozesandFilth.Feed
 msgctxt "TutorialDefinition.OozesandFilth.Feed"
 msgid "Learn about Oozes and Filth"
-msgstr "점액질과 찌꺼기에 대해 알아보기"
+msgstr "점액질과 쓰레기에 대해 알아보기"
 
 #. Key: TutorialDefinition.OozesAndFilth.Listing
 msgctxt "TutorialDefinition.OozesAndFilth.Listing"
 msgid "Oozes and Filth"
-msgstr "점액질과 찌꺼기"
+msgstr "점액질과 쓰레기"
 
 #. Key: TutorialDefinition.OozesandFilth.FeedHover
 msgctxt "TutorialDefinition.OozesandFilth.FeedHover"
 msgid "Click to learn about Oozes and Filth"
-msgstr "점액질과 찌꺼기에 대해 알아보려면 클릭하세요"
+msgstr "점액질과 쓰레기에 대해 알아보려면 클릭하세요"
 
 #. Key: TutorialDefinition.OozesandFilth.Title
 msgctxt "TutorialDefinition.OozesandFilth.Title"
 msgid "Oozes and Filth"
-msgstr "점액질과 찌꺼기"
+msgstr "점액질과 쓰레기"
 
 #. Key: TutorialDefinition.OozesAndFilth.Flavor
 msgctxt "TutorialDefinition.OozesAndFilth.Flavor"
@@ -31236,7 +31302,11 @@ msgid ""
 "\n"
 "The Filth filter <slink=Filter_Filth> shows which Rooms are most at risk for Oozes.\n"
 msgstr ""
-"우즈는 마법의 혼란에서 거품이 튀는 살아있는 슬림볼입니다. 그들은 더러움이 많은 방에 나타나고, 주변의 가구를 파괴하려고 시도합니다.  \n\n요리하고 물약을 만드는 것은 자연적으로 오물을 생성하므로 마법사가 <slink=JobType_Clean> <slink=Skill_Hydrokinesis> 이러한 방에서 시간을 가질 수 있도록 하십시오.\n\n오물 필터는 <slink=Filter_Filth> 어떤 방이 가장 위험한지 보여줍니다.\n"
+"점액질은 마법 쓰레기에서 나타나는 살아 있는 슬라임입니다. 점액질은 더러운 방에서 나타나며, 근처의 가구들을 파괴합니다. <slink=Skill_Pyromancy>을 통해 사냥하세요.\n"
+"\n"
+"요리나 물약 제조를 진행할 때에는 주변이 더러워지므로, 마법사들이 <slink=Skill_Hydrokinesis>을 사용해 <slink=JobType_Clean>할 수 있도록 스케줄을 조정하세요.\n"
+"\n"
+"쓰레기 필터<slink=Filter_Filth>를 통해 어느 방이 점액질의 습격에 취약한지 확인할 수 있습니다.\n"
 
 #. Key: TutorialDefinition.RainandDurability.Feed
 msgctxt "TutorialDefinition.RainandDurability.Feed"
@@ -31261,7 +31331,7 @@ msgstr "빗물과 내구도"
 #. Key: TutorialDefinition.RainAndDurability.Flavor
 msgctxt "TutorialDefinition.RainAndDurability.Flavor"
 msgid "\"The gentle tip-tapping gave way to a cacophonous drumroll, but the roof held fast. I dare not go outside today.\" -faded journal entry\n"
-msgstr " 오늘은 밖에 나갈 수가 없네요.” "
+msgstr ""
 
 #. Key: TutorialDefinition.RainandDurability.Body
 msgctxt "TutorialDefinition.RainandDurability.Body"
@@ -31272,7 +31342,11 @@ msgid ""
 "\n"
 "Reagents, on the other hand, cannot be Repaired. Instead, one item in a stack will be destroyed each time the stack reaches reach zero Durability.\n"
 msgstr ""
-"폭풍우가 자주 발생하며 지붕으로 덮여 있지 않거나 보관 중인 가구와 시약에 내구성 손상을 입힙니다.   "
+"이 세계에는 폭풍우가 자주 몰아칩니다. 가구와 아이템들은 지붕으로 덮여 있거나 상자 안에 들어 있지 않으면 빗물에 데미지를 입습니다. 빗물은 바닥을 통과할 수 있습니다.\n"
+"\n"
+"가구의 내구도가 0이 되면 가구는 파괴 상태가 됩니다. 파괴 상태가 된 가구를 다시 사용하려면 <slink=Skill_Geomancy>을 통해 <slink=JobType_Repair>하여야 합니다.\n"
+"\n"
+"아이템은 수리할 수 없습니다. 아이템 묶음의 내구도가 0이 될 때마다 수량이 하나씩 줄어들게 됩니다.\n"
 
 #. Key: TutorialDefinition.Breaks.Feed
 msgctxt "TutorialDefinition.Breaks.Feed"
@@ -31308,6 +31382,11 @@ msgid ""
 "\n"
 "When in a Break, Mages cannot be controlled and will not follow their Tasks or Schedule, so other Mages will need to mitigate the damage caused, or potentially even to go on a rescue mission.\n"
 msgstr ""
+"<slink=Mood>가 낮은 마법사들은 정신착란의 위험이 있습니다.\n"
+"\n"
+"마법사가 정신착란을 일으키면 몇 가지 증상 중 하나를 보이며, <slink=MajorInjury>를 겪게 됩니다.\n"
+"\n"
+"정신착란을 일으키는 중인 마법사는 조종할 수 없으며 스케줄이나 작업 지시에 따르지 않을 것입니다. 다른 마법사들이 그 뒷수습을 하거나, 그들을 구하기 위해 전투를 치러야 할 수도 있습니다.\n"
 
 #. Key: TutorialDefinition.Classes.Feed
 msgctxt "TutorialDefinition.Classes.Feed"
@@ -31340,8 +31419,7 @@ msgid ""
 "The school offers a beacon of hope to magically gifted Students. To make good on this promise, Staff need to teach Classes, allowing Students to master their magic.\n"
 "\n"
 "To start a class, build a <slink=LearningClassStationBasic>. During scheduled periods, Staff will teach Students what they need to learn based on their Wands and innate potential.\n"
-msgstr ""
-"  예정된 기간 동안 교직원은 학생들에게 지팡이와 타고난 잠재력을 바탕으로 배워야 할 것을 가르칩니다.\n"
+msgstr "  예정된 기간 동안 교직원은 학생들에게 지팡이와 타고난 잠재력을 바탕으로 배워야 할 것을 가르칩니다.\n"
 
 #. Key: TutorialDefinition.Fog.Feed
 msgctxt "TutorialDefinition.Fog.Feed"
@@ -31378,8 +31456,7 @@ msgid ""
 "Repel the Fog by performing the Repel Fog Ritual at the <slink=ManaFont> to avoid the destruction.\n"
 "\n"
 "If the Fog washes over the school, the school is destroyed and the game ends.    \n"
-msgstr ""
-"      \n"
+msgstr "      \n"
 
 #. Key: TutorialDefinition.FullyTrained.Feed
 msgctxt "TutorialDefinition.FullyTrained.Feed"
@@ -31415,7 +31492,11 @@ msgid ""
 "\n"
 "Students may Graduate at any time with a Ritual at the <slink=RitualSpot>, even if not Fully Trained. However, only Fully Trained students may be Hired.\n"
 msgstr ""
-"모든 학생은 마법 능력에 자연적인 한계가 있습니다. 가능한 모든 것을 배운 후에는 완전히 훈련된 것으로 간주되며 초상화에 금색 별을 얻습니다.\n\n완전히 훈련된 학생들은 더 이상 수업에 가는 기술을 얻지 못하지만 여전히 자신의 과제를 수행하고 필요에 따라 시범을 진행합니다. 그들은 또한 여전히 Underschool을 탐험 할 수 있습니다.\n\n학생은 <slink=RitualSpot>완전히 훈련되지 않았더라도 언제든지 의식을 가지고 졸업 할 수 있습니다. "
+"모든 학생은 마법 능력에 자연적인 한계가 있습니다. 배울 수 있는 것을 다 배운 후에는 교육을 마친 것으로 간주되며 초상화에 금색 별이 붙습니다.\n"
+"\n"
+"교육을 마친 학생들은 수업에 참석해도 스킬 레벨을 올릴 수 없지만, 여전히 작업을 수행하거나 지하세계를 탐험하고 과제 진행도를 올릴 수 있습니다.\n"
+"\n"
+"교육을 마친 학생들은 <slink=RitualSpot>에서 졸업시키거나 새 교사로 채용할 수 있습니다.\n"
 
 #. Key: TutorialDefinition.Corpses.Feed
 msgctxt "TutorialDefinition.Corpses.Feed"
@@ -31449,7 +31530,9 @@ msgid ""
 "\n"
 "<slink=Mood> is heavily impacted by seeing Corpses, but Mages do gain <slink=FuneralCatharsis> when burying Corpses in a Grave and holding a Funeral ritual.\n"
 msgstr ""
-"마법사들이 학교에서 죽으면 시체를 남긴다.\n\n<slink=Mood> 시체를 보면서 큰 영향을 받지만, 마법사들은 <slink=FuneralCatharsis> 시체를 무덤에 묻고 장례식을 치르면 이익을 얻는다.\n"
+"마법사들이 죽으면 시체가 남습니다.\n"
+"\n"
+"다른 마법사들이 시체를 보면 <slink=Mood>에 큰 영향을 받지만, 시체를 무덤에 묻고 장례식 의식을 치르면 <slink=FuneralCatharsis>을 얻습니다.\n"
 
 #. Key: TutorialDefinition.Crafting.Feed
 msgctxt "TutorialDefinition.Crafting.Feed"
@@ -31489,22 +31572,22 @@ msgstr ""
 #. Key: TutorialDefinition.TrialsAndMedallions.Feed
 msgctxt "TutorialDefinition.TrialsAndMedallions.Feed"
 msgid "Learn about Trials and Medallions"
-msgstr "Trials and Medallions에 대해 알아보기"
+msgstr "과제와 메달에 대해 알아보기"
 
 #. Key: TutorialDefinition.TrialsAndMedallions.Listing
 msgctxt "TutorialDefinition.TrialsAndMedallions.Listing"
 msgid "Trials and Medallions"
-msgstr "Trials and Medallions"
+msgstr "과제와 메달"
 
 #. Key: TutorialDefinition.TrialsAndMedallions.FeedHover
 msgctxt "TutorialDefinition.TrialsAndMedallions.FeedHover"
 msgid "Click to learn about Trials and Medallions"
-msgstr "Trials and Medallions에 대해 알아보려면 클릭하세요"
+msgstr "과제와 메달에  대해 알아보려면 클릭하세요"
 
 #. Key: TutorialDefinition.TrialsAndMedallions.Title
 msgctxt "TutorialDefinition.TrialsAndMedallions.Title"
 msgid "Trials and Medallions"
-msgstr "Trials and Medallions"
+msgstr "과제와 메달"
 
 #. Key: TutorialDefinition.TrialsAndMedallions.Flavor
 msgctxt "TutorialDefinition.TrialsAndMedallions.Flavor"
@@ -31520,12 +31603,16 @@ msgid ""
 "\n"
 "Only Students can complete Trials. If hired as Staff, a Mage's uncompleted Trials permanently lock and the respective Medallion can no longer be earned.\n"
 msgstr ""
-"학생들은 다양한 시험을 통해 학교에 입학하며, 이는 추가적인 마법의 잠재력을 발휘하기 위해 수행 할 수있는 업적입니다. 각 학생의 평가판은 학생마다 다르지만, 지팡이가 높은 학생은 점점 더 많은 시험판을 받게 되므로 전반적인 잠재력이 더 커집니다.\n\n시험판을 완료한 학생은 메달을 획득하여 유용한 개선 사항을 무수히 수여합니다.   "
+"학생들은 학교에 입학할 때 다양한 시험 과제를 가지고 입학합니다. 과제를 수행하면 추가적인 마법적 재능을 얻습니다. 시험 과제는 학생마다 모두 다르지만, 높은 티어 지팡이를 보유한 학생은 더 어렵고 많은 과제를 가지고 입학합니다.\n"
+"\n"
+"과제를 완료한 학생은 유용한 능력을 제공하는 메달을 얻습니다. 어려운 과제를 수행할수록 더 좋은 메달을 얻습니다. 메달을 하나 얻을 때마다 <slink=DeathSave>도 하나씩 얻습니다.\n"
+"\n"
+"마법사는 학생일 때에만 과제를 완료할 수 있습니다. 교사로 채용되는 순간 달성되지 않은 과제는 사라지고, 그 과제에 엮인 메달은 영영 얻을 수 없습니다.\n"
 
 #. Key: TutorialDefinition.BedRest.Feed
 msgctxt "TutorialDefinition.BedRest.Feed"
 msgid "Learn about Medical Rest"
-msgstr "Medical Rest에 대해 알아보기"
+msgstr "체력 회복에 대해 알아보기"
 
 #. Key: TutorialDefinition.BedRest.Listing
 msgctxt "TutorialDefinition.BedRest.Listing"
@@ -31535,7 +31622,7 @@ msgstr "체력 회복"
 #. Key: TutorialDefinition.BedRest.FeedHover
 msgctxt "TutorialDefinition.BedRest.FeedHover"
 msgid "Click to learn about Medical Rest"
-msgstr "Medical Rest에 대해 알아보려면 클릭하세요"
+msgstr "체력 회복에 대해 알아보려면 클릭하세요"
 
 #. Key: TutorialDefinition.BedRest.Title
 msgctxt "TutorialDefinition.BedRest.Title"
@@ -31556,32 +31643,34 @@ msgid ""
 "\n"
 "Change a Mage's Medical Rest Priority relative to their other tasks at the Job Type Priority screen <slink=JobsPanel>.\n"
 msgstr ""
-" \n\n작업 유형 우선순위 화면에서 다른 작업에 상대적으로 환자의 의료 휴식 우선순위를 <slink=JobsPanel>변경합니다.\n"
+" \n"
+"\n"
+"작업 유형 우선순위 화면에서 다른 작업에 상대적으로 환자의 의료 휴식 우선순위를 <slink=JobsPanel>변경합니다.\n"
 
 #. Key: TutorialDefinition.GroupsAndConsumables.Feed
 msgctxt "TutorialDefinition.GroupsAndConsumables.Feed"
 msgid "Learn about Groups and Consumable Rules"
-msgstr "Groups and Consumable Rules에 대해 알아보기"
+msgstr "그룹과 소비 제한에 대해 알아보기"
 
 #. Key: TutorialDefinition.GroupsAndConsumables.Listing
 msgctxt "TutorialDefinition.GroupsAndConsumables.Listing"
 msgid "Groups and Consumable Rules"
-msgstr "Groups and Consumable Rules"
+msgstr "그룹과 소비 제한"
 
 #. Key: TutorialDefinition.GroupsAndConsumables.FeedHover
 msgctxt "TutorialDefinition.GroupsAndConsumables.FeedHover"
 msgid "Click to learn about Groups and Consumable Rules"
-msgstr "Groups and Consumable Rules에 대해 알아보려면 클릭하세요"
+msgstr "그룹과 소비 제한에 대해 알아보려면 클릭하세요"
 
 #. Key: TutorialDefinition.GroupsAndConsumables.Title
 msgctxt "TutorialDefinition.GroupsAndConsumables.Title"
 msgid "Groups and Consumable Rules"
-msgstr "Groups and Consumable Rules"
+msgstr "그룹과 소비 제한"
 
 #. Key: TutorialDefinition.GroupsAndConsumables.Flavor
 msgctxt "TutorialDefinition.GroupsAndConsumables.Flavor"
 msgid "'My classmates can eat all the stews and salads they like. I'm perfectly content to treat myself to a Dire Rat for dinner.' -diary entry, unknown Wolfkin student\n"
-msgstr ""친구들이 좋아하는 스튜와 샐러드를 모두 먹을 수 있어요.  "
+msgstr "\"친구들이 맛있는 스튜와 샐러드를 먹고 있을 때 전 들쥐를 산 채로 먹고 있지만, 전 정말 괜찮아요.' - 어느 울프킨 학생의 일기\n"
 
 #. Key: TutorialDefinition.GroupsAndConsumables.Body
 msgctxt "TutorialDefinition.GroupsAndConsumables.Body"
@@ -31592,7 +31681,11 @@ msgid ""
 "\n"
 "Mages automatically join Groups if the rules of the Group apply to them and leave the Group when the rules no longer apply.\n"
 msgstr ""
-" <slink=ConsumablesPanel> 특정 음식을 먹도록 마법사에 지시하기 위해 소모품 규칙을 설정할 수 있습니다.\n\n특정 <slink=GroupsPanel> 일정 또는 소모품 규칙을 따르는 마법사에 대한 규칙을 만들기 위해 사용자 지정 그룹을 설정할 수 있습니다. 또는 문이나 침대와 같은 특정 개체에 대한 액세스를 설정합니다.\n\n그룹의 규칙이 적용되면 자동으로 그룹에 가입하고 규칙이 더 이상 적용되지 않으면 그룹을 탈퇴합니다.\n"
+" <slink=ConsumablesPanel> 특정 음식을 먹도록 마법사에 지시하기 위해 소모품 규칙을 설정할 수 있습니다.\n"
+"\n"
+"특정 <slink=GroupsPanel> 일정 또는 소모품 규칙을 따르는 마법사에 대한 규칙을 만들기 위해 사용자 지정 그룹을 설정할 수 있습니다. 또는 문이나 침대와 같은 특정 개체에 대한 액세스를 설정합니다.\n"
+"\n"
+"그룹의 규칙이 적용되면 자동으로 그룹에 가입하고 규칙이 더 이상 적용되지 않으면 그룹을 탈퇴합니다.\n"
 
 #. Key: TutorialDefinition.AdvancedControls.Feed
 msgctxt "TutorialDefinition.AdvancedControls.Feed"
@@ -31630,27 +31723,31 @@ msgid ""
 "\n"
 "If a Task needs to be done immediately and no mages have appropriate Priorities, select a Mage and then right-click on the target. Directly ordering a Mage to accomplish a task in this way will cause them to drop everything they are doing to complete that task. This includes forgoing their Needs like eating and sleeping, so be careful!\n"
 msgstr ""
-" 이것은 모든 무서운 쥐를 사냥하거나 주어진 영역에서 모든 돌 노두를 채굴하도록 직원에게 주문하는 편리한 방법입니다.\n\n키를 눌러 <slink=PeekTilt> 카메라 뷰를 기울여 개체를 배치할 때 더 정밀도를 높입니다.\n\nCtrl 키를 누르고 있으면 취소 작업을 신속하게 취소하거나 보류 중인 건설/조립 프로젝트에 유용한 도구입니다.   이러한 방식으로 작업을 수행하도록 Mage를 직접 주문하면 해당 작업을 완료하기 위해 수행하고있는 모든 것을 삭제하게됩니다. 이것은 먹고 자고 같은 그들의 필요를 포기하는 것을 포함하므로 조심하십시오!\n"
+" 이것은 모든 무서운 쥐를 사냥하거나 주어진 영역에서 모든 돌 노두를 채굴하도록 직원에게 주문하는 편리한 방법입니다.\n"
+"\n"
+"키를 눌러 <slink=PeekTilt> 카메라 뷰를 기울여 개체를 배치할 때 더 정밀도를 높입니다.\n"
+"\n"
+"Ctrl 키를 누르고 있으면 취소 작업을 신속하게 취소하거나 보류 중인 건설/조립 프로젝트에 유용한 도구입니다.   이러한 방식으로 작업을 수행하도록 Mage를 직접 주문하면 해당 작업을 완료하기 위해 수행하고있는 모든 것을 삭제하게됩니다. 이것은 먹고 자고 같은 그들의 필요를 포기하는 것을 포함하므로 조심하십시오!\n"
 
 #. Key: TutorialDefinition.ArcaneAdeptAndSavantScrolls.Feed
 msgctxt "TutorialDefinition.ArcaneAdeptAndSavantScrolls.Feed"
 msgid "Learn about Arcane, Adept and Savant Scrolls"
-msgstr "Arcane, Adept and Savant Scrolls에 대해 알아보기"
+msgstr "두루마리에 대해 알아보기"
 
 #. Key: TutorialDefinition.ArcaneAdeptAndSavantScrolls.Listing
 msgctxt "TutorialDefinition.ArcaneAdeptAndSavantScrolls.Listing"
 msgid "Arcane, Adept and Savant Scrolls"
-msgstr "Arcane, Adept and Savant Scrolls"
+msgstr "두루마리"
 
 #. Key: TutorialDefinition.ArcaneAdeptAndSavantScrolls.FeedHover
 msgctxt "TutorialDefinition.ArcaneAdeptAndSavantScrolls.FeedHover"
 msgid "Click to learn about Arcane, Adept and Savant Scrolls"
-msgstr "Arcane, Adept and Savant Scrolls에 대해 알아보려면 클릭하세요"
+msgstr "두루마리에 대해 알아보려면 클릭하세요"
 
 #. Key: TutorialDefinition.ArcaneAdeptAndSavantScrolls.Title
 msgctxt "TutorialDefinition.ArcaneAdeptAndSavantScrolls.Title"
 msgid "Arcane, Adept and Savant Scrolls"
-msgstr "Arcane, Adept and Savant Scrolls"
+msgstr "두루마리"
 
 #. Key: TutorialDefinition.ArcaneAdeptAndSavantScrolls.Flavor
 msgctxt "TutorialDefinition.ArcaneAdeptAndSavantScrolls.Flavor"
@@ -31668,7 +31765,13 @@ msgid ""
 "\n"
 "All types of Scrolls can also be crafted at the <slink=ScriveningCraftingStation>.\n"
 msgstr ""
-"Arcane, adept 및 Savant 스크롤은 특정 연구 주제의 잠금을 해제하는 데 사용됩니다.\n\nArcane 스크롤은 을 탐색하여 찾을 수 있습니다. <slink=Underschool>  패배하면 <slink=Underlords> 한 번에 많은 비전 두루마리가 부여되지만 이러한 전투는 매우 위험할 수 있습니다!\n\nAdept 및 Savant Scroll은 학생을 졸업하거나 A 에서 명예 스태프를 은퇴하면 얻을 수 있습니다 <slink=RitualSpot>. "
+"마법의 두루마리, 숙련의 두루마리, 박식의 두루마리는 일부 연구 주제를 연구하는 데에 사용됩니다.\n"
+"\n"
+"마법의 두루마리는 <slink=Underschool>를 탐험해서 얻을 수 있습니다. 전투를 치를 때마다 약간씩을 얻을 수 있고, <slink=Underlords>와의 전투에서는 상당히 많은 양을 얻을 수 있지만 꽤 위험할 겁니다.\n"
+"\n"
+"숙련의 두루마리와 박식의 두루마리는 <slink=RitualSpot>에서 학생을 졸업시키거나 교사를 명예퇴직시키면 얻을 수 있습니다. 마법사의 스킬 레벨과 지팡이 티어에 따라 얻을 수 있는 두루마리의 수가 달라집니다.\n"
+"\n"
+"모든 두루마리는 <slink=ScriveningCraftingStation>에서 제작할 수도 있습니다.\n"
 
 #. Key: TutorialDefinition.RoomKeywords.Feed
 msgctxt "TutorialDefinition.RoomKeywords.Feed"
@@ -31709,12 +31812,21 @@ msgid ""
 "-Private: Only one point of entry. Hallways, Doors, and Stairs into or through rooms all count as points of entry.\n"
 "-Isolated: No points of entry. It is often necessary to seal Mages inside these difficult-to-build rooms.\n"
 msgstr ""
-"      왼쪽, 오른쪽 또는 위쪽에 인접한 방이 없습니다.       "
+"일부 타입의 방들은 특정 키워드를 필요로 합니다. 키워드는 일반적으로 방의 위치나 모양에 따라 정해집니다.\n"
+"\n"
+"방 키워드 목록:\n"
+"- 떠 있음: 아래쪽으로 인접한 방이나 토대가 없어야 합니다. 이 방의 아래는 비어 있어야 합니다.\n"
+"- 지면에 붙음: 토대와 붙어 있거나 지하에 있어야 합니다. 학교의 1층을 이루는 방들이 일반적일 것입니다.\n"
+"- 탑 모양: 왼쪽, 오른쪽, 위쪽에 인접한 방이 없어야 합니다. 일반적으로 학교의 꼭대기에 있습니다. \n"
+"- 비틀린 모양: 한쪽 외벽이 다른 쪽 외벽보다 3블록 이상 높아야 합니다.\n"
+"- 길쭉한 모양: 방 너비보다 높이가 길어야 합니다.\n"
+"- 사유지: 출입구가 하나만 있어야 합니다. 복도, 문, 계단 모두 출입구로 칩니다.\n"
+"- 독립됨: 출입구가 없어야 합니다. \n"
 
 #. Key: TutorialDefinition.Scheduling.Feed
 msgctxt "TutorialDefinition.Scheduling.Feed"
 msgid "Learn about Scheduling"
-msgstr "Scheduling에 대해 알아보기"
+msgstr "스케줄에 대해 알아보기"
 
 #. Key: TutorialDefinition.Scheduling.Listing
 msgctxt "TutorialDefinition.Scheduling.Listing"
@@ -31724,7 +31836,7 @@ msgstr "스케줄"
 #. Key: TutorialDefinition.Scheduling.FeedHover
 msgctxt "TutorialDefinition.Scheduling.FeedHover"
 msgid "Click to learn about Scheduling"
-msgstr "Scheduling에 대해 알아보려면 클릭하세요"
+msgstr "스케줄에 대해 알아보려면 클릭하세요"
 
 #. Key: TutorialDefinition.Scheduling.Title
 msgctxt "TutorialDefinition.Scheduling.Title"
@@ -31747,7 +31859,13 @@ msgid ""
 "\n"
 "It is also possible to add new schedules either for individual Mages or for custom groups of Mages. See the Groups and Consumable Rules tutorial for help.\n"
 msgstr ""
-" 그들은 일정에 따라 먹고, 자고, 재창조하고, 일하고, 수업에 갈 것입니다.\n\n예약된 작업을 수행할 필요가 없는 마법사(예: 가르칠 수업이 없는 직원 또는 배고프지 않은 마법사) 작업 수행이 기본값입니다.\n\n맨 위에서 시간 슬롯 범주를 선택한 다음 관련 일정에서 시간 슬롯을 선택하여 일정을 편집하여 해당 시간 슬롯에 범주를 할당합니다.\n\n개별 영상 또는 사용자 지정 영상 그룹에 대해 새 일정을 추가할 수도 있습니다. "
+"스케줄 탭<slink=SchedulePanel>에서는 마법사들이 언제 어떤 행동을 할 지 지정할 수 있습니다. 마법사들은 스케줄에 따라 먹고, 자고, 휴식하고, 일하거나 수업에 참여할 것입니다.\n"
+"\n"
+"스케줄에 지정된 일을 할 필요가 없는 마법사(식사 시간이지만 배가 고프지 않다거나)는 기본적으로 일을 할 것입니다.\n"
+"\n"
+"탭 상단의 스케줄 카테고리를 선택하고 시간 슬롯을 클릭하면 해당 시간에 해당 카테고리의 작업이 할당됩니다.\n"
+"\n"
+"특정 그룹이나 특정 마법사를 위한 새 스케줄을 추가할 수도 있습니다. 그룹과 소비 제한 튜토리얼을 참고하세요.\n"
 
 #. Key: TutorialDefinition.SchoolExpansion.Feed
 msgctxt "TutorialDefinition.SchoolExpansion.Feed"
@@ -31785,7 +31903,13 @@ msgid ""
 "\n"
 "To gain even more flexibility in construction, you can research Arch Supports, Column Supports, and buildable Foundation. Experiment to figure out what works best for your school! \n"
 msgstr ""
-"재단이 가득 차면 확장을위한 많은 옵션이 여전히 있습니다.\n\n확장하는 가장 쉬운 방법은 계속 진행하는 것입니다. 계단과 추가 벽 및 바닥을 사용하여 학교에 더 많은 이야기를 추가 할 수 있습니다.\n\n이미 지은 것을 제거하지 않고 이전 건물 위에 새 건물을 배치 할 수도 있습니다.    \n"
+"학교를 확장하는 방법은 여러 가지입니다.\n"
+"\n"
+"가장 쉬운 방법은 위쪽으로 층을 계속 쌓는 것입니다. 계단과 벽, 바닥을 이용하면 위쪽으로 층을 계속 쌓아나갈 수 있습니다.\n"
+"\n"
+"이미 지어진 건축물을 미리 부수지 않고도 새 건축물을 설계할 수 있습니다. 마법사들은 새 건축물과 겹치는 옛 건축물을 알아서 철거할 것입니다. 건축물이 철거되면 건축에 든 모든 재료를 돌려받으므로, 학교를 새로 짓는다고 해서 손해보는 것은 없습니다.\n"
+"\n"
+"더 다양한 모양으로 학교를 건축하려면 아치나 기둥, 새 토대를 이용할 수 있습니다. 다양한 실험을 통해 학교를 건설해 보세요!\n"
 
 #. Key: BadgeDefinition.SoloRecreator_1.DisplayName
 msgctxt "BadgeDefinition.SoloRecreator_1.DisplayName"
