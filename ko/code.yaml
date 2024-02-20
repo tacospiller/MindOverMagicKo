@@ -204,8 +204,6 @@
   Text: '{0}(이)가 {1}의 재고를 채웠습니다.'
 - Key: ReturnToSpawnBehavior.0-638359255628317255
   Text: 귀가 중
-- Key: ReturnToSpawnBehavior.0-638359265645471463
-  Text: '{0}(이)가 귀가했습니다.'
 - Key: RitualBehavior.0-638359255628327286
   Text: 의식 수행 중
 - Key: SatisfyAffectionNeedBehavior.0-638359255628337286
@@ -542,9 +540,9 @@
 - Key: PlacementConfig.6-638310755350296453
   Text: 지붕 위
 - Key: PlacementConfig.7-638310755350296453
-  Text: 위치 가능
+  Text: '배치 가능 위치:'
 - Key: PlacementConfig.8-638310755350296453
-  Text: ' 바깥'
+  Text: ' 외부'
 - Key: PlacementConfig.9-638310755350296453
   Text: ' 방 안'
 - Key: PlacementConfig.10-638310755350296453
@@ -1355,6 +1353,8 @@
   Text: '분해되는 중: {0}%'
 - Key: DisintegrateCraftedErrand.3-638313270541167687
   Text: 분해 대기 중
+- Key: DisintegrateCraftedErrand.0-638429976717663943
+  Text: 'Ingredients:'
 - Key: EatErrand.0-638313270541167687
   Text: '{0} 먹기'
 - Key: EatErrand.1-638313270541167687
@@ -1966,6 +1966,16 @@
   Text: 쉴드
 - Key: ViewCombatUtils.5-638333251362517254
   Text: 쉴드
+- Key: PersistentPlayerOptions.0-638429976721043678
+  Text: Gremlins
+- Key: PersistentPlayerOptions.1-638429976721043678
+  Text: Oozes
+- Key: PersistentPlayerOptions.2-638429976721043678
+  Text: Voidshrooms
+- Key: PersistentPlayerOptions.3-638429976721043678
+  Text: Events
+- Key: PersistentPlayerOptions.4-638429976721043678
+  Text: 'Un-localized: {0}'
 - Key: SaveLoad.0-638385715191967370
   Text: 저장 실패
 - Key: SaveLoad.1-638385715191967370
@@ -2202,6 +2212,8 @@
   Text: Magic Seed
 - Key: SandboxSettingsScreen.1-638357407848838895
   Text: OK
+- Key: StackLimitSelectionWidget.0-638429976721374108
+  Text: 'Stacks: {0} / {1}'
 - Key: Format.0-638415221467376665
   Text: 긴급
 - Key: Format.1-638415221467376665
@@ -2279,7 +2291,7 @@
 - Key: WorkshopUtils.6-638398060491547990
   Text: 'Upload Error: {0}'
 - Key: AboveGroundBattleAlert.0-638303859719808052
-  Text: 전투가 기다립니다. ({0})
+  Text: 전투 가능. ({0})
 - Key: AboveGroundBattleAlert.1-638303859719808052
   Text: '{0}에서 전투가 기다립니다. 생명의 위험이 있겠지만, 그만큼 큰 보상이 있을 것입니다.'
 - Key: AboveGroundBattleAlert.0-638321842051720311
@@ -2732,25 +2744,6 @@
   Text: 안개가 학교를 지배했습니다.
 - Key: OnGameOver.2-638328064223304387
   Text: 메인 메뉴로 돌아가기
-- Key: OnIntroDungeonOpens.0-638328064223314390
-  Text: 지하세계 시험
-- Key: OnIntroDungeonOpens.1-638328064223314390
-  Text: "학생들은 지하세계 시험에서 여러 번의 전투를 거쳐 강력한 지하세계 지배자에게 도달하게 됩니다.\n\n여러분은 학생들을 도울 수 없습니다. 학생들은 스스로의 능력에 따라 죽거나 생존할 것입니다. 여러분이 학생들을 잘 가르쳤다면 그들은 승리하여 돌아올 것이고, 그렇지 않다면야... 생각하고 싶지 않군요. 여러분은 시험에 응할 학생들을 선택하고, 최적의 순서에 맞춰 나열하고, 적절한 장비를 입혀 시험에 내보내야 합니다. \n\n시험을 시작하면, 학생들의 운명은 그들의 손에 달려 있습니다."
-- Key: OnIntroDungeonOpens.2-638328064223314390
-  Text: 무시무시하네요, 그래도 한번 해봅시다.
-- Key: OnIntroSurfaceOpens.0-638217425157213228
-  Text: The Surface
-- Key: OnIntroSurfaceOpens.0-638328064223324391
-  Text: >-
-    Your newly graduated Mages have emerged from the Underschool and are now Staff, ready to work!
-
-
-    They will need your help to find food, build a place to sleep, and start construction on a new school for young Mages.
-
-
-    But don't wait too long to summon Students. The Fog approaches...
-- Key: OnIntroSurfaceOpens.1-638328064223324391
-  Text: I got this!
 - Key: OnMiddenHeapHarvested.0-638328064223334394
   Text: '{0} 획득'
 - Key: OnPoweredComponentGeneratedEntity.0-638328064223355241
@@ -3302,6 +3295,8 @@
   Text: UI
 - Key: SettingsWindowOptions.2-638332372939804428
   Text: 조작
+- Key: SettingsWindowOptions.0-638429976724002708
+  Text: Gameplay
 - Key: SettingsWindowOptions.3-638332372939804428
   Text: 기타
 - Key: SettingsWindowOptions_Audio.0-638332372939804428
@@ -3369,16 +3364,18 @@
   Text: 그래도 설정하기
 - Key: SettingsWindowOptions_Controls.4-638332372939816524
   Text: 취소
+- Key: SettingsWindowOptions_Graphics.0-638398060494013842
+  Text: 번역 툴 활성화
+- Key: SettingsWindowOptions_Data.0-638332372939831571
+  Text: 분석 데이터 보내기 비활성화
 - Key: SettingsWindowOptions_Data.0-638390026272745635
   Text: 튜토리얼 활성화
 - Key: SettingsWindow.0-638185404764860756
   Text: 튜토리얼 초기화
 - Key: SettingsWindowOptions_Graphics.2-638373896637877755
   Text: 전투 카메라 모션 비활성화
-- Key: SettingsWindowOptions_Graphics.0-638398060494013842
-  Text: 번역 툴 활성화
-- Key: SettingsWindowOptions_Data.0-638332372939831571
-  Text: 분석 데이터 보내기 비활성화
+- Key: SettingsWindowOptions_Gameplay.0-638429976724052688
+  Text: Pause On Danger Options
 - Key: SettingsWindow.0-638207064683201869
   Text: 전체 화면
 - Key: SettingsWindow.1-638207064683211854
@@ -4346,6 +4343,10 @@
   Text: Allow All
 - Key: AllowedStorageWidget.2-638325564500403371
   Text: Clear All
+- Key: AllowedStorageWidgetEntry.0-638429976725516060
+  Text: 'Storage Limit: {0} <size=60%>(Stacks of {1})</size>'
+- Key: AllowedStorageWidgetEntry.1-638429976725516060
+  Text: Set the maximum number of {0} stacks stored here.
 - Key: AssignedAccessEntry.0-638325564500413712
   Text: Auto-Assign
 - Key: AssignedAccessEntry.1-638325564500428767

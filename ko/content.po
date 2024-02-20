@@ -396,6 +396,26 @@ msgctxt "Archetype.Corpse_QuiltedMiner.DescriptionConfig.0.Description"
 msgid "The corpse of a Quilted Miner. Can be recycled at a <slink=Spindle> into a new Quilted."
 msgstr "누더기 광부의 시체입니다. <slink=Spindle>에서 새 누더기로 재활용할 수 있습니다."
 
+#. Key: Archetype.Corpse_QuiltedFertilizer.Configs.0-638429976825704284.DisplayName
+msgctxt "Archetype.Corpse_QuiltedFertilizer.Configs.0-638429976825704284.DisplayName"
+msgid "Quilted Fertilizer Corpse"
+msgstr ""
+
+#. Key: Archetype.Corpse_QuiltedFertilizer.Configs.0-638429976825704284.Description
+msgctxt "Archetype.Corpse_QuiltedFertilizer.Configs.0-638429976825704284.Description"
+msgid "The corpse of a Quilted Fertilizer. Can be recycled at a <slink=Spindle> into a new Quilted."
+msgstr ""
+
+#. Key: Archetype.Corpse_QuiltedHarvester.Configs.0-638429976825704284.DisplayName
+msgctxt "Archetype.Corpse_QuiltedHarvester.Configs.0-638429976825704284.DisplayName"
+msgid "Quilted Harvester Corpse"
+msgstr ""
+
+#. Key: Archetype.Corpse_QuiltedHarvester.Configs.0-638429976825704284.Description
+msgctxt "Archetype.Corpse_QuiltedHarvester.Configs.0-638429976825704284.Description"
+msgid "The corpse of a Quilted Harvester. Can be recycled at a <slink=Spindle> into a new Quilted."
+msgstr ""
+
 #. Key: Archetype.Belcher.DescriptionConfig.0.DisplayName
 msgctxt "Archetype.Belcher.DescriptionConfig.0.DisplayName"
 msgid "Belcher"
@@ -1765,6 +1785,46 @@ msgstr "쪼개고 파냅니다."
 msgctxt "Archetype.QuiltedMiner.IdleErrandConfig.0.BehaviorDesc"
 msgid "Waiting"
 msgstr "대기 중"
+
+#. Key: Archetype.QuiltedFertilizer.Configs.1-638429976827743284.DisplayName
+msgctxt "Archetype.QuiltedFertilizer.Configs.1-638429976827743284.DisplayName"
+msgid "Quilted Fertilizer"
+msgstr ""
+
+#. Key: Archetype.QuiltedFertilizer.Configs.1-638429976827743284.Description
+msgctxt "Archetype.QuiltedFertilizer.Configs.1-638429976827743284.Description"
+msgid "A <slink=Quilted> that can <slink=JobType_Tend>."
+msgstr ""
+
+#. Key: Archetype.QuiltedFertilizer.Configs.1-638429976827743284.FlavorText
+msgctxt "Archetype.QuiltedFertilizer.Configs.1-638429976827743284.FlavorText"
+msgid "Quilted, quilted, how does your garden grow?"
+msgstr ""
+
+#. Key: Archetype.QuiltedFertilizer.Configs.16-638429976827743284.BehaviorDesc
+msgctxt "Archetype.QuiltedFertilizer.Configs.16-638429976827743284.BehaviorDesc"
+msgid "Waiting"
+msgstr ""
+
+#. Key: Archetype.QuiltedHarvester.Configs.1-638429976827743284.DisplayName
+msgctxt "Archetype.QuiltedHarvester.Configs.1-638429976827743284.DisplayName"
+msgid "Quilted Harvester"
+msgstr ""
+
+#. Key: Archetype.QuiltedHarvester.Configs.1-638429976827743284.Description
+msgctxt "Archetype.QuiltedHarvester.Configs.1-638429976827743284.Description"
+msgid "A <slink=Quilted> that can <slink=JobType_Harvest>."
+msgstr ""
+
+#. Key: Archetype.QuiltedHarvester.Configs.1-638429976827743284.FlavorText
+msgctxt "Archetype.QuiltedHarvester.Configs.1-638429976827743284.FlavorText"
+msgid "Picking with singular purpose."
+msgstr ""
+
+#. Key: Archetype.QuiltedHarvester.Configs.16-638429976827753264.BehaviorDesc
+msgctxt "Archetype.QuiltedHarvester.Configs.16-638429976827753264.BehaviorDesc"
+msgid "Waiting"
+msgstr ""
 
 #. Key: Archetype.ManaLantern.DescriptionConfig.0.DisplayName
 msgctxt "Archetype.ManaLantern.DescriptionConfig.0.DisplayName"
@@ -6191,7 +6251,7 @@ msgstr "{0} 제작 중"
 #. Key: Archetype.AirRefinery_Deprecated.Configs.1-638362487164301117.DisplayName
 msgctxt "Archetype.AirRefinery_Deprecated.Configs.1-638362487164301117.DisplayName"
 msgid "Weaver Bird Nest"
-msgstr ""
+msgstr "베짜기새 둥지"
 
 #. Key: Archetype.AirRefinery_Deprecated.Configs.1-638362487164301117.Description
 msgctxt "Archetype.AirRefinery_Deprecated.Configs.1-638362487164301117.Description"
@@ -6243,42 +6303,42 @@ msgstr "{0} 제작"
 #. Key: Archetype.AirRefinery_Deprecated.Configs.21-638362487164311118.BookOfRitualsDescription
 msgctxt "Archetype.AirRefinery_Deprecated.Configs.21-638362487164311118.BookOfRitualsDescription"
 msgid "The nest of a Weaver Bird is built solely to house a single brilliantly-colored egg, which only hatches in the presence of powerful magic. The resulting juvenile Weaver Bird innately trusts the Mages that have hatched it, and will diligently work to impress them with its dexterous beak."
-msgstr "위버 버드의 둥지는 화려한 색상의 달걀 하나를 수용하기 위해 지어졌으며 강력한 마법의 존재에서만 부화됩니다. 그 결과 생긴 청소년 위버 버드는 선천적으로 그것을 부화한 마법사들을 신뢰하며, 손재주 있는 부리로 그들에게 깊은 인상을 주기 위해 부지런히 노력할 것이다."
+msgstr ""
 
 #. Key: Archetype.AirRefinery_Deprecated.Configs.22-638362487164311118.ButtonName
 msgctxt "Archetype.AirRefinery_Deprecated.Configs.22-638362487164311118.ButtonName"
 msgid "Hatch Weaver Bird"
-msgstr "해치 위버 버드"
+msgstr "베짜기새 부화"
 
 #. Key: Archetype.AirRefinery_Deprecated.Configs.22-638362487164311118.ButtonDescription
 msgctxt "Archetype.AirRefinery_Deprecated.Configs.22-638362487164311118.ButtonDescription"
 msgid "Hatch the egg into a fully grown Weaver Bird."
-msgstr ""
+msgstr "베짜기새 알을 다 자란 베짜기새로 부화시킵니다."
 
 #. Key: Archetype.AirRefinery_Deprecated.Configs.22-638362487164311118.WindowDescription
 msgctxt "Archetype.AirRefinery_Deprecated.Configs.22-638362487164311118.WindowDescription"
 msgid "Hatch the Weaver Bird Egg in the nest. Weaver Birds expertly use their beaks to create materials such as ropes, fabrics, and parchment.\n"
-msgstr ""
+msgstr "베짜기새를 부화시킵니다. 베짜기새는 부리를 이용해 밧줄, 직물, 종이 같은 재료를 만들어낼 수 있습니다.\n"
 
 #. Key: Archetype.AirRefinery_Deprecated.Configs.22-638362487164311118.Buckets.0-638362487164311118.Name
 msgctxt "Archetype.AirRefinery_Deprecated.Configs.22-638362487164311118.Buckets.0-638362487164311118.Name"
 msgid "Incubator"
-msgstr ""
+msgstr "알을 품는 자"
 
 #. Key: Archetype.AirRefinery_Deprecated.Configs.22-638362487164311118.Buckets.1-638362487164311118.Name
 msgctxt "Archetype.AirRefinery_Deprecated.Configs.22-638362487164311118.Buckets.1-638362487164311118.Name"
 msgid "Nest Fluffer"
-msgstr ""
+msgstr "둥지를 돌보는 자"
 
 #. Key: Archetype.SummoningFocus.DescriptionConfig.0.DisplayName
 msgctxt "Archetype.SummoningFocus.DescriptionConfig.0.DisplayName"
 msgid "Student Summoner"
-msgstr ""
+msgstr "학생 소환 지점"
 
 #. Key: Archetype.SummoningFocus.DescriptionConfig.0.Description
 msgctxt "Archetype.SummoningFocus.DescriptionConfig.0.Description"
 msgid "A ritual site used to summon the Student destined for a Wand. More powerful Rituals can summon Students with extra potential."
-msgstr ""
+msgstr "지팡이에 걸맞는 학생을 소환하기 위한 시설입니다. 상급 의식을 통해 더 재능있는 학생을 소환할 수 있습니다."
 
 #. Key: Archetype.SummoningFocus.DescriptionConfig.0.FlavorText
 msgctxt "Archetype.SummoningFocus.DescriptionConfig.0.FlavorText"
@@ -6303,7 +6363,7 @@ msgstr "지팡이를 사용하여 새 학생을 학교에 데려오세요."
 #. Key: Archetype.SummoningFocus.Configs.5-638289151911486976.WindowDescription
 msgctxt "Archetype.SummoningFocus.Configs.5-638289151911486976.WindowDescription"
 msgid "Choose a wand to grant to a new student. The more students you have already in your school, the longer the ritual takes.\n"
-msgstr "새 학생에게 부여할 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.\n"
+msgstr "새 학생에게 건네줄 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.\n"
 
 #. Key: Archetype.SummoningFocus.Configs.5-638249409199279957.Buckets.0-638249409199279957.Name
 msgctxt "Archetype.SummoningFocus.Configs.5-638249409199279957.Buckets.0-638249409199279957.Name"
@@ -6323,7 +6383,7 @@ msgstr "지팡이를 사용하여 새 학생을 학교에 데려오세요."
 #. Key: Archetype.SummoningFocus.Configs.6-638289151911486976.WindowDescription
 msgctxt "Archetype.SummoningFocus.Configs.6-638289151911486976.WindowDescription"
 msgid "Choose a wand to grant to a new student. The more students you have already in your school, the longer the ritual takes.\n"
-msgstr "새 학생에게 부여할 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.\n"
+msgstr "새 학생에게 건네줄 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.\n"
 
 #. Key: Archetype.SummoningFocus.Configs.6-638249409199279957.Buckets.0-638249409199279957.Name
 msgctxt "Archetype.SummoningFocus.Configs.6-638249409199279957.Buckets.0-638249409199279957.Name"
@@ -6343,7 +6403,7 @@ msgstr "지팡이를 사용하여 새 학생을 학교에 데려오세요."
 #. Key: Archetype.SummoningFocus.Configs.7-638289151911486976.WindowDescription
 msgctxt "Archetype.SummoningFocus.Configs.7-638289151911486976.WindowDescription"
 msgid "Choose a wand to grant to a new student. The more students you have already in your school, the longer the ritual takes.\n"
-msgstr "새 학생에게 부여할 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.\n"
+msgstr "새 학생에게 건네줄 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.\n"
 
 #. Key: Archetype.SummoningFocus.Configs.7-638249409199279957.Buckets.0-638249409199279957.Name
 msgctxt "Archetype.SummoningFocus.Configs.7-638249409199279957.Buckets.0-638249409199279957.Name"
@@ -6363,7 +6423,7 @@ msgstr "지팡이를 사용하여 새 학생을 학교에 데려오세요."
 #. Key: Archetype.SummoningFocus.Configs.8-638289151911486976.WindowDescription
 msgctxt "Archetype.SummoningFocus.Configs.8-638289151911486976.WindowDescription"
 msgid "Choose a wand to grant to a new student. The more students you have already in your school, the longer the ritual takes.\n"
-msgstr "새 학생에게 부여할 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.\n"
+msgstr "새 학생에게 건네줄 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.\n"
 
 #. Key: Archetype.SummoningFocus.Configs.8-638249409199279957.Buckets.0-638249409199279957.Name
 msgctxt "Archetype.SummoningFocus.Configs.8-638249409199279957.Buckets.0-638249409199279957.Name"
@@ -6383,7 +6443,7 @@ msgstr "지팡이를 사용하여 새 학생을 학교에 데려오세요."
 #. Key: Archetype.SummoningFocus.Configs.9-638289151911486976.WindowDescription
 msgctxt "Archetype.SummoningFocus.Configs.9-638289151911486976.WindowDescription"
 msgid "Choose a wand to grant to a new student. The more students you have already in your school, the longer the ritual takes.\n"
-msgstr "새 학생에게 부여할 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.\n"
+msgstr "새 학생에게 건네줄 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.\n"
 
 #. Key: Archetype.SummoningFocus.Configs.9-638249409199279957.Buckets.0-638249409199279957.Name
 msgctxt "Archetype.SummoningFocus.Configs.9-638249409199279957.Buckets.0-638249409199279957.Name"
@@ -6403,7 +6463,7 @@ msgstr "지팡이를 사용하여 새 학생을 학교에 데려오세요."
 #. Key: Archetype.SummoningFocus.Configs.10-638289151911486976.WindowDescription
 msgctxt "Archetype.SummoningFocus.Configs.10-638289151911486976.WindowDescription"
 msgid "Choose a wand to grant to a new student. The more students you have already in your school, the longer the ritual takes.\n"
-msgstr "새 학생에게 부여할 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.\n"
+msgstr "새 학생에게 건네줄 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.\n"
 
 #. Key: Archetype.SummoningFocus.Configs.10-638249409199279957.Buckets.0-638249409199279957.Name
 msgctxt "Archetype.SummoningFocus.Configs.10-638249409199279957.Buckets.0-638249409199279957.Name"
@@ -6423,7 +6483,7 @@ msgstr "지팡이를 사용하여 새 학생을 학교에 데려오세요."
 #. Key: Archetype.SummoningFocus.Configs.11-638289151911486976.WindowDescription
 msgctxt "Archetype.SummoningFocus.Configs.11-638289151911486976.WindowDescription"
 msgid "Choose a wand to grant to a new student. The more students you have already in your school, the longer the ritual takes.\n"
-msgstr "새 학생에게 부여할 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.\n"
+msgstr "새 학생에게 건네줄 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.\n"
 
 #. Key: Archetype.SummoningFocus.Configs.11-638249409199279957.Buckets.0-638249409199279957.Name
 msgctxt "Archetype.SummoningFocus.Configs.11-638249409199279957.Buckets.0-638249409199279957.Name"
@@ -6443,7 +6503,7 @@ msgstr "지팡이를 사용하여 새 학생을 학교에 데려오세요."
 #. Key: Archetype.SummoningFocus.Configs.12-638289151911486976.WindowDescription
 msgctxt "Archetype.SummoningFocus.Configs.12-638289151911486976.WindowDescription"
 msgid "Choose a wand to grant to a new student. The more students you have already in your school, the longer the ritual takes.\n"
-msgstr "새 학생에게 부여할 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.\n"
+msgstr "새 학생에게 건네줄 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.\n"
 
 #. Key: Archetype.SummoningFocus.Configs.12-638249409199279957.Buckets.0-638249409199279957.Name
 msgctxt "Archetype.SummoningFocus.Configs.12-638249409199279957.Buckets.0-638249409199279957.Name"
@@ -6463,7 +6523,7 @@ msgstr "지팡이를 사용하여 새 학생을 학교에 데려오세요."
 #. Key: Archetype.SummoningFocus.Configs.14-638303103272231254.WindowDescription
 msgctxt "Archetype.SummoningFocus.Configs.14-638303103272231254.WindowDescription"
 msgid "Choose a wand to grant to a new student. The more students you have already in your school, the longer the ritual takes.\n"
-msgstr "새 학생에게 부여할 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.\n"
+msgstr "새 학생에게 건네줄 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.\n"
 
 #. Key: Archetype.SummoningFocus.Configs.13-638249409199279957.Buckets.0-638249409199279957.Name
 msgctxt "Archetype.SummoningFocus.Configs.13-638249409199279957.Buckets.0-638249409199279957.Name"
@@ -6483,7 +6543,7 @@ msgstr "지팡이를 사용하여 새 학생을 학교에 데려오세요."
 #. Key: Archetype.SummoningFocus.Configs.15-638303103272231254.WindowDescription
 msgctxt "Archetype.SummoningFocus.Configs.15-638303103272231254.WindowDescription"
 msgid "Choose a wand to grant to a new student. The more students you have already in your school, the longer the ritual takes.\n"
-msgstr "새 학생에게 부여할 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.\n"
+msgstr "새 학생에게 건네줄 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.\n"
 
 #. Key: Archetype.SummoningFocus.Configs.15-638303104456977029.Buckets.0-638303104456977029.Name
 msgctxt "Archetype.SummoningFocus.Configs.15-638303104456977029.Buckets.0-638303104456977029.Name"
@@ -6503,7 +6563,7 @@ msgstr "지팡이를 사용하여 새 학생을 학교에 데려오세요."
 #. Key: Archetype.SummoningFocus.Configs.16-638303103272231254.WindowDescription
 msgctxt "Archetype.SummoningFocus.Configs.16-638303103272231254.WindowDescription"
 msgid "Choose a wand to grant to a new student. The more students you have already in your school, the longer the ritual takes.\n"
-msgstr "새 학생에게 부여할 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.\n"
+msgstr "새 학생에게 건네줄 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.\n"
 
 #. Key: Archetype.SummoningFocus.Configs.16-638303104456977029.Buckets.0-638303104456977029.Name
 msgctxt "Archetype.SummoningFocus.Configs.16-638303104456977029.Buckets.0-638303104456977029.Name"
@@ -6523,7 +6583,7 @@ msgstr "지팡이를 사용하여 새 학생을 학교에 데려오세요."
 #. Key: Archetype.SummoningFocus.Configs.17-638303103272231254.WindowDescription
 msgctxt "Archetype.SummoningFocus.Configs.17-638303103272231254.WindowDescription"
 msgid "Choose a wand to grant to a new student. The more students you have already in your school, the longer the ritual takes.\n"
-msgstr "새 학생에게 부여할 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.\n"
+msgstr "새 학생에게 건네줄 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.\n"
 
 #. Key: Archetype.SummoningFocus.Configs.17-638303104456977029.Buckets.0-638303104456977029.Name
 msgctxt "Archetype.SummoningFocus.Configs.17-638303104456977029.Buckets.0-638303104456977029.Name"
@@ -6563,7 +6623,7 @@ msgstr "지팡이를 사용하여 새 학생을 학교에 데려오세요."
 #. Key: Archetype.SummoningFocus.Configs.19-638379728829854561.WindowDescription
 msgctxt "Archetype.SummoningFocus.Configs.19-638379728829854561.WindowDescription"
 msgid "Choose a wand to grant to a new Gifted student. The more students you have already in your school, the longer the ritual takes.\n"
-msgstr "재능있는 새 학생에게 부여할 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.\n"
+msgstr "재능있는 새 학생을 소환할 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.\n"
 
 #. Key: Archetype.SummoningFocus.Configs.19-638379728829854561.Buckets.0-638379728829854561.Name
 msgctxt "Archetype.SummoningFocus.Configs.19-638379728829854561.Buckets.0-638379728829854561.Name"
@@ -6583,7 +6643,7 @@ msgstr "지팡이를 사용하여 새 학생을 학교에 데려오세요."
 #. Key: Archetype.SummoningFocus.Configs.20-638379728829859614.WindowDescription
 msgctxt "Archetype.SummoningFocus.Configs.20-638379728829859614.WindowDescription"
 msgid "Choose a wand to grant to a new Gifted student. The more students you have already in your school, the longer the ritual takes.\n"
-msgstr "재능있는 새 학생에게 부여할 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.\n"
+msgstr "재능있는 새 학생을 소환할 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.\n"
 
 #. Key: Archetype.SummoningFocus.Configs.20-638379736113022829.Buckets.0-638379736113022829.Name
 msgctxt "Archetype.SummoningFocus.Configs.20-638379736113022829.Buckets.0-638379736113022829.Name"
@@ -6603,7 +6663,7 @@ msgstr "지팡이를 사용하여 새 학생을 학교에 데려오세요."
 #. Key: Archetype.SummoningFocus.Configs.21-638379736113022829.WindowDescription
 msgctxt "Archetype.SummoningFocus.Configs.21-638379736113022829.WindowDescription"
 msgid "Choose a wand to grant to a new Gifted student. The more students you have already in your school, the longer the ritual takes.\n"
-msgstr "재능있는 새 학생에게 부여할 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.\n"
+msgstr "재능있는 새 학생을 소환할 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.\n"
 
 #. Key: Archetype.SummoningFocus.Configs.21-638379736113022829.Buckets.0-638379736113022829.Name
 msgctxt "Archetype.SummoningFocus.Configs.21-638379736113022829.Buckets.0-638379736113022829.Name"
@@ -6623,7 +6683,7 @@ msgstr "지팡이를 사용하여 새 학생을 학교에 데려오세요."
 #. Key: Archetype.SummoningFocus.Configs.22-638379728829859614.WindowDescription
 msgctxt "Archetype.SummoningFocus.Configs.22-638379728829859614.WindowDescription"
 msgid "Choose a wand to grant to a new Gifted student. The more students you have already in your school, the longer the ritual takes.\n"
-msgstr "재능있는 새 학생에게 부여할 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.\n"
+msgstr "재능있는 새 학생을 소환할 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.\n"
 
 #. Key: Archetype.SummoningFocus.Configs.22-638379738392151029.Buckets.0-638379738392151029.Name
 msgctxt "Archetype.SummoningFocus.Configs.22-638379738392151029.Buckets.0-638379738392151029.Name"
@@ -6643,7 +6703,7 @@ msgstr "지팡이를 사용하여 새 학생을 학교에 데려오세요."
 #. Key: Archetype.SummoningFocus.Configs.23-638379728829859614.WindowDescription
 msgctxt "Archetype.SummoningFocus.Configs.23-638379728829859614.WindowDescription"
 msgid "Choose a wand to grant to a new Gifted student. The more students you have already in your school, the longer the ritual takes.\n"
-msgstr "재능있는 새 학생에게 부여할 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.\n"
+msgstr "재능있는 새 학생을 소환할 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.\n"
 
 #. Key: Archetype.SummoningFocus.Configs.23-638379738392166055.Buckets.0-638379738392166055.Name
 msgctxt "Archetype.SummoningFocus.Configs.23-638379738392166055.Buckets.0-638379738392166055.Name"
@@ -6663,7 +6723,7 @@ msgstr "지팡이를 사용하여 새 학생을 학교에 데려오세요."
 #. Key: Archetype.SummoningFocus.Configs.24-638379728829859614.WindowDescription
 msgctxt "Archetype.SummoningFocus.Configs.24-638379728829859614.WindowDescription"
 msgid "Choose a wand to grant to a new Gifted student. The more students you have already in your school, the longer the ritual takes.\n"
-msgstr "재능있는 새 학생에게 부여할 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.\n"
+msgstr "재능있는 새 학생을 소환할 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.\n"
 
 #. Key: Archetype.SummoningFocus.Configs.24-638379738392166055.Buckets.0-638379738392166055.Name
 msgctxt "Archetype.SummoningFocus.Configs.24-638379738392166055.Buckets.0-638379738392166055.Name"
@@ -6683,7 +6743,7 @@ msgstr "지팡이를 사용하여 새 학생을 학교에 데려오세요."
 #. Key: Archetype.SummoningFocus.Configs.25-638379728829859614.WindowDescription
 msgctxt "Archetype.SummoningFocus.Configs.25-638379728829859614.WindowDescription"
 msgid "Choose a wand to grant to a new Gifted student. The more students you have already in your school, the longer the ritual takes.\n"
-msgstr "재능있는 새 학생에게 부여할 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.\n"
+msgstr "재능있는 새 학생을 소환할 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.\n"
 
 #. Key: Archetype.SummoningFocus.Configs.25-638379738392166055.Buckets.0-638379738392166055.Name
 msgctxt "Archetype.SummoningFocus.Configs.25-638379738392166055.Buckets.0-638379738392166055.Name"
@@ -6703,7 +6763,7 @@ msgstr "지팡이를 사용하여 새 학생을 학교에 데려오세요."
 #. Key: Archetype.SummoningFocus.Configs.26-638379728829859614.WindowDescription
 msgctxt "Archetype.SummoningFocus.Configs.26-638379728829859614.WindowDescription"
 msgid "Choose a wand to grant to a new Gifted student. The more students you have already in your school, the longer the ritual takes.\n"
-msgstr "재능있는 새 학생에게 부여할 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.\n"
+msgstr "재능있는 새 학생을 소환할 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.\n"
 
 #. Key: Archetype.SummoningFocus.Configs.26-638379742342374568.Buckets.0-638379742342374568.Name
 msgctxt "Archetype.SummoningFocus.Configs.26-638379742342374568.Buckets.0-638379742342374568.Name"
@@ -6723,7 +6783,7 @@ msgstr "지팡이를 사용하여 새 학생을 학교에 데려오세요."
 #. Key: Archetype.SummoningFocus.Configs.27-638379728829869641.WindowDescription
 msgctxt "Archetype.SummoningFocus.Configs.27-638379728829869641.WindowDescription"
 msgid "Choose a wand to grant to a new Gifted student. The more students you have already in your school, the longer the ritual takes.\n"
-msgstr "재능있는 새 학생에게 부여할 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.\n"
+msgstr "재능있는 새 학생을 소환할 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.\n"
 
 #. Key: Archetype.SummoningFocus.Configs.27-638379742342374568.Buckets.0-638379742342374568.Name
 msgctxt "Archetype.SummoningFocus.Configs.27-638379742342374568.Buckets.0-638379742342374568.Name"
@@ -6743,7 +6803,7 @@ msgstr "지팡이를 사용하여 새 학생을 학교에 데려오세요."
 #. Key: Archetype.SummoningFocus.Configs.28-638379728829869641.WindowDescription
 msgctxt "Archetype.SummoningFocus.Configs.28-638379728829869641.WindowDescription"
 msgid "Choose a wand to grant to a new Gifted student. The more students you have already in your school, the longer the ritual takes.\n"
-msgstr "재능있는 새 학생에게 부여할 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.\n"
+msgstr "재능있는 새 학생을 소환할 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.\n"
 
 #. Key: Archetype.SummoningFocus.Configs.28-638379742342374568.Buckets.0-638379742342374568.Name
 msgctxt "Archetype.SummoningFocus.Configs.28-638379742342374568.Buckets.0-638379742342374568.Name"
@@ -6763,7 +6823,7 @@ msgstr "지팡이를 사용하여 새 학생을 학교에 데려오세요."
 #. Key: Archetype.SummoningFocus.Configs.29-638379728829869641.WindowDescription
 msgctxt "Archetype.SummoningFocus.Configs.29-638379728829869641.WindowDescription"
 msgid "Choose a wand to grant to a new Gifted student. The more students you have already in your school, the longer the ritual takes.\n"
-msgstr "재능있는 새 학생에게 부여할 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.\n"
+msgstr "재능있는 새 학생을 소환할 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.\n"
 
 #. Key: Archetype.SummoningFocus.Configs.29-638379742342374568.Buckets.0-638379742342374568.Name
 msgctxt "Archetype.SummoningFocus.Configs.29-638379742342374568.Buckets.0-638379742342374568.Name"
@@ -6783,7 +6843,7 @@ msgstr "지팡이를 사용하여 새 학생을 학교에 데려오세요."
 #. Key: Archetype.SummoningFocus.Configs.30-638379728829869641.WindowDescription
 msgctxt "Archetype.SummoningFocus.Configs.30-638379728829869641.WindowDescription"
 msgid "Choose a wand to grant to a new Gifted student. The more students you have already in your school, the longer the ritual takes.\n"
-msgstr "재능있는 새 학생에게 부여할 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.\n"
+msgstr "재능있는 새 학생을 소환할 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.\n"
 
 #. Key: Archetype.SummoningFocus.Configs.30-638379742342374568.Buckets.0-638379742342384571.Name
 msgctxt "Archetype.SummoningFocus.Configs.30-638379742342374568.Buckets.0-638379742342384571.Name"
@@ -6803,7 +6863,7 @@ msgstr "지팡이를 사용하여 새 학생을 학교에 데려오세요."
 #. Key: Archetype.SummoningFocus.Configs.31-638379728829869641.WindowDescription
 msgctxt "Archetype.SummoningFocus.Configs.31-638379728829869641.WindowDescription"
 msgid "Choose a wand to grant to a new Gifted student. The more students you have already in your school, the longer the ritual takes.\n"
-msgstr "재능있는 새 학생에게 부여할 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.\n"
+msgstr "재능있는 새 학생을 소환할 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.\n"
 
 #. Key: Archetype.SummoningFocus.Configs.31-638379743541373206.Buckets.0-638379743541373206.Name
 msgctxt "Archetype.SummoningFocus.Configs.31-638379743541373206.Buckets.0-638379743541373206.Name"
@@ -14686,17 +14746,17 @@ msgstr "<slink=MajorWound_Tenacity4>(을)를 극복했습니다."
 #. Key: CharacterStatusConfig.MissingBedroomOfOwn.DisplayName
 msgctxt "CharacterStatusConfig.MissingBedroomOfOwn.DisplayName"
 msgid "Doesn't Have Bedroom of Own"
-msgstr ""
+msgstr "침실 없음"
 
 #. Key: CharacterStatusConfig.MissingBedroomOfOwn.Description
 msgctxt "CharacterStatusConfig.MissingBedroomOfOwn.Description"
 msgid "Currently without bedroom of their own."
-msgstr ""
+msgstr "잘 침실이 없습니다."
 
 #. Key: CharacterStatusConfig.FontSteward.DisplayName
 msgctxt "CharacterStatusConfig.FontSteward.DisplayName"
 msgid "Font Steward"
-msgstr ""
+msgstr "우물 지킴이"
 
 #. Key: CharacterStatusConfig.FontSteward.Description
 msgctxt "CharacterStatusConfig.FontSteward.Description"
@@ -14711,37 +14771,37 @@ msgstr ""
 #. Key: CharacterStatusConfig.FontSteward.LogEntry
 msgctxt "CharacterStatusConfig.FontSteward.LogEntry"
 msgid "{0} was chosen as the school's {1}"
-msgstr ""
+msgstr "{0}: 학교의 {1}로 선택됨"
 
 #. Key: CharacterStatusConfig.InspiredArt.DisplayName
 msgctxt "CharacterStatusConfig.InspiredArt.DisplayName"
 msgid "Inspired Art"
-msgstr ""
+msgstr "예술적 영감"
 
 #. Key: CharacterStatusConfig.InspiredArt.Description
 msgctxt "CharacterStatusConfig.InspiredArt.Description"
 msgid "Inspired to make more Art."
-msgstr ""
+msgstr "예술적 영감을 받았습니다."
 
 #. Key: CharacterStatusConfig.PerformedRitual.DisplayName
 msgctxt "CharacterStatusConfig.PerformedRitual.DisplayName"
 msgid "Performed a Ritual"
-msgstr ""
+msgstr "의식을 치름"
 
 #. Key: CharacterStatusConfig.PerformedRitual.Description
 msgctxt "CharacterStatusConfig.PerformedRitual.Description"
 msgid "Participated in a Ritual and feeling good about it."
-msgstr ""
+msgstr "마법 의식에 참여해서 기분이 좋습니다."
 
 #. Key: CharacterStatusConfig.Sacrificed.DisplayName
 msgctxt "CharacterStatusConfig.Sacrificed.DisplayName"
 msgid "Sacrificed"
-msgstr ""
+msgstr "희생당함"
 
 #. Key: CharacterStatusConfig.Sacrificed.Description
 msgctxt "CharacterStatusConfig.Sacrificed.Description"
 msgid "Sacrificed in a Ritual."
-msgstr ""
+msgstr "마법 의식에서 희생당했습니다."
 
 #. Key: CharacterStatusConfig.HasFireSkill1.DisplayName
 msgctxt "CharacterStatusConfig.HasFireSkill1.DisplayName"
@@ -14831,7 +14891,7 @@ msgstr "고급 주방에서 요리"
 #. Key: CharacterStatusConfig.HappyCooking1.Description
 msgctxt "CharacterStatusConfig.HappyCooking1.Description"
 msgid "Enjoyed cooking in a Fine Kitchen."
-msgstr "좋은 부엌에서 요리를 즐겼다."
+msgstr "고급 주방에서 즐겁게 요리했습니다."
 
 #. Key: CharacterStatusConfig.HappyCooking1.LogEntry
 msgctxt "CharacterStatusConfig.HappyCooking1.LogEntry"
@@ -14841,12 +14901,12 @@ msgstr "{0} {1}"
 #. Key: CharacterStatusConfig.HappyCooking2.DisplayName
 msgctxt "CharacterStatusConfig.HappyCooking2.DisplayName"
 msgid "Cooked in a Fine Kitchen"
-msgstr ""
+msgstr "고급 주방에서 요리"
 
 #. Key: CharacterStatusConfig.HappyCooking2.Description
 msgctxt "CharacterStatusConfig.HappyCooking2.Description"
 msgid "Enjoyed cooking in a Fine Kitchen."
-msgstr ""
+msgstr "고급 주방에서 즐겁게 요리했습니다."
 
 #. Key: CharacterStatusConfig.HappyCooking2.LogEntry
 msgctxt "CharacterStatusConfig.HappyCooking2.LogEntry"
@@ -14856,12 +14916,12 @@ msgstr "{0} {1}"
 #. Key: CharacterStatusConfig.HappyCooking3.DisplayName
 msgctxt "CharacterStatusConfig.HappyCooking3.DisplayName"
 msgid "Cooked in a Fine Kitchen"
-msgstr ""
+msgstr "고급 주방에서 요리"
 
 #. Key: CharacterStatusConfig.HappyCooking3.Description
 msgctxt "CharacterStatusConfig.HappyCooking3.Description"
 msgid "Enjoyed cooking in a Fine Kitchen."
-msgstr ""
+msgstr "고급 주방에서 즐겁게 요리했습니다."
 
 #. Key: CharacterStatusConfig.HappyCooking3.LogEntry
 msgctxt "CharacterStatusConfig.HappyCooking3.LogEntry"
@@ -14871,12 +14931,12 @@ msgstr "{0} {1}"
 #. Key: CharacterStatusConfig.HappyCooking4.DisplayName
 msgctxt "CharacterStatusConfig.HappyCooking4.DisplayName"
 msgid "Cooked in a Fine Kitchen"
-msgstr ""
+msgstr "고급 주방에서 요리"
 
 #. Key: CharacterStatusConfig.HappyCooking4.Description
 msgctxt "CharacterStatusConfig.HappyCooking4.Description"
 msgid "Enjoyed cooking in a Fine Kitchen."
-msgstr ""
+msgstr "고급 주방에서 즐겁게 요리했습니다."
 
 #. Key: CharacterStatusConfig.HappyCooking4.LogEntry
 msgctxt "CharacterStatusConfig.HappyCooking4.LogEntry"
@@ -14891,7 +14951,7 @@ msgstr "고급 주방에서 요리"
 #. Key: CharacterStatusConfig.HappyCooking5.Description
 msgctxt "CharacterStatusConfig.HappyCooking5.Description"
 msgid "Enjoyed cooking in a Fine Kitchen."
-msgstr ""
+msgstr "고급 주방에서 즐겁게 요리했습니다."
 
 #. Key: CharacterStatusConfig.HappyCooking5.LogEntry
 msgctxt "CharacterStatusConfig.HappyCooking5.LogEntry"
@@ -14901,12 +14961,12 @@ msgstr "{0} {1}"
 #. Key: CharacterStatusConfig.HappyCooking6.DisplayName
 msgctxt "CharacterStatusConfig.HappyCooking6.DisplayName"
 msgid "Cooked in a Fine Kitchen"
-msgstr ""
+msgstr "고급 주방에서 요리"
 
 #. Key: CharacterStatusConfig.HappyCooking6.Description
 msgctxt "CharacterStatusConfig.HappyCooking6.Description"
 msgid "Enjoyed cooking in a Fine Kitchen."
-msgstr ""
+msgstr "고급 주방에서 즐겁게 요리했습니다."
 
 #. Key: CharacterStatusConfig.HappyCooking6.LogEntry
 msgctxt "CharacterStatusConfig.HappyCooking6.LogEntry"
@@ -14916,12 +14976,12 @@ msgstr "{0} {1}"
 #. Key: CharacterStatusConfig.HappyCooking7.DisplayName
 msgctxt "CharacterStatusConfig.HappyCooking7.DisplayName"
 msgid "Cooked in a Fine Kitchen"
-msgstr ""
+msgstr "고급 주방에서 요리"
 
 #. Key: CharacterStatusConfig.HappyCooking7.Description
 msgctxt "CharacterStatusConfig.HappyCooking7.Description"
 msgid "Enjoyed cooking in a Fine Kitchen."
-msgstr ""
+msgstr "고급 주방에서 즐겁게 요리했습니다."
 
 #. Key: CharacterStatusConfig.HappyCooking7.LogEntry
 msgctxt "CharacterStatusConfig.HappyCooking7.LogEntry"
@@ -14931,12 +14991,12 @@ msgstr "{0} {1}"
 #. Key: CharacterStatusConfig.HappyCooking8.DisplayName
 msgctxt "CharacterStatusConfig.HappyCooking8.DisplayName"
 msgid "Cooked in a Fine Kitchen"
-msgstr ""
+msgstr "고급 주방에서 요리"
 
 #. Key: CharacterStatusConfig.HappyCooking8.Description
 msgctxt "CharacterStatusConfig.HappyCooking8.Description"
 msgid "Enjoyed cooking in a Fine Kitchen."
-msgstr ""
+msgstr "고급 주방에서 즐겁게 요리했습니다."
 
 #. Key: CharacterStatusConfig.HappyCooking8.LogEntry
 msgctxt "CharacterStatusConfig.HappyCooking8.LogEntry"
@@ -14946,62 +15006,62 @@ msgstr "{0} {1}"
 #. Key: CharacterStatusConfig.InBasicRitualRoom.DisplayName
 msgctxt "CharacterStatusConfig.InBasicRitualRoom.DisplayName"
 msgid "In Assembly Hall"
-msgstr ""
+msgstr "회관에 있음"
 
 #. Key: CharacterStatusConfig.InBasicRitualRoom.Description
 msgctxt "CharacterStatusConfig.InBasicRitualRoom.Description"
 msgid "In a basic ritual room."
-msgstr ""
+msgstr "회관에 있습니다."
 
 #. Key: CharacterStatusConfig.InIntermediateRitualRoom.DisplayName
 msgctxt "CharacterStatusConfig.InIntermediateRitualRoom.DisplayName"
 msgid "In Auditorium"
-msgstr ""
+msgstr "강당에 있음"
 
 #. Key: CharacterStatusConfig.InIntermediateRitualRoom.Description
 msgctxt "CharacterStatusConfig.InIntermediateRitualRoom.Description"
 msgid "In an intermediate ritual room."
-msgstr ""
+msgstr "강당에 있습니다."
 
 #. Key: CharacterStatusConfig.InAdvancedRitualRoom.DisplayName
 msgctxt "CharacterStatusConfig.InAdvancedRitualRoom.DisplayName"
 msgid "In Great Hall"
-msgstr ""
+msgstr "대강당에 있음"
 
 #. Key: CharacterStatusConfig.InAdvancedRitualRoom.Description
 msgctxt "CharacterStatusConfig.InAdvancedRitualRoom.Description"
 msgid "In an advanced ritual room."
-msgstr ""
+msgstr "대강당에 있습니다."
 
 #. Key: CharacterStatusConfig.InScullery.DisplayName
 msgctxt "CharacterStatusConfig.InScullery.DisplayName"
 msgid "In Scullery"
-msgstr ""
+msgstr "부엌에 있음"
 
 #. Key: CharacterStatusConfig.InScullery.Description
 msgctxt "CharacterStatusConfig.InScullery.Description"
 msgid "Can cook more efficiently due to being in a dedicated Scullery."
-msgstr ""
+msgstr "부엌에 있기 때문에 더 효율적으로 요리할 수 있습니다."
 
 #. Key: CharacterStatusConfig.InKitchen.DisplayName
 msgctxt "CharacterStatusConfig.InKitchen.DisplayName"
 msgid "In Kitchen"
-msgstr ""
+msgstr "주방에 있음"
 
 #. Key: CharacterStatusConfig.InKitchen.Description
 msgctxt "CharacterStatusConfig.InKitchen.Description"
 msgid "Can cook more efficiently due to being in a dedicated Kitchen."
-msgstr ""
+msgstr "주방에 있기 때문에 더 효율적으로 요리할 수 있습니다."
 
 #. Key: CharacterStatusConfig.InFineKitchen.DisplayName
 msgctxt "CharacterStatusConfig.InFineKitchen.DisplayName"
 msgid "In Fine Kitchen"
-msgstr ""
+msgstr "고급 주방에 있음"
 
 #. Key: CharacterStatusConfig.InFineKitchen.Description
 msgctxt "CharacterStatusConfig.InFineKitchen.Description"
 msgid "Can cook more efficiently due to being in a dedicated Fine Kitchen."
-msgstr ""
+msgstr "고급 주방에 있기 때문에 더 효율적으로 요리할 수 있습니다."
 
 #. Key: CharacterStatusConfig.InWorkshop.DisplayName
 msgctxt "CharacterStatusConfig.InWorkshop.DisplayName"
@@ -15076,72 +15136,72 @@ msgstr ""
 #. Key: CharacterStatusConfig.Eat_DiningHall.DisplayName
 msgctxt "CharacterStatusConfig.Eat_DiningHall.DisplayName"
 msgid "Ate in Dining Room"
-msgstr ""
+msgstr "식당에서 식사함"
 
 #. Key: CharacterStatusConfig.Eat_DiningHall.Description
 msgctxt "CharacterStatusConfig.Eat_DiningHall.Description"
 msgid "Ate a meal in a Dining Room."
-msgstr "식당에서 식사를 합니다."
+msgstr "식당에서 식사를 했습니다."
 
 #. Key: CharacterStatusConfig.Eat_DiningHall.LogEntry
 msgctxt "CharacterStatusConfig.Eat_DiningHall.LogEntry"
 msgid "{0} is {1}"
-msgstr "{0} is {1}"
+msgstr "{0}: {1}"
 
 #. Key: CharacterStatusConfig.InCafeteria.DisplayName
 msgctxt "CharacterStatusConfig.InCafeteria.DisplayName"
 msgid "In Mess Hall"
-msgstr ""
+msgstr "학생 식당에 있음"
 
 #. Key: CharacterStatusConfig.InCafeteria.Description
 msgctxt "CharacterStatusConfig.InCafeteria.Description"
 msgid "Currently in a room with more than one dining table."
-msgstr ""
+msgstr "학생 식당에 있습니다."
 
 #. Key: CharacterStatusConfig.Eat_Cafeteria.DisplayName
 msgctxt "CharacterStatusConfig.Eat_Cafeteria.DisplayName"
 msgid "Ate in Mess Hall"
-msgstr ""
+msgstr "학생 식당에서 식사함"
 
 #. Key: CharacterStatusConfig.Eat_Cafeteria.Description
 msgctxt "CharacterStatusConfig.Eat_Cafeteria.Description"
 msgid "Ate a meal in a Mess Hall."
-msgstr "혼란스러운 홀에서 식사를 했다."
+msgstr "학생 식당에서 식사를 했습니다."
 
 #. Key: CharacterStatusConfig.Eat_Cafeteria.LogEntry
 msgctxt "CharacterStatusConfig.Eat_Cafeteria.LogEntry"
 msgid "{0} is {1}"
-msgstr "{0} is {1}"
+msgstr "{0}: {1}"
 
 #. Key: CharacterStatusConfig.InPrivateDiningRoom.DisplayName
 msgctxt "CharacterStatusConfig.InPrivateDiningRoom.DisplayName"
 msgid "In Private Dining Room"
-msgstr ""
+msgstr "교사 식당에 있음"
 
 #. Key: CharacterStatusConfig.InPrivateDiningRoom.Description
 msgctxt "CharacterStatusConfig.InPrivateDiningRoom.Description"
 msgid "Currently in a Private Dining Room."
-msgstr ""
+msgstr "교사 식당에 있습니다."
 
 #. Key: CharacterStatusConfig.Eat_PrivateDiningRoom.DisplayName
 msgctxt "CharacterStatusConfig.Eat_PrivateDiningRoom.DisplayName"
 msgid "Ate in a Private Dining Room"
-msgstr ""
+msgstr "교사 식당에서 식사함"
 
 #. Key: CharacterStatusConfig.Eat_PrivateDiningRoom.Description
 msgctxt "CharacterStatusConfig.Eat_PrivateDiningRoom.Description"
 msgid "Ate a meal in a Private Dining Room."
-msgstr ""
+msgstr "교사 식당에서 식사를 했습니다."
 
 #. Key: CharacterStatusConfig.Eat_PrivateDiningRoom.LogEntry
 msgctxt "CharacterStatusConfig.Eat_PrivateDiningRoom.LogEntry"
 msgid "{0} is {1}"
-msgstr "{0} is {1}"
+msgstr "{0}: {1}"
 
 #. Key: CharacterStatusConfig.InSalleaManger.DisplayName
 msgctxt "CharacterStatusConfig.InSalleaManger.DisplayName"
 msgid "In Salle a Manger"
-msgstr ""
+msgstr "고급 교사 식당에 있음"
 
 #. Key: CharacterStatusConfig.InSalleaManger.Description
 msgctxt "CharacterStatusConfig.InSalleaManger.Description"
@@ -22806,12 +22866,12 @@ msgstr "이동 불능"
 #. Key: StatusEffectConfig.UnableToMove.Description
 msgctxt "StatusEffectConfig.UnableToMove.Description"
 msgid "Mage cannot move"
-msgstr ""
+msgstr "움직일 수 없음"
 
 #. Key: StatusEffectConfig.Prone.DisplayName
 msgctxt "StatusEffectConfig.Prone.DisplayName"
 msgid "Lying Down"
-msgstr ""
+msgstr "누워 있음"
 
 #. Key: StatusEffectConfig.Prone.Description
 msgctxt "StatusEffectConfig.Prone.Description"
@@ -22841,7 +22901,7 @@ msgstr ""
 #. Key: StatusEffectConfig.Downed.DisplayName
 msgctxt "StatusEffectConfig.Downed.DisplayName"
 msgid "Downed"
-msgstr "Down"
+msgstr "쓰러짐"
 
 #. Key: StatusEffectConfig.Downed.Description
 msgctxt "StatusEffectConfig.Downed.Description"
@@ -22851,7 +22911,7 @@ msgstr ""
 #. Key: StatusEffectConfig.UnableToSleep.DisplayName
 msgctxt "StatusEffectConfig.UnableToSleep.DisplayName"
 msgid "Can't fall asleep"
-msgstr ""
+msgstr "잘 수 없음"
 
 #. Key: StatusEffectConfig.UnableToSleep.Description
 msgctxt "StatusEffectConfig.UnableToSleep.Description"
@@ -23236,7 +23296,7 @@ msgstr "분해"
 #. Key: KeyMappingConfigLoader.ActionButton_Uproot.DisplayName
 msgctxt "KeyMappingConfigLoader.ActionButton_Uproot.DisplayName"
 msgid "Destroy"
-msgstr "뽑기"
+msgstr "제초"
 
 #. Key: KeyMappingConfigLoader.ActionButton_StartPlant.DisplayName
 msgctxt "KeyMappingConfigLoader.ActionButton_StartPlant.DisplayName"
@@ -23256,7 +23316,7 @@ msgstr ""
 #. Key: KeyMappingConfigLoader.ActionButton_Deconstruct.DisplayName
 msgctxt "KeyMappingConfigLoader.ActionButton_Deconstruct.DisplayName"
 msgid "Deconstruct"
-msgstr ""
+msgstr "철거"
 
 #. Key: KeyMappingConfigLoader.ActionButton_Repair.DisplayName
 msgctxt "KeyMappingConfigLoader.ActionButton_Repair.DisplayName"
@@ -23701,7 +23761,7 @@ msgstr ""
 #. Key: KeywordDefinition.Task Type.DisplayName
 msgctxt "KeywordDefinition.Task Type.DisplayName"
 msgid "Task Type"
-msgstr ""
+msgstr "작업 타입"
 
 #. Key: KeywordDefinition.Task Type.Description
 msgctxt "KeywordDefinition.Task Type.Description"
@@ -23711,7 +23771,7 @@ msgstr ""
 #. Key: KeywordDefinition.SchoolScore.DisplayName
 msgctxt "KeywordDefinition.SchoolScore.DisplayName"
 msgid "M.A.G.E. Score"
-msgstr ""
+msgstr "M.A.G.E 점수"
 
 #. Key: KeywordDefinition.SchoolScore.Description
 msgctxt "KeywordDefinition.SchoolScore.Description"
@@ -23731,7 +23791,7 @@ msgstr ""
 #. Key: KeywordDefinition.PathingFilter.DisplayName
 msgctxt "KeywordDefinition.PathingFilter.DisplayName"
 msgid "Pathing View"
-msgstr ""
+msgstr "경로 뷰"
 
 #. Key: KeywordDefinition.PathingFilter.Description
 msgctxt "KeywordDefinition.PathingFilter.Description"
@@ -23741,7 +23801,7 @@ msgstr ""
 #. Key: KeywordDefinition.LightingFilter.DisplayName
 msgctxt "KeywordDefinition.LightingFilter.DisplayName"
 msgid "Lighting View"
-msgstr ""
+msgstr "조명 뷰"
 
 #. Key: KeywordDefinition.LightingFilter.Description
 msgctxt "KeywordDefinition.LightingFilter.Description"
@@ -23801,7 +23861,7 @@ msgstr ""
 #. Key: KeywordDefinition.Underlords.DisplayName
 msgctxt "KeywordDefinition.Underlords.DisplayName"
 msgid "Underlords"
-msgstr "Underlords"
+msgstr "언더로드"
 
 #. Key: KeywordDefinition.Underlords.Description
 msgctxt "KeywordDefinition.Underlords.Description"
@@ -23831,7 +23891,7 @@ msgstr ""
 #. Key: KeywordDefinition.storage.DisplayName
 msgctxt "KeywordDefinition.storage.DisplayName"
 msgid "Storage"
-msgstr ""
+msgstr "저장소"
 
 #. Key: KeywordDefinition.storage.Description
 msgctxt "KeywordDefinition.storage.Description"
@@ -23891,7 +23951,7 @@ msgstr ""
 #. Key: KeywordDefinition.break.DisplayName
 msgctxt "KeywordDefinition.break.DisplayName"
 msgid "Break"
-msgstr "Break"
+msgstr "정신착란"
 
 #. Key: KeywordDefinition.break.Description
 msgctxt "KeywordDefinition.break.Description"
@@ -23901,7 +23961,7 @@ msgstr ""
 #. Key: KeywordDefinition.Skill_Pyromancy.DisplayName
 msgctxt "KeywordDefinition.Skill_Pyromancy.DisplayName"
 msgid "Fire"
-msgstr "불"
+msgstr "불꽃 마법"
 
 #. Key: KeywordDefinition.Skill_Pyromancy.Description
 msgctxt "KeywordDefinition.Skill_Pyromancy.Description"
@@ -23909,11 +23969,13 @@ msgid ""
 "Fire magic can be used in the school to <slink=JobType_Cook>, <slink=JobType_Hunting>, and <slink=JobType_Uproot> obstacles.\n"
 "In combat, Fire attacks are focused on high damage output, such as landing Critical Hits, but can be Mana-intensive to cast. Fire magic can also allow a Mage to retaliate when attacked by enemies."
 msgstr ""
+"불꽃 마법은 <slink=JobType_Cook>, <slink=JobType_Hunting>, 그리고 <slink=JobType_Uproot> 작업에 쓰입니다.\n"
+"전투에서 불꽃 마법은 높은 데미지를 가하는 데에 집중하지만, 그만큼 마나가 많이 듭니다. 불 마법은 적에게 데미지를 반사하는 데에도 쓰입니다."
 
 #. Key: KeywordDefinition.Skill_Hydrokinesis.DisplayName
 msgctxt "KeywordDefinition.Skill_Hydrokinesis.DisplayName"
 msgid "Water"
-msgstr "물"
+msgstr "물 마법"
 
 #. Key: KeywordDefinition.Skill_Hydrokinesis.Description
 msgctxt "KeywordDefinition.Skill_Hydrokinesis.Description"
@@ -23921,11 +23983,13 @@ msgid ""
 "Water magic can be used in the school for <slink=JobType_Alchemy> and to <slink=JobType_Clean>, and mastery of Water is necessary for various healing rituals.\n"
 "In combat, Water attacks are somewhat weak and prefer being cast from the back row, but often lower the Attack and Speed of enemies. Water magic also excels at cleansing negative statuses from allies."
 msgstr ""
+"물 마법은 <slink=JobType_Alchemy>과 <slink=JobType_Clean> 작업에 쓰이며, 다양한 치유 의식에도 필요합니다.\n"
+"전투에서 물 마법은 상대적으로 약하고 후열에서 장점을 보이지만 상대의 공격력이나 속도를 낮출 수 있습니다. 물 마법은 아군의 상태이상을 제거하는 데에도 유용합니다."
 
 #. Key: KeywordDefinition.Skill_Necromancy.DisplayName
 msgctxt "KeywordDefinition.Skill_Necromancy.DisplayName"
 msgid "Dark"
-msgstr "Dark"
+msgstr "어둠 마법"
 
 #. Key: KeywordDefinition.Skill_Necromancy.Description
 msgctxt "KeywordDefinition.Skill_Necromancy.Description"
@@ -23933,11 +23997,13 @@ msgid ""
 "Dark magic can be used in the school to <slink=JobType_Quilting> and <slink=JobType_Ward>.\n"
 "In combat, Dark magic allows the Mage to create <slink=Cover>, and to attack from the shadows for huge damage. Some Dark attacks hit many enemies, and are great for crowd control. "
 msgstr ""
+"어둠 마법은 <slink=JobType_Quilting>과 <slink=JobType_Ward> 작업에 사용됩니다.\n"
+"전투에서 어둠 마법은 <slink=Cover>를 제공하며, 어둠 속에서 큰 데미지를 가할 수 있습니다. 일부 어둠 마법은 여러 적을 공격하기도 합니다. "
 
 #. Key: KeywordDefinition.Skill_Manipulation.DisplayName
 msgctxt "KeywordDefinition.Skill_Manipulation.DisplayName"
 msgid "Air"
-msgstr "공기"
+msgstr "바람 마법"
 
 #. Key: KeywordDefinition.Skill_Manipulation.Description
 msgctxt "KeywordDefinition.Skill_Manipulation.Description"
@@ -23945,11 +24011,13 @@ msgid ""
 "Air magic can be used in the school to <slink=JobType_Assemble>, <slink=JobType_Painting>, and <slink=JobType_Haul>.\n"
 "In combat, Air attacks quickly and repeatedly, scaling well with Attack boosts. Air magic also can be used to put up Shields to block attacks or to Hasten allies, allowing them to act more frequently."
 msgstr ""
+"바람 마법은 <slink=JobType_Assemble>, <slink=JobType_Painting>, 그리고 <slink=JobType_Haul> 작업에 사용됩니다.\n"
+"전투에서 바람 마법은 빠르고 연속적으로 공격하며, 공격력 강화와 좋은 시너지를 냅니다. 바람 마법은 적의 공격을 막는 실드를 제공하거나 아군의 속도를 높이는 데에도 쓰입니다."
 
 #. Key: KeywordDefinition.Skill_Geomancy.DisplayName
 msgctxt "KeywordDefinition.Skill_Geomancy.DisplayName"
 msgid "Earth"
-msgstr "대지"
+msgstr "대지 마법"
 
 #. Key: KeywordDefinition.Skill_Geomancy.Description
 msgctxt "KeywordDefinition.Skill_Geomancy.Description"
@@ -23957,11 +24025,13 @@ msgid ""
 "Earth magic can be used in the school to <slink=JobType_Construct>, <slink=JobType_Carving>, <slink=JobType_Mining>, and <slink=JobType_Repair>.\n"
 "In combat, Earth attacks with powerful spells that are often even more powerful when cast at full HP. Earth magic can also let a Mage put up Armor to absorb blows and Taunt to goad enemies."
 msgstr ""
+"대지 마법은 <slink=JobType_Construct>, <slink=JobType_Carving>, <slink=JobType_Mining>, 그리고 <slink=JobType_Repair> 작업에 사용됩니다.\n"
+"전투에서 대지 마법은 HP가 가득 차 있을 때 위력적인 기술들로 구성되어 있습니다. 대지 마법은 적의 공격을 막는 아머를 제공하고, 적을 도발하는 데에도 사용됩니다."
 
 #. Key: KeywordDefinition.Skill_Divination.DisplayName
 msgctxt "KeywordDefinition.Skill_Divination.DisplayName"
 msgid "Lightning"
-msgstr "번개"
+msgstr "번개 마법"
 
 #. Key: KeywordDefinition.Skill_Divination.Description
 msgctxt "KeywordDefinition.Skill_Divination.Description"
@@ -23969,11 +24039,13 @@ msgid ""
 "Lightning magic can be used in the school to <slink=JobType_Charge>, <slink=JobType_Scrivening>, and <slink=JobType_Research>.\n"
 "In combat, Lightning attacks are great at targeting specific foes, often slowing them in the process. Lightning magic also support allies with additional Mana and Speed."
 msgstr ""
+"번개 마법은 <slink=JobType_Charge>, <slink=JobType_Scrivening>, 그리고 <slink=JobType_Research> 작업에 사용됩니다.\n"
+"전투에서 번개 마법은 특정 적을 공격하고, 적의 속도를 느리게 하는 것이 특기입니다. 번개 마법은 아군에게 추가 마나와 속도를 제공하기도 합니다."
 
 #. Key: KeywordDefinition.Skill_Viturgy.DisplayName
 msgctxt "KeywordDefinition.Skill_Viturgy.DisplayName"
 msgid "Nature"
-msgstr "자연"
+msgstr "자연 마법"
 
 #. Key: KeywordDefinition.Skill_Viturgy.Description
 msgctxt "KeywordDefinition.Skill_Viturgy.Description"
@@ -23981,16 +24053,18 @@ msgid ""
 "Nature magic can be used in the school to <slink=JobType_Harvest>, <slink=JobType_Tend>, <slink=JobType_Chop> and to craft <slink=JobType_Wandmaking>.\n"
 "In combat, Nature attacks can move enemies around and create Thorns to damage enemies passively. Nature magic is also great at boosting the Attack of allied Mages."
 msgstr ""
+"자연 마법은 <slink=JobType_Harvest>, <slink=JobType_Tend>, <slink=JobType_Chop> 그리고 <slink=JobType_Wandmaking> 작업에 사용됩니다.\n"
+"전투에서 자연 마법은 적의 위치를 바꾸거나 적에게 라운드당 데미지를 부여하는 가시덤불을 만들 수 있습니다. 자연 마법은 아군의 공격력을 높여 주기도 합니다."
 
 #. Key: KeywordDefinition.Skill_None.DisplayName
 msgctxt "KeywordDefinition.Skill_None.DisplayName"
 msgid "Any Skill"
-msgstr ""
+msgstr "아무 마법"
 
 #. Key: KeywordDefinition.Skill_None.Description
 msgctxt "KeywordDefinition.Skill_None.Description"
 msgid "Any Skill can satisfy this requirement."
-msgstr ""
+msgstr "아무 마법이나 괜찮습니다."
 
 #. Key: KeywordDefinition.Priority_Emergency.DisplayName
 msgctxt "KeywordDefinition.Priority_Emergency.DisplayName"
@@ -24000,12 +24074,12 @@ msgstr "긴급 우선순위"
 #. Key: KeywordDefinition.Priority_Emergency.Description
 msgctxt "KeywordDefinition.Priority_Emergency.Description"
 msgid "This job will be prioritized over everything besides other Emergency Priority jobs, including Eating and Sleeping. Characters will be roused from their normal Sleep to perform these jobs."
-msgstr ""
+msgstr "이 작업은 다른 긴급 작업을 제외한 모든 작업보다 우선하여 수행될 것입니다. 마법사는 이 작업을 수행하는 동안 먹거나 자지 않을 것입니다. 마법사들은 이 작업을 수행하기 위해 잠에서 깰 것입니다."
 
 #. Key: KeywordDefinition.Priority_Top.DisplayName
 msgctxt "KeywordDefinition.Priority_Top.DisplayName"
 msgid "Top Priority"
-msgstr ""
+msgstr "최고 우선순위"
 
 #. Key: KeywordDefinition.Priority_Top.Description
 msgctxt "KeywordDefinition.Priority_Top.Description"
@@ -26501,6 +26575,26 @@ msgctxt "GlobalEventDefinition.InvasionEvent_3.EventLogHover"
 msgid "<slink=Invasion>"
 msgstr "<slink=Invasion>"
 
+#. Key: GlobalEventStreamDefinition.Weather.DisplayName
+msgctxt "GlobalEventStreamDefinition.Weather.DisplayName"
+msgid "Weather"
+msgstr ""
+
+#. Key: GlobalEventStreamDefinition.HauntingVisitors.DisplayName
+msgctxt "GlobalEventStreamDefinition.HauntingVisitors.DisplayName"
+msgid "Haunting Visitors"
+msgstr ""
+
+#. Key: GlobalEventStreamDefinition.Conditions.DisplayName
+msgctxt "GlobalEventStreamDefinition.Conditions.DisplayName"
+msgid "Conditions"
+msgstr ""
+
+#. Key: GlobalEventStreamDefinition.RoomBattles.DisplayName
+msgctxt "GlobalEventStreamDefinition.RoomBattles.DisplayName"
+msgid "Room Battles"
+msgstr ""
+
 #. Key: DungeonRoomDefinition.L1_Stone_Boss1.DisplayName
 msgctxt "DungeonRoomDefinition.L1_Stone_Boss1.DisplayName"
 msgid "Level 2 Trial"
@@ -26931,6 +27025,26 @@ msgctxt "RecipeDefinition.RecycledQuiltedMinerRecipe.DisplayName"
 msgid "Recycled Quilted Miner"
 msgstr "재활용된 누더기 광부"
 
+#. Key: RecipeDefinition.QuiltedFertilizerRecipe.DisplayName
+msgctxt "RecipeDefinition.QuiltedFertilizerRecipe.DisplayName"
+msgid "Quilted Fertilizer"
+msgstr ""
+
+#. Key: RecipeDefinition.RecycledFertilizerRecipe.DisplayName
+msgctxt "RecipeDefinition.RecycledFertilizerRecipe.DisplayName"
+msgid "Recycled Quilted Fertilizer"
+msgstr ""
+
+#. Key: RecipeDefinition.QuiltedHarvesterRecipe.DisplayName
+msgctxt "RecipeDefinition.QuiltedHarvesterRecipe.DisplayName"
+msgid "Quilted Harvester"
+msgstr ""
+
+#. Key: RecipeDefinition.RecycledGardenerRecipe.DisplayName
+msgctxt "RecipeDefinition.RecycledGardenerRecipe.DisplayName"
+msgid "Recycled Quilted Harvester"
+msgstr ""
+
 #. Key: RecipeDefinition.SpindleDebugQuilting1.DisplayName
 msgctxt "RecipeDefinition.SpindleDebugQuilting1.DisplayName"
 msgid "Debug Quilting 1"
@@ -27266,6 +27380,11 @@ msgctxt "ResourceCategoryDefinition.Furniture.DisplayName"
 msgid "Furniture"
 msgstr "가구"
 
+#. Key: ResourceCategoryDefinition.Storage.DisplayName
+msgctxt "ResourceCategoryDefinition.Storage.DisplayName"
+msgid "Storage"
+msgstr ""
+
 #. Key: ResourceCategoryDefinition.Decor.DisplayName
 msgctxt "ResourceCategoryDefinition.Decor.DisplayName"
 msgid "Decor"
@@ -27490,6 +27609,11 @@ msgstr "Graves and Mining"
 msgctxt "ResearchTechDefinition.SpindleIII.DisplayName"
 msgid "Helpful Helpers"
 msgstr "Helpful Helpers"
+
+#. Key: ResearchTechDefinition.GardenHelpers.DisplayName
+msgctxt "ResearchTechDefinition.GardenHelpers.DisplayName"
+msgid "Helping Comes Naturally"
+msgstr ""
 
 #. Key: ResearchTechDefinition.SpindleIV.DisplayName
 msgctxt "ResearchTechDefinition.SpindleIV.DisplayName"
@@ -28897,7 +29021,7 @@ msgstr "소박한 침실"
 #. Key: RoomTypeDefinition.Hovel.Effects.0-638169128389213559
 msgctxt "RoomTypeDefinition.Hovel.Effects.0-638169128389213559"
 msgid "+2.5 <slink=Mood> to sleepers"
-msgstr "여기서 자면 +2.5 <slink=Mood>를 얻습니다"
+msgstr "수면 시 +2.5 <slink=Mood>"
 
 #. Key: RoomTypeDefinition.Hovel.Rules.0-638122528420851451.Criteria.11-638122528420851451.ComponentRequirementDisplayName
 msgctxt "RoomTypeDefinition.Hovel.Rules.0-638122528420851451.Criteria.11-638122528420851451.ComponentRequirementDisplayName"
@@ -28932,7 +29056,7 @@ msgstr "개인 침실"
 #. Key: RoomTypeDefinition.LuxuryBedroom.Effects.0-638169128389213559
 msgctxt "RoomTypeDefinition.LuxuryBedroom.Effects.0-638169128389213559"
 msgid "+15 <slink=Mood> to Staff sleepers"
-msgstr "여기서 자는 교사는 +15 <slink=Mood>를 얻습니다"
+msgstr "교사 수면 시 +15 <slink=Mood>"
 
 #. Key: RoomTypeDefinition.LuxuryBedroom.Rules.0-638122528420851451.Criteria.9-638122528420851451.ComponentRequirementDisplayName
 msgctxt "RoomTypeDefinition.LuxuryBedroom.Rules.0-638122528420851451.Criteria.9-638122528420851451.ComponentRequirementDisplayName"
@@ -28987,7 +29111,7 @@ msgstr "기숙사"
 #. Key: RoomTypeDefinition.Dormitory.Effects.0-638169128389213559
 msgctxt "RoomTypeDefinition.Dormitory.Effects.0-638169128389213559"
 msgid "+5 <slink=Mood> to Student sleepers"
-msgstr "여기서 자는 학생은 +5 <slink=Mood>를 얻습니다"
+msgstr "학생 수면 시 +5 <slink=Mood>"
 
 #. Key: RoomTypeDefinition.Dormitory.Rules.0-638122528420851451.Criteria.9-638122528420851451.ComponentRequirementDisplayName
 msgctxt "RoomTypeDefinition.Dormitory.Rules.0-638122528420851451.Criteria.9-638122528420851451.ComponentRequirementDisplayName"
@@ -29022,7 +29146,7 @@ msgstr "침실"
 #. Key: RoomTypeDefinition.Bedroom.Effects.0-638169128389213559
 msgctxt "RoomTypeDefinition.Bedroom.Effects.0-638169128389213559"
 msgid "+5 <slink=Mood> to Staff sleepers"
-msgstr "여기서 자는 교사는 +5 <slink=Mood>를 얻습니다"
+msgstr "교사 수면 시 +5 <slink=Mood>"
 
 #. Key: RoomTypeDefinition.Bedroom.Rules.0-638122528420851451.Criteria.11-638122528420851451.ComponentRequirementDisplayName
 msgctxt "RoomTypeDefinition.Bedroom.Rules.0-638122528420851451.Criteria.11-638122528420851451.ComponentRequirementDisplayName"
@@ -29067,7 +29191,7 @@ msgstr "고급 침실"
 #. Key: RoomTypeDefinition.Bedchamber.Effects.0-638169128389228605
 msgctxt "RoomTypeDefinition.Bedchamber.Effects.0-638169128389228605"
 msgid "+25 <slink=Mood> to Staff sleepers"
-msgstr "여기서 자는 교사는 +25 <slink=Mood>를 얻습니다"
+msgstr "교사 수면 시 +25 <slink=Mood>"
 
 #. Key: RoomTypeDefinition.Bedchamber.Rules.0-638122528420851451.Criteria.9-638122528420851451.ComponentRequirementDisplayName
 msgctxt "RoomTypeDefinition.Bedchamber.Rules.0-638122528420851451.Criteria.9-638122528420851451.ComponentRequirementDisplayName"
@@ -30002,7 +30126,7 @@ msgstr "식당"
 #. Key: RoomTypeDefinition.DiningRoom.Effects.0-638169128389373788
 msgctxt "RoomTypeDefinition.DiningRoom.Effects.0-638169128389373788"
 msgid "+5 <slink=Mood> to Staff diners."
-msgstr "여기서 식사하는 교사는 +5 <slink=Mood>를 얻습니다."
+msgstr "교사 식사 시 +5 <slink=Mood>"
 
 #. Key: RoomTypeDefinition.DiningRoom.Rules.0-638122528421041227.Criteria.0-638122528421041227.ComponentRequirementDisplayName
 msgctxt "RoomTypeDefinition.DiningRoom.Rules.0-638122528421041227.Criteria.0-638122528421041227.ComponentRequirementDisplayName"
@@ -30037,7 +30161,7 @@ msgstr "학생 식당"
 #. Key: RoomTypeDefinition.Cafeteria.Effects.0-638169128389383783
 msgctxt "RoomTypeDefinition.Cafeteria.Effects.0-638169128389383783"
 msgid "+5 <slink=Mood> to Student diners."
-msgstr "여기서 식사하는 학생은 +5 <slink=Mood>를 얻습니다."
+msgstr "학생 식사 시 +5 <slink=Mood>"
 
 #. Key: RoomTypeDefinition.Cafeteria.Rules.0-638122528421041227.Criteria.0-638122528421041227.ComponentRequirementDisplayName
 msgctxt "RoomTypeDefinition.Cafeteria.Rules.0-638122528421041227.Criteria.0-638122528421041227.ComponentRequirementDisplayName"
@@ -30072,7 +30196,7 @@ msgstr "교사 식당"
 #. Key: RoomTypeDefinition.PrivateDiningRoom.Effects.0-638169128389373788
 msgctxt "RoomTypeDefinition.PrivateDiningRoom.Effects.0-638169128389373788"
 msgid "+15 <slink=Mood> to Staff diners."
-msgstr "여기서 식사하는 교사는 +15 <slink=Mood>를 얻습니다."
+msgstr "교사 식사 시 +15 <slink=Mood>"
 
 #. Key: RoomTypeDefinition.PrivateDiningRoom.Rules.0-638122528421041227.Criteria.4-638122528421041227.ComponentRequirementDisplayName
 msgctxt "RoomTypeDefinition.PrivateDiningRoom.Rules.0-638122528421041227.Criteria.4-638122528421041227.ComponentRequirementDisplayName"
@@ -30117,7 +30241,7 @@ msgstr "고급 교사 식당"
 #. Key: RoomTypeDefinition.SalleaManger.Effects.0-638169128389373788
 msgctxt "RoomTypeDefinition.SalleaManger.Effects.0-638169128389373788"
 msgid "+25 <slink=Mood> to Staff diners."
-msgstr "여기서 식사하는 교사는 +25 <slink=Mood>를 얻습니다."
+msgstr "교사 식사 시 +25 <slink=Mood>"
 
 #. Key: RoomTypeDefinition.SalleaManger.Rules.0-638122528421041227.Criteria.4-638122528421041227.ComponentRequirementDisplayName
 msgctxt "RoomTypeDefinition.SalleaManger.Rules.0-638122528421041227.Criteria.4-638122528421041227.ComponentRequirementDisplayName"
@@ -30167,7 +30291,7 @@ msgstr "진료소"
 #. Key: RoomTypeDefinition.Infirmary.Effects.0-638297882929857930
 msgctxt "RoomTypeDefinition.Infirmary.Effects.0-638297882929857930"
 msgid "+5% <slink=HP> per hour from Bed Rest."
-msgstr "이곳에서 휴식하면 시간당 +5% <slink=HP>를 회복합니다."
+msgstr "체력 회복 시 시간당 +5% <slink=HP>"
 
 #. Key: RoomTypeDefinition.Infirmary.Effects.1-638297882929857930
 msgctxt "RoomTypeDefinition.Infirmary.Effects.1-638297882929857930"
@@ -30202,7 +30326,7 @@ msgstr "병원"
 #. Key: RoomTypeDefinition.Hospital.Effects.0-638169128389053349
 msgctxt "RoomTypeDefinition.Hospital.Effects.0-638169128389053349"
 msgid "+10% <slink=HP> per hour from Bed Rest."
-msgstr "이곳에서 휴식하면 시간당 +10% <slink=HP>를 회복합니다."
+msgstr "체력 회복 시 시간당 +10% <slink=HP>"
 
 #. Key: RoomTypeDefinition.Hospital.Effects.1-638291826994256737
 msgctxt "RoomTypeDefinition.Hospital.Effects.1-638291826994256737"
@@ -30242,7 +30366,7 @@ msgstr "음악 감상실"
 #. Key: RoomTypeDefinition.Conservatory.Effects.0-638169128389428838
 msgctxt "RoomTypeDefinition.Conservatory.Effects.0-638169128389428838"
 msgid "+5 <slink=Mood> to recreators"
-msgstr "이곳에서 휴식하면 +5 <slink=Mood>를 얻습니다."
+msgstr "휴식 시 +5 <slink=Mood>"
 
 #. Key: RoomTypeDefinition.Conservatory.Rules.1-638357415835060891.Criteria.0-638357415835060891.ComponentRequirementDisplayName
 msgctxt "RoomTypeDefinition.Conservatory.Rules.1-638357415835060891.Criteria.0-638357415835060891.ComponentRequirementDisplayName"
@@ -30272,17 +30396,17 @@ msgstr "학생 회관"
 #. Key: RoomTypeDefinition.CommonRoom.Effects.0-638169128389229457
 msgctxt "RoomTypeDefinition.CommonRoom.Effects.0-638169128389229457"
 msgid "+15 <slink=Mood> to Student sleepers"
-msgstr "이곳에서 자는 학생은 +15 <slink=Mood>를 얻습니다"
+msgstr "학생 수면 시 +15 <slink=Mood>"
 
 #. Key: RoomTypeDefinition.CommonRoom.Effects.1-638345160241146308
 msgctxt "RoomTypeDefinition.CommonRoom.Effects.1-638345160241146308"
 msgid "+15 <slink=Mood> to Student diners"
-msgstr "이곳에서 식사하는 학생은 +15 <slink=Mood>를 얻습니다"
+msgstr "학생 식사 시 +15 <slink=Mood>"
 
 #. Key: RoomTypeDefinition.CommonRoom.Effects.1-638169128389229457
 msgctxt "RoomTypeDefinition.CommonRoom.Effects.1-638169128389229457"
 msgid "+5 <slink=Mood> to Student recreators"
-msgstr "이곳에서 휴식하는 학생은 +5 <slink=Mood>를 얻습니다"
+msgstr "학생 휴식 시 +5 <slink=Mood>"
 
 #. Key: RoomTypeDefinition.CommonRoom.Rules.0-638122528420851451.Criteria.10-638122528420851451.ComponentRequirementDisplayName
 msgctxt "RoomTypeDefinition.CommonRoom.Rules.0-638122528420851451.Criteria.10-638122528420851451.ComponentRequirementDisplayName"
@@ -30332,22 +30456,22 @@ msgstr "고급 학생회관"
 #. Key: RoomTypeDefinition.HouseCommons.Effects.0-638169128389229457
 msgctxt "RoomTypeDefinition.HouseCommons.Effects.0-638169128389229457"
 msgid "+25 <slink=Mood> to Student sleepers"
-msgstr "이곳에서 자는 학생은 +25 <slink=Mood>를 얻습니다"
+msgstr "학생 수면 시 +25 <slink=Mood>"
 
 #. Key: RoomTypeDefinition.HouseCommons.Effects.1-638345160241146308
 msgctxt "RoomTypeDefinition.HouseCommons.Effects.1-638345160241146308"
 msgid "+25 <slink=Mood> to Student diners"
-msgstr "이곳에서 식사하는 학생은 +25 <slink=Mood>를 얻습니다"
+msgstr "학생 식사 시 +25 <slink=Mood>"
 
 #. Key: RoomTypeDefinition.HouseCommons.Effects.1-638169128389229457
 msgctxt "RoomTypeDefinition.HouseCommons.Effects.1-638169128389229457"
 msgid "+10 <slink=Mood> to Student recreators"
-msgstr "이곳에서 휴식하는 학생은 +10 <slink=Mood>를 얻습니다"
+msgstr "학생 휴식 시 +10 <slink=Mood>"
 
 #. Key: RoomTypeDefinition.HouseCommons.Rules.0-638122528420851451.Criteria.10-638122528420851451.ComponentRequirementDisplayName
 msgctxt "RoomTypeDefinition.HouseCommons.Rules.0-638122528420851451.Criteria.10-638122528420851451.ComponentRequirementDisplayName"
 msgid "Plain Beds, Fancy Beds, or Canopy Beds"
-msgstr "일반 침대, 멋진 침대 또는 휘장 침대"
+msgstr "일반 침대, 화려한 침대 또는 휘장 침대"
 
 #. Key: RoomTypeDefinition.HouseCommons.Rules.0-638122528421041227.Criteria.3-638122528421041227.ComponentRequirementDisplayName
 msgctxt "RoomTypeDefinition.HouseCommons.Rules.0-638122528421041227.Criteria.3-638122528421041227.ComponentRequirementDisplayName"

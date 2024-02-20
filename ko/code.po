@@ -588,11 +588,6 @@ msgctxt "ReturnToSpawnBehavior.0-638359255628317255"
 msgid "Returning Home"
 msgstr "귀가 중"
 
-#. Key: ReturnToSpawnBehavior.0-638359265645471463
-msgctxt "ReturnToSpawnBehavior.0-638359265645471463"
-msgid "{0} returned."
-msgstr "{0}(이)가 귀가했습니다."
-
 #. Key: RitualBehavior.0-638359255628327286
 msgctxt "RitualBehavior.0-638359255628327286"
 msgid "Performing Ritual"
@@ -3861,6 +3856,11 @@ msgctxt "DisintegrateCraftedErrand.3-638313270541167687"
 msgid "Waiting for disintegration"
 msgstr "분해 대기 중"
 
+#. Key: DisintegrateCraftedErrand.0-638429976717663943
+msgctxt "DisintegrateCraftedErrand.0-638429976717663943"
+msgid "Ingredients:"
+msgstr ""
+
 #. Key: EatErrand.0-638313270541167687
 #. Args:
 #. - EntityUtils.GetDisplayName(Entity)
@@ -5560,6 +5560,33 @@ msgctxt "ViewCombatUtils.5-638333251362517254"
 msgid "SHIELD"
 msgstr "쉴드"
 
+#. Key: PersistentPlayerOptions.0-638429976721043678
+msgctxt "PersistentPlayerOptions.0-638429976721043678"
+msgid "Gremlins"
+msgstr ""
+
+#. Key: PersistentPlayerOptions.1-638429976721043678
+msgctxt "PersistentPlayerOptions.1-638429976721043678"
+msgid "Oozes"
+msgstr ""
+
+#. Key: PersistentPlayerOptions.2-638429976721043678
+msgctxt "PersistentPlayerOptions.2-638429976721043678"
+msgid "Voidshrooms"
+msgstr ""
+
+#. Key: PersistentPlayerOptions.3-638429976721043678
+msgctxt "PersistentPlayerOptions.3-638429976721043678"
+msgid "Events"
+msgstr ""
+
+#. Key: PersistentPlayerOptions.4-638429976721043678
+#. Args:
+#. - pauseOnDangerType
+msgctxt "PersistentPlayerOptions.4-638429976721043678"
+msgid "Un-localized: {0}"
+msgstr ""
+
 #. Key: SaveLoad.0-638385715191967370
 msgctxt "SaveLoad.0-638385715191967370"
 msgid "Save Failed"
@@ -6148,6 +6175,14 @@ msgstr ""
 #. Key: SandboxSettingsScreen.1-638357407848838895
 msgctxt "SandboxSettingsScreen.1-638357407848838895"
 msgid "OK"
+msgstr ""
+
+#. Key: StackLimitSelectionWidget.0-638429976721374108
+#. Args:
+#. - stacksRequired
+#. - _maxValue / _stackSize
+msgctxt "StackLimitSelectionWidget.0-638429976721374108"
+msgid "Stacks: {0} / {1}"
 msgstr ""
 
 #. Key: Format.0-638415221467376665
@@ -7678,51 +7713,6 @@ msgctxt "OnGameOver.2-638328064223304387"
 msgid "Main Menu"
 msgstr "메인 메뉴로 돌아가기"
 
-#. Key: OnIntroDungeonOpens.0-638328064223314390
-msgctxt "OnIntroDungeonOpens.0-638328064223314390"
-msgid "Underschool Trial"
-msgstr "지하세계 시험"
-
-#. Key: OnIntroDungeonOpens.1-638328064223314390
-msgctxt "OnIntroDungeonOpens.1-638328064223314390"
-msgid ""
-"When Students undergo a Trial, they must battle a series of monsters in an attempt to defeat a powerful Underlord.\n"
-"\n"
-"You cannot assist them. They will survive or die based on their training. If you have taught them well, they will be victorious. If not, well... it is better not to think about it.  Your job is to select enough Students, place them in the best order, and equip them with everything they need to be successful.\n"
-"\n"
-"Once Students have begun the Trial, their fate is in their own hands."
-msgstr ""
-"학생들은 지하세계 시험에서 여러 번의 전투를 거쳐 강력한 지하세계 지배자에게 도달하게 됩니다.\n"
-"\n"
-"여러분은 학생들을 도울 수 없습니다. 학생들은 스스로의 능력에 따라 죽거나 생존할 것입니다. 여러분이 학생들을 잘 가르쳤다면 그들은 승리하여 돌아올 것이고, 그렇지 않다면야... 생각하고 싶지 않군요. 여러분은 시험에 응할 학생들을 선택하고, 최적의 순서에 맞춰 나열하고, 적절한 장비를 입혀 시험에 내보내야 합니다. \n"
-"\n"
-"시험을 시작하면, 학생들의 운명은 그들의 손에 달려 있습니다."
-
-#. Key: OnIntroDungeonOpens.2-638328064223314390
-msgctxt "OnIntroDungeonOpens.2-638328064223314390"
-msgid "Kinda dark, but here we go."
-msgstr "무시무시하네요, 그래도 한번 해봅시다."
-
-#. Key: OnIntroSurfaceOpens.0-638217425157213228
-msgctxt "OnIntroSurfaceOpens.0-638217425157213228"
-msgid "The Surface"
-msgstr ""
-
-#. Key: OnIntroSurfaceOpens.0-638328064223324391
-msgctxt "OnIntroSurfaceOpens.0-638328064223324391"
-msgid ""
-"Your newly graduated Mages have emerged from the Underschool and are now Staff, ready to work!\n"
-"\n"
-"They will need your help to find food, build a place to sleep, and start construction on a new school for young Mages.\n"
-"\n"
-"But don't wait too long to summon Students. The Fog approaches..."
-msgstr ""
-
-#. Key: OnIntroSurfaceOpens.1-638328064223324391
-msgctxt "OnIntroSurfaceOpens.1-638328064223324391"
-msgid "I got this!"
-msgstr ""
-
 #. Key: OnMiddenHeapHarvested.0-638328064223334394
 #. Args:
 #. - EntityUtils.GetDisplayName(_corpse)
@@ -9242,6 +9232,11 @@ msgctxt "SettingsWindowOptions.2-638332372939804428"
 msgid "Controls"
 msgstr "조작"
 
+#. Key: SettingsWindowOptions.0-638429976724002708
+msgctxt "SettingsWindowOptions.0-638429976724002708"
+msgid "Gameplay"
+msgstr ""
+
 #. Key: SettingsWindowOptions.3-638332372939804428
 msgctxt "SettingsWindowOptions.3-638332372939804428"
 msgid "Misc"
@@ -9407,6 +9402,16 @@ msgctxt "SettingsWindowOptions_Controls.4-638332372939816524"
 msgid "Cancel"
 msgstr "취소"
 
+#. Key: SettingsWindowOptions_Graphics.0-638398060494013842
+msgctxt "SettingsWindowOptions_Graphics.0-638398060494013842"
+msgid "Enable Translation Tool"
+msgstr "번역 툴 활성화"
+
+#. Key: SettingsWindowOptions_Data.0-638332372939831571
+msgctxt "SettingsWindowOptions_Data.0-638332372939831571"
+msgid "Disable Data Send"
+msgstr "분석 데이터 보내기 비활성화"
+
 #. Key: SettingsWindowOptions_Data.0-638390026272745635
 msgctxt "SettingsWindowOptions_Data.0-638390026272745635"
 msgid "Tutorial Enabled"
@@ -9422,15 +9427,10 @@ msgctxt "SettingsWindowOptions_Graphics.2-638373896637877755"
 msgid "Disable Combat Camera Motion"
 msgstr "전투 카메라 모션 비활성화"
 
-#. Key: SettingsWindowOptions_Graphics.0-638398060494013842
-msgctxt "SettingsWindowOptions_Graphics.0-638398060494013842"
-msgid "Enable Translation Tool"
-msgstr "번역 툴 활성화"
-
-#. Key: SettingsWindowOptions_Data.0-638332372939831571
-msgctxt "SettingsWindowOptions_Data.0-638332372939831571"
-msgid "Disable Data Send"
-msgstr "분석 데이터 보내기 비활성화"
+#. Key: SettingsWindowOptions_Gameplay.0-638429976724052688
+msgctxt "SettingsWindowOptions_Gameplay.0-638429976724052688"
+msgid "Pause On Danger Options"
+msgstr ""
 
 #. Key: SettingsWindow.0-638207064683201869
 msgctxt "SettingsWindow.0-638207064683201869"
@@ -11690,33 +11690,33 @@ msgstr "이 물체를 복사해서 다른 곳에 건설합니다. {0: false)}(�
 #. Key: BuildCopyWithSettingsButtonProvider.0-638385715195613717
 msgctxt "BuildCopyWithSettingsButtonProvider.0-638385715195613717"
 msgid "Build Copy With Settings"
-msgstr ""
+msgstr "설정을 유지하고 복제 건설"
 
 #. Key: BuildCopyWithSettingsButtonProvider.1-638385715195613717
 #. Args:
 #. - Model.Format.Link(JobType.Construct, includeStyle: false)
 msgctxt "BuildCopyWithSettingsButtonProvider.1-638385715195613717"
 msgid "Build a copy of this somewhere else, including settings. Uses {0: false)}."
-msgstr ""
+msgstr "이 물체를 설정을 포함해서 복제합니다. {0: false)}(을)를 사용합니다."
 
 #. Key: BuildCopyWithSettingsButtonProvider.2-638385715195613717
 #. Args:
 #. - Model.Format.Link(JobType.Assemble, includeStyle: false)
 msgctxt "BuildCopyWithSettingsButtonProvider.2-638385715195613717"
 msgid "Build a copy of this somewhere else, including settings. Uses {0: false)}."
-msgstr ""
+msgstr "이 물체를 설정을 포함해서 복제합니다. {0: false)}(을)를 사용합니다."
 
 #. Key: CancelPlayerErrandButtonProvider.0-638327234819616921
 msgctxt "CancelPlayerErrandButtonProvider.0-638327234819616921"
 msgid "Cancel Player Order"
-msgstr ""
+msgstr "플레이어 지시 취소"
 
 #. Key: CancelPlayerErrandButtonProvider.1-638327234819616921
 #. Args:
 #. - playerErrands.ErrandAtIndex(0).ToString(StringDisplayType.ErrandListing, entity)
 msgctxt "CancelPlayerErrandButtonProvider.1-638327234819616921"
 msgid "Cancel direct order of {0}"
-msgstr ""
+msgstr "{0} 직접 명령 취소"
 
 #. Key: CheatMakeGhost.0-638359255639157411
 msgctxt "CheatMakeGhost.0-638359255639157411"
@@ -11741,39 +11741,39 @@ msgstr ""
 #. Key: ClaimRewardButton.0-638327234819626924
 msgctxt "ClaimRewardButton.0-638327234819626924"
 msgid "Claim Reward"
-msgstr ""
+msgstr "보상 받기"
 
 #. Key: ClaimRewardButton.1-638327234819626924
 msgctxt "ClaimRewardButton.1-638327234819626924"
 msgid "Click to claim reward."
-msgstr ""
+msgstr "클릭해서 보상을 받으세요."
 
 #. Key: CopySettingsButtonProvider.0-638415221471756448
 msgctxt "CopySettingsButtonProvider.0-638415221471756448"
 msgid "Copy Settings"
-msgstr ""
+msgstr "설정 복사"
 
 #. Key: CopySettingsButtonProvider.1-638415221471756448
 msgctxt "CopySettingsButtonProvider.1-638415221471756448"
 msgid "Copied"
-msgstr ""
+msgstr "복사됨"
 
 #. Key: CopySettingsButtonProvider.2-638415221471756448
 msgctxt "CopySettingsButtonProvider.2-638415221471756448"
 msgid "Copy settings for Access, Storage, as available."
-msgstr ""
+msgstr "이 물체의 설정을 복사합니다."
 
 #. Key: CraftedAssembleButtonProvider.0-638327234819626924
 msgctxt "CraftedAssembleButtonProvider.0-638327234819626924"
 msgid "Cancel Assemble"
-msgstr ""
+msgstr "조립 취소"
 
 #. Key: CraftedAssembleButtonProvider.1-638327234819626924
 #. Args:
 #. - Model.Format.Link(JobType.Assemble, includeStyle:false)
 msgctxt "CraftedAssembleButtonProvider.1-638327234819626924"
 msgid "Click to cancel {0:false)}"
-msgstr ""
+msgstr "클릭하여 {0:false)} 취소"
 
 #. Key: DebugCycleEntityKey.0-638359255639177412
 msgctxt "DebugCycleEntityKey.0-638359255639177412"
@@ -11991,6 +11991,21 @@ msgstr ""
 #. Key: AllowedStorageWidget.2-638325564500403371
 msgctxt "AllowedStorageWidget.2-638325564500403371"
 msgid "Clear All"
+msgstr ""
+
+#. Key: AllowedStorageWidgetEntry.0-638429976725516060
+#. Args:
+#. - Model.Format.Link(EntityKey.GetDefinition())
+#. - stackSize
+msgctxt "AllowedStorageWidgetEntry.0-638429976725516060"
+msgid "Storage Limit: {0} <size=60%>(Stacks of {1})</size>"
+msgstr ""
+
+#. Key: AllowedStorageWidgetEntry.1-638429976725516060
+#. Args:
+#. - Model.Format.Link(EntityKey.GetDefinition())
+msgctxt "AllowedStorageWidgetEntry.1-638429976725516060"
+msgid "Set the maximum number of {0} stacks stored here."
 msgstr ""
 
 #. Key: AssignedAccessEntry.0-638325564500413712
