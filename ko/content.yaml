@@ -177,7 +177,7 @@
 - Key: Archetype.FurryMite.DescriptionConfig.0.DisplayName
   Text: 모피 진드기
 - Key: Archetype.FurryMite.DescriptionConfig.0.Description
-  Text: 지하세계의 입구 주변에서 나타나는 creepy-crawly Dark 괴물입니다. 한 번에 모든 적을 공격합니다.
+  Text: 지하세계의 입구 주변에서 나타나는 creepy-crawly 어둠괴물입니다. 한 번에 모든 적을 공격합니다.
 - Key: Archetype.FurryMite.DescriptionConfig.0.FlavorText
   Text: A smoke-clogged maw.
 - Key: Archetype.FurryMite.CombatIdleErrandConfig.0.BehaviorDesc
@@ -185,7 +185,7 @@
 - Key: Archetype.Bat.DescriptionConfig.0.DisplayName
   Text: 배트킨
 - Key: Archetype.Bat.DescriptionConfig.0.Description
-  Text: 지하세계의 얕은 깊이에서 나타나는 agile Air 괴물입니다. 멀티 히트 공격으로 빠르게 공격합니다.
+  Text: 지하세계의 얕은 깊이에서 나타나는 agile 바람괴물입니다. 멀티 히트 공격으로 빠르게 공격합니다.
 - Key: Archetype.Bat.DescriptionConfig.0.FlavorText
   Text: 왕복으로 날아갑니다.
 - Key: Archetype.Bat.CombatIdleErrandConfig.0.BehaviorDesc
@@ -199,7 +199,7 @@
 - Key: Archetype.Wraith.DescriptionConfig.0.DisplayName
   Text: Wraith
 - Key: Archetype.Wraith.DescriptionConfig.0.Description
-  Text: 지하세계의 얕은 깊이에서 나타나는 eerie Dark 괴물입니다.  <slink=Enemy_Sadness_Debuff_1> 적에게 피해를 줄 때 가해진다.
+  Text: 지하세계의 얕은 깊이에서 나타나는 eerie 어둠괴물입니다.  <slink=Enemy_Sadness_Debuff_1> 적에게 피해를 줄 때 가해진다.
 - Key: Archetype.Wraith.CombatIdleErrandConfig.0.BehaviorDesc
   Text: 공격 대기 중
 - Key: Archetype.LightningBox.DescriptionConfig.0.DisplayName
@@ -211,7 +211,7 @@
 - Key: Archetype.Strigoi.DescriptionConfig.0.DisplayName
   Text: 스트리고이
 - Key: Archetype.Strigoi.DescriptionConfig.0.Description
-  Text: 지하세계의 깊은 곳에서 나타나는 stealthy Dark 괴물입니다.  <slink=Enemy_Restless_Debuff_1> 적에게 피해를 입히다.
+  Text: 지하세계의 깊은 곳에서 나타나는 stealthy 어둠괴물입니다.  <slink=Enemy_Restless_Debuff_1> 적에게 피해를 입히다.
 - Key: Archetype.Strigoi.DescriptionConfig.0.FlavorText
   Text: 어둠 속의 날개에 빠르게 부풀어 올랐다.
 - Key: Archetype.Strigoi.CombatIdleErrandConfig.0.BehaviorDesc
@@ -219,7 +219,7 @@
 - Key: Archetype.Fernling.DescriptionConfig.0.DisplayName
   Text: 페른링
 - Key: Archetype.Fernling.DescriptionConfig.0.Description
-  Text: 지하세계의 깊은 곳에서 나타나는 overgrown Nature 괴물입니다. 첫 줄을 공격하는 동안 자신을 치유합니다.
+  Text: 지하세계의 깊은 곳에서 나타나는 overgrown 자연괴물입니다. 첫 줄을 공격하는 동안 자신을 치유합니다.
 - Key: Archetype.Fernling.DescriptionConfig.0.FlavorText
   Text: 끊임없이 성장하고 있습니다.
 - Key: Archetype.Fernling.CombatIdleErrandConfig.0.BehaviorDesc
@@ -227,7 +227,7 @@
 - Key: Archetype.Boulder.DescriptionConfig.0.DisplayName
   Text: 볼더조
 - Key: Archetype.Boulder.DescriptionConfig.0.Description
-  Text: 지하세계의 깊은 곳에서 나타나는 burly Earth 괴물입니다. 공격하는 마법사의 속도를 낮춥니다.
+  Text: 지하세계의 깊은 곳에서 나타나는 burly 대지괴물입니다. 공격하는 마법사의 속도를 낮춥니다.
 - Key: Archetype.Boulder.CombatIdleErrandConfig.0.BehaviorDesc
   Text: 공격 대기 중
 - Key: Archetype.HallowedOne.DescriptionConfig.0.DisplayName
@@ -247,7 +247,7 @@
 - Key: Archetype.Scythe.DescriptionConfig.0.DisplayName
   Text: Scythe
 - Key: Archetype.Scythe.DescriptionConfig.0.Description
-  Text: 지하세계의 가장 먼 곳에서 나타나는 loud Air 괴물입니다. 약한 마법사에게 먹이를 주고 동맹국의 공격을 촉진시킵니다.
+  Text: 지하세계의 가장 먼 곳에서 나타나는 loud 바람괴물입니다. 약한 마법사에게 먹이를 주고 동맹국의 공격을 촉진시킵니다.
 - Key: Archetype.Scythe.CombatIdleErrandConfig.0.BehaviorDesc
   Text: 공격 대기 중
 - Key: Archetype.Psycrow.DescriptionConfig.0.DisplayName
@@ -261,7 +261,7 @@
 - Key: Archetype.AirFly.DescriptionConfig.0.DisplayName
   Text: 버로워 모스
 - Key: Archetype.AirFly.DescriptionConfig.0.Description
-  Text: An Air Underlord. 아군의 속도를 높이고 여러 번 공격합니다.
+  Text: An 바람Underlord. 아군의 속도를 높이고 여러 번 공격합니다.
 - Key: Archetype.AirFly.DescriptionConfig.0.FlavorText
   Text: 섬뜩한 무지개 빛깔의 날개.
 - Key: Archetype.AirFly.CombatIdleErrandConfig.0.BehaviorDesc
@@ -269,7 +269,7 @@
 - Key: Archetype.FireSpitter.DescriptionConfig.0.DisplayName
   Text: 버로워 스피터
 - Key: Archetype.FireSpitter.DescriptionConfig.0.Description
-  Text: An Earth Underlord. 아군을 소환하고 충분한 피해를 입으면 분노하게 된다.
+  Text: An 대지Underlord. 아군을 소환하고 충분한 피해를 입으면 분노하게 된다.
 - Key: Archetype.FireSpitter.DescriptionConfig.0.FlavorText
   Text: Flaring mandibles.
 - Key: Archetype.FireSpitter.CombatIdleErrandConfig.0.BehaviorDesc
@@ -277,7 +277,7 @@
 - Key: Archetype.ThrallMage.DescriptionConfig.0.DisplayName
   Text: Thrall Mage
 - Key: Archetype.ThrallMage.DescriptionConfig.0.Description
-  Text: A Dark Underlord. 다양한 능력을 가진 아군을 소환하면서 무작위 적에게 채찍질합니다.
+  Text: A 어둠Underlord. 다양한 능력을 가진 아군을 소환하면서 무작위 적에게 채찍질합니다.
 - Key: Archetype.ThrallMage.DescriptionConfig.0.FlavorText
   Text: Puppetmaster의 뛰어난 역량입니다.
 - Key: Archetype.ThrallMage.CombatIdleErrandConfig.0.BehaviorDesc
@@ -285,7 +285,7 @@
 - Key: Archetype.DarkTentacle.DescriptionConfig.0.DisplayName
   Text: 어두운 촉수
 - Key: Archetype.DarkTentacle.DescriptionConfig.0.Description
-  Text: Dark 마법이 깃든 <slink=ThrallMage>의 촉수 중 하나입니다.
+  Text: 어둠마법이 깃든 <slink=ThrallMage>의 촉수 중 하나입니다.
 - Key: Archetype.DarkTentacle.DescriptionConfig.0.FlavorText
   Text: 악의적으로 말싸움.
 - Key: Archetype.DarkTentacle.CombatIdleErrandConfig.0.BehaviorDesc
@@ -293,7 +293,7 @@
 - Key: Archetype.FieryTentacle.DescriptionConfig.0.DisplayName
   Text: 불타는 촉수
 - Key: Archetype.FieryTentacle.DescriptionConfig.0.Description
-  Text: Fire 마법이 깃든 <slink=ThrallMage>의 촉수 중 하나입니다.
+  Text: 불꽃 마법이 깃든 <slink=ThrallMage>의 촉수 중 하나입니다.
 - Key: Archetype.FieryTentacle.DescriptionConfig.0.FlavorText
   Text: 열로 펄싱.
 - Key: Archetype.FieryTentacle.CombatIdleErrandConfig.0.BehaviorDesc
@@ -693,7 +693,7 @@
 - Key: Archetype.QuiltedHandyman.IdleErrandConfig.0.BehaviorDesc
   Text: 대기 중
 - Key: Archetype.QuiltedLumberjack.DescriptionConfig.0.DisplayName
-  Text: 누더기 나무꾸
+  Text: 누더기 나무꾼
 - Key: Archetype.QuiltedLumberjack.DescriptionConfig.0.Description
   Text: <slink=JobType_Chop>를 할 수 있는 <slink=Quilted>입니다.
 - Key: Archetype.QuiltedLumberjack.DescriptionConfig.0.FlavorText
@@ -2232,13 +2232,13 @@
 - Key: Archetype.Obelisk.DescriptionConfig.0.DisplayName
   Text: 오벨리스크
 - Key: Archetype.Obelisk.DescriptionConfig.0.Description
-  Text: Lair of Dark Arts를 만드는 데 필요합니다.
+  Text: Lair of 어둠Arts를 만드는 데 필요합니다.
 - Key: Archetype.Obelisk.DescriptionConfig.0.FlavorText
   Text: 지켜보는 사람들은 지체하지 않는다.
 - Key: Archetype.EyeGlobe.DescriptionConfig.0.DisplayName
   Text: 안구 글로브
 - Key: Archetype.EyeGlobe.DescriptionConfig.0.Description
-  Text: Lair of Dark Arts를 만드는 데 필요합니다.
+  Text: Lair of 어둠Arts를 만드는 데 필요합니다.
 - Key: Archetype.EyeGlobe.DescriptionConfig.0.FlavorText
   Text: 영원히 깜박이지 않음.
 - Key: Archetype.Fluttersail.DescriptionConfig.0.DisplayName
@@ -2250,7 +2250,7 @@
 - Key: Archetype.IonConduit.DescriptionConfig.0.DisplayName
   Text: 이온 회로
 - Key: Archetype.IonConduit.DescriptionConfig.0.Description
-  Text: Lightning Observatory를 만드는 데 필요합니다.
+  Text: 번개Observatory를 만드는 데 필요합니다.
 - Key: Archetype.IonConduit.DescriptionConfig.0.FlavorText
   Text: 머리카락 올리기.
 - Key: Archetype.StackingStones.DescriptionConfig.0.DisplayName
@@ -5328,7 +5328,7 @@
 - Key: SpellConfig.Wild-017.Description
   Text: Target is slowly eaten alive.
 - Key: SpellConfig.Wild-018.DisplayName
-  Text: Spectral Snare
+  Text: 유령 함정
 - Key: SpellConfig.Wild-018.Description
   Text: Bind spectral enemies for a duration.
 - Key: SpellConfig.Wild-X18.DisplayName
@@ -5565,32 +5565,32 @@
   Text: 슬픔 1
 - Key: CharacterStatusConfig.Enemy_Sadness_Debuff_1.Description
   Text: >
-    Lowered <slink=CombatStat_DamageBonus>. Will be afflicted with <slink=Enemy_Melancholy_Debuff> at 3 stacks.
+    <slink=CombatStat_DamageBonus>이 낮아집니다. <slink=Enemy_Melancholy_Debuff> 상태를 3스택 얻습니다.
 - Key: CharacterStatusConfig.Enemy_Sadness_Debuff_1.BattleString
-  Text: Sadness 1 (-10 Power)
+  Text: 슬픔 1 (-10 마력)
 - Key: CharacterStatusConfig.Enemy_Sadness_Debuff_2.DisplayName
   Text: 슬픔 2
 - Key: CharacterStatusConfig.Enemy_Sadness_Debuff_2.Description
   Text: >
-    Lowered <slink=CombatStat_DamageBonus>. Will be afflicted with <slink=Enemy_Melancholy_Debuff> at 3 stacks.
+    <slink=CombatStat_DamageBonus>이 낮아집니다. <slink=Enemy_Melancholy_Debuff> 상태를 3스택 얻습니다.
 - Key: CharacterStatusConfig.Enemy_Sadness_Debuff_2.BattleString
-  Text: Sadness 2 (-20 Power)
+  Text: 슬픔 2 (-20 마력)
 - Key: CharacterStatusConfig.Enemy_Sadness_Debuff_3.DisplayName
   Text: 슬픔 3
 - Key: CharacterStatusConfig.Enemy_Sadness_Debuff_3.Description
   Text: >
-    Lowered <slink=CombatStat_DamageBonus>. Also inflicts <slink=Enemy_Melancholy_Debuff>.
+    <slink=CombatStat_DamageBonus>이 낮아집니다. <slink=Enemy_Melancholy_Debuff> 상태를 3스택 얻습니다.
 - Key: CharacterStatusConfig.Enemy_Sadness_Debuff_3.BattleString
-  Text: Sadness 3 (-30 Power)
+  Text: 슬픔 3 (-30 마력)
 - Key: CharacterStatusConfig.Enemy_Melancholy_Debuff.DisplayName
   Text: 우울감
 - Key: CharacterStatusConfig.Enemy_Melancholy_Debuff.Description
   Text: >
-    The character is unable to cast work spells. Cure with a Cure Melancholy Ritual at the <slink=HospitalBed>.
+    이 캐릭터는 우울해서 작업을 할 수 없습니다. <slink=HospitalBed>에서 우울 치료 의식을 치르세요.
 - Key: CharacterStatusConfig.Enemy_Melancholy_Debuff.BattleString
   Text: 우울감
 - Key: CharacterStatusConfig.Enemy_Restless_Debuff_1.DisplayName
-  Text: Restless 1
+  Text: 지침 1
 - Key: CharacterStatusConfig.Enemy_Restless_Debuff_1.Description
   Text: >
     Spells cost 5 additional Mana. Will be afflicted with <slink=Enemy_Insomnia_Debuff> at 3 stacks.
@@ -6579,141 +6579,141 @@
 - Key: CharacterStatusConfig.HasDarkSpecWand.Description
   Text: Has Dark Wand
 - Key: CharacterStatusConfig.Fire_Waning.DisplayName
-  Text: Fire Wanes
+  Text: 불꽃의 그믐달
 - Key: CharacterStatusConfig.Fire_Waning.Description
   Text: -100 <slink=CombatStat_CombatSpeed> on Fire specialized characters.
 - Key: CharacterStatusConfig.Fire_Waning_Battle.DisplayName
-  Text: Fire Wanes
+  Text: 불꽃의 그믐달
 - Key: CharacterStatusConfig.Fire_Waning_Battle.Description
   Text: -100 <slink=CombatStat_CombatSpeed> on Fire specialized characters.
 - Key: CharacterStatusConfig.Fire_Waning_Battle.BattleString
   Text: -100 속도
 - Key: CharacterStatusConfig.Fire_Waxing.DisplayName
-  Text: Fire Waxes
+  Text: 불꽃의 보름달
 - Key: CharacterStatusConfig.Fire_Waxing.Description
   Text: Fire specialized characters start battle with <slink=Fire_Waxing_Battle>.
 - Key: CharacterStatusConfig.Fire_Waxing_Battle.DisplayName
-  Text: Fire Waxes
+  Text: 불꽃의 보름달
 - Key: CharacterStatusConfig.Fire_Waxing_Battle.Description
   Text: Fire specialized characters are <slink=FastTurnOrder>.
 - Key: CharacterStatusConfig.Fire_Waxing_Battle.BattleString
   Text: Fast
 - Key: CharacterStatusConfig.Water_Waning.DisplayName
-  Text: Water Wanes
+  Text: 물의 그믐달
 - Key: CharacterStatusConfig.Water_Waning.Description
   Text: -100 <slink=CombatStat_CombatSpeed> on Water specialized characters.
 - Key: CharacterStatusConfig.Water_Waning_Battle.DisplayName
-  Text: Water Wanes
+  Text: 물의 그믐달
 - Key: CharacterStatusConfig.Water_Waning_Battle.Description
   Text: -100 <slink=CombatStat_CombatSpeed> on Water specialized characters.
 - Key: CharacterStatusConfig.Water_Waning_Battle.BattleString
   Text: -100 속도
 - Key: CharacterStatusConfig.Water_Waxing.DisplayName
-  Text: Water Waxes
+  Text: 물의 보름달
 - Key: CharacterStatusConfig.Water_Waxing.Description
   Text: Water specialized characters start battle with <slink=Water_Waxing_Battle>.
 - Key: CharacterStatusConfig.Water_Waxing_Battle.DisplayName
-  Text: Water Waxes
+  Text: 물의 보름달
 - Key: CharacterStatusConfig.Water_Waxing_Battle.Description
   Text: Water specialized characters are <slink=FastTurnOrder>.
 - Key: CharacterStatusConfig.Water_Waxing_Battle.BattleString
   Text: Fast
 - Key: CharacterStatusConfig.Earth_Waning.DisplayName
-  Text: Earth Wanes
+  Text: 대지의 그믐달
 - Key: CharacterStatusConfig.Earth_Waning.Description
   Text: -100 <slink=CombatStat_CombatSpeed> on Earth specialized characters.
 - Key: CharacterStatusConfig.Earth_Waning_Battle.DisplayName
-  Text: Earth Wanes
+  Text: 대지의 그믐달
 - Key: CharacterStatusConfig.Earth_Waning_Battle.Description
   Text: -100 <slink=CombatStat_CombatSpeed> on Earth specialized characters.
 - Key: CharacterStatusConfig.Earth_Waning_Battle.BattleString
   Text: -100 속도
 - Key: CharacterStatusConfig.Earth_Waxing.DisplayName
-  Text: Earth Waxes
+  Text: 대지의 보름달
 - Key: CharacterStatusConfig.Earth_Waxing.Description
   Text: Earth specialized characters start battle with <slink=Earth_Waxing_Battle>.
 - Key: CharacterStatusConfig.Earth_Waxing_Battle.DisplayName
-  Text: Earth Waxes
+  Text: 대지의 보름달
 - Key: CharacterStatusConfig.Earth_Waxing_Battle.Description
   Text: Earth specialized characters are <slink=FastTurnOrder>.
 - Key: CharacterStatusConfig.Earth_Waxing_Battle.BattleString
   Text: Fast
 - Key: CharacterStatusConfig.Air_Waning.DisplayName
-  Text: Air Wanes
+  Text: 바람의 그믐달
 - Key: CharacterStatusConfig.Air_Waning.Description
   Text: -100 <slink=CombatStat_CombatSpeed> on Air specialized characters.
 - Key: CharacterStatusConfig.Air_Waning_Battle.DisplayName
-  Text: Air Wanes
+  Text: 바람의 그믐달
 - Key: CharacterStatusConfig.Air_Waning_Battle.Description
   Text: -100 <slink=CombatStat_CombatSpeed> on Air specialized characters.
 - Key: CharacterStatusConfig.Air_Waning_Battle.BattleString
   Text: -100 속도
 - Key: CharacterStatusConfig.Air_Waxing.DisplayName
-  Text: Air Waxes
+  Text: 바람의 보름달
 - Key: CharacterStatusConfig.Air_Waxing.Description
   Text: Air specialized characters start battle with <slink=Air_Waxing_Battle>.
 - Key: CharacterStatusConfig.Air_Waxing_Battle.DisplayName
-  Text: Air Waxes
+  Text: 바람의 보름달
 - Key: CharacterStatusConfig.Air_Waxing_Battle.Description
   Text: Air specialized characters are <slink=FastTurnOrder>.
 - Key: CharacterStatusConfig.Air_Waxing_Battle.BattleString
   Text: Fast
 - Key: CharacterStatusConfig.Dark_Waning.DisplayName
-  Text: Dark Wanes
+  Text: 어둠의 그믐달
 - Key: CharacterStatusConfig.Dark_Waning.Description
   Text: -100 <slink=CombatStat_CombatSpeed> on Dark specialized characters.
 - Key: CharacterStatusConfig.Dark_Waning_Battle.DisplayName
-  Text: Dark Wanes
+  Text: 어둠의 그믐달
 - Key: CharacterStatusConfig.Dark_Waning_Battle.Description
   Text: -100 <slink=CombatStat_CombatSpeed> on Dark specialized characters.
 - Key: CharacterStatusConfig.Dark_Waning_Battle.BattleString
   Text: -100 속도
 - Key: CharacterStatusConfig.Dark_Waxing.DisplayName
-  Text: Dark Waxes
+  Text: 어둠의 보름달
 - Key: CharacterStatusConfig.Dark_Waxing.Description
   Text: Dark specialized characters start battle with <slink=Dark_Waxing_Battle>.
 - Key: CharacterStatusConfig.Dark_Waxing_Battle.DisplayName
-  Text: Dark Waxes
+  Text: 어둠의 보름달
 - Key: CharacterStatusConfig.Dark_Waxing_Battle.Description
   Text: Dark specialized characters are <slink=FastTurnOrder>.
 - Key: CharacterStatusConfig.Dark_Waxing_Battle.BattleString
   Text: Fast
 - Key: CharacterStatusConfig.Nature_Waning.DisplayName
-  Text: Nature Wanes
+  Text: 자연의 그믐달
 - Key: CharacterStatusConfig.Nature_Waning.Description
   Text: -100 <slink=CombatStat_CombatSpeed> on Nature specialized characters.
 - Key: CharacterStatusConfig.Nature_Waning_Battle.DisplayName
-  Text: Nature Wanes
+  Text: 자연의 그믐달
 - Key: CharacterStatusConfig.Nature_Waning_Battle.Description
   Text: -100 <slink=CombatStat_CombatSpeed> on Nature specialized characters.
 - Key: CharacterStatusConfig.Nature_Waning_Battle.BattleString
   Text: -100 속도
 - Key: CharacterStatusConfig.Nature_Waxing.DisplayName
-  Text: Nature Waxes
+  Text: 자연의 보름달
 - Key: CharacterStatusConfig.Nature_Waxing.Description
   Text: Nature specialized characters start battle with <slink=Nature_Waxing_Battle>.
 - Key: CharacterStatusConfig.Nature_Waxing_Battle.DisplayName
-  Text: Nature Waxes
+  Text: 자연의 보름달
 - Key: CharacterStatusConfig.Nature_Waxing_Battle.Description
   Text: Nature specialized characters are <slink=FastTurnOrder>.
 - Key: CharacterStatusConfig.Nature_Waxing_Battle.BattleString
   Text: Fast
 - Key: CharacterStatusConfig.Lightning_Waning.DisplayName
-  Text: Lightning Wanes
+  Text: 번개의 그믐달
 - Key: CharacterStatusConfig.Lightning_Waning.Description
   Text: -100 <slink=CombatStat_CombatSpeed> on Lightning specialized characters.
 - Key: CharacterStatusConfig.Lightning_Waning_Battle.DisplayName
-  Text: Lightning Wanes
+  Text: 번개의 그믐달
 - Key: CharacterStatusConfig.Lightning_Waning_Battle.Description
   Text: -100 <slink=CombatStat_CombatSpeed> on Lightning specialized characters.
 - Key: CharacterStatusConfig.Lightning_Waning_Battle.BattleString
   Text: -100 속도
 - Key: CharacterStatusConfig.Lightning_Waxing.DisplayName
-  Text: Lightning Waxes
+  Text: 번개의 보름달
 - Key: CharacterStatusConfig.Lightning_Waxing.Description
   Text: Lightning specialized characters start battle with <slink=Lightning_Waxing_Battle>.
 - Key: CharacterStatusConfig.Lightning_Waxing_Battle.DisplayName
-  Text: Lightning Waxes
+  Text: 번개의 보름달
 - Key: CharacterStatusConfig.Lightning_Waxing_Battle.Description
   Text: Lightning specialized characters are <slink=FastTurnOrder>.
 - Key: CharacterStatusConfig.Lightning_Waxing_Battle.BattleString
@@ -6841,9 +6841,9 @@
 - Key: CharacterStatusConfig.FullHP.Description
   Text: 전체 HP
 - Key: CharacterStatusConfig.DamagedHP.DisplayName
-  Text: In Pain
+  Text: 부상당함
 - Key: CharacterStatusConfig.DamagedHP.Description
-  Text: HP is not full.
+  Text: HP가 깎인 상태입니다.
 - Key: CharacterStatusConfig.Unconscious.DisplayName
   Text: 기절
 - Key: CharacterStatusConfig.Unconscious.Description
@@ -7760,7 +7760,7 @@
 - Key: CharacterStatusConfig.Heart_BedroomTrigger_2.DisplayName
   Text: 기숙사가 좋아 - 은메달
 - Key: CharacterStatusConfig.Heart_BedroomTrigger_2.Description
-  Text: Gains <slink=Mood> while sleeping in a <slink=Bedroom> or <slink=Dormitory>.
+  Text: <slink=Bedroom>이나 <slink=Dormitory>에서 잘 때 <slink=Mood>를 얻습니다.
 - Key: CharacterStatusConfig.Heart_BedroomBuff_2.DisplayName
   Text: 침실이 좋아 - 은메달
 - Key: CharacterStatusConfig.Heart_BedroomBuff_2.Description
@@ -7894,19 +7894,19 @@
 - Key: CharacterStatusConfig.Wisdom_AtkMana_4.Description
   Text: <slink=CombatStat_DamageBonus>와 <slink=Mana>가 강화됩니다.
 - Key: CharacterStatusConfig.Wisdom_DarkUpgrade_1.DisplayName
-  Text: Dark 지식 - 동메달
+  Text: 어둠지식 - 동메달
 - Key: CharacterStatusConfig.Wisdom_DarkUpgrade_1.Description
   Text: 어둠 스킬 레벨 상한 +1.
 - Key: CharacterStatusConfig.Wisdom_DarkUpgrade_2.DisplayName
-  Text: Dark 지식 - 은메달
+  Text: 어둠지식 - 은메달
 - Key: CharacterStatusConfig.Wisdom_DarkUpgrade_2.Description
   Text: 어둠 스킬 레벨 및 레벨 상한 +1.
 - Key: CharacterStatusConfig.Wisdom_DarkUpgrade_3.DisplayName
-  Text: Dark 지식 - 금메달
+  Text: 어둠지식 - 금메달
 - Key: CharacterStatusConfig.Wisdom_DarkUpgrade_3.Description
   Text: 어둠 스킬 레벨 상한 +2.
 - Key: CharacterStatusConfig.Wisdom_DarkUpgrade_4.DisplayName
-  Text: Dark 지식 - 플래티넘 메달
+  Text: 어둠지식 - 플래티넘 메달
 - Key: CharacterStatusConfig.Wisdom_DarkUpgrade_4.Description
   Text: 어둠 스킬 레벨 및 레벨 상한 +2.
 - Key: CharacterStatusConfig.Wisdom_LoveLearning_Trigger_1.DisplayName
@@ -7942,85 +7942,85 @@
 - Key: CharacterStatusConfig.Wisdom_LoveLearning_Buff_4.Description
   Text: 배우거나 가르칠 때 <slink=Mood>가 +20 상승합니다
 - Key: CharacterStatusConfig.Wisdom_BasicTeacherTrigger_1.DisplayName
-  Text: Basic Teacher - 동메달
+  Text: Basic  선생님 - 동메달
 - Key: CharacterStatusConfig.Wisdom_BasicTeacherTrigger_1.Description
   Text: <slink=BasicClassroom>에서 가르칠 때 2배 빠르게 가르칩니다.
 - Key: CharacterStatusConfig.Wisdom_BasicTeacherBuff_1.DisplayName
-  Text: Basic Teacher - 동메달
+  Text: Basic  선생님 - 동메달
 - Key: CharacterStatusConfig.Wisdom_BasicTeacherBuff_1.Description
   Text: <slink=BasicClassroom>에서 가르칠 때 2배 빠르게 가르칩니다.
 - Key: CharacterStatusConfig.Wisdom_IntermediateTeacherTrigger_2.DisplayName
-  Text: Intermediate Teacher - 은메달
+  Text: Intermediate  선생님 - 은메달
 - Key: CharacterStatusConfig.Wisdom_IntermediateTeacherTrigger_2.Description
   Text: <slink=IntermediateClassroom>에서 가르칠 때 2배 빠르게 가르칩니다.
 - Key: CharacterStatusConfig.Wisdom_IntermediateTeacherBuff_2.DisplayName
-  Text: Intermediate Teacher - 은메달
+  Text: Intermediate  선생님 - 은메달
 - Key: CharacterStatusConfig.Wisdom_IntermediateTeacherBuff_2.Description
   Text: <slink=IntermediateClassroom>에서 가르칠 때 2배 빠르게 가르칩니다.
 - Key: CharacterStatusConfig.Wisdom_AdvancedTeacherTrigger_3.DisplayName
-  Text: Advanced Teacher - 금메달
+  Text: Advanced  선생님 - 금메달
 - Key: CharacterStatusConfig.Wisdom_AdvancedTeacherTrigger_3.Description
   Text: <slink=AdvancedClassroom>에서 가르칠 때 2배 빠르게 가르칩니다.
 - Key: CharacterStatusConfig.Wisdom_AdvancedTeacherBuff_3.DisplayName
-  Text: Advanced Teacher - 금메달
+  Text: Advanced  선생님 - 금메달
 - Key: CharacterStatusConfig.Wisdom_AdvancedTeacherBuff_3.Description
   Text: <slink=AdvancedClassroom>에서 가르칠 때 2배 빠르게 가르칩니다.
 - Key: CharacterStatusConfig.Wisdom_FireTeacherTrigger_4.DisplayName
-  Text: Fire Teacher - 플래티넘 메달
+  Text: Fire  선생님 - 플래티넘 메달
 - Key: CharacterStatusConfig.Wisdom_FireTeacherTrigger_4.Description
-  Text: Teaches twice as fast in <slink=FireClassroom>.
+  Text: <slink=FireClassroom>에서 두 배 빠르게 가르칩니다.
 - Key: CharacterStatusConfig.Wisdom_FireTeacherBuff_4.DisplayName
-  Text: Fire Teacher - 플래티넘 메달
+  Text: Fire  선생님 - 플래티넘 메달
 - Key: CharacterStatusConfig.Wisdom_FireTeacherBuff_4.Description
-  Text: Teaches twice as fast in <slink=FireClassroom>.
+  Text: <slink=FireClassroom>에서 두 배 빠르게 가르칩니다.
 - Key: CharacterStatusConfig.Wisdom_DarkTeacherTrigger_4.DisplayName
-  Text: Dark Teacher - 플래티넘 메달
+  Text: 어둠 선생님 - 플래티넘 메달
 - Key: CharacterStatusConfig.Wisdom_DarkTeacherTrigger_4.Description
-  Text: Teaches twice as fast in <slink=DarkClassroom>.
+  Text: <slink=DarkClassroom>에서 두 배 빠르게 가르칩니다.
 - Key: CharacterStatusConfig.Wisdom_DarkTeacherBuff_4.DisplayName
-  Text: Dark Teacher - 플래티넘 메달
+  Text: 어둠 선생님 - 플래티넘 메달
 - Key: CharacterStatusConfig.Wisdom_DarkTeacherBuff_4.Description
-  Text: Teaches twice as fast in <slink=DarkClassroom>.
+  Text: <slink=DarkClassroom>에서 두 배 빠르게 가르칩니다.
 - Key: CharacterStatusConfig.Wisdom_WaterTeacherTrigger_4.DisplayName
-  Text: Water Teacher - 플래티넘 메달
+  Text: 물 선생님 - 플래티넘 메달
 - Key: CharacterStatusConfig.Wisdom_WaterTeacherTrigger_4.Description
-  Text: Teaches twice as fast in <slink=WaterClassroom>.
+  Text: <slink=WaterClassroom>에서 두 배 빠르게 가르칩니다.
 - Key: CharacterStatusConfig.Wisdom_WaterTeacherBuff_4.DisplayName
-  Text: Water Teacher - 플래티넘 메달
+  Text: 물 선생님 - 플래티넘 메달
 - Key: CharacterStatusConfig.Wisdom_WaterTeacherBuff_4.Description
-  Text: Teaches twice as fast in <slink=WaterClassroom>.
+  Text: <slink=WaterClassroom>에서 두 배 빠르게 가르칩니다.
 - Key: CharacterStatusConfig.Wisdom_EarthTeacherTrigger_4.DisplayName
-  Text: Earth Teacher - 플래티넘 메달
+  Text: 대지 선생님 - 플래티넘 메달
 - Key: CharacterStatusConfig.Wisdom_EarthTeacherTrigger_4.Description
-  Text: Teaches twice as fast in <slink=EarthClassroom>.
+  Text: <slink=EarthClassroom>에서 두 배 빠르게 가르칩니다.
 - Key: CharacterStatusConfig.Wisdom_EarthTeacherBuff_4.DisplayName
-  Text: Earth Teacher - 플래티넘 메달
+  Text: 대지 선생님 - 플래티넘 메달
 - Key: CharacterStatusConfig.Wisdom_EarthTeacherBuff_4.Description
-  Text: Teaches twice as fast in <slink=EarthClassroom>.
+  Text: <slink=EarthClassroom>에서 두 배 빠르게 가르칩니다.
 - Key: CharacterStatusConfig.Wisdom_AirTeacherTrigger_4.DisplayName
-  Text: Air Teacher - 플래티넘 메달
+  Text: 바람 선생님 - 플래티넘 메달
 - Key: CharacterStatusConfig.Wisdom_AirTeacherTrigger_4.Description
-  Text: Teaches twice as fast in <slink=AirClassroom>.
+  Text: <slink=AirClassroom>에서 두 배 빠르게 가르칩니다.
 - Key: CharacterStatusConfig.Wisdom_AirTeacherBuff_4.DisplayName
-  Text: Air Teacher - 플래티넘 메달
+  Text: 바람 선생님 - 플래티넘 메달
 - Key: CharacterStatusConfig.Wisdom_AirTeacherBuff_4.Description
-  Text: Teaches twice as fast in <slink=AirClassroom>.
+  Text: <slink=AirClassroom>에서 두 배 빠르게 가르칩니다.
 - Key: CharacterStatusConfig.Wisdom_NatureTeacherTrigger_4.DisplayName
-  Text: Nature Teacher - 플래티넘 메달
+  Text: 자연 선생님 - 플래티넘 메달
 - Key: CharacterStatusConfig.Wisdom_NatureTeacherTrigger_4.Description
-  Text: Teaches twice as fast in <slink=NatureClassroom>.
+  Text: <slink=NatureClassroom>에서 두 배 빠르게 가르칩니다.
 - Key: CharacterStatusConfig.Wisdom_NatureTeacherBuff_4.DisplayName
-  Text: Nature Teacher - 플래티넘 메달
+  Text: 자연 선생님 - 플래티넘 메달
 - Key: CharacterStatusConfig.Wisdom_NatureTeacherBuff_4.Description
-  Text: Teaches twice as fast in <slink=NatureClassroom>.
+  Text: <slink=NatureClassroom>에서 두 배 빠르게 가르칩니다.
 - Key: CharacterStatusConfig.Wisdom_LightningTeacherTrigger_4.DisplayName
-  Text: Lightning Teacher - 플래티넘 메달
+  Text: 번개 선생님 - 플래티넘 메달
 - Key: CharacterStatusConfig.Wisdom_LightningTeacherTrigger_4.Description
-  Text: Teaches twice as fast in <slink=LightningClassroom>.
+  Text: <slink=LightningClassroom>에서 두 배 빠르게 가르칩니다.
 - Key: CharacterStatusConfig.Wisdom_LightningTeacherBuff_4.DisplayName
-  Text: Lightning Teacher - 플래티넘 메달
+  Text: 번개 선생님 - 플래티넘 메달
 - Key: CharacterStatusConfig.Wisdom_LightningTeacherBuff_4.Description
-  Text: Teaches twice as fast in <slink=LightningClassroom>.
+  Text: <slink=LightningClassroom>에서 두 배 빠르게 가르칩니다.
 - Key: CharacterStatusConfig.Spirit_Spd_1.DisplayName
   Text: Bolstered Spirit - 동메달
 - Key: CharacterStatusConfig.Spirit_Spd_1.Description
@@ -8088,19 +8088,19 @@
 - Key: CharacterStatusConfig.Spirit_AirUpgrade_1.DisplayName
   Text: 공기의 지식 - 동메달
 - Key: CharacterStatusConfig.Spirit_AirUpgrade_1.Description
-  Text: +1 to Air Skill Cap
+  Text: 공기 마법 스킬 상한 +1
 - Key: CharacterStatusConfig.Spirit_AirUpgrade_2.DisplayName
   Text: 공기의 지식 - 은메달
 - Key: CharacterStatusConfig.Spirit_AirUpgrade_2.Description
-  Text: +1 to Air Skill and Skill Cap
+  Text: 공기 마법 스킬 및 스킬 상한 +1
 - Key: CharacterStatusConfig.Spirit_AirUpgrade_3.DisplayName
   Text: 공기의 지식 - 금메달
 - Key: CharacterStatusConfig.Spirit_AirUpgrade_3.Description
-  Text: +2 to Air Skill Cap
+  Text: 공기 마법 스킬 상한 +2
 - Key: CharacterStatusConfig.Spirit_AirUpgrade_4.DisplayName
   Text: 공기의 지식 - 플래티넘 메달
 - Key: CharacterStatusConfig.Spirit_AirUpgrade_4.Description
-  Text: +2 to Air Skill and Skill Cap
+  Text: 공기 마법 스킬 및 스킬 상한 +2
 - Key: CharacterStatusConfig.Spirit_DebuffImmunity_1.DisplayName
   Text: Detachment - 동메달
 - Key: CharacterStatusConfig.Spirit_DebuffImmunity_1.Description
@@ -8160,11 +8160,11 @@
 - Key: CharacterStatusConfig.Spirit_Quilting_1.DisplayName
   Text: Quilting Spirit - 동메달
 - Key: CharacterStatusConfig.Spirit_Quilting_1.Description
-  Text: 1.5배 빠르게 Quilts합니다.
+  Text: 1.5배 빠르게 누더기를 제작합니다.
 - Key: CharacterStatusConfig.Spirit_Alchemy_1.DisplayName
   Text: Alchemy Spirit - 동메달
 - Key: CharacterStatusConfig.Spirit_Alchemy_1.Description
-  Text: 1.5배 빠르게 Brews합니다.
+  Text: 1.5배 빠르게 물약을 제조합니다.
 - Key: CharacterStatusConfig.Spirit_Research_1.DisplayName
   Text: Research Spirit - 동메달
 - Key: CharacterStatusConfig.Spirit_Research_1.Description
@@ -8188,11 +8188,11 @@
 - Key: CharacterStatusConfig.Spirit_Quilting_3.DisplayName
   Text: Quilting Spirit - 금메달
 - Key: CharacterStatusConfig.Spirit_Quilting_3.Description
-  Text: 2배 빠르게 Quilts합니다.
+  Text: 2배 빠르게 누더기를 제작합니다.
 - Key: CharacterStatusConfig.Spirit_Alchemy_3.DisplayName
   Text: Alchemy Spirit - 금메달
 - Key: CharacterStatusConfig.Spirit_Alchemy_3.Description
-  Text: 2배 빠르게 Brews합니다.
+  Text: 2배 빠르게 물약을 제조합니다.
 - Key: CharacterStatusConfig.Spirit_Research_3.DisplayName
   Text: Research Spirit - 금메달
 - Key: CharacterStatusConfig.Spirit_Research_3.Description
@@ -8216,11 +8216,11 @@
 - Key: CharacterStatusConfig.Spirit_Quilting_4.DisplayName
   Text: Quilting Spirit - 플래티넘 메달
 - Key: CharacterStatusConfig.Spirit_Quilting_4.Description
-  Text: 3배 빠르게 Quilts합니다.
+  Text: 3배 빠르게 누더기를 제작합니다.
 - Key: CharacterStatusConfig.Spirit_Alchemy_4.DisplayName
   Text: Alchemy Spirit - 플래티넘 메달
 - Key: CharacterStatusConfig.Spirit_Alchemy_4.Description
-  Text: 3배 빠르게 Brews합니다.
+  Text: 3배 빠르게 물약을 제조합니다.
 - Key: CharacterStatusConfig.Spirit_Research_4.DisplayName
   Text: Research Spirit - 플래티넘 메달
 - Key: CharacterStatusConfig.Spirit_Research_4.Description
@@ -8304,35 +8304,35 @@
 - Key: CharacterStatusConfig.Serenity_NatureUpgrade_1.DisplayName
   Text: 자연의 지식 - 동메달
 - Key: CharacterStatusConfig.Serenity_NatureUpgrade_1.Description
-  Text: +1 to Nature Skill Cap
+  Text: 자연 스킬 상한 +1
 - Key: CharacterStatusConfig.Serenity_NatureUpgrade_2.DisplayName
   Text: 자연의 지식 - 은메달
 - Key: CharacterStatusConfig.Serenity_NatureUpgrade_2.Description
-  Text: +1 to Nature Skill and Skill Cap
+  Text: 자연 스킬 레벨 및 스킬 상한 +1
 - Key: CharacterStatusConfig.Serenity_NatureUpgrade_3.DisplayName
   Text: 자연의 지식 - 금메달
 - Key: CharacterStatusConfig.Serenity_NatureUpgrade_3.Description
-  Text: +2 to Nature Skill Cap
+  Text: 자연 스킬 상한 +2
 - Key: CharacterStatusConfig.Serenity_NatureUpgrade_4.DisplayName
   Text: 자연의 지식 - 플래티넘 메달
 - Key: CharacterStatusConfig.Serenity_NatureUpgrade_4.Description
-  Text: +2 to Nature Skill and Skill Cap
+  Text: 자연 스킬 레벨 및 스킬 상한 +2
 - Key: CharacterStatusConfig.Serenity_EarthUpgrade_1.DisplayName
   Text: 대지의 지식 - 동메달
 - Key: CharacterStatusConfig.Serenity_EarthUpgrade_1.Description
-  Text: +1 to Earth Skill Cap
+  Text: 대지 스킬 상한 +1
 - Key: CharacterStatusConfig.Serenity_EarthUpgrade_2.DisplayName
   Text: 대지의 지식 - 은메달
 - Key: CharacterStatusConfig.Serenity_EarthUpgrade_2.Description
-  Text: +1 to Earth Skill and Skill Cap
+  Text: 대지 스킬 레벨 및 스킬 상한 +1
 - Key: CharacterStatusConfig.Serenity_EarthUpgrade_3.DisplayName
   Text: 대지의 지식 - 금메달
 - Key: CharacterStatusConfig.Serenity_EarthUpgrade_3.Description
-  Text: +2 to Earth Skill Cap
+  Text: 대지 스킬 상한 +2
 - Key: CharacterStatusConfig.Serenity_EarthUpgrade_4.DisplayName
   Text: 대지의 지식 - 플래티넘 메달
 - Key: CharacterStatusConfig.Serenity_EarthUpgrade_4.Description
-  Text: +2 to Earth Skill and Skill Cap
+  Text: 대지 스킬 레벨 및 스킬 상한 +2
 - Key: CharacterStatusConfig.Serenity_ConvictionUpgrade_1.DisplayName
   Text: Serene Disposition - 동메달
 - Key: CharacterStatusConfig.Serenity_ConvictionUpgrade_1.Description
@@ -8432,35 +8432,35 @@
 - Key: CharacterStatusConfig.Tenacity_FireUpgrade_1.DisplayName
   Text: 불의 지식 - 동메달
 - Key: CharacterStatusConfig.Tenacity_FireUpgrade_1.Description
-  Text: +1 to Fire Skill Cap
+  Text: 불 스킬 상한 +1
 - Key: CharacterStatusConfig.Tenacity_FireUpgrade_2.DisplayName
   Text: 불의 지식 - 은메달
 - Key: CharacterStatusConfig.Tenacity_FireUpgrade_2.Description
-  Text: +1 to Fire Skill and Skill Cap
+  Text: 불 스킬 레벨 및 스킬 상한 +1
 - Key: CharacterStatusConfig.Tenacity_FireUpgrade_3.DisplayName
   Text: 불의 지식 - 금메달
 - Key: CharacterStatusConfig.Tenacity_FireUpgrade_3.Description
-  Text: +2 to Fire Skill Cap
+  Text: 불 스킬 상한 +2
 - Key: CharacterStatusConfig.Tenacity_FireUpgrade_4.DisplayName
   Text: 불의 지식 - 플래티넘 메달
 - Key: CharacterStatusConfig.Tenacity_FireUpgrade_4.Description
-  Text: +2 to Fire Skill and Skill Cap
+  Text: 불 스킬 레벨 및 스킬 상한 +2
 - Key: CharacterStatusConfig.Tenacity_LightningUpgrade_1.DisplayName
   Text: 번개의 지식 - 동메달
 - Key: CharacterStatusConfig.Tenacity_LightningUpgrade_1.Description
-  Text: +1 to Lightning Skill Cap
+  Text: 번개 스킬 상한 +1
 - Key: CharacterStatusConfig.Tenacity_LightningUpgrade_2.DisplayName
   Text: 번개의 지식 - 은메달
 - Key: CharacterStatusConfig.Tenacity_LightningUpgrade_2.Description
-  Text: +1 to Lightning Skill and Skill Cap
+  Text: 번개 스킬 레벨 및 스킬 상한 +1
 - Key: CharacterStatusConfig.Tenacity_LightningUpgrade_3.DisplayName
   Text: 번개의 지식 - 금메달
 - Key: CharacterStatusConfig.Tenacity_LightningUpgrade_3.Description
-  Text: +2 to Lightning Skill Cap
+  Text: 번개 스킬 상한 +2
 - Key: CharacterStatusConfig.Tenacity_LightningUpgrade_4.DisplayName
   Text: 번개의 지식 - 플래티넘 메달
 - Key: CharacterStatusConfig.Tenacity_LightningUpgrade_4.Description
-  Text: +2 to Lightning Skill and Skill Cap
+  Text: 번개 스킬 레벨 및 스킬 상한 +2
 - Key: CharacterStatusConfig.Tenacity_ManaRegen_1.DisplayName
   Text: Tenacity Mana Regen - 동메달
 - Key: CharacterStatusConfig.Tenacity_ManaRegen_1.Description
@@ -8480,251 +8480,251 @@
 - Key: CharacterStatusConfig.Tenacity_LovesHuntingTrigger_1.DisplayName
   Text: Loves Hunting - 동메달
 - Key: CharacterStatusConfig.Tenacity_LovesHuntingTrigger_1.Description
-  Text: Gain 5 <slink=Mood> for 4 hours after a <slink=JobType_Hunting> task.
+  Text: <slink=JobType_Hunting>  작업을 수행하면 이후 4시간 동안 5 <slink=Mood>를 얻습니다.
 - Key: CharacterStatusConfig.Tenacity_LovesHuntingBuff_1.DisplayName
   Text: Loves Hunting - 동메달
 - Key: CharacterStatusConfig.Tenacity_LovesHuntingBuff_1.Description
-  Text: Gain 5 <slink=Mood> for 4 hours after a <slink=JobType_Hunting> task.
+  Text: <slink=JobType_Hunting>  작업을 수행하면 이후 4시간 동안 5 <slink=Mood>를 얻습니다.
 - Key: CharacterStatusConfig.Tenacity_LovesHuntingTrigger_2.DisplayName
   Text: Loves Hunting - 은메달
 - Key: CharacterStatusConfig.Tenacity_LovesHuntingTrigger_2.Description
-  Text: Gain 10 <slink=Mood> for 4 hours after a <slink=JobType_Hunting> task.
+  Text: <slink=JobType_Hunting> 작업을 수행하면 이후 4시간 동안 10 <slink=Mood>를 얻습니다.
 - Key: CharacterStatusConfig.Tenacity_LovesHuntingBuff_2.DisplayName
   Text: Loves Hunting - 은메달
 - Key: CharacterStatusConfig.Tenacity_LovesHuntingBuff_2.Description
-  Text: Gain 10 <slink=Mood> for 4 hours after a <slink=JobType_Hunting> task.
+  Text: <slink=JobType_Hunting> 작업을 수행하면 이후 4시간 동안 10 <slink=Mood>를 얻습니다.
 - Key: CharacterStatusConfig.Tenacity_LovesHuntingTrigger_3.DisplayName
   Text: Loves Hunting - 금메달
 - Key: CharacterStatusConfig.Tenacity_LovesHuntingTrigger_3.Description
-  Text: Gain 15 <slink=Mood> for 4 hours after a <slink=JobType_Hunting> task.
+  Text: <slink=JobType_Hunting> 작업을 수행하면 이후 4시간 동안 15 <slink=Mood>를 얻습니다.
 - Key: CharacterStatusConfig.Tenacity_LovesHuntingBuff_3.DisplayName
   Text: Loves Hunting - 금메달
 - Key: CharacterStatusConfig.Tenacity_LovesHuntingBuff_3.Description
-  Text: Gain 15 <slink=Mood> for 4 hours after a <slink=JobType_Hunting> task.
+  Text: <slink=JobType_Hunting> 작업을 수행하면 이후 4시간 동안 15 <slink=Mood>를 얻습니다.
 - Key: CharacterStatusConfig.Tenacity_LovesHuntingTrigger_4.DisplayName
   Text: Loves Hunting and Cooking - 플래티넘 메달
 - Key: CharacterStatusConfig.Tenacity_LovesHuntingTrigger_4.Description
-  Text: Gain 15 <slink=Mood> for 4 hours after a <slink=JobType_Hunting> or <slink=JobType_Cook> task.
+  Text: <slink=JobType_Hunting>이나 <slink=JobType_Cook> 작업을 수행하면 이후 4시간 동안 15 <slink=Mood>를 얻습니다.
 - Key: CharacterStatusConfig.Tenacity_LovesHuntingBuff_4.DisplayName
   Text: Loves Hunting - 플래티넘 메달
 - Key: CharacterStatusConfig.Tenacity_LovesHuntingBuff_4.Description
-  Text: Gain 15 <slink=Mood> for 4 hours after a <slink=JobType_Hunting> task.
+  Text: <slink=JobType_Hunting> 작업을 수행하면 이후 4시간 동안 15 <slink=Mood>를 얻습니다.
 - Key: CharacterStatusConfig.Tenacity_LovesCookingBuff_4.DisplayName
   Text: Loves Cooking - 플래티넘 메달
 - Key: CharacterStatusConfig.Tenacity_LovesCookingBuff_4.Description
-  Text: Gain 15 <slink=Mood> for 4 hours after a <slink=JobType_Cook> task.
+  Text: <slink=JobType_Cook> 작업을 수행하면 이후 4시간 동안 15 <slink=Mood>를 얻습니다.
 - Key: CharacterStatusConfig.Tenacity_LovesCleaningTrigger_1.DisplayName
   Text: Loves Cleaning - 동메달
 - Key: CharacterStatusConfig.Tenacity_LovesCleaningTrigger_1.Description
-  Text: Gain 5 <slink=Mood> for 4 hours after a <slink=JobType_Clean> task.
+  Text: <slink=JobType_Clean> 작업을 수행하면 이후 4시간 동안 5 <slink=Mood> 를 얻습니다.
 - Key: CharacterStatusConfig.Tenacity_LovesCleaningBuff_1.DisplayName
   Text: Loves Cleaning - 동메달
 - Key: CharacterStatusConfig.Tenacity_LovesCleaningBuff_1.Description
-  Text: Gain 5 <slink=Mood> for 4 hours after a <slink=JobType_Clean> task.
+  Text: <slink=JobType_Clean> 작업을 수행하면 이후 4시간 동안 5 <slink=Mood> 를 얻습니다.
 - Key: CharacterStatusConfig.Tenacity_LovesCleaningTrigger_2.DisplayName
   Text: Loves Cleaning - 은메달
 - Key: CharacterStatusConfig.Tenacity_LovesCleaningTrigger_2.Description
-  Text: Gain 10 <slink=Mood> for 4 hours after a <slink=JobType_Clean> task.
+  Text: <slink=JobType_Clean> 작업을 수행하면 이후 4시간 동안 10 <slink=Mood>를 얻습니다.
 - Key: CharacterStatusConfig.Tenacity_LovesCleaningBuff_2.DisplayName
   Text: Loves Cleaning - 은메달
 - Key: CharacterStatusConfig.Tenacity_LovesCleaningBuff_2.Description
-  Text: Gain 10 <slink=Mood> for 4 hours after a <slink=JobType_Clean> task.
+  Text: <slink=JobType_Clean> 작업을 수행하면 이후 4시간 동안 10 <slink=Mood>를 얻습니다.
 - Key: CharacterStatusConfig.Tenacity_LovesCleaningTrigger_3.DisplayName
   Text: Loves Cleaning - 금메달
 - Key: CharacterStatusConfig.Tenacity_LovesCleaningTrigger_3.Description
-  Text: Gain 15 <slink=Mood> for 4 hours after a <slink=JobType_Clean> task.
+  Text: <slink=JobType_Clean> 작업을 수행하면 이후 4시간 동안 15 <slink=Mood>를 얻습니다.
 - Key: CharacterStatusConfig.Tenacity_LovesCleaningBuff_3.DisplayName
   Text: Loves Cleaning - 금메달
 - Key: CharacterStatusConfig.Tenacity_LovesCleaningBuff_3.Description
-  Text: Gain 15 <slink=Mood> for 4 hours after a <slink=JobType_Clean> task.
+  Text: <slink=JobType_Clean> 작업을 수행하면 이후 4시간 동안 15 <slink=Mood>를 얻습니다.
 - Key: CharacterStatusConfig.Tenacity_LovesCleaningTrigger_4.DisplayName
   Text: Loves Cleaning and Brewing - 플래티넘 메달
 - Key: CharacterStatusConfig.Tenacity_LovesCleaningTrigger_4.Description
-  Text: Gain 15 <slink=Mood> for 4 hours after a <slink=JobType_Clean> or <slink=JobType_Alchemy> task.
+  Text: <slink=JobType_Clean> 또는 <slink=JobType_Alchemy> 작업을 수행하면 이후 4시간 동안 15 <slink=Mood>를 얻습니다.
 - Key: CharacterStatusConfig.Tenacity_LovesCleaningBuff_4.DisplayName
   Text: Loves Cleaning - 플래티넘 메달
 - Key: CharacterStatusConfig.Tenacity_LovesCleaningBuff_4.Description
-  Text: Gain 15 <slink=Mood> for 4 hours after a <slink=JobType_Clean> task.
+  Text: <slink=JobType_Clean> 작업을 수행하면 이후 4시간 동안 15 <slink=Mood>를 얻습니다.
 - Key: CharacterStatusConfig.Tenacity_LovesAlchemyBuff_4.DisplayName
   Text: Loves Brewing - 플래티넘 메달
 - Key: CharacterStatusConfig.Tenacity_LovesAlchemyBuff_4.Description
-  Text: Gain 15 <slink=Mood> for 4 hours after a <slink=JobType_Alchemy> task.
+  Text: <slink=JobType_Alchemy> 작업을 수행하면 이후 4시간 동안 15 <slink=Mood>를 얻습니다.
 - Key: CharacterStatusConfig.Tenacity_LovesHarvestingTrigger_1.DisplayName
   Text: Loves Harvesting - 동메달
 - Key: CharacterStatusConfig.Tenacity_LovesHarvestingTrigger_1.Description
-  Text: Gain 5 <slink=Mood> for 4 hours after a <slink=JobType_Harvest> task.
+  Text: <slink=JobType_Harvest> 작업을 수행하면 이후 4시간 동안 5 <slink=Mood> 를 얻습니다.
 - Key: CharacterStatusConfig.Tenacity_LovesHarvestingBuff_1.DisplayName
   Text: Loves Harvesting - 동메달
 - Key: CharacterStatusConfig.Tenacity_LovesHarvestingBuff_1.Description
-  Text: Gain 5 <slink=Mood> for 4 hours after a <slink=JobType_Harvest> task.
+  Text: <slink=JobType_Harvest> 작업을 수행하면 이후 4시간 동안 5 <slink=Mood> 를 얻습니다.
 - Key: CharacterStatusConfig.Tenacity_LovesHarvestingTrigger_2.DisplayName
   Text: Loves Harvesting - 은메달
 - Key: CharacterStatusConfig.Tenacity_LovesHarvestingTrigger_2.Description
-  Text: Gain 10 <slink=Mood> for 4 hours after a <slink=JobType_Harvest> task.
+  Text: <slink=JobType_Harvest> 작업을 수행하면 이후 4시간 동안 10 <slink=Mood>를 얻습니다.
 - Key: CharacterStatusConfig.Tenacity_LovesHarvestingBuff_2.DisplayName
   Text: Loves Harvesting - 은메달
 - Key: CharacterStatusConfig.Tenacity_LovesHarvestingBuff_2.Description
-  Text: Gain 10 <slink=Mood> for 4 hours after a <slink=JobType_Harvest> task.
+  Text: <slink=JobType_Harvest> 작업을 수행하면 이후 4시간 동안 10 <slink=Mood>를 얻습니다.
 - Key: CharacterStatusConfig.Tenacity_LovesHarvestingTrigger_3.DisplayName
   Text: Loves Harvesting - 금메달
 - Key: CharacterStatusConfig.Tenacity_LovesHarvestingTrigger_3.Description
-  Text: Gain 15 <slink=Mood> for 4 hours after a <slink=JobType_Harvest> task.
+  Text: <slink=JobType_Harvest> 작업을 수행하면 이후 4시간 동안 15 <slink=Mood>를 얻습니다.
 - Key: CharacterStatusConfig.Tenacity_LovesHarvestingBuff_3.DisplayName
   Text: Loves Harvesting - 금메달
 - Key: CharacterStatusConfig.Tenacity_LovesHarvestingBuff_3.Description
-  Text: Gain 15 <slink=Mood> for 4 hours after a <slink=JobType_Harvest> task.
+  Text: <slink=JobType_Harvest> 작업을 수행하면 이후 4시간 동안 15 <slink=Mood>를 얻습니다.
 - Key: CharacterStatusConfig.Tenacity_LovesHarvestingTrigger_4.DisplayName
   Text: Loves Harvesting and Chopping - 플래티넘 메달
 - Key: CharacterStatusConfig.Tenacity_LovesHarvestingTrigger_4.Description
-  Text: Gain 15 <slink=Mood> for 4 hours after a <slink=JobType_Harvest> or <slink=JobType_Chop> task.
+  Text: <slink=JobType_Harvest> 또는 <slink=JobType_Chop> 작업을 수행하면 이후 4시간 동안 15 <slink=Mood>를 얻습니다.
 - Key: CharacterStatusConfig.Tenacity_LovesHarvestingBuff_4.DisplayName
   Text: Loves Harvesting - 플래티넘 메달
 - Key: CharacterStatusConfig.Tenacity_LovesHarvestingBuff_4.Description
-  Text: Gain 15 <slink=Mood> for 4 hours after a <slink=JobType_Harvest> task.
+  Text: <slink=JobType_Harvest> 작업을 수행하면 이후 4시간 동안 15 <slink=Mood>를 얻습니다.
 - Key: CharacterStatusConfig.Tenacity_LovesChoppingBuff_4.DisplayName
   Text: Loves Chopping - 플래티넘 메달
 - Key: CharacterStatusConfig.Tenacity_LovesChoppingBuff_4.Description
-  Text: Gain 15 <slink=Mood> for 4 hours after a <slink=JobType_Chop> task.
+  Text: <slink=JobType_Chop> 작업을 수행하면 이후 4시간 동안 15 <slink=Mood>를 얻습니다.
 - Key: CharacterStatusConfig.Tenacity_LovesMiningTrigger_1.DisplayName
   Text: Loves Mining - 동메달
 - Key: CharacterStatusConfig.Tenacity_LovesMiningTrigger_1.Description
-  Text: Gain 5 <slink=Mood> for 4 hours after a <slink=JobType_Mining> task.
+  Text: <slink=JobType_Mining> 작업을 수행하면 이후 4시간 동안 5 <slink=Mood> 를 얻습니다.
 - Key: CharacterStatusConfig.Tenacity_LovesMiningBuff_1.DisplayName
   Text: Loves Mining - 동메달
 - Key: CharacterStatusConfig.Tenacity_LovesMiningBuff_1.Description
-  Text: Gain 5 <slink=Mood> for 4 hours after a <slink=JobType_Mining> task.
+  Text: <slink=JobType_Mining> 작업을 수행하면 이후 4시간 동안 5 <slink=Mood> 를 얻습니다.
 - Key: CharacterStatusConfig.Tenacity_LovesMiningTrigger_2.DisplayName
   Text: Loves Harvesting - 은메달
 - Key: CharacterStatusConfig.Tenacity_LovesMiningTrigger_2.Description
-  Text: Gain 10 <slink=Mood> for 4 hours after a <slink=JobType_Mining> task.
+  Text: <slink=JobType_Mining> 작업을 수행하면 이후 4시간 동안 10 <slink=Mood>를 얻습니다.
 - Key: CharacterStatusConfig.Tenacity_LovesMiningBuff_2.DisplayName
   Text: Loves Mining - 은메달
 - Key: CharacterStatusConfig.Tenacity_LovesMiningBuff_2.Description
-  Text: Gain 10 <slink=Mood> for 4 hours after a <slink=JobType_Mining> task.
+  Text: <slink=JobType_Mining> 작업을 수행하면 이후 4시간 동안 10 <slink=Mood>를 얻습니다.
 - Key: CharacterStatusConfig.Tenacity_LovesMiningTrigger_3.DisplayName
   Text: Loves Mining - 금메달
 - Key: CharacterStatusConfig.Tenacity_LovesMiningTrigger_3.Description
-  Text: Gain 15 <slink=Mood> for 4 hours after a <slink=JobType_Mining> task.
+  Text: <slink=JobType_Mining> 작업을 수행하면 이후 4시간 동안 15 <slink=Mood>를 얻습니다.
 - Key: CharacterStatusConfig.Tenacity_LovesMiningBuff_3.DisplayName
   Text: Loves Mining - 금메달
 - Key: CharacterStatusConfig.Tenacity_LovesMiningBuff_3.Description
-  Text: Gain 15 <slink=Mood> for 4 hours after a <slink=JobType_Mining> task.
+  Text: <slink=JobType_Mining> 작업을 수행하면 이후 4시간 동안 15 <slink=Mood>를 얻습니다.
 - Key: CharacterStatusConfig.Tenacity_LovesMiningTrigger_4.DisplayName
   Text: Loves Mining and Constructing - 플래티넘 메달
 - Key: CharacterStatusConfig.Tenacity_LovesMiningTrigger_4.Description
-  Text: Gain 15 <slink=Mood> for 4 hours after a <slink=JobType_Mining> or <slink=JobType_Construct> task.
+  Text: <slink=JobType_Mining> 또는 <slink=JobType_Construct> 작업을 수행하면 이후 4시간 동안 15 <slink=Mood>를 얻습니다.
 - Key: CharacterStatusConfig.Tenacity_LovesMiningBuff_4.DisplayName
   Text: Loves Mining - 플래티넘 메달
 - Key: CharacterStatusConfig.Tenacity_LovesMiningBuff_4.Description
-  Text: Gain 15 <slink=Mood> for 4 hours after a <slink=JobType_Mining> task.
+  Text: <slink=JobType_Mining> 작업을 수행하면 이후 4시간 동안 15 <slink=Mood>를 얻습니다.
 - Key: CharacterStatusConfig.Tenacity_LovesConstructingBuff_4.DisplayName
   Text: Loves Constructing - 플래티넘 메달
 - Key: CharacterStatusConfig.Tenacity_LovesConstructingBuff_4.Description
-  Text: Gain 15 <slink=Mood> for 4 hours after a <slink=JobType_Construct> task.
+  Text: <slink=JobType_Construct> 작업을 수행하면 이후 4시간 동안 15 <slink=Mood>를 얻습니다.
 - Key: CharacterStatusConfig.Tenacity_LovesHaulingTrigger_1.DisplayName
   Text: Loves Hauling - 동메달
 - Key: CharacterStatusConfig.Tenacity_LovesHaulingTrigger_1.Description
-  Text: Gain 5 <slink=Mood> for 4 hours after a <slink=JobType_Haul> task.
+  Text: <slink=JobType_Haul> 작업을 수행하면 이후 4시간 동안 5 <slink=Mood> 를 얻습니다.
 - Key: CharacterStatusConfig.Tenacity_LovesHaulingBuff_1.DisplayName
   Text: Loves Hauling - 동메달
 - Key: CharacterStatusConfig.Tenacity_LovesHaulingBuff_1.Description
-  Text: Gain 5 <slink=Mood> for 4 hours after a <slink=JobType_Haul> task.
+  Text: <slink=JobType_Haul> 작업을 수행하면 이후 4시간 동안 5 <slink=Mood> 를 얻습니다.
 - Key: CharacterStatusConfig.Tenacity_LovesHaulingTrigger_2.DisplayName
   Text: Loves Hauling - 은메달
 - Key: CharacterStatusConfig.Tenacity_LovesHaulingTrigger_2.Description
-  Text: Gain 10 <slink=Mood> for 4 hours after a <slink=JobType_Haul> task.
+  Text: <slink=JobType_Haul> 작업을 수행하면 이후 4시간 동안 10 <slink=Mood>를 얻습니다.
 - Key: CharacterStatusConfig.Tenacity_LovesHaulingBuff_2.DisplayName
   Text: Loves Hauling - 은메달
 - Key: CharacterStatusConfig.Tenacity_LovesHaulingBuff_2.Description
-  Text: Gain 10 <slink=Mood> for 4 hours after a <slink=JobType_Haul> task.
+  Text: <slink=JobType_Haul> 작업을 수행하면 이후 4시간 동안 10 <slink=Mood>를 얻습니다.
 - Key: CharacterStatusConfig.Tenacity_LovesHaulingTrigger_3.DisplayName
   Text: Loves Hauling - 금메달
 - Key: CharacterStatusConfig.Tenacity_LovesHaulingTrigger_3.Description
-  Text: Gain 15 <slink=Mood> for 4 hours after a <slink=JobType_Haul> task.
+  Text: <slink=JobType_Haul> 작업을 수행하면 이후 4시간 동안 15 <slink=Mood>를 얻습니다.
 - Key: CharacterStatusConfig.Tenacity_LovesHaulingBuff_3.DisplayName
   Text: Loves Hauling - 금메달
 - Key: CharacterStatusConfig.Tenacity_LovesHaulingBuff_3.Description
-  Text: Gain 15 <slink=Mood> for 4 hours after a <slink=JobType_Haul> task.
+  Text: <slink=JobType_Haul> 작업을 수행하면 이후 4시간 동안 15 <slink=Mood>를 얻습니다.
 - Key: CharacterStatusConfig.Tenacity_LovesHaulingTrigger_4.DisplayName
   Text: Loves Hauling and Assembling - 플래티넘 메달
 - Key: CharacterStatusConfig.Tenacity_LovesHaulingTrigger_4.Description
-  Text: Gain 15 <slink=Mood> for 4 hours after a <slink=JobType_Haul> or <slink=JobType_Assemble> task.
+  Text: <slink=JobType_Haul> 또는 <slink=JobType_Assemble> 작업을 수행하면 이후 4시간 동안 15 <slink=Mood>를 얻습니다.
 - Key: CharacterStatusConfig.Tenacity_LovesHaulingBuff_4.DisplayName
   Text: Loves Hauling - 플래티넘 메달
 - Key: CharacterStatusConfig.Tenacity_LovesHaulingBuff_4.Description
-  Text: Gain 15 <slink=Mood> for 4 hours after a <slink=JobType_Haul> task.
+  Text: <slink=JobType_Haul> 작업을 수행하면 이후 4시간 동안 15 <slink=Mood>를 얻습니다.
 - Key: CharacterStatusConfig.Tenacity_LovesAssemblingBuff_4.DisplayName
   Text: Loves Assembling - 플래티넘 메달
 - Key: CharacterStatusConfig.Tenacity_LovesAssemblingBuff_4.Description
-  Text: Gain 15 <slink=Mood> for 4 hours after an <slink=JobType_Assemble> task.
+  Text: ' <slink=JobType_Assemble> 작업을 수행하면 이후 4시간 동안 15 <slink=Mood>를 얻습니다.'
 - Key: CharacterStatusConfig.Tenacity_LovesQuiltingTrigger_1.DisplayName
   Text: Loves Quilting - 동메달
 - Key: CharacterStatusConfig.Tenacity_LovesQuiltingTrigger_1.Description
-  Text: Gain 5 <slink=Mood> for 4 hours after a <slink=JobType_Quilting> task.
+  Text: <slink=JobType_Quilting> 작업을 수행하면 이후 4시간 동안 5 <slink=Mood> 를 얻습니다.
 - Key: CharacterStatusConfig.Tenacity_LovesQuiltingBuff_1.DisplayName
   Text: Loves Quilting - 동메달
 - Key: CharacterStatusConfig.Tenacity_LovesQuiltingBuff_1.Description
-  Text: Gain 5 <slink=Mood> for 4 hours after a <slink=JobType_Quilting> task.
+  Text: <slink=JobType_Quilting> 작업을 수행하면 이후 4시간 동안 5 <slink=Mood> 를 얻습니다.
 - Key: CharacterStatusConfig.Tenacity_LovesQuiltingTrigger_2.DisplayName
   Text: Loves Quilting - 은메달
 - Key: CharacterStatusConfig.Tenacity_LovesQuiltingTrigger_2.Description
-  Text: Gain 10 <slink=Mood> for 4 hours after a <slink=JobType_Quilting> task.
+  Text: <slink=JobType_Quilting> 작업을 수행하면 이후 4시간 동안 10 <slink=Mood>를 얻습니다.
 - Key: CharacterStatusConfig.Tenacity_LovesQuiltingBuff_2.DisplayName
   Text: Loves Quilting - 은메달
 - Key: CharacterStatusConfig.Tenacity_LovesQuiltingBuff_2.Description
-  Text: Gain 10 <slink=Mood> for 4 hours after a <slink=JobType_Quilting> task.
+  Text: <slink=JobType_Quilting> 작업을 수행하면 이후 4시간 동안 10 <slink=Mood>를 얻습니다.
 - Key: CharacterStatusConfig.Tenacity_LovesQuiltingTrigger_3.DisplayName
   Text: Loves Quilting - 금메달
 - Key: CharacterStatusConfig.Tenacity_LovesQuiltingTrigger_3.Description
-  Text: Gain 15 <slink=Mood> for 4 hours after a <slink=JobType_Quilting> task.
+  Text: <slink=JobType_Quilting> 작업을 수행하면 이후 4시간 동안 15 <slink=Mood>를 얻습니다.
 - Key: CharacterStatusConfig.Tenacity_LovesQuiltingBuff_3.DisplayName
   Text: Loves Quilting - 금메달
 - Key: CharacterStatusConfig.Tenacity_LovesQuiltingBuff_3.Description
-  Text: Gain 15 <slink=Mood> for 4 hours after a <slink=JobType_Quilting> task.
+  Text: <slink=JobType_Quilting> 작업을 수행하면 이후 4시간 동안 15 <slink=Mood>를 얻습니다.
 - Key: CharacterStatusConfig.Tenacity_LovesQuiltingTrigger_4.DisplayName
   Text: Loves Quilting - 플래티넘 메달
 - Key: CharacterStatusConfig.Tenacity_LovesQuiltingTrigger_4.Description
-  Text: Gain 30 <slink=Mood> for 4 hours after a <slink=JobType_Quilting> task.
+  Text: <slink=JobType_Quilting> 작업을 수행하면 이후 4시간 동안 30 <slink=Mood>를 얻습니다.
 - Key: CharacterStatusConfig.Tenacity_LovesQuiltingBuff_4.DisplayName
   Text: Loves Quilting - 플래티넘 메달
 - Key: CharacterStatusConfig.Tenacity_LovesQuiltingBuff_4.Description
-  Text: Gain 30 <slink=Mood> for 4 hours after a <slink=JobType_Quilting> task.
+  Text: <slink=JobType_Quilting> 작업을 수행하면 이후 4시간 동안 30 <slink=Mood>를 얻습니다.
 - Key: CharacterStatusConfig.Tenacity_LovesChargingTrigger_1.DisplayName
   Text: Loves Charging - 동메달
 - Key: CharacterStatusConfig.Tenacity_LovesChargingTrigger_1.Description
-  Text: Gain 5 <slink=Mood> for 4 hours after a <slink=JobType_Charge> task.
+  Text: <slink=JobType_Charge> 작업을 수행하면 이후 4시간 동안 5 <slink=Mood> 를 얻습니다.
 - Key: CharacterStatusConfig.Tenacity_LovesChargingBuff_1.DisplayName
   Text: Loves Charging - 동메달
 - Key: CharacterStatusConfig.Tenacity_LovesChargingBuff_1.Description
-  Text: Gain 5 <slink=Mood> for 4 hours after a <slink=JobType_Charge> task.
+  Text: <slink=JobType_Charge> 작업을 수행하면 이후 4시간 동안 5 <slink=Mood> 를 얻습니다.
 - Key: CharacterStatusConfig.Tenacity_LovesChargingTrigger_2.DisplayName
   Text: Loves Charging - 은메달
 - Key: CharacterStatusConfig.Tenacity_LovesChargingTrigger_2.Description
-  Text: Gain 10 <slink=Mood> for 4 hours after a <slink=JobType_Charge> task.
+  Text: <slink=JobType_Charge> 작업을 수행하면 이후 4시간 동안 10 <slink=Mood>를 얻습니다.
 - Key: CharacterStatusConfig.Tenacity_LovesChargingBuff_2.DisplayName
   Text: Loves Charging - 은메달
 - Key: CharacterStatusConfig.Tenacity_LovesChargingBuff_2.Description
-  Text: Gain 10 <slink=Mood> for 4 hours after a <slink=JobType_Charge> task.
+  Text: <slink=JobType_Charge> 작업을 수행하면 이후 4시간 동안 10 <slink=Mood>를 얻습니다.
 - Key: CharacterStatusConfig.Tenacity_LovesChargingTrigger_3.DisplayName
   Text: Loves Charging - 금메달
 - Key: CharacterStatusConfig.Tenacity_LovesChargingTrigger_3.Description
-  Text: Gain 15 <slink=Mood> for 4 hours after a <slink=JobType_Charge> task.
+  Text: <slink=JobType_Charge> 작업을 수행하면 이후 4시간 동안 15 <slink=Mood>를 얻습니다.
 - Key: CharacterStatusConfig.Tenacity_LovesChargingBuff_3.DisplayName
   Text: Loves Charging - 금메달
 - Key: CharacterStatusConfig.Tenacity_LovesChargingBuff_3.Description
-  Text: Gain 15 <slink=Mood> for 4 hours after a <slink=JobType_Charge> task.
+  Text: <slink=JobType_Charge> 작업을 수행하면 이후 4시간 동안 15 <slink=Mood>를 얻습니다.
 - Key: CharacterStatusConfig.Tenacity_LovesChargingTrigger_4.DisplayName
   Text: Loves Charging and Researching - 플래티넘 메달
 - Key: CharacterStatusConfig.Tenacity_LovesChargingTrigger_4.Description
-  Text: Gain 15 <slink=Mood> for 4 hours after a <slink=JobType_Charge> or <slink=JobType_Research> task.
+  Text: <slink=JobType_Charge> 또는 <slink=JobType_Research> 작업을 수행하면 이후 4시간 동안 15 <slink=Mood>를 얻습니다.
 - Key: CharacterStatusConfig.Tenacity_LovesChargingBuff_4.DisplayName
   Text: Loves Charging - 플래티넘 메달
 - Key: CharacterStatusConfig.Tenacity_LovesChargingBuff_4.Description
-  Text: Gain 15 <slink=Mood> for 4 hours after a <slink=JobType_Charge> task.
+  Text: <slink=JobType_Charge> 작업을 수행하면 이후 4시간 동안 15 <slink=Mood>를 얻습니다.
 - Key: CharacterStatusConfig.Tenacity_LovesResearchingBuff_4.DisplayName
   Text: Loves Researching - 플래티넘 메달
 - Key: CharacterStatusConfig.Tenacity_LovesResearchingBuff_4.Description
-  Text: Gain 15 <slink=Mood> for 4 hours after a <slink=JobType_Research> task.
+  Text: <slink=JobType_Research> 작업을 수행하면 이후 4시간 동안 15 <slink=Mood>를 얻습니다.
 - Key: CharacterStatusConfig.OnBench.DisplayName
   Text: On Bench
 - Key: CharacterStatusConfig.Fleeing.DisplayName
@@ -8936,223 +8936,223 @@
 - Key: CharacterStatusConfig.Satisfied.LogEntry
   Text: '{0} {1}'
 - Key: CharacterStatusConfig.Full.DisplayName
-  Text: 최대
+  Text: 배부름
 - Key: CharacterStatusConfig.Full.Description
-  Text: Couldn't eat another bite.
+  Text: 한 입도 더 못 먹겠습니다.
 - Key: CharacterStatusConfig.Full.FlavorText
   Text: Stuffed and sated.
 - Key: CharacterStatusConfig.Full.LogEntry
-  Text: '{0} {1}'
+  Text: '{0}: {1}'
 - Key: CharacterStatusConfig.VeryHungry.DisplayName
-  Text: Very Hungry
+  Text: 매우 배고픔
 - Key: CharacterStatusConfig.VeryHungry.Description
-  Text: Hasn't had a meal in too long. Feed them as soon as possible.
+  Text: 너무 오랫동안 못 먹었습니다. 최대한 빨리 식사시키세요.
 - Key: CharacterStatusConfig.VeryHungry.FlavorText
   Text: Bending double.
 - Key: CharacterStatusConfig.VeryHungry.LogEntry
-  Text: '{0} {1}'
+  Text: '{0}: {1}'
 - Key: CharacterStatusConfig.NearStarving.DisplayName
-  Text: Nearly Starving
+  Text: 굶주림
 - Key: CharacterStatusConfig.NearStarving.Description
-  Text: <slink=Hunger> reaching extreme levels. Make sure they have food and enough meals scheduled, and/or lower the priority on other tasks to allow them to eat.
+  Text: <slink=Hunger> 수준이 극단적인 상태입니다. 저장된 음식이 충분하고 식사 스케줄이 설정되어 있는지 확인하고, 다른 작업의 우선순위를 낮춰 보세요.
 - Key: CharacterStatusConfig.NearStarving.FlavorText
   Text: Gnawing hunger grips and twists.
 - Key: CharacterStatusConfig.NearStarving.FeedString
-  Text: Near Starving
+  Text: 굶주리고 있음
 - Key: CharacterStatusConfig.NearStarving.FeedHoverString
-  Text: 'Mages are {0}:'
+  Text: '마법사들이 {0}:'
 - Key: CharacterStatusConfig.NearStarving.LogString
-  Text: '{0} {1}'
+  Text: '{0}: {1}'
 - Key: CharacterStatusConfig.NearStarving.LogStringRemove
-  Text: '{0} is no longer {1}'
+  Text: '{0}: {1} 상태에서 벗어남'
 - Key: CharacterStatusConfig.NearStarving.LogEntry
-  Text: '{0} {1}'
+  Text: '{0}: {1}'
 - Key: CharacterStatusConfig.NearStarving.LogEntryEnd
-  Text: '{0} is no longer {1}'
+  Text: '{0}: {1} 상태에서 벗어남'
 - Key: CharacterStatusConfig.StarvingToDeath.DisplayName
-  Text: Starving
+  Text: 매우 굶주림
 - Key: CharacterStatusConfig.StarvingToDeath.Description
-  Text: <slink=Hunger> at extreme levels. Make sure they have food and enough meals scheduled, and/or lower the priority on other tasks to allow them to eat.
+  Text: <slink=Hunger> 수준이 극단적인 상태입니다. 저장된 음식이 충분하고 식사 스케줄이 설정되어 있는지 확인하고, 다른 작업의 우선순위를 낮춰 보세요.
 - Key: CharacterStatusConfig.StarvingToDeath.FlavorText
   Text: Ravenously hungry.
 - Key: CharacterStatusConfig.StarvingToDeath.LogEntry
-  Text: '{0} {1}'
+  Text: '{0}: {1}'
 - Key: CharacterStatusConfig.StarvingToDeath.LogEntryEnd
-  Text: '{0} is no longer {1}'
+  Text: '{0}: {1} 상태에서 벗어남'
 - Key: CharacterStatusConfig.VeryTired.DisplayName
-  Text: Very Tired
+  Text: 매우 피곤함
 - Key: CharacterStatusConfig.VeryTired.Description
-  Text: Needs to catch some z's. Caused by low <slink=Sleep>.
+  Text: 자야 합니다. 낮은 <slink=Sleep> 수준 때문에 발생합니다.
 - Key: CharacterStatusConfig.VeryTired.FlavorText
   Text: Heavy lids and limbs.
 - Key: CharacterStatusConfig.VeryTired.LogEntry
-  Text: '{0} {1}'
+  Text: '{0}: {1}'
 - Key: CharacterStatusConfig.Exhausted.DisplayName
-  Text: Exhausted
+  Text: 탈진
 - Key: CharacterStatusConfig.Exhausted.Description
-  Text: Needs <slink=Sleep> badly. Make sure they have a bed, and/or lower the priority on other tasks to allow them to sleep.
+  Text: <slink=Sleep>이 극단적으로 부족한 상태입니다. 침대가 충분한지 확인하고, 다른 작업의 우선순위를 낮춰 보세요.
 - Key: CharacterStatusConfig.Exhausted.FlavorText
   Text: To sleep, perchance to dream.
 - Key: CharacterStatusConfig.Exhausted.LogEntry
-  Text: '{0} {1}'
+  Text: '{0}: {1}'
 - Key: CharacterStatusConfig.Exhausted.LogEntryEnd
-  Text: '{0} is no longer {1}'
+  Text: '{0}: {1} 상태에서 벗어남'
 - Key: CharacterStatusConfig.Alert.DisplayName
-  Text: Alert
+  Text: 깨 있음
 - Key: CharacterStatusConfig.Alert.Description
-  Text: Functioning well and does not require sleep right now.
+  Text: 잘 잤고 지금은 잘 필요가 없습니다.
 - Key: CharacterStatusConfig.Alert.FlavorText
   Text: Eyes bright and wide.
 - Key: CharacterStatusConfig.Alert.LogEntry
-  Text: '{0} {1}'
+  Text: '{0}: {1}'
 - Key: CharacterStatusConfig.Alert.LogEntryEnd
-  Text: '{0} is no longer {1}'
+  Text: '{0}: {1} 상태에서 벗어남'
 - Key: CharacterStatusConfig.Rested.DisplayName
-  Text: Rested
+  Text: 개운함
 - Key: CharacterStatusConfig.Rested.Description
-  Text: Fully rested and does not need to sleep.
+  Text: 완벽한 수면을 취했고 더 이상 잘 필요가 없습니다.
 - Key: CharacterStatusConfig.Rested.FlavorText
   Text: Grateful for good rest.
 - Key: CharacterStatusConfig.Rested.LogEntry
-  Text: '{0} {1}'
+  Text: '{0}: {1}'
 - Key: CharacterStatusConfig.Rested.LogEntryEnd
-  Text: '{0} is no longer {1}'
+  Text: '{0}: {1} 상태에서 벗어남'
 - Key: CharacterStatusConfig.Anticipation.DisplayName
-  Text: Craving Recreation
+  Text: 휴식 필요
 - Key: CharacterStatusConfig.Anticipation.Description
-  Text: Would like some scheduled Recreation.
+  Text: 휴식하고 싶은 상태입니다.
 - Key: CharacterStatusConfig.Anticipation.FlavorText
   Text: Ready for a rumpus.
 - Key: CharacterStatusConfig.Anticipation.LogEntry
-  Text: '{0} {1}'
+  Text: '{0}: {1}'
 - Key: CharacterStatusConfig.Anticipation.LogEntryEnd
-  Text: '{0} is no longer {1}'
+  Text: '{0}: {1} 상태에서 벗어남'
 - Key: CharacterStatusConfig.Relaxed.DisplayName
-  Text: Relaxed
+  Text: 잘 쉼
 - Key: CharacterStatusConfig.Relaxed.Description
-  Text: Is calm and has had plenty of Recreation.
+  Text: 충분히 휴식해서 좋은 상태입니다.
 - Key: CharacterStatusConfig.Relaxed.FlavorText
   Text: Grateful for joyful fun.
 - Key: CharacterStatusConfig.Relaxed.LogEntry
-  Text: '{0} {1}'
+  Text: '{0}: {1}'
 - Key: CharacterStatusConfig.Relaxed.LogEntryEnd
-  Text: '{0} is no longer {1}'
+  Text: '{0}: {1} 상태에서 벗어남'
 - Key: CharacterStatusConfig.Serene.DisplayName
-  Text: Tranquil
+  Text: 평온
 - Key: CharacterStatusConfig.Serene.Description
-  Text: Is extremely calm and has had plenty of Recreation.
+  Text: 매우 충분한 휴식을 해서 평온한 상태입니다.
 - Key: CharacterStatusConfig.Serene.FlavorText
   Text: Drifting upon tranquil thoughts.
 - Key: CharacterStatusConfig.Serene.LogEntry
-  Text: '{0} {1}'
+  Text: '{0}: {1}'
 - Key: CharacterStatusConfig.Serene.LogEntryEnd
-  Text: '{0} is no longer {1}'
+  Text: '{0}: {1} 상태에서 벗어남'
 - Key: CharacterStatusConfig.Learning_Empty.DisplayName
-  Text: Purposeless
+  Text: 목표 잃음
 - Key: CharacterStatusConfig.Learning_Empty.Description
-  Text: Has not gained a Skill or Medallion in a long time.
+  Text: 긴 시간 동안 스킬 레벨이나 메달을 얻지 못했습니다.
 - Key: CharacterStatusConfig.Learning_Empty.FlavorText
   Text: Idle wands are the Fog's plaything.
 - Key: CharacterStatusConfig.Learning_Empty.LogEntry
-  Text: '{0} {1}'
+  Text: '{0}: {1}'
 - Key: CharacterStatusConfig.Learning_Empty.LogEntryEnd
-  Text: '{0} is no longer {1}'
+  Text: '{0}: {1} 상태에서 벗어남'
 - Key: CharacterStatusConfig.Learning_Low.DisplayName
-  Text: Disengaged
+  Text: 흥미 잃음
 - Key: CharacterStatusConfig.Learning_Low.Description
-  Text: Has not gained a Skill or Medallion anytime recently.
+  Text: 최근 스킬 레벨이나 메달을 얻지 못했습니다.
 - Key: CharacterStatusConfig.Learning_Low.FlavorText
   Text: Wasting away the hours.
 - Key: CharacterStatusConfig.Learning_Med.DisplayName
-  Text: Engaged
+  Text: 흥미 있음
 - Key: CharacterStatusConfig.Learning_Med.Description
-  Text: Gained a Skill or Medallion somewhat recently.
+  Text: 비교적 최근 스킬 레벨이나 메달을 얻었습니다.
 - Key: CharacterStatusConfig.Learning_Med.FlavorText
   Text: An eye towards growth.
 - Key: CharacterStatusConfig.Learning_Med.LogEntry
-  Text: '{0} {1}'
+  Text: '{0}: {1}'
 - Key: CharacterStatusConfig.Learning_Med.LogEntryEnd
-  Text: '{0} is no longer {1}'
+  Text: '{0}: {1} 상태에서 벗어남'
 - Key: CharacterStatusConfig.Learning_High.DisplayName
-  Text: Purposeful
+  Text: 의욕 충만
 - Key: CharacterStatusConfig.Learning_High.Description
-  Text: Gained Skill or Medallions very recently.
+  Text: 매우 최근에 스킬 레벨이나 메달을 얻었습니다.
 - Key: CharacterStatusConfig.Learning_High.FlavorText
   Text: Learning is its own reward.
 - Key: CharacterStatusConfig.Learning_High.LogEntry
-  Text: '{0} {1}'
+  Text: '{0}: {1}'
 - Key: CharacterStatusConfig.Learning_High.LogEntryEnd
-  Text: '{0} is no longer {1}'
+  Text: '{0}: {1} 상태에서 벗어남'
 - Key: CharacterStatusConfig.CriticalMood.DisplayName
-  Text: Break Risk
+  Text: 정신착란 위기
 - Key: CharacterStatusConfig.CriticalMood.Description
-  Text: Critically low <slink=Mood> and at risk for a <slink=break>.
+  Text: 매우 낮은 <slink=Mood>로 인해 <slink=break>의 위기에 처해 있습니다.
 - Key: CharacterStatusConfig.CriticalMood.FeedString
-  Text: Break Risk!
+  Text: 정신착란 위기!
 - Key: CharacterStatusConfig.CriticalMood.FeedHoverString
-  Text: <slink=break> Risk
+  Text: <slink=break> 위기
 - Key: CharacterStatusConfig.CriticalMoodTarget.DisplayName
-  Text: Possible Break Risk
+  Text: 정신착란 위기
 - Key: CharacterStatusConfig.CriticalMoodTarget.Description
-  Text: Conviction target is in the break zone. If Conviction not improved, the mage will soon have a <slink=CriticalMood>.
+  Text: 목표 만족도가 정신착란 수준으로 낮아졌습니다. 만족도를 높이지 않으면 곧 <slink=CriticalMood>에 진입할 것입니다.
 - Key: CharacterStatusConfig.CriticalMoodTarget.FeedString
-  Text: Possible Break Risk
+  Text: 정신착란 위기
 - Key: CharacterStatusConfig.CriticalMoodTarget.FeedHoverString
-  Text: Conviction target is in the break zone. If Conviction not improved, the mage will soon have a <slink=CriticalMood>.
+  Text: 목표 만족도가 정신착란 수준으로 낮아졌습니다. 만족도를 높이지 않으면 곧 <slink=CriticalMood>에 진입할 것입니다.
 - Key: CharacterStatusConfig.HadBreak.DisplayName
-  Text: Post-Break Recovery
+  Text: 정신착란 후 회복 중
 - Key: CharacterStatusConfig.HadBreak.Description
-  Text: Had a <slink=break>, but has recovered.
+  Text: <slink=break>을 겪었지만 회복 중입니다.
 - Key: CharacterStatusConfig.HadBreak.FlavorText
   Text: A momentary catharsis.
 - Key: CharacterStatusConfig.HadBreak.LogEntry
-  Text: '{0} is in {1}'
+  Text: '{0}: {1}'
 - Key: CharacterStatusConfig.HadBreak.LogEntryEnd
-  Text: '{0} is no longer in {1}'
+  Text: '{0}: {1} 상태에서 벗어남'
 - Key: CharacterStatusConfig.TrappedInCrystal.DisplayName
-  Text: Trapped in a Crystal
+  Text: 크리스탈에 갇힘
 - Key: CharacterStatusConfig.TrappedInCrystal.Description
-  Text: Rescue this Mage with a battle. Losing or letting the crystal expire will release them, but knock them out, potentially killing them.
+  Text: 전투를 치루어 이 마법사를 구하십시오. 크리스탈의 유효기간이 다 되면 마법사는 풀려나지만, 기절 상태가 되어 죽을지도 모릅니다.
 - Key: CharacterStatusConfig.TrappedInCrystal.LogEntry
-  Text: '{0} {1}'
+  Text: '{0}: {1}'
 - Key: CharacterStatusConfig.TrappedInCrystal.LogEntryEnd
-  Text: '{0} is no longer {1}'
+  Text: '{0}: {1} 상태에서 벗어남'
 - Key: CharacterStatusConfig.RunAwayBreakStatus.DisplayName
   Text: 도망치는 중
 - Key: CharacterStatusConfig.RunAwayBreakStatus.Description
-  Text: Had a <slink=break> and are running into the fog.
+  Text: <slink=break>을 일으켜 안개 속으로 도망치고 있습니다.
 - Key: CharacterStatusConfig.RunAwayBreakStatus.FeedString
-  Text: BREAK! Running Away.
+  Text: 정신착란! 도망치는 중.
 - Key: CharacterStatusConfig.RunAwayBreakStatus.FeedHoverString
-  Text: 'Running Away Into the Fog:'
+  Text: '안개 속으로 도망치는 중:'
 - Key: CharacterStatusConfig.RunAwayBreakStatus.LogEntry
-  Text: BREAK! {0} is having a {1}.
+  Text: '정신착란! {0}: {1}'
 - Key: CharacterStatusConfig.RunAwayBreakStatus.LogEntryEnd
-  Text: "{0}'s is no longer {1}."
+  Text: '{0}: {1} 상태에서 벗어남'
 - Key: CharacterStatusConfig.EatingBinge.DisplayName
   Text: 폭식 중
 - Key: CharacterStatusConfig.EatingBinge.Description
-  Text: Had a <slink=break> and are gorging themselves on whatever food they can find.
+  Text: <slink=break>을 일으켜 손에 잡히는 음식을 모조리 먹어치우고 있습니다.
 - Key: CharacterStatusConfig.EatingBinge.FeedString
-  Text: BREAK! Feeding Frenzy.
+  Text: 정신착란! 폭식 중.
 - Key: CharacterStatusConfig.EatingBinge.FeedHoverString
-  Text: 'Having a Feeding Frenzy:'
+  Text: '폭식 중:'
 - Key: CharacterStatusConfig.EatingBinge.LogEntry
-  Text: BREAK! {0} is having a {1}.
+  Text: '정신착란! {0}: {1}'
 - Key: CharacterStatusConfig.EatingBinge.LogEntryEnd
-  Text: "{0}'s {1} is over."
+  Text: '{0}: {1} 상태에서 벗어남'
 - Key: CharacterStatusConfig.PossessionBreakStatus.DisplayName
   Text: 폭주
 - Key: CharacterStatusConfig.PossessionBreakStatus.Description
-  Text: Had a <slink=break> and are wandering the school, destroying food and furniture.
+  Text: <slink=break>을 일으켜 학교 내의 가구와 아이템을 부수고 있습니다.
 - Key: CharacterStatusConfig.PossessionBreakStatus.FeedString
-  Text: BREAK! Rampage.
+  Text: 정신착란! 폭주 중.
 - Key: CharacterStatusConfig.PossessionBreakStatus.FeedHoverString
-  Text: '폭주 상태:'
+  Text: '폭주 중:'
 - Key: CharacterStatusConfig.PossessionBreakStatus.LogEntry
-  Text: BREAK! {0} is on a {1}.
+  Text: '정신착란! {0}: {1}'
 - Key: CharacterStatusConfig.PossessionBreakStatus.LogEntryEnd
-  Text: '{0} is no longer on a {1}'
+  Text: '{0}: {1} 상태에서 벗어남'
 - Key: CharacterStatusConfig.BloodPainting.DisplayName
   Text: Created a Blood Painting
 - Key: CharacterStatusConfig.BloodPainting.Description
@@ -9194,82 +9194,82 @@
 - Key: CharacterStatusConfig.CursedPainting_Staff.FlavorText
   Text: The canvas pulls and tugs at the frayed edges of the mind.
 - Key: CharacterStatusConfig.CultistFaction.DisplayName
-  Text: Raven Cultist
+  Text: 레이븐 이교도
 - Key: CharacterStatusConfig.CultistFaction.Description
   Text: >
-    Strange bird cultists who believe the world is doomed. Have permanently lowered Conviction, but are powerful in battle.
+    세계가 멸망할 것이라고 믿는 기이한 조류 이교도들입니다. 기본 만족도가 낮지만 전투력이 강합니다.
 - Key: CharacterStatusConfig.CultistFaction.FlavorText
   Text: Ignores the trappings of this world, for true beauty lies in the next.
 - Key: CharacterStatusConfig.HumanFaction.DisplayName
   Text: 인간
 - Key: CharacterStatusConfig.HumanFaction.Description
   Text: >
-    Humans with magical talent. Have large reserves of Mana and one extra Death Save.
+    마법 재능을 지닌 인간입니다. 높은 마나와 추가 소생횟수 1회를 갖고 있습니다.
 - Key: CharacterStatusConfig.HumanFaction.FlavorText
   Text: Magic coursing through veins, from head to toe.
 - Key: CharacterStatusConfig.WerewolfFaction.DisplayName
   Text: 울프킨
 - Key: CharacterStatusConfig.WerewolfFaction.Description
   Text: >
-    Wolflike creatures that will eat wild animals whole. High Speed and will sleep just about anywhere.
+    울프킨은 작은 동물을 산 채로 먹습니다. 속도가 높고 아무 데에서나 잘 잡니다.
 - Key: CharacterStatusConfig.WerewolfFaction.FlavorText
   Text: Fleet of foot, sharp of fang.
 - Key: CharacterStatusConfig.VivifiedFaction.DisplayName
   Text: 비비파이드
 - Key: CharacterStatusConfig.VivifiedFaction.Description
   Text: >
-    A race of former <slink=Quilted> servants who somehow gained sentience. Nobody knows how. High HP and will eat just about anything.
+    지성을 얻은 <slink=Quilted> 도우미들입니다. 어떻게 지성을 얻었는지는 아무도 모릅니다. 높은 HP를 갖고 있으며, 아무거나 잘 먹습니다.
 - Key: CharacterStatusConfig.VivifiedFaction.FlavorText
   Text: Brimming of life, but who knows what else.
 - Key: CharacterStatusConfig.GlassFaction.DisplayName
   Text: 섀터드
 - Key: CharacterStatusConfig.GlassFaction.Description
   Text: >
-    Glass-like humanoids with very low HP. They gain Armor in battle and are immune to many ills.
+    매우 낮은 HP를 지닌 유리 종족입니다. 전투에 진입할 때 아머를 얻고, 여러 질병에 면역입니다.
 - Key: CharacterStatusConfig.GlassFaction.FlavorText
   Text: Polished to a mirror sheen.
 - Key: CharacterStatusConfig.DoomAndGloom.DisplayName
-  Text: Doom and Gloom
+  Text: 멸망의 예감
 - Key: CharacterStatusConfig.DoomAndGloom.Description
-  Text: A는 <slink=CultistFaction> 영구적으로 낮아졌지만 <slink=Mood>강력한 전투원입니다.
+  Text: <slink=CultistFaction>는 낮은 <slink=Mood>를 지니지만 전투에서는 강력합니다.
 - Key: CharacterStatusConfig.DoomAndGloom.FlavorText
   Text: The end is nigh.
 - Key: CharacterStatusConfig.ApexPredator.DisplayName
-  Text: Apex Predator
+  Text: 최고 포식자
 - Key: CharacterStatusConfig.ApexPredator.Description
-  Text: <slink=WerewolfFaction> 그들이 밖에서 또는 바닥에서 잠을 자고, <slink=DireRat> <slink=Croa> 유죄 판결이 처벌이있는 식사를 선호하는 경우 유죄 판결을 처벌하지 마십시오.
+  Text: <slink=WerewolfFaction>은 바깥이나 바닥에서 자도 만족도가 낮아지지 않습니다. 그리고 <slink=DireRat>나 <slink=Croa>를 산 채로 먹어도 만족도가 떨어지지 않습니다.
 - Key: CharacterStatusConfig.ApexPredator.FlavorText
   Text: The untroubled sleep of the fanged.
 - Key: CharacterStatusConfig.StitchedStomach.DisplayName
-  Text: Stitched Stomach
+  Text: 누더기 위장
 - Key: CharacterStatusConfig.StitchedStomach.Description
-  Text: <slink=VivifiedFaction> get no Conviction penalties or bonuses from eating, and prefer to eat the lowest quality food available.
+  Text: <slink=VivifiedFaction>는 음식에 따라 만족도가 변하지 않습니다.
 - Key: CharacterStatusConfig.StitchedStomach.FlavorText
   Text: And no taste buds, besides.
 - Key: CharacterStatusConfig.Inorganic.DisplayName
-  Text: Inorganic
+  Text: 무기질
 - Key: CharacterStatusConfig.Inorganic.Description
-  Text: <slink=GlassFaction> have low <slink=HP>, but do not suffer from magical illnesses like poisons, and will not be attacked by a <slink=TrapdoorVinePlant>.
+  Text: <slink=GlassFaction>는 낮은 <slink=HP>를 지니지만, 독이나 병에 걸리지 않고 <slink=TrapdoorVinePlant>에게 공격당하지 않습니다.
 - Key: CharacterStatusConfig.Inorganic.FlavorText
   Text: Inured against many ills, but unable to carry life for long.
 - Key: CharacterStatusConfig.Inorganic_Armor.DisplayName
-  Text: Inorganic Armor
+  Text: 무기질 갑옷
 - Key: CharacterStatusConfig.Inorganic_Armor.Description
-  Text: Grants 40 Armor on battle start.
+  Text: 전투를 시작할 때 40 아머를 얻습니다.
 - Key: CharacterStatusConfig.Inorganic_Armor.BattleString
   Text: 아머
 - Key: CharacterStatusConfig.Inorganic_Armor_Boon.DisplayName
-  Text: Inorganic Armor (Hour of the Shattered)
+  Text: 무기질 갑옷 (섀터드의 시간)
 - Key: CharacterStatusConfig.Inorganic_Armor_Boon.Description
-  Text: Grants 80 Armor on battle start.
+  Text: 전투를 시작할 때 80 아머를 얻습니다.
 - Key: CharacterStatusConfig.Inorganic_Armor_Boon.BattleString
   Text: 아머
 - Key: StatusEffectConfig.Slowed.DisplayName
-  Text: Slowed
+  Text: 느려짐
 - Key: StatusEffectConfig.Slowed.Description
-  Text: The character moves more slowly.
+  Text: 캐릭터가 느리게 움직입니다.
 - Key: StatusEffectConfig.Fast.DisplayName
-  Text: Fast
+  Text: 빨라짐
 - Key: StatusEffectConfig.Fast.Description
   Text: To Do
 - Key: StatusEffectConfig.UnableToMove.DisplayName
@@ -9329,11 +9329,11 @@
 - Key: StatusEffectConfig.ThirdDegreeBurns.Description
   Text: This character may not heal HP.
 - Key: StatusEffectConfig.Endurance.DisplayName
-  Text: Endurance
+  Text: 인내
 - Key: StatusEffectConfig.Endurance.Description
-  Text: When downed, Restored to 1 HP and Endurance removed.
+  Text: 기절하면 한 번 1HP와 함께 부활할 수 있습니다.
 - Key: StatusEffectConfig.BloodMagic.DisplayName
-  Text: Blood Magic
+  Text: 피의 마법
 - Key: StatusEffectConfig.BloodMagic.Description
   Text: Must spend matching <slink=HP> in addition to a combat spell's mana cost. Will not reduce Mages below 1 HP.
 - Key: StatusEffectConfig.Taunting.DisplayName
@@ -10027,125 +10027,125 @@
 - Key: KeywordDefinition.InspirationInTheAir.Description
   Text: Characters that paint at an <slink=Easel> or <slink=StatueCarvery> during this event are much more likely to produce art than normal.
 - Key: KeywordDefinition.FireWaxesKeyword.DisplayName
-  Text: Fire Leyline Waxes
+  Text: 불의 보름달
 - Key: KeywordDefinition.FireWaxesKeyword.Description
-  Text: Fire specialized Mages start battle with <slink=Fire_Waxing_Battle>.
+  Text: 불 속성 마법사들이 전투 시 <slink=Fire_Waxing_Battle> 상태를 얻습니다.
 - Key: KeywordDefinition.EarthWaxesKeyword.DisplayName
-  Text: Earth Leyline Waxes
+  Text: 대지의 보름달
 - Key: KeywordDefinition.EarthWaxesKeyword.Description
-  Text: Earth specialized Mages start battle with <slink=Earth_Waxing_Battle>.
+  Text: 대지 속성 마법사들이 전투 시 <slink=Earth_Waxing_Battle> 상태를 얻습니다.
 - Key: KeywordDefinition.WaterWaxesKeyword.DisplayName
-  Text: Water Leyline Waxes
+  Text: 물의 보름달
 - Key: KeywordDefinition.WaterWaxesKeyword.Description
-  Text: Water specialized Mages start battle with <slink=Water_Waxing_Battle>.
+  Text: 물 속성 마법사들이 전투 시 <slink=Water_Waxing_Battle> 상태를 얻습니다.
 - Key: KeywordDefinition.AirWaxesKeyword.DisplayName
-  Text: Air Leyline Waxes
+  Text: 바람의 보름달
 - Key: KeywordDefinition.AirWaxesKeyword.Description
-  Text: Air specialized Mages start battle with <slink=Air_Waxing_Battle>.
+  Text: 바람 속성 마법사들이 전투 시 <slink=Air_Waxing_Battle> 상태를 얻습니다.
 - Key: KeywordDefinition.NatureWaxesKeyword.DisplayName
-  Text: Nature Leyline Waxes
+  Text: 자연의 보름달
 - Key: KeywordDefinition.NatureWaxesKeyword.Description
-  Text: Nature specialized Mages start battle with <slink=Nature_Waxing_Battle>.
+  Text: 자연 속성 마법사들이 전투 시 <slink=Nature_Waxing_Battle> 상태를 얻습니다.
 - Key: KeywordDefinition.DarkWaxesKeyword.DisplayName
-  Text: Dark Leyline Waxes
+  Text: 어둠의 보름달
 - Key: KeywordDefinition.DarkWaxesKeyword.Description
-  Text: Dark specialized Mages start battle with <slink=Dark_Waxing_Battle>.
+  Text: 어둠 속성 마법사들이 전투 시 <slink=Dark_Waxing_Battle> 상태를 얻습니다.
 - Key: KeywordDefinition.LightningWaxesKeyword.DisplayName
-  Text: Lightning Leyline Waxes
+  Text: 번개의 보름달
 - Key: KeywordDefinition.LightningWaxesKeyword.Description
-  Text: Lightning specialized Mages start battle with <slink=Lightning_Waxing_Battle>.
+  Text: 번개 속성 마법사들이 전투 시 <slink=Lightning_Waxing_Battle> 상태를 얻습니다.
 - Key: KeywordDefinition.FireWanesKeyword.DisplayName
-  Text: Fire Leyline Wanes
+  Text: 불의 그믐달
 - Key: KeywordDefinition.FireWanesKeyword.Description
-  Text: Fire specialized Mages start battle with <slink=Fire_Waning_Battle>.
+  Text: 불 속성 마법사들이 전투 시 <slink=Fire_Waning_Battle> 상태를 얻습니다.
 - Key: KeywordDefinition.EarthWanesKeyword.DisplayName
-  Text: Earth Leyline Wanes
+  Text: 대지의 그믐달
 - Key: KeywordDefinition.EarthWanesKeyword.Description
-  Text: Earth specialized Mages start battle with <slink=Earth_Waning_Battle>.
+  Text: 대지 속성 마법사들이 전투 시 <slink=Earth_Waning_Battle> 상태를 얻습니다.
 - Key: KeywordDefinition.WaterWanesKeyword.DisplayName
-  Text: Water Leyline Wanes
+  Text: 물의 그믐달
 - Key: KeywordDefinition.WaterWanesKeyword.Description
-  Text: Water specialized Mages start battle with <slink=Water_Waning_Battle>.
+  Text: 물 속성 마법사들이 전투 시 <slink=Water_Waning_Battle> 상태를 얻습니다.
 - Key: KeywordDefinition.AirWanesKeyword.DisplayName
-  Text: Air Leyline Wanes
+  Text: 바람의 그믐달
 - Key: KeywordDefinition.AirWanesKeyword.Description
-  Text: Air specialized Mages start battle with <slink=Air_Waning_Battle>.
+  Text: 바람 속성 마법사들이 전투 시 <slink=Air_Waning_Battle> 상태를 얻습니다.
 - Key: KeywordDefinition.NatureWanesKeyword.DisplayName
-  Text: Nature Leyline Wanes
+  Text: 자연의 그믐달
 - Key: KeywordDefinition.NatureWanesKeyword.Description
-  Text: Nature specialized Mages start battle with <slink=Nature_Waning_Battle>.
+  Text: 자연 속성 마법사들이 전투 시 <slink=Nature_Waning_Battle> 상태를 얻습니다.
 - Key: KeywordDefinition.DarkWanesKeyword.DisplayName
-  Text: Dark Leyline Wanes
+  Text: 어둠의 그믐달
 - Key: KeywordDefinition.DarkWanesKeyword.Description
-  Text: Dark specialized Mages start battle with <slink=Dark_Waning_Battle>.
+  Text: 어둠 속성 마법사들이 전투 시 <slink=Dark_Waning_Battle> 상태를 얻습니다.
 - Key: KeywordDefinition.LightningWanesKeyword.DisplayName
-  Text: Lightning Leyline Wanes
+  Text: 번개의 그믐달
 - Key: KeywordDefinition.LightningWanesKeyword.Description
-  Text: Lightning specialized Mages start battle with <slink=Lightning_Waning_Battle>.
+  Text: 번개 속성 마법사들이 전투 시 <slink=Lightning_Waning_Battle> 상태를 얻습니다.
 - Key: KeywordDefinition.RavenCultBoonKeyword.DisplayName
-  Text: Hour of the Raven Cult
+  Text: 레이븐 이교도의 시간
 - Key: KeywordDefinition.RavenCultBoonKeyword.Description
-  Text: Raven Cultists gain <slink=CombatStat_Retaliation> equal to 10 times their wand tier when entering battle.
+  Text: 레이븐 이교도가 전투 시 지팡이 티어의 10배만큼 <slink=CombatStat_Retaliation>을 얻습니다.
 - Key: KeywordDefinition.RavenCultBaneKeyword.DisplayName
-  Text: Bane of the Raven Cult
+  Text: 레이븐 이교도의 불운
 - Key: KeywordDefinition.RavenCultBaneKeyword.Description
-  Text: 까마귀 예배주의자들은 <slink=BloodMagic> 전투 중에 괴로워한다.
+  Text: 레이븐 이교도가 전투 시 <slink=BloodMagic> 상태이상을 얻습니다.
 - Key: KeywordDefinition.HumanBoonKeyword.DisplayName
-  Text: Hour of the Human
+  Text: 인간의 시간
 - Key: KeywordDefinition.HumanBoonKeyword.Description
-  Text: 인간은 전투에 참여할 때 <slink=Endurance>(을)를 획득합니다.
+  Text: 인간 마법사가 전투 시 <slink=Endurance> 상태를 얻습니다.
 - Key: KeywordDefinition.HumanBaneKeyword.DisplayName
-  Text: Bane of the Human
+  Text: 인간의 불운
 - Key: KeywordDefinition.HumanBaneKeyword.Description
-  Text: 인간은 <slink=Fragile> 전투에 참여할 때 고난을 당한다.
+  Text: 인간 마법사가 전투 시 <slink=Fragile> 상태를 얻습니다.
 - Key: KeywordDefinition.VivifiedBoonKeyword.DisplayName
-  Text: Hour of the Vivified
+  Text: 비비파이드의 시간
 - Key: KeywordDefinition.VivifiedBoonKeyword.Description
-  Text: 비비파이드는 전투에 참여할 때 <slink=Tough>(을)를 획득합니다.
+  Text: 비비파이드 마법사가 전투 시 <slink=Tough> 상태를 얻습니다.
 - Key: KeywordDefinition.VivifiedBaneKeyword.DisplayName
-  Text: Bane of the Vivified
+  Text: 비비파이드의 불운
 - Key: KeywordDefinition.VivifiedBaneKeyword.Description
-  Text: 'Vivified may only cast spells that deal no direct damage in battle.    '
+  Text: 비비파이드 마법사는 전투 시 직접 데미지가 없는 주문만 시전할 수 있습니다.
 - Key: KeywordDefinition.WolfkinBoonKeyword.DisplayName
-  Text: Hour of the Wolfkin
+  Text: 울프킨의 시간
 - Key: KeywordDefinition.WolfkinBoonKeyword.Description
-  Text: Wolfkin have 150% <slink=CombatStat_DamageBonus> and <slink=CombatStat_CombatSpeed>.
+  Text: 울프킨 마법사가 전투 시 <slink=CombatStat_DamageBonus>과 <slink=CombatStat_CombatSpeed>가 150% 증가합니다.
 - Key: KeywordDefinition.WolfkinBaneKeyword.DisplayName
-  Text: Bane of the Wolfkin
+  Text: 울프킨의 불운
 - Key: KeywordDefinition.WolfkinBaneKeyword.Description
-  Text: Wolfkin may only cast direct damage spells in battle.
+  Text: 울프킨 마법사는 전투 시 직접 데미지가 있는 주문만 시전할 수 있습니다.
 - Key: KeywordDefinition.ShatteredBoonKeyword.DisplayName
-  Text: Hour of the Shattered
+  Text: 섀터드의 시간
 - Key: KeywordDefinition.ShatteredBoonKeyword.Description
-  Text: 'Shattered receive twice as much armor as normal when entering battle.    '
+  Text: 섀터드 마법사가 전투 시 기존의 두 배만큼 아머를 얻습니다.
 - Key: KeywordDefinition.ShatteredBaneKeyword.DisplayName
-  Text: Bane of the Shattered
+  Text: 섀터드의 불운
 - Key: KeywordDefinition.ShatteredBaneKeyword.Description
-  Text: 'Shattered receive no armor when entering battle.   '
+  Text: 섀터드 마법사가 전투 시 아머를 얻지 못합니다.
 - Key: KeywordDefinition.DeathlyVisitation.DisplayName
-  Text: Corpse Infestation
+  Text: 시체 감염
 - Key: KeywordDefinition.DeathlyVisitation.Description
-  Text: '<slink=ReapersMushroom> spawn intermittenly near all variety of Graves in your school. '
+  Text: 모든 무덤 주변에 <slink=ReapersMushroom>이 피어납니다.
 - Key: KeywordDefinition.CroaMigration.DisplayName
-  Text: Croa Migration
+  Text: 크로아 이주
 - Key: KeywordDefinition.CroaMigration.Description
-  Text: <slink=CroaNest> intermittently spawn near crops.
+  Text: 작물 주변에 <slink=CroaNest>가 나타납니다.
 - Key: KeywordDefinition.Invasion.DisplayName
-  Text: Invasion
+  Text: 침략
 - Key: KeywordDefinition.Invasion.Description
-  Text: Monsters from the underschool have invaded your school, taking over one of the rooms. They will wreak havoc if not dealt with.
+  Text: 지하세계의 괴물들이 마법 학교를 침략해 방 하나를 점거했습니다. 처치하지 않으면 방이 파괴될 것입니다.
 - Key: KeywordDefinition.TorchBoggarts.DisplayName
   Text: 폴터가이스트 - 횃불소등자
 - Key: KeywordDefinition.TorchBoggarts.Description
-  Text: A <slink=PoltergeistLights> spawns in the vicinity of your school to attack your torches and braziers.
+  Text: 학교의 횃불과 화로를 파괴하는 <slink=PoltergeistLights>가 나타납니다.
 - Key: KeywordDefinition.StoragePoltergeists.DisplayName
   Text: 폴터가이스트 - 상자파괴자
 - Key: KeywordDefinition.StoragePoltergeists.Description
-  Text: A <slink=PoltergeistStorage> spawns in the vicinity of your school to attack your storage and dump your items everywhere.
+  Text: 학교의 상자를 파괴하고 아이템을 늘어놓는 <slink=PoltergeistStorage>가 나타납니다.
 - Key: KeywordDefinition.FilthyAkanames.DisplayName
   Text: 폴터가이스트 - 진흙배회자
 - Key: KeywordDefinition.FilthyAkanames.Description
-  Text: A <slink=PoltergeistMess> spawns in the vicinity of your school to create messes around your crafting stations.
+  Text: 학교를 더럽히는 <slink=PoltergeistMess>가 나타납니다.
 - Key: KeywordDefinition.Poltergeist.DisplayName
   Text: 폴터가이스트
 - Key: KeywordDefinition.Poltergeist.Description
@@ -10157,242 +10157,271 @@
 - Key: KeywordDefinition.Broken.DisplayName
   Text: 부서짐
 - Key: KeywordDefinition.Broken.Description
-  Text: Mages cannot use, Shrink, Move, or Disintegrate Broken furnishings. <slink=JobType_Repair> them fully in order to restore their functionalitiy.
+  Text: 부서진 가구는 사용하거나 축소시키거나 이동시키거나 분해할 수 없습니다. 가구를 다시 사용하려면 완전히 <slink=JobType_Repair>하세요.
 - Key: KeywordDefinition.Unreachable.DisplayName
-  Text: Unreachable
+  Text: 도달 불가
 - Key: KeywordDefinition.Unreachable.Description
   Text: >-
-    Some objects are currently not reachable.
+    일부 물체들에 도달할 수 없습니다.
 
 
-    This may be due to parts of the school being blocked by built objects. Use the <slink=PathingFilter> to help find and fix these issues.
+    이는 구조물 블록으로 인해 접근이 막혀 있기 때문일 수 있습니다. <slink=PathingFilter>를 이용하면 접근 가능한 범위를 볼 수 있습니다.
 
 
-    This may also be due to insufficient spell range. Mages get more range in spells for <slink=JobType_Construct>, <slink=JobType_Assemble>, and <slink=JobType_Haul> as they gain more skill.
+    또는 마법 범위의 문제일 수도 있습니다. 마법사들의 스킬 레벨이 높을수록 더 넓은 범위에 <slink=JobType_Construct>, <slink=JobType_Assemble>, 또는 <slink=JobType_Haul> 작업을 수행할 수 있습니다.
 - Key: KeywordDefinition.WeaverBirdHatched.DisplayName
-  Text: Hatched
+  Text: 부화됨
 - Key: KeywordDefinition.WeaverBirdHatched.Description
   Text: >-
-    Weaver Bird Nests, once Assembled, contain an egg, and require a hatching ritual in order to obtain a fully grown Weaver Bird.
+    베짜기새 둥지에는 베짜기새 알이 들어 있습니다. 이 알은 부화 의식을 통해 다 자란 베짜기새로 부화시켜야 합니다.
 
 
-    Hatching Ritual Participant Requirements:
+    부화 의식 참석자 조건:
 
-    Incubator - Student with Fire Skill 4
+    알을 품는 자 - 불꽃 마법 4레벨의 학생
 
-    Nest Fluffer - Student with Air Skill 4
+    둥지를 돌보는 자 - 바람 마법 4레벨의 학생
 - Key: KeywordDefinition.CronebugHatched.DisplayName
-  Text: Hatched
+  Text: 부화됨
 - Key: KeywordDefinition.CronebugHatched.Description
-  Text: "Cronebug Pens, once Assembled, contain an egg, and require a hatching ritual in order to obtain a fully grown Cronebug.\n\nHatching Ritual Participant Requirements:\nLeaftender - Student with Nature Skill 3 \nPen Cleaner - Student with Water Skill 3\nShellcracker - Student with Earth Skill 4"
+  Text: >-
+    크론벌레 둥지에는 크론벌레 알이 들어 있습니다. 크론벌레 알은 부화 의식을 통해 다 자란 크론벌레로 부화시켜야 합니다.
+
+
+    부화 의식 참석자 조건:
+
+    잎사귀를 쌓는 자 - 자연 마법 3레벨의 학생
+
+    우리를 치우는 자 - 물 마법 3레벨의 학생
+
+    알껍질을 깨는 자 - 대지 마법 4레벨의 학생
 - Key: DungeonBiomeDefinition.Spine.DisplayName
-  Text: The Spine
+  Text: 지하세계 지맥
 - Key: DungeonBiomeDefinition.Spine.ExploreDesc
-  Text: Delving deeper may have consequences!
+  Text: 더 깊이 들어가면 어떤 일이 벌어질지 모릅니다!
 - Key: DungeonBiomeDefinition.Lava.DisplayName
-  Text: Lava Mine
+  Text: 용암 광산
 - Key: DungeonBiomeDefinition.Fungus.DisplayName
-  Text: Fungal Cavern
+  Text: 버섯 동굴
 - Key: DungeonBiomeDefinition.Stone.DisplayName
-  Text: Stone Ruins
+  Text: 바위 유적
 - Key: GlobalEventDefinition.RainStormShort.EventPersistLog
   Text: 비가 내립니다.
 - Key: GlobalEventDefinition.RainStormShort.EventStopLog
-  Text: The Rain has ended.
+  Text: 비가 그쳤습니다.
 - Key: GlobalEventDefinition.RainStormShort.EventLogHover
   Text: <slink=Rain>
 - Key: GlobalEventDefinition.RainStormShort.EventComingAlertText
-  Text: Rain incoming.
+  Text: 비가 옵니다.
 - Key: GlobalEventDefinition.RainStormShort.DivinationText
-  Text: A driving rain.
+  Text: 세찬 비입니다.
 - Key: GlobalEventDefinition.DireRain.EventPersistLog
-  Text: A Dire Rain falls.
+  Text: 소낙비가 내립니다.
 - Key: GlobalEventDefinition.DireRain.EventStopLog
-  Text: The Dire Rain has ended.
+  Text: 소낙비가 그쳤습니다.
 - Key: GlobalEventDefinition.DireRain.EventLogHover
-  Text: A strange Dire <slink=Rain> will damage and eventually destroy that which isn't covered by roofs, and Dire Rats will become aggressive.
+  Text: 이 기이한 <slink=Rain>는 지붕에 덮여 있지 않은 물체들을 파괴하고, 들쥐들을 사납게 만듭니다.
 - Key: GlobalEventDefinition.DireRain.EventComingAlertText
-  Text: Dire Rain incoming.
+  Text: 소낙비가 내립니다.
 - Key: GlobalEventDefinition.DireRain.DivinationText
   Text: Fetid rain.
 - Key: GlobalEventDefinition.DireRainMediumLong.EventPersistLog
-  Text: A Dire Rain falls.
+  Text: 소낙비가 내립니다.
 - Key: GlobalEventDefinition.DireRainMediumLong.EventStopLog
-  Text: The Dire Rain has ended.
+  Text: 소낙비가 그쳤습니다.
 - Key: GlobalEventDefinition.DireRainMediumLong.EventLogHover
-  Text: A strange Dire <slink=Rain> will damage and eventually destroy that which isn't covered by roofs, and Dire Rats will become aggressive.
+  Text: 이 기이한 <slink=Rain>는 지붕에 덮여 있지 않은 물체들을 파괴하고, 들쥐들을 사납게 만듭니다.
 - Key: GlobalEventDefinition.DireRainMediumLong.EventComingAlertText
-  Text: Dire Rain incoming.
+  Text: 소낙비가 내립니다.
 - Key: GlobalEventDefinition.DireRainMediumLong.DivinationText
   Text: Fetid, torrid rain.
 - Key: GlobalEventDefinition.DireRainLong.EventPersistLog
-  Text: A Dire rain falls.
+  Text: 소낙비가 내립니다.
 - Key: GlobalEventDefinition.DireRainLong.EventStopLog
-  Text: The Dire Rain has ended.
+  Text: 소낙비가 그쳤습니다.
 - Key: GlobalEventDefinition.DireRainLong.EventLogHover
-  Text: A Dire <slink=Rain> will damage and eventually destroy that which isn't covered by roofs, and Dire Rats will become aggressive.
+  Text: 이 기이한 <slink=Rain>는 지붕에 덮여 있지 않은 물체들을 파괴하고, 들쥐들을 사납게 만듭니다.
 - Key: GlobalEventDefinition.DireRainLong.EventComingAlertText
-  Text: Dire rain incoming.
+  Text: 소낙비가 내립니다.
 - Key: GlobalEventDefinition.DireRainLong.DivinationText
   Text: Fetid, severe rain.
 - Key: GlobalEventDefinition.Wasting_Medium.EventDisplayName
-  Text: Wasting
+  Text: 가뭄
 - Key: GlobalEventDefinition.Wasting_Medium.EventPersistLog
-  Text: A Wasting arises.
+  Text: 가뭄이 시작되었습니다.
 - Key: GlobalEventDefinition.Wasting_Medium.EventStopLog
-  Text: The Wasting has ended.
+  Text: 가뭄이 끝났습니다.
 - Key: GlobalEventDefinition.Wasting_Medium.EventLogHover
-  Text: All plants have stopped growing for the duration of the event.
+  Text: 모든 식물이 자라기를 멈춥니다.
 - Key: GlobalEventDefinition.Wasting_Medium.DivinationText
   Text: Life, in retreat.
 - Key: GlobalEventDefinition.HeatWave.EventDisplayName
-  Text: Heat Wave
+  Text: 폭염
 - Key: GlobalEventDefinition.HeatWave.TriggeredEventDisplayText
-  Text: Heat Waves have been unleashed!
+  Text: 폭염이 시작되었습니다!
 - Key: GlobalEventDefinition.HeatWave.EventPersistLog
-  Text: A Heat Wave simmers.
+  Text: 폭염이 왔습니다.
 - Key: GlobalEventDefinition.HeatWave.EventStopLog
-  Text: The Heat Wave has ended.
+  Text: 폭염이 끝났습니다.
 - Key: GlobalEventDefinition.HeatWave.EventLogHover
-  Text: "- Warm temperatures cause <slink=PhoenixFlowerPlantCrop> to spawn at higher rates and grow four times as fast. \n- <slink=IceflowerCrop> plants will not spawn, and existing ones stop growing entirely.\n- Fire specialized Mages start battle with <slink=Fire_Waxing_Battle>, and Water specialized Mages start battle with <slink=Water_Waning_Battle>.\n- Enemies from the Lava Mines will show up in some above ground battles."
+  Text: >-
+    - 날씨가 더워져 <slink=PhoenixFlowerPlantCrop>이 더 많이 나타나고, 네 배 빠르게 자랍니다.
+
+    - <slink=IceflowerCrop>은 새로 나타나지 않고, 이미 존재하는 얼음꽃은 자라지 않습니다.
+
+    - 불 속성 마법사들은 전투 시 <slink=Fire_Waxing_Battle> 상태를 얻고, 물 속성 마법사들은 전투 시 <slink=Water_Waning_Battle> 상태이상을 얻습니다.
+
+    - 용암 광산의 적들이 지상 전투에 나타납니다.
 - Key: GlobalEventDefinition.HeatWave.DivinationText
   Text: Unseasonably hot for most. Just right for a few.
 - Key: GlobalEventDefinition.ColdSnap.EventDisplayName
-  Text: Cold Snap
+  Text: 한파
 - Key: GlobalEventDefinition.ColdSnap.TriggeredEventDisplayText
-  Text: Cold Snaps have been unleashed!
+  Text: 한파가 시작되었습니다!
 - Key: GlobalEventDefinition.ColdSnap.EventPersistLog
-  Text: A Cold Snap chills.
+  Text: 한파가 왔습니다.
 - Key: GlobalEventDefinition.ColdSnap.EventStopLog
-  Text: 콜드 스냅 종료되었습니다.
+  Text: 한파가 끝났습니다.
 - Key: GlobalEventDefinition.ColdSnap.EventLogHover
-  Text: "- Cold temperatures cause <slink=IceflowerCrop> to spawn at higher rates and grow four times as fast. \n- <slink=PhoenixFlowerPlantCrop> plants will not spawn, and existing ones stop growing entirely.\n- Water specialized Mages start battle with <slink=Water_Waxing_Battle>, and Nature specialized Mages start battle with <slink=Nature_Waning_Battle>.\n- Enemies from the Stone Ruins will show up in some above ground battles."
+  Text: >-
+    - 날씨가 추워져 <slink=IceflowerCrop>이 더 많이 나타나고, 네 배 빠르게 자랍니다.
+
+    - <slink=PhoenixFlowerPlantCrop>은 새로 나타나지 않고, 이미 존재하는 불사조의 입맞춤은 자라지 않습니다.
+
+    - 물 속성 마법사들은 전투 시 <slink=Water_Waxing_Battle> 상태를 얻고, 자연 속성 마법사들은 전투 시 <slink=Nature_Waning_Battle> 상태이상을 얻습니다.
+
+    - 바위 유적의 적들이 지상 전투에 나타납니다.
 - Key: GlobalEventDefinition.ColdSnap.DivinationText
   Text: Unseasonably cold for most. Just right for a few.
 - Key: GlobalEventDefinition.FungalBloom.EventDisplayName
-  Text: 곰팡이 꽃
+  Text: 곰팡이 만개
 - Key: GlobalEventDefinition.FungalBloom.EventPersistLog
-  Text: 곰팡이 꽃이 피어납니다.
+  Text: 곰팡이가 만개합니다.
 - Key: GlobalEventDefinition.FungalBloom.EventStopLog
-  Text: 곰팡이 블룸은 끝났다.
+  Text: 곰팡이 만개가 끝났습니다.
 - Key: GlobalEventDefinition.FungalBloom.EventLogHover
   Text: >-
-    - Mushrooms of all types abound! <slink=ReapersMushroom>, <slink=FractalMold>, and <slink=VoidShroom> grow twice as fast.
+    - 온통 버섯투성이입니다! <slink=ReapersMushroom>, <slink=FractalMold>, 그리고 <slink=VoidShroom>이 두 배 빨리 자랍니다.
 
-    - Nature specialized Mages start battle with <slink=Nature_Waxing_Battle>, and Earth specialized Mages start battle with <slink=Earth_Waning_Battle>.
+    - 자연 속성 마법사들이 전투 시 <slink=Nature_Waxing_Battle> 상태를 얻고, 대지 속성 마법사들이 전투 시 <slink=Earth_Waning_Battle> 상태이상을 얻습니다.
 
-    - Enemies from the Fungal Caverns will show up in some above ground battles.
+    - 버섯 동굴에 나타나는 적들이 지상 전투에도 나타납니다.
 - Key: GlobalEventDefinition.FungalBloom.DivinationText
-  Text: 우리 사이에는 곰팡이가 있습니다.
+  Text: There are funguses among us.
 - Key: GlobalEventDefinition.HighStink.EventDisplayName
-  Text: 높은 악취
+  Text: 악취 만발
 - Key: GlobalEventDefinition.HighStink.EventPersistLog
-  Text: 높은 악취가 발생합니다.
+  Text: 악취가 만발합니다.
 - Key: GlobalEventDefinition.HighStink.EventStopLog
-  Text: 높은 악취가 끝났다.
+  Text: 악취 만발이 끝났습니다.
 - Key: GlobalEventDefinition.HighStink.EventLogHover
   Text: >-
-    - It's Gutberry season! <slink=GutberryPlant> spawn at a much higher rate than normal in the garden next to the school.
+    - 내장딸기가 제철입니다! <slink=GutberryPlant>가 학교 근처에 기존보다 훨씬 높은 빈도로 나타납니다.
 
-    - Air specialized Mages start battle with <slink=Air_Waxing_Battle>, and Lightning specialized Mages start battle with <slink=Lightning_Waning_Battle>.
+    - 바람 속성 마법사들이 전투 시 <slink=Air_Waxing_Battle> 상태를 얻고, 번개 속성 마법사들이 전투 시 <slink=Lightning_Waning_Battle> 상태이상을 얻습니다.
 
-    - Mages eating Gutberries or Gutberry Soup suffer an additional <slink=Mood> penalty.
+    - 내장딸기나 내장딸기 수프를 먹는 마법사들의 <slink=Mood>가 평소보다 더 감소합니다.
 - Key: GlobalEventDefinition.HighStink.DivinationText
   Text: Ripe in more ways than one.
 - Key: GlobalEventDefinition.HorrorCulture.EventDisplayName
-  Text: Horrorculture
+  Text: 끔찍한 미생물
 - Key: GlobalEventDefinition.HorrorCulture.TriggeredEventDisplayText
-  Text: Horrorcultures have been unleashed!
+  Text: 끔찍한 미생물이 나타났습니다!
 - Key: GlobalEventDefinition.HorrorCulture.EventPersistLog
-  Text: A Horrorculture infects the soil.
+  Text: 끔찍한 미생물이 흙을 오염시킵니다.
 - Key: GlobalEventDefinition.HorrorCulture.EventStopLog
-  Text: The Horrorculture has ended.
+  Text: 끔찍한 미생물의 창궐이 끝났습니다.
 - Key: GlobalEventDefinition.HorrorCulture.EventLogHover
   Text: >-
-    - Crop plants have a 50% chance to drop some form of offal rather than their normal crop for the duration of the event.
+    - 식량 작물을 수확하면 50%의 확률로 식량 대신 다른 아이템이 나옵니다.
 
-    - Dark specialized Mages start battle with <slink=Dark_Waxing_Battle>, and Air specialized Mages start battle with <slink=Air_Waning_Battle>.
+    - 어둠 속성 마법사들이 전투 시 <slink=Dark_Waxing_Battle> 상태를 얻고, 바람 속성 마법사들이 전투 시 <slink=Air_Waning_Battle> 상태이상을 얻습니다.
 - Key: GlobalEventDefinition.HorrorCulture.DivinationText
   Text: Verdant. Oozing. Squirming.
 - Key: GlobalEventDefinition.HorrorCulture2.EventDisplayName
-  Text: Horrorculture
+  Text: 끔찍한 미생물
 - Key: GlobalEventDefinition.HorrorCulture2.TriggeredEventDisplayText
-  Text: Horrorcultures have been unleashed!
+  Text: 끔찍한 미생물이 나타났습니다!
 - Key: GlobalEventDefinition.HorrorCulture2.EventPersistLog
-  Text: A Horrorculture infects the soil.
+  Text: 끔찍한 미생물이 흙을 오염시킵니다.
 - Key: GlobalEventDefinition.HorrorCulture2.EventStopLog
-  Text: The Horrorculture has ended.
+  Text: 끔찍한 미생물의 창궐이 끝났습니다.
 - Key: GlobalEventDefinition.HorrorCulture2.EventLogHover
   Text: >-
-    - Crop plants have a 50% chance to drop some form of offal rather than their normal crop for the duration of the event.
+    - 식량 작물을 수확하면 50%의 확률로 식량 대신 다른 아이템이 나옵니다.
 
-    - Dark specialized Mages start battle with <slink=Dark_Waxing_Battle>, and Air specialized Mages start battle with <slink=Air_Waning_Battle>.
+    - 어둠 속성 마법사들이 전투 시 <slink=Dark_Waxing_Battle> 상태를 얻고, 바람 속성 마법사들이 전투 시 <slink=Air_Waning_Battle> 상태이상을 얻습니다.
 - Key: GlobalEventDefinition.HorrorCulture2.DivinationText
   Text: Verdant. Oozing. Squirming.
 - Key: GlobalEventDefinition.GoldenBerries.EventDisplayName
-  Text: Golden Berries
+  Text: 황금딸기
 - Key: GlobalEventDefinition.GoldenBerries.EventPersistLog
-  Text: Golden Berries flourish.
+  Text: 황금딸기가 열립니다.
 - Key: GlobalEventDefinition.GoldenBerries.EventStopLog
-  Text: Golden Berries have receded.
+  Text: 황금딸기의 철이 끝났습니다.
 - Key: GlobalEventDefinition.GoldenBerries.EventLogHover
   Text: >-
-    - <slink=GutberryPlant> will also drop <slink=Honeydrop> when harvested.
+    - <slink=GutberryPlant>를 수확하면 <slink=Honeydrop>을 추가로 얻을 수 있습니다.
 
-    - Earth specialized Mages start battle with <slink=Earth_Waxing_Battle>, and Dark specialized Mages start battle with <slink=Dark_Waning_Battle>.
+    - 대지 속성 마법사들이 전투 시 <slink=Earth_Waxing_Battle> 상태를 얻고, 어둠 속성 마법사들이 전투 시 <slink=Dark_Waning_Battle> 상태이상을 얻습니다.
 
-    - The <slink=Mood> penalty from eating Gutberries or Gutberry Soup is negated.
+    - 내장딸기나 내장딸기 수프를 먹을 때 <slink=Mood>가 덜 낮아집니다.
 - Key: GlobalEventDefinition.GoldenBerries.DivinationText
   Text: Hints of gold tantalize the mind.
 - Key: GlobalEventDefinition.RainStormMediumLong.EventPersistLog
   Text: 비가 내립니다.
 - Key: GlobalEventDefinition.RainStormMediumLong.EventStopLog
-  Text: The Rain has ended.
+  Text: 비가 그쳤습니다.
 - Key: GlobalEventDefinition.RainStormMediumLong.EventLogHover
-  Text: <slink=Rain> will damage and eventually destroy that which isn't covered by roofs.
+  Text: <slink=Rain>는 지붕으로 덮여 있지 않은 물체를 파괴합니다.
 - Key: GlobalEventDefinition.RainStormMediumLong.EventComingAlertText
-  Text: Rain incoming.
+  Text: 비가 옵니다.
 - Key: GlobalEventDefinition.RainStormMediumLong.DivinationText
   Text: Torrid rain.
 - Key: GlobalEventDefinition.LightningStorm.EventPersistLog
-  Text: A Thunderstorm rages.
+  Text: 번개폭풍이 옵니다.
 - Key: GlobalEventDefinition.LightningStorm.EventStopLog
-  Text: The Thunderstorm has ended.
+  Text: 번개폭풍이 끝났습니다.
 - Key: GlobalEventDefinition.LightningStorm.EventLogHover
-  Text: "- A violent <slink=Rain> will damage and eventually destroy that which isn't covered by roofs. \n- Lightning will destroy roofs not protected by a <slink=LightningRod>.\n- Lightning specialized Mages start battle with <slink=Lightning_Waxing_Battle>, and Fire specialized Mages start battle with <slink=Fire_Waning_Battle>."
+  Text: >-
+    - 맹렬한 <slink=Rain>가 지붕으로 덮여 있지 않은 물체들을 파괴합니다.
+
+    - <slink=LightningRod>이 설치되지 않은 지역의 지붕이 번개로 인해 파괴됩니다.
+
+    - 번개 속성 마법사들이 전투 시 <slink=Lightning_Waxing_Battle> 상태를 얻고, 불 속성 마법사들이 전투 시 <slink=Fire_Waning_Battle> 상태이상을 얻습니다.
 - Key: GlobalEventDefinition.LightningStorm.EventComingAlertText
-  Text: Thunderstorm incoming.
+  Text: 번개폭풍이 옵니다.
 - Key: GlobalEventDefinition.LightningStorm.DivinationText
-  Text: A thunderstorm.
+  Text: 번개폭풍입니다.
 - Key: GlobalEventDefinition.RainStormLong.EventPersistLog
   Text: 비가 내립니다.
 - Key: GlobalEventDefinition.RainStormLong.EventStopLog
-  Text: The Rain has ended.
+  Text: 비가 그쳤습니다.
 - Key: GlobalEventDefinition.RainStormLong.EventLogHover
-  Text: <slink=Rain> will damage and eventually destroy that which isn't covered by roofs.
+  Text: <slink=Rain>는 지붕으로 덮여 있지 않은 물체를 파괴합니다.
 - Key: GlobalEventDefinition.RainStormLong.EventComingAlertText
-  Text: Rain incoming.
+  Text: 비가 옵니다.
 - Key: GlobalEventDefinition.RainStormLong.DivinationText
   Text: 거센 비.
 - Key: GlobalEventDefinition.LightningStormMediumLong.EventPersistLog
-  Text: A Thunderstorm rages.
+  Text: 번개폭풍이 옵니다.
 - Key: GlobalEventDefinition.LightningStormMediumLong.EventStopLog
-  Text: The Thunderstorm has ended.
+  Text: 번개폭풍이 끝났습니다.
 - Key: GlobalEventDefinition.LightningStormMediumLong.EventLogHover
   Text: >-
-    - A violent <slink=Rain> will damage and eventually destroy that which isn't covered by roofs
+    - 맹렬한 <slink=Rain>가 지붕으로 덮여 있지 않은 물체들을 파괴합니다.
 
-    - Lightning will damage roofs not protected by a <slink=LightningRod>.
+    - <slink=LightningRod>이 설치되지 않은 지역의 지붕이 번개로 인해 파괴됩니다.
 
-    - Lightning specialized Mages start battle with <slink=Lightning_Waxing_Battle>, and Fire specialized Mages start battle with <slink=Fire_Waning_Battle>.
+    - 번개 속성 마법사들이 전투 시 <slink=Lightning_Waxing_Battle> 상태를 얻고, 불 속성 마법사들이 전투 시 <slink=Fire_Waning_Battle> 상태이상을 얻습니다.
 - Key: GlobalEventDefinition.LightningStormMediumLong.EventComingAlertText
-  Text: Thunderstorm incoming.
+  Text: 번개폭풍이 옵니다.
 - Key: GlobalEventDefinition.LightningStormMediumLong.DivinationText
   Text: A torrid thunderstorm.
 - Key: GlobalEventDefinition.LightningStormLong.EventPersistLog
-  Text: A Thunderstorm rages.
+  Text: 번개폭풍이 옵니다.
 - Key: GlobalEventDefinition.LightningStormLong.EventStopLog
-  Text: The Thunderstorm has ended.
+  Text: 번개폭풍이 끝났습니다.
 - Key: GlobalEventDefinition.LightningStormLong.EventLogHover
   Text: >-
     - 폭력은 <slink=Rain> 손상하고 결국 지붕에 의해 보호되지 않는 것을 파괴합니다
@@ -10401,27 +10430,27 @@
 
     - 번개 전문 마법사와 <slink=Lightning_Waxing_Battle>전투를 시작, 화재 전문 마법사와 전투를 시작합니다 <slink=Fire_Waning_Battle>.
 - Key: GlobalEventDefinition.LightningStormLong.EventComingAlertText
-  Text: Thunderstorm incoming.
+  Text: 번개폭풍이 옵니다.
 - Key: GlobalEventDefinition.LightningStormLong.DivinationText
   Text: A severe thunderstorm.
 - Key: GlobalEventDefinition.Wasting_Short.EventDisplayName
-  Text: 낭비
+  Text: 가뭄
 - Key: GlobalEventDefinition.Wasting_Short.EventPersistLog
-  Text: 낭비가 발생한다.
+  Text: 가뭄이 시작되었습니다.
 - Key: GlobalEventDefinition.Wasting_Short.EventStopLog
-  Text: 낭비는 끝났다.
+  Text: 가뭄이 끝났습니다.
 - Key: GlobalEventDefinition.Wasting_Short.EventLogHover
-  Text: 모든 식물은 이벤트 기간 동안 성장을 멈췄습니다.
+  Text: 모든 식물이 자라기를 멈춥니다.
 - Key: GlobalEventDefinition.Wasting_Short.DivinationText
   Text: Life, in retreat.
 - Key: GlobalEventDefinition.Wasting_Long.EventDisplayName
-  Text: Wasting
+  Text: 가뭄
 - Key: GlobalEventDefinition.Wasting_Long.EventPersistLog
-  Text: A Wasting arises.
+  Text: 가뭄이 시작되었습니다.
 - Key: GlobalEventDefinition.Wasting_Long.EventStopLog
-  Text: The Wasting has ended.
+  Text: 가뭄이 끝났습니다.
 - Key: GlobalEventDefinition.Wasting_Long.EventLogHover
-  Text: All plants have stopped growing for the duration of the event.
+  Text: 모든 식물이 자라기를 멈춥니다.
 - Key: GlobalEventDefinition.Wasting_Long.DivinationText
   Text: Life, in retreat.
 - Key: GlobalEventDefinition.CursedCanvases.EventDisplayName
@@ -10569,233 +10598,233 @@
 - Key: GlobalEventDefinition.HumanBoonEvent.EventDisplayName
   Text: <slink=HumanBoonKeyword>
 - Key: GlobalEventDefinition.HumanBoonEvent.EventPersistLog
-  Text: Humans perform better in battle.
+  Text: 인간 마법사들이 전투에서 더 강해집니다.
 - Key: GlobalEventDefinition.HumanBoonEvent.EventStopLog
-  Text: 인간이 정상으로 돌아왔습니다.
+  Text: 인간 마법사의 힘이 기존대로 돌아왔습니다.
 - Key: GlobalEventDefinition.HumanBoonEvent.EventLogHover
   Text: <slink=HumanBoonKeyword>
 - Key: GlobalEventDefinition.HumanBaneEvent.EventDisplayName
   Text: <slink=HumanBaneKeyword>
 - Key: GlobalEventDefinition.HumanBaneEvent.EventPersistLog
-  Text: Humans perform worse in battle.
+  Text: 인간 마법사들이 전투에서 더 약해집니다.
 - Key: GlobalEventDefinition.HumanBaneEvent.EventStopLog
-  Text: 인간이 정상으로 돌아왔습니다.
+  Text: 인간 마법사의 힘이 기존대로 돌아왔습니다.
 - Key: GlobalEventDefinition.HumanBaneEvent.EventLogHover
   Text: <slink=HumanBaneKeyword>
 - Key: GlobalEventDefinition.RavenCultBoonEvent.EventDisplayName
   Text: <slink=RavenCultBoonKeyword>
 - Key: GlobalEventDefinition.RavenCultBoonEvent.EventPersistLog
-  Text: Raven Cultists perform better in battle.
+  Text: 레이븐 이교도 마법사들이 전투에서 더 강해집니다.
 - Key: GlobalEventDefinition.RavenCultBoonEvent.EventStopLog
-  Text: 레이븐 이교도가 정상으로 돌아왔습니다.
+  Text: 레이븐 이교도 마법사의 힘이 기존대로 돌아왔습니다.
 - Key: GlobalEventDefinition.RavenCultBoonEvent.EventLogHover
   Text: <slink=RavenCultBoonKeyword>
 - Key: GlobalEventDefinition.RavenCultBaneEvent.EventDisplayName
   Text: <slink=RavenCultBaneKeyword>
 - Key: GlobalEventDefinition.RavenCultBaneEvent.EventPersistLog
-  Text: Raven Cultists perform worse in battle.
+  Text: 레이븐 이교도 마법사들이 전투에서 더 약해집니다.
 - Key: GlobalEventDefinition.RavenCultBaneEvent.EventStopLog
-  Text: 레이븐 이교도가 정상으로 돌아왔습니다.
+  Text: 레이븐 이교도 마법사의 힘이 기존대로 돌아왔습니다.
 - Key: GlobalEventDefinition.RavenCultBaneEvent.EventLogHover
   Text: <slink=RavenCultBaneKeyword>
 - Key: GlobalEventDefinition.VivifiedBoonEvent.EventDisplayName
   Text: <slink=VivifiedBoonKeyword>
 - Key: GlobalEventDefinition.VivifiedBoonEvent.EventPersistLog
-  Text: Vivified perform better in battle.
+  Text: 비비파이드 마법사들이 전투에서 더 강해집니다.
 - Key: GlobalEventDefinition.VivifiedBoonEvent.EventStopLog
-  Text: 비비파이드가 정상으로 돌아왔습니다.
+  Text: 비비파이드 마법사의 힘이 기존대로 돌아왔습니다.
 - Key: GlobalEventDefinition.VivifiedBoonEvent.EventLogHover
   Text: <slink=VivifiedBoonKeyword>
 - Key: GlobalEventDefinition.VivifiedBaneEvent.EventDisplayName
   Text: <slink=VivifiedBaneKeyword>
 - Key: GlobalEventDefinition.VivifiedBaneEvent.EventPersistLog
-  Text: Vivified perform worse in battle.
+  Text: 비비파이드 마법사들이 전투에서 더 약해집니다.
 - Key: GlobalEventDefinition.VivifiedBaneEvent.EventStopLog
-  Text: 비비파이드가 정상으로 돌아왔습니다.
+  Text: 비비파이드 마법사의 힘이 기존대로 돌아왔습니다.
 - Key: GlobalEventDefinition.VivifiedBaneEvent.EventLogHover
   Text: <slink=VivifiedBaneKeyword>
 - Key: GlobalEventDefinition.WolfkinBoonEvent.EventDisplayName
   Text: <slink=WolfkinBoonKeyword>
 - Key: GlobalEventDefinition.WolfkinBoonEvent.EventPersistLog
-  Text: Wolfkin perform better in battle.
+  Text: 울프킨 마법사들이 전투에서 더 강해집니다.
 - Key: GlobalEventDefinition.WolfkinBoonEvent.EventStopLog
-  Text: 울프킨이 정상으로 돌아왔습니다.
+  Text: 울프킨 마법사의 힘이 기존대로 돌아왔습니다.
 - Key: GlobalEventDefinition.WolfkinBoonEvent.EventLogHover
   Text: <slink=WolfkinBoonKeyword>
 - Key: GlobalEventDefinition.WolfkinBaneEvent.EventDisplayName
   Text: <slink=WolfkinBaneKeyword>
 - Key: GlobalEventDefinition.WolfkinBaneEvent.EventPersistLog
-  Text: Wolfkin perform worse in battle.
+  Text: 울프킨 마법사들이 전투에서 더 약해집니다.
 - Key: GlobalEventDefinition.WolfkinBaneEvent.EventStopLog
-  Text: 울프킨이 정상으로 돌아왔습니다.
+  Text: 울프킨 마법사의 힘이 기존대로 돌아왔습니다.
 - Key: GlobalEventDefinition.WolfkinBaneEvent.EventLogHover
   Text: <slink=WolfkinBaneKeyword>
 - Key: GlobalEventDefinition.ShatteredBoonEvent.EventDisplayName
   Text: <slink=ShatteredBoonKeyword>
 - Key: GlobalEventDefinition.ShatteredBoonEvent.EventPersistLog
-  Text: Shattered perform better in battle.
+  Text: 섀터드 마법사들이 전투에서 더 강해집니다.
 - Key: GlobalEventDefinition.ShatteredBoonEvent.EventStopLog
-  Text: 섀터드가 정상으로 돌아왔습니다.
+  Text: 섀터드 마법사의 힘이 기존대로 돌아왔습니다.
 - Key: GlobalEventDefinition.ShatteredBoonEvent.EventLogHover
   Text: <slink=ShatteredBoonKeyword>
 - Key: GlobalEventDefinition.ShatteredBaneEvent.EventDisplayName
   Text: <slink=ShatteredBaneKeyword>
 - Key: GlobalEventDefinition.ShatteredBaneEvent.EventPersistLog
-  Text: Shattered perform worse in battle.
+  Text: 섀터드 마법사들이 전투에서 더 약해집니다.
 - Key: GlobalEventDefinition.ShatteredBaneEvent.EventStopLog
-  Text: 섀터드가 정상으로 돌아왔습니다.
+  Text: 섀터드 마법사의 힘이 기존대로 돌아왔습니다.
 - Key: GlobalEventDefinition.ShatteredBaneEvent.EventLogHover
   Text: <slink=ShatteredBaneKeyword>
 - Key: GlobalEventDefinition.FireWanesEvent.EventDisplayName
   Text: <slink=FireWanesKeyword>
 - Key: GlobalEventDefinition.FireWanesEvent.EventPersistLog
-  Text: Fire Mages perform worse in battle.
+  Text: 불꽃 속성 마법사들이 전투에서 더 약해집니다.
 - Key: GlobalEventDefinition.FireWanesEvent.EventStopLog
-  Text: Fire Leyline이 정상으로 돌아왔습니다.
+  Text: 불꽃  속성 마법사의 힘이 기존대로 돌아왔습니다.
 - Key: GlobalEventDefinition.FireWanesEvent.EventLogHover
   Text: <slink=FireWanesKeyword>
 - Key: GlobalEventDefinition.FireWaxesEvent.EventDisplayName
   Text: <slink=FireWaxesKeyword>
 - Key: GlobalEventDefinition.FireWaxesEvent.EventPersistLog
-  Text: Fire Mages perform better in battle.
+  Text: 불꽃 속성 마법사들이 전투에서 더 강해집니다.
 - Key: GlobalEventDefinition.FireWaxesEvent.EventStopLog
-  Text: Fire Leyline이 정상으로 돌아왔습니다.
+  Text: 불꽃 속성 마법사의 힘이 기존대로 돌아왔습니다.
 - Key: GlobalEventDefinition.FireWaxesEvent.EventLogHover
   Text: <slink=FireWaxesKeyword>
 - Key: GlobalEventDefinition.WaterWanesEvent.EventDisplayName
   Text: <slink=WaterWanesKeyword>
 - Key: GlobalEventDefinition.WaterWanesEvent.EventPersistLog
-  Text: Water Mages perform worse in battle.
+  Text: 물 속성 마법사들이 전투에서 더 약해집니다.
 - Key: GlobalEventDefinition.WaterWanesEvent.EventStopLog
-  Text: Water Leyline이 정상으로 돌아왔습니다.
+  Text: 물 속성 마법사의 힘이 기존대로 돌아왔습니다.
 - Key: GlobalEventDefinition.WaterWanesEvent.EventLogHover
   Text: <slink=WaterWanesKeyword>
 - Key: GlobalEventDefinition.WaterWaxesEvent.EventDisplayName
   Text: <slink=WaterWaxesKeyword>
 - Key: GlobalEventDefinition.WaterWaxesEvent.EventPersistLog
-  Text: Water Mages perform better in battle.
+  Text: 물 속성 마법사들이 전투에서 더 강해집니다.
 - Key: GlobalEventDefinition.WaterWaxesEvent.EventStopLog
-  Text: Water Leyline이 정상으로 돌아왔습니다.
+  Text: 물 속성 마법사의 힘이 기존대로 돌아왔습니다.
 - Key: GlobalEventDefinition.WaterWaxesEvent.EventLogHover
   Text: <slink=WaterWaxesKeyword>
 - Key: GlobalEventDefinition.EarthWanesEvent.EventDisplayName
   Text: <slink=EarthWanesKeyword>
 - Key: GlobalEventDefinition.EarthWanesEvent.EventPersistLog
-  Text: Earth Mages perform worse in battle.
+  Text: 대지 속성 마법사들이 전투에서 더 약해집니다.
 - Key: GlobalEventDefinition.EarthWanesEvent.EventStopLog
-  Text: Earth Leyline이 정상으로 돌아왔습니다.
+  Text: 대지 속성 마법사의 힘이 기존대로 돌아왔습니다.
 - Key: GlobalEventDefinition.EarthWanesEvent.EventLogHover
   Text: <slink=EarthWanesKeyword>
 - Key: GlobalEventDefinition.EarthWaxesEvent.EventDisplayName
   Text: <slink=EarthWaxesKeyword>
 - Key: GlobalEventDefinition.EarthWaxesEvent.EventPersistLog
-  Text: Earth Mages perform better in battle.
+  Text: 대지 속성 마법사들이 전투에서 더 강해집니다.
 - Key: GlobalEventDefinition.EarthWaxesEvent.EventStopLog
-  Text: Earth Leyline이 정상으로 돌아왔습니다.
+  Text: 대지 속성 마법사의 힘이 기존대로 돌아왔습니다.
 - Key: GlobalEventDefinition.EarthWaxesEvent.EventLogHover
   Text: <slink=EarthWaxesKeyword>
 - Key: GlobalEventDefinition.DarkWanesEvent.EventDisplayName
   Text: <slink=DarkWanesKeyword>
 - Key: GlobalEventDefinition.DarkWanesEvent.EventPersistLog
-  Text: Dark Mages perform worse in battle.
+  Text: 어둠 속성 마법사들이 전투에서 더 약해집니다.
 - Key: GlobalEventDefinition.DarkWanesEvent.EventStopLog
-  Text: Dark Leyline이 정상으로 돌아왔습니다.
+  Text: 어둠 속성 마법사의 힘이 기존대로 돌아왔습니다.
 - Key: GlobalEventDefinition.DarkWanesEvent.EventLogHover
   Text: <slink=DarkWanesKeyword>
 - Key: GlobalEventDefinition.DarkWaxesEvent.EventDisplayName
   Text: <slink=DarkWaxesKeyword>
 - Key: GlobalEventDefinition.DarkWaxesEvent.EventPersistLog
-  Text: Dark Mages perform better in battle.
+  Text: 어둠 속성 마법사들이 전투에서 더 강해집니다.
 - Key: GlobalEventDefinition.DarkWaxesEvent.EventStopLog
-  Text: Dark Leyline이 정상으로 돌아왔습니다.
+  Text: 어둠 속성 마법사의 힘이 기존대로 돌아왔습니다.
 - Key: GlobalEventDefinition.DarkWaxesEvent.EventLogHover
   Text: <slink=DarkWaxesKeyword>
 - Key: GlobalEventDefinition.NatureWanesEvent.EventDisplayName
   Text: <slink=NatureWanesKeyword>
 - Key: GlobalEventDefinition.NatureWanesEvent.EventPersistLog
-  Text: Nature Mages perform worse in battle.
+  Text: 자연 속성 마법사들이 전투에서 더 약해집니다.
 - Key: GlobalEventDefinition.NatureWanesEvent.EventStopLog
-  Text: Nature Leyline이 정상으로 돌아왔습니다.
+  Text: 자연 속성 마법사의 힘이 기존대로 돌아왔습니다.
 - Key: GlobalEventDefinition.NatureWanesEvent.EventLogHover
   Text: <slink=NatureWanesKeyword>
 - Key: GlobalEventDefinition.NatureWaxesEvent.EventDisplayName
   Text: <slink=NatureWaxesKeyword>
 - Key: GlobalEventDefinition.NatureWaxesEvent.EventPersistLog
-  Text: Nature Mages perform better in battle.
+  Text: 자연 속성 마법사들이 전투에서 더 강해집니다.
 - Key: GlobalEventDefinition.NatureWaxesEvent.EventStopLog
-  Text: Nature Leyline이 정상으로 돌아왔습니다.
+  Text: 자연 속성 마법사의 힘이 기존대로 돌아왔습니다.
 - Key: GlobalEventDefinition.NatureWaxesEvent.EventLogHover
   Text: <slink=NatureWaxesKeyword>
 - Key: GlobalEventDefinition.AirWanesEvent.EventDisplayName
   Text: <slink=AirWanesKeyword>
 - Key: GlobalEventDefinition.AirWanesEvent.EventPersistLog
-  Text: Air Mages perform worse in battle.
+  Text: 바람 속성 마법사들이 전투에서 더 약해집니다.
 - Key: GlobalEventDefinition.AirWanesEvent.EventStopLog
-  Text: Air Leyline이 정상으로 돌아왔습니다.
+  Text: 바람 속성 마법사의 힘이 기존대로 돌아왔습니다.
 - Key: GlobalEventDefinition.AirWanesEvent.EventLogHover
   Text: <slink=AirWanesKeyword>
 - Key: GlobalEventDefinition.AirWaxesEvent.EventDisplayName
   Text: <slink=AirWaxesKeyword>
 - Key: GlobalEventDefinition.AirWaxesEvent.EventPersistLog
-  Text: Air Mages perform better in battle.
+  Text: 바람 속성 마법사들이 전투에서 더 강해집니다.
 - Key: GlobalEventDefinition.AirWaxesEvent.EventStopLog
-  Text: Air Leyline이 정상으로 돌아왔습니다.
+  Text: 바람 속성 마법사의 힘이 기존대로 돌아왔습니다.
 - Key: GlobalEventDefinition.AirWaxesEvent.EventLogHover
   Text: <slink=AirWaxesKeyword>
 - Key: GlobalEventDefinition.LightningWanesEvent.EventDisplayName
   Text: <slink=LightningWanesKeyword>
 - Key: GlobalEventDefinition.LightningWanesEvent.EventPersistLog
-  Text: Lightning Mages perform worse in battle.
+  Text: 번개 속성 마법사들이 전투에서 더 약해집니다.
 - Key: GlobalEventDefinition.LightningWanesEvent.EventStopLog
-  Text: Lightning Leyline이 정상으로 돌아왔습니다.
+  Text: 번개 속성 마법사의 힘이 기존대로 돌아왔습니다.
 - Key: GlobalEventDefinition.LightningWanesEvent.EventLogHover
   Text: <slink=LightningWanesKeyword>
 - Key: GlobalEventDefinition.LightningWaxesEvent.EventDisplayName
   Text: <slink=LightningWaxesKeyword>
 - Key: GlobalEventDefinition.LightningWaxesEvent.EventPersistLog
-  Text: Lightning Mages perform better in battle.
+  Text: 번개 속성 마법사들이 전투에서 더 강해집니다.
 - Key: GlobalEventDefinition.LightningWaxesEvent.EventStopLog
-  Text: Lightning Leyline이 정상으로 돌아왔습니다.
+  Text: 번개 속성 마법사의 힘이 기존대로 돌아왔습니다.
 - Key: GlobalEventDefinition.LightningWaxesEvent.EventLogHover
   Text: <slink=LightningWaxesKeyword>
 - Key: GlobalEventDefinition.InvasionEvent_1.EventDisplayName
-  Text: Malicious <slink=Invasion>
+  Text: 사악한 <slink=Invasion>
 - Key: GlobalEventDefinition.InvasionEvent_1.TriggeredEventDisplayText
-  Text: Malicious Invasions have begun!
+  Text: 사악한 침략이 시작되었습니다!
 - Key: GlobalEventDefinition.InvasionEvent_1.EventPersistLog
-  Text: A Malicious Invasion lurks in your school.
+  Text: 사악한 세력이 학교를 침략합니다.
 - Key: GlobalEventDefinition.InvasionEvent_1.EventStopLog
-  Text: The Malicious Invasion has passed.
+  Text: 사악한 침략이 끝났습니다.
 - Key: GlobalEventDefinition.InvasionEvent_1.EventLogHover
   Text: <slink=Invasion>
 - Key: GlobalEventDefinition.InvasionEvent_2.EventDisplayName
-  Text: Animus <slink=Invasion>
+  Text: 아니무스 <slink=Invasion>
 - Key: GlobalEventDefinition.InvasionEvent_2.TriggeredEventDisplayText
-  Text: Animus Invasions have begun!
+  Text: 아니무스 침략이 시작되었습니다!
 - Key: GlobalEventDefinition.InvasionEvent_2.EventPersistLog
-  Text: An Animus Invasion lurks in your school.
+  Text: 아니무스 세력이 학교를 침략합니다.
 - Key: GlobalEventDefinition.InvasionEvent_2.EventStopLog
-  Text: The Animus Invasion has passed.
+  Text: 아니무스 침략이 끝났습니다.
 - Key: GlobalEventDefinition.InvasionEvent_2.EventLogHover
   Text: <slink=Invasion>
 - Key: GlobalEventDefinition.InvasionEvent_3.EventDisplayName
-  Text: Rancorous <slink=Invasion>
+  Text: 맹렬한 <slink=Invasion>
 - Key: GlobalEventDefinition.InvasionEvent_3.TriggeredEventDisplayText
-  Text: Rancorous Invasions have begun!
+  Text: 맹렬한 침략이 시작되었습니다!
 - Key: GlobalEventDefinition.InvasionEvent_3.EventPersistLog
-  Text: A Rancorous Invasion lurks in your school.
+  Text: 맹렬한 세력이 학교를 침략합니다.
 - Key: GlobalEventDefinition.InvasionEvent_3.EventStopLog
-  Text: The Rancorous Invasion has passed.
+  Text: 맹렬한 침략이 끝났습니다.
 - Key: GlobalEventDefinition.InvasionEvent_3.EventLogHover
   Text: <slink=Invasion>
 - Key: GlobalEventStreamDefinition.Weather.DisplayName
-  Text: Weather
+  Text: 날씨
 - Key: GlobalEventStreamDefinition.HauntingVisitors.DisplayName
   Text: Haunting Visitors
 - Key: GlobalEventStreamDefinition.Conditions.DisplayName
-  Text: Conditions
+  Text: 상태
 - Key: GlobalEventStreamDefinition.RoomBattles.DisplayName
-  Text: Room Battles
+  Text: 방 전투
 - Key: DungeonRoomDefinition.L1_Stone_Boss1.DisplayName
   Text: 2레벨 시험
 - Key: DungeonRoomDefinition.L0_Lava_Boss1.DisplayName
@@ -13142,615 +13171,615 @@
 
     더 다양한 모양으로 학교를 건축하려면 아치나 기둥, 새 토대를 이용할 수 있습니다. 다양한 실험을 통해 학교를 건설해 보세요!
 - Key: BadgeDefinition.SoloRecreator_1.DisplayName
-  Text: Dancing On My Own - Bronze Trial
+  Text: 혼자 춤추기 - 동메달 과제
 - Key: BadgeDefinition.SoloRecreator_1.Description
-  Text: Dance in a room with an Enchantophone and no other Students or Staff present.
+  Text: 마법 축음기가 있는 방에서 다른 마법사 없이 혼자 춤추세요.
 - Key: BadgeDefinition.SoloRecreator_2.DisplayName
-  Text: Dancing On My Own - Silver Trial
+  Text: 혼자 춤추기 - 은메달 과제
 - Key: BadgeDefinition.SoloRecreator_2.Description
-  Text: Dance in any Recreation Room with no other Students or Staff present.
+  Text: 다른 마법사가 없는 휴게시설에서 혼자 춤추세요.
 - Key: BadgeDefinition.SoloRecreator_3.DisplayName
-  Text: Dancing On My Own - Gold Trial
+  Text: 혼자 춤추기 - 금메달 과제
 - Key: BadgeDefinition.SoloRecreator_3.Description
   Text: Dance in a Common Room or House Commons with no other Students or Staff present.
 - Key: BadgeDefinition.SoloRecreator_4.DisplayName
-  Text: Dancing On My Own - Platinum Trial
+  Text: 혼자 춤추기 - 플래티넘 메달 과제
 - Key: BadgeDefinition.SoloRecreator_4.Description
   Text: Recreate in a House Commons with no other Students or Staff present.
 - Key: BadgeDefinition.GroupRecreator_1.DisplayName
-  Text: Dancing With Friends - Bronze Trial
+  Text: Dancing With Friends - 동메달 과제
 - Key: BadgeDefinition.GroupRecreator_1.Description
   Text: Dance in a room with an Enchantophone and at least 6 Students or Staff present.
 - Key: BadgeDefinition.GroupRecreator_2.DisplayName
-  Text: Dancing With Friends - Silver Trial
+  Text: Dancing With Friends - 은메달 과제
 - Key: BadgeDefinition.GroupRecreator_2.Description
   Text: Dance in any Recreation Room with at least 6 Students or Staff present.
 - Key: BadgeDefinition.GroupRecreator_3.DisplayName
-  Text: Dancing With Friends - Gold Trial
+  Text: Dancing With Friends - 금메달 과제
 - Key: BadgeDefinition.GroupRecreator_3.Description
   Text: Dance in a Common Room or House Commons with at least 6 Students or Staff present.
 - Key: BadgeDefinition.GroupRecreator_4.DisplayName
-  Text: Dancing With Friends - Platinum Trial
+  Text: Dancing With Friends - 플래티넘 메달 과제
 - Key: BadgeDefinition.GroupRecreator_4.Description
   Text: Dance in a House Commons with at least 6 Students or Staff present.
 - Key: BadgeDefinition.SoloDiner_1.DisplayName
-  Text: Solo Diner - Bronze Trial
+  Text: Solo Diner - 동메달 과제
 - Key: BadgeDefinition.SoloDiner_1.Description
   Text: Eat in a room with no other Students or Staff present.
 - Key: BadgeDefinition.SoloDiner_2.DisplayName
-  Text: Solo Diner - Silver Trial
+  Text: Solo Diner - 은메달 과제
 - Key: BadgeDefinition.SoloDiner_2.Description
   Text: Eat in a Mess Hall, Common Room, or House Commons with no other Students or Staff present.
 - Key: BadgeDefinition.SoloDiner_3.DisplayName
-  Text: Solo Diner - Gold Trial
+  Text: Solo Diner - 금메달 과제
 - Key: BadgeDefinition.SoloDiner_3.Description
   Text: Eat in a Common Room or House Commons with no other Students or Staff present.
 - Key: BadgeDefinition.SoloDiner_4.DisplayName
-  Text: Solo Diner - Platinum Trial
+  Text: Solo Diner - 플래티넘 메달 과제
 - Key: BadgeDefinition.SoloDiner_4.Description
   Text: Eat in a House Commons with no other Students or Staff present.
 - Key: BadgeDefinition.GroupDiner_1.DisplayName
-  Text: Group Diner - Bronze Trial
+  Text: Group Diner - 동메달 과제
 - Key: BadgeDefinition.GroupDiner_1.Description
   Text: Eat in a room with at least 6 Students or Staff present.
 - Key: BadgeDefinition.GroupDiner_2.DisplayName
-  Text: Group Diner - Silver Trial
+  Text: Group Diner - 은메달 과제
 - Key: BadgeDefinition.GroupDiner_2.Description
   Text: Eat in a Mess Hall, Common Room, or House Commons with at least 6 Students or Staff present.
 - Key: BadgeDefinition.GroupDiner_3.DisplayName
-  Text: Group Diner - Gold Trial
+  Text: Group Diner - 금메달 과제
 - Key: BadgeDefinition.GroupDiner_3.Description
   Text: Eat in a Common Room or House Commons with at least 6 Students or Staff present.
 - Key: BadgeDefinition.GroupDiner_4.DisplayName
-  Text: Group Diner - Platinum Trial
+  Text: Group Diner - 플래티넘 메달 과제
 - Key: BadgeDefinition.GroupDiner_4.Description
   Text: Eat in a House Commons with 6 Students or Staff present.
 - Key: BadgeDefinition.MealGutberry_1.DisplayName
-  Text: 내장딸기 Eater - Bronze Trial
+  Text: 내장딸기 먹기 - 동메달 과제
 - Key: BadgeDefinition.MealGutberry_1.Description
   Text: <slink=Gutberry> 10개를 먹습니다.
 - Key: BadgeDefinition.MealGutberrySoup_1.DisplayName
-  Text: 내장딸기 수프 Eater - Bronze Trial
+  Text: 내장딸기 수프 먹기 - 동메달 과제
 - Key: BadgeDefinition.MealGutberrySoup_1.Description
   Text: <slink=GutberrySoup> 5개를 먹습니다.
 - Key: BadgeDefinition.MealBitterGruel_1.DisplayName
-  Text: 씁쓸한 죽 Eater - Bronze Trial
+  Text: 씁쓸한 죽 먹기 - 동메달 과제
 - Key: BadgeDefinition.MealBitterGruel_1.Description
   Text: <slink=BitterGruel> 5개를 먹습니다.
 - Key: BadgeDefinition.MealHoneyedGruel_1.DisplayName
-  Text: 달콤한 죽 Eater - Bronze Trial
+  Text: 달콤한 죽 먹기 - 동메달 과제
 - Key: BadgeDefinition.MealHoneyedGruel_1.Description
-  Text: Eat a <slink=HoneyedGruel>.
+  Text: <slink=HoneyedGruel> 하나를 먹습니다.
 - Key: BadgeDefinition.MealBitterGruel_2.DisplayName
-  Text: 씁쓸한 죽 Eater - Silver Trial
+  Text: 씁쓸한 죽 먹기 - 은메달 과제
 - Key: BadgeDefinition.MealBitterGruel_2.Description
   Text: <slink=BitterGruel> 15개를 먹습니다.
 - Key: BadgeDefinition.MealHoneyedGruel_2.DisplayName
-  Text: 달콤한 죽 Eater - Silver Trial
+  Text: 달콤한 죽 먹기 - 은메달 과제
 - Key: BadgeDefinition.MealHoneyedGruel_2.Description
   Text: <slink=HoneyedGruel> 10개를 먹습니다.
 - Key: BadgeDefinition.MealBitterStirFry_2.DisplayName
-  Text: 씁쓸한 볶음 Eater - Silver Trial
+  Text: 씁쓸한 볶음 먹기 - 은메달 과제
 - Key: BadgeDefinition.MealBitterStirFry_2.Description
   Text: <slink=BitterStirFry> 5개를 먹습니다.
 - Key: BadgeDefinition.MealHoneyedStirFry_2.DisplayName
-  Text: 달콤한 볶음 Eater - Silver Trial
+  Text: 달콤한 볶음 먹기 - 은메달 과제
 - Key: BadgeDefinition.MealHoneyedStirFry_2.Description
-  Text: Eat a <slink=HoneyedStirFry>.
+  Text: <slink=HoneyedStirFry> 하나를 먹습니다.
 - Key: BadgeDefinition.MealLeafyGreens_3.DisplayName
-  Text: 초록 잎사귀 Eater - Gold Trial
+  Text: 초록 잎사귀 먹기 - 금메달 과제
 - Key: BadgeDefinition.MealLeafyGreens_3.Description
   Text: <slink=LeafyGreens> 10개를 먹습니다.
 - Key: BadgeDefinition.MealBloodyScraps_3.DisplayName
-  Text: 피투성이 찌꺼기 Eater - Gold Trial
+  Text: 피투성이 찌꺼기 먹기 - 금메달 과제
 - Key: BadgeDefinition.MealBloodyScraps_3.Description
   Text: <slink=BloodyScraps> 10개를 먹습니다.
 - Key: BadgeDefinition.MealBouncingBread_3.DisplayName
-  Text: 통통한 빵 Eater - Gold Trial
+  Text: 통통한 빵 먹기 - 금메달 과제
 - Key: BadgeDefinition.MealBouncingBread_3.Description
   Text: <slink=BouncingBread> 10개를 먹습니다.
 - Key: BadgeDefinition.MealRockCaramel_3.DisplayName
-  Text: 돌 캐러멜 Eater - Gold Trial
+  Text: 돌 캐러멜 먹기 - 금메달 과제
 - Key: BadgeDefinition.MealRockCaramel_3.Description
   Text: <slink=RockCaramel> 10개를 먹습니다.
 - Key: BadgeDefinition.MealCaromCroutonSalad_4.DisplayName
-  Text: 벌레 샐러드 Eater - Platinum Trial
+  Text: 벌레 샐러드 먹기 - 플래티넘 메달 과제
 - Key: BadgeDefinition.MealCaromCroutonSalad_4.Description
   Text: <slink=CaromCroutonSalad> 15개를 먹습니다.
 - Key: BadgeDefinition.MealHardtack_4.DisplayName
-  Text: 건빵 Eater - Platinum Trial
+  Text: 건빵 먹기 - 플래티넘 메달 과제
 - Key: BadgeDefinition.MealHardtack_4.Description
   Text: <slink=Hardtack> 15개를 먹습니다.
 - Key: BadgeDefinition.MealMeatAndVeggies_4.DisplayName
-  Text: 고기와 야채 Eater - Platinum Trial
+  Text: 고기와 야채 먹기 - 플래티넘 메달 과제
 - Key: BadgeDefinition.MealMeatAndVeggies_4.Description
   Text: <slink=MeatAndVeggies> 15개를 먹습니다.
 - Key: BadgeDefinition.MealSweetmeat_4.DisplayName
-  Text: 사탕고기 Eater - Platinum Trial
+  Text: 사탕고기 먹기 - 플래티넘 메달 과제
 - Key: BadgeDefinition.MealSweetmeat_4.Description
   Text: <slink=Sweetmeat> 15개를 먹습니다.
 - Key: BadgeDefinition.HeartRecreation_1.DisplayName
-  Text: Dancing Queen - Bronze Trial
+  Text: 댄싱 퀸 - 동메달 과제
 - Key: BadgeDefinition.HeartRecreation_1.Description
   Text: 춤을 30번 춥니다.
 - Key: BadgeDefinition.HeartRecreation_2.DisplayName
-  Text: Dancing Queen - Silver Trial
+  Text: 댄싱 퀸 - 은메달 과제
 - Key: BadgeDefinition.HeartRecreation_2.Description
   Text: Dance in any Recreation Room 35 times.
 - Key: BadgeDefinition.HeartRecreation_3.DisplayName
-  Text: Dancing Queen - Gold Trial
+  Text: 댄싱 퀸 - 금메달 과제
 - Key: BadgeDefinition.HeartRecreation_3.Description
   Text: Dance in a Common Room or House Commons 40 times.
 - Key: BadgeDefinition.HeartRecreation_4.DisplayName
-  Text: Dancing Queen - Platinum Trial
+  Text: 댄싱 퀸 - 플래티넘 메달 과제
 - Key: BadgeDefinition.HeartRecreation_4.Description
   Text: Dance in a House Commons 50 times.
 - Key: BadgeDefinition.CafeteriaDiner_1.DisplayName
-  Text: Mess Hall Diner - Bronze Trial
+  Text: Mess Hall Diner - 동메달 과제
 - Key: BadgeDefinition.CafeteriaDiner_1.Description
   Text: Eat in a Mess Hall, Common Room, or House Commons 10 times.
 - Key: BadgeDefinition.CommonRoomDiner_3.DisplayName
-  Text: Common Room Diner - Gold Trial
+  Text: Common Room Diner - 금메달 과제
 - Key: BadgeDefinition.CommonRoomDiner_3.Description
   Text: Eat in a Common Room or House Commons 30 times.
 - Key: BadgeDefinition.HouseCommonsDiner_4.DisplayName
-  Text: House Commons Diner - Platinum Trial
+  Text: House Commons Diner - 플래티넘 메달 과제
 - Key: BadgeDefinition.HouseCommonsDiner_4.Description
   Text: Eat in a House Commons 50 times.
 - Key: BadgeDefinition.AustereSleeper_1.DisplayName
-  Text: Austere Bedroom Sleeper - Bronze Trial
+  Text: Austere Bedroom Sleeper - 동메달 과제
 - Key: BadgeDefinition.AustereSleeper_1.Description
-  Text: Sleep in a <slink=Hovel>, <nlink=Dormitory>, <nlink=CommonRoom>, or <nlink=HouseCommons> for 18 total hours.
+  Text: <slink=Hovel>, <nlink=Dormitory>, <nlink=CommonRoom>, 또는 <nlink=HouseCommons>에서 총 18시간 수면하세요.
 - Key: BadgeDefinition.DormitorySleeper_2.DisplayName
-  Text: Dormitory Sleeper  - Silver Trial
+  Text: Dormitory Sleeper  - 은메달 과제
 - Key: BadgeDefinition.DormitorySleeper_2.Description
-  Text: Sleep in a <slink=Dormitory>, <nlink=CommonRoom>, or <nlink=HouseCommons> for 42 total hours.
+  Text: <slink=Dormitory>, <nlink=CommonRoom>, 또는 <nlink=HouseCommons>에서 총 42시간 수면하세요.
 - Key: BadgeDefinition.CommonRoomSleeper_3.DisplayName
-  Text: Common Room Sleeper  - Gold Trial
+  Text: Common Room Sleeper  - 금메달 과제
 - Key: BadgeDefinition.CommonRoomSleeper_3.Description
   Text: Sleep in a <slink=CommonRoom> or <nlink=HouseCommons> for 60 total hours.
 - Key: BadgeDefinition.HouseCommonSleeper_4.DisplayName
-  Text: House Commons Sleeper  - Platinum Trial
+  Text: House Commons Sleeper  - 플래티넘 메달 과제
 - Key: BadgeDefinition.HouseCommonSleeper_4.Description
-  Text: Sleep in a <slink=HouseCommons> for 84 total hours.
+  Text: <slink=HouseCommons>에서 총 84시간 수면하세요.
 - Key: BadgeDefinition.FullRitualist_1.DisplayName
-  Text: Full Ritualist - Silver Trial
+  Text: Full Ritualist - 은메달 과제
 - Key: BadgeDefinition.FullRitualist_1.Description
-  Text: Participate in a Ritual while <slink=Full>.
+  Text: <slink=Full> 상태에서 의식에 참여하세요.
 - Key: BadgeDefinition.RestedRitualist_1.DisplayName
-  Text: Rested Ritualist - Silver Trial
+  Text: Rested Ritualist - 은메달 과제
 - Key: BadgeDefinition.RestedRitualist_1.Description
-  Text: Participate in a Ritual while <slink=Rested>.
+  Text: <slink=Rested> 상태에서 의식에 참여하세요.
 - Key: BadgeDefinition.GroupLearner_1.DisplayName
-  Text: Group Learner - Bronze Trial
+  Text: Group Learner - 동메달 과제
 - Key: BadgeDefinition.GroupLearner_1.Description
   Text: Cast at a <slink=LearningClassStationBasic> 25 times in a Basic or Intermediate Classroom with at least 6 Students present.
 - Key: BadgeDefinition.GroupLearner_2.DisplayName
-  Text: Group Learner - Silver Trial
+  Text: Group Learner - 은메달 과제
 - Key: BadgeDefinition.GroupLearner_2.Description
   Text: Cast at a <slink=LearningClassStationBasic> 50 times in an Intermediate Classroom with at least 6 Students present.
 - Key: BadgeDefinition.SoloLearner_1.DisplayName
-  Text: Solo Learner - Bronze Trial
+  Text: Solo Learner - 동메달 과제
 - Key: BadgeDefinition.SoloLearner_1.Description
   Text: Cast at a <slink=LearningClassStationBasic> 25 times in a Basic or Intermediate Classroom with no other Students present.
 - Key: BadgeDefinition.SoloLearner_2.DisplayName
-  Text: Solo Learner - Silver Trial
+  Text: Solo Learner - 은메달 과제
 - Key: BadgeDefinition.SoloLearner_2.Description
   Text: Cast at a <slink=LearningClassStationBasic> 50 times in an Intermediate Classroom with no other Students present.
 - Key: BadgeDefinition.SoloLearner_3_Fire.DisplayName
-  Text: Solo Learner (Fire) - Gold Trial
+  Text: Solo Learner (Fire) - 금메달 과제
 - Key: BadgeDefinition.SoloLearner_3_Fire.Description
   Text: Cast at a <slink=FireClassStation> 75 times in an Advanced Classroom or Pyromancer's Infernum with no other Students present.
 - Key: BadgeDefinition.SoloLearner_4_Fire.DisplayName
-  Text: Solo Learner (Fire) - Platinum Trial
+  Text: Solo Learner (Fire) - 플래티넘 메달 과제
 - Key: BadgeDefinition.SoloLearner_4_Fire.Description
   Text: Cast at a <slink=FireClassStation> 100 times in a Pyromancer's Infernum with no other Students present.
 - Key: BadgeDefinition.SoloLearner_3_Water.DisplayName
-  Text: Solo Learner (Water) - Gold Trial
+  Text: Solo Learner (Water) - 금메달 과제
 - Key: BadgeDefinition.SoloLearner_3_Water.Description
   Text: Cast at a <slink=WaterClassStation> 75 times in an Advanced Classroom or Hydrolaboratory with no other Students present.
 - Key: BadgeDefinition.SoloLearner_4_Water.DisplayName
-  Text: Solo Learner (Water) - Platinum Trial
+  Text: Solo Learner (Water) - 플래티넘 메달 과제
 - Key: BadgeDefinition.SoloLearner_4_Water.Description
   Text: Cast at a <slink=WaterClassStation> 100 times in a Hydrolaboratory with no other Students present.
 - Key: BadgeDefinition.SoloLearner_3_Earth.DisplayName
-  Text: Solo Learner (Earth) - Gold Trial
+  Text: Solo Learner (Earth) - 금메달 과제
 - Key: BadgeDefinition.SoloLearner_3_Earth.Description
   Text: Cast at a <slink=GeomancyClassStation> 75 times in an Advanced Classroom or Geomancer's Hall with no other Students present.
 - Key: BadgeDefinition.SoloLearner_4_Earth.DisplayName
-  Text: Solo Learner (Earth) - Platinum Trial
+  Text: Solo Learner (Earth) - 플래티넘 메달 과제
 - Key: BadgeDefinition.SoloLearner_4_Earth.Description
   Text: Cast at a <slink=GeomancyClassStation> 100 times in a Geomancer's Hall with no other Students present.
 - Key: BadgeDefinition.SoloLearner_3_Air.DisplayName
-  Text: Solo Learner (Air) - Gold Trial
+  Text: Solo Learner (Air) - 금메달 과제
 - Key: BadgeDefinition.SoloLearner_3_Air.Description
   Text: Cast at a <slink=ManipulationClassStation> 75 times in an Advanced Classroom or Windy Pinnacle with no other Students present.
 - Key: BadgeDefinition.SoloLearner_4_Air.DisplayName
-  Text: Solo Learner (Air) - Platinum Trial
+  Text: Solo Learner (Air) - 플래티넘 메달 과제
 - Key: BadgeDefinition.SoloLearner_4_Air.Description
   Text: Cast at a <slink=ManipulationClassStation> 100 times in a Windy Pinnacle with no other Students present.
 - Key: BadgeDefinition.SoloLearner_3_Nature.DisplayName
-  Text: Solo Learner (Nature) - Gold Trial
+  Text: Solo Learner (Nature) - 금메달 과제
 - Key: BadgeDefinition.SoloLearner_3_Nature.Description
   Text: Cast at a <slink=ViturgyClassStation> 75 times in an Advanced Classroom or Arboretum with no other Students present.
 - Key: BadgeDefinition.SoloLearner_4_Nature.DisplayName
-  Text: Solo Learner (Nature) - Platinum Trial
+  Text: Solo Learner (Nature) - 플래티넘 메달 과제
 - Key: BadgeDefinition.SoloLearner_4_Nature.Description
   Text: Cast at a <slink=ViturgyClassStation> 100 times in an Arboretum with no other Students present.
 - Key: BadgeDefinition.SoloLearner_3_Dark.DisplayName
-  Text: Solo Learner (Dark) - Gold Trial
+  Text: Solo Learner (Dark) - 금메달 과제
 - Key: BadgeDefinition.SoloLearner_3_Dark.Description
   Text: Cast at a <slink=MortemClassStation> 75 times in an Advanced Classroom or Lair of Dark Arts with no other Students present.
 - Key: BadgeDefinition.SoloLearner_4_Dark.DisplayName
-  Text: Solo Learner (Dark) - Platinum Trial
+  Text: Solo Learner (Dark) - 플래티넘 메달 과제
 - Key: BadgeDefinition.SoloLearner_4_Dark.Description
   Text: Cast at a <slink=MortemClassStation> 100 times in a Lair of Dark Arts with no other Students present.
 - Key: BadgeDefinition.SoloLearner_3_Lightning.DisplayName
-  Text: Solo Learner (Lightning) - Gold Trial
+  Text: Solo Learner (Lightning) - 금메달 과제
 - Key: BadgeDefinition.SoloLearner_3_Lightning.Description
   Text: Cast at a <slink=DivinationClassStation> 75 times in an Advanced Classroom or Lightning Observatory with no other Students present.
 - Key: BadgeDefinition.SoloLearner_4_Lightning.DisplayName
-  Text: Solo Learner (Lightning) - Platinum Trial
+  Text: Solo Learner (Lightning) - 플래티넘 메달 과제
 - Key: BadgeDefinition.SoloLearner_4_Lightning.Description
   Text: Cast at a <slink=DivinationClassStation> 100 times in a Lightning Observatory with no other Students present.
 - Key: BadgeDefinition.BlissfulLearner_1.DisplayName
-  Text: Blissful Learner - Bronze Trial
+  Text: Blissful Learner - 동메달 과제
 - Key: BadgeDefinition.BlissfulLearner_1.Description
   Text: Cast at a <slink=LearningClassStationBasic> 25 times in a Basic or Intermediate Classroom while at or above 75 <slink=Mood>.
 - Key: BadgeDefinition.BlissfulLearner_2.DisplayName
-  Text: Blissful Learner - Silver Trial
+  Text: Blissful Learner - 은메달 과제
 - Key: BadgeDefinition.BlissfulLearner_2.Description
   Text: Cast at a <slink=LearningClassStationBasic> 50 times in an Intermediate Classroom while at or above 75 <slink=Mood>.
 - Key: BadgeDefinition.BlissfulLearner_3_Fire.DisplayName
-  Text: Blissful Learner (Fire) - Gold Trial
+  Text: Blissful Learner (Fire) - 금메달 과제
 - Key: BadgeDefinition.BlissfulLearner_3_Fire.Description
   Text: Cast at a <slink=FireClassStation> 75 times in an Advanced Classroom or Pyromancer's Infernum while at or above 75 <slink=Mood>.
 - Key: BadgeDefinition.BlissfulLearner_4_Fire.DisplayName
-  Text: Blissful Learner (Fire) - Platinum Trial
+  Text: Blissful Learner (Fire) - 플래티넘 메달 과제
 - Key: BadgeDefinition.BlissfulLearner_4_Fire.Description
   Text: Cast at a <slink=FireClassStation> 100 times in a Pyromancer's Infernum while at or above 75 <slink=Mood>.
 - Key: BadgeDefinition.BlissfulLearner_3_Water.DisplayName
-  Text: Blissful Learner (Water) - Gold Trial
+  Text: Blissful Learner (Water) - 금메달 과제
 - Key: BadgeDefinition.BlissfulLearner_3_Water.Description
   Text: Cast at a <slink=WaterClassStation> 75 times in an Advanced Classroom or Hydrolaboratory while at or above 75 <slink=Mood>.
 - Key: BadgeDefinition.BlissfulLearner_4_Water.DisplayName
-  Text: Blissful Learner (Water) - Platinum Trial
+  Text: Blissful Learner (Water) - 플래티넘 메달 과제
 - Key: BadgeDefinition.BlissfulLearner_4_Water.Description
   Text: Cast at a <slink=WaterClassStation> 100 times in a Hydrolaboratory while at or above 75 <slink=Mood>.
 - Key: BadgeDefinition.BlissfulLearner_3_Earth.DisplayName
-  Text: Blissful Learner (Earth) - Gold Trial
+  Text: Blissful Learner (Earth) - 금메달 과제
 - Key: BadgeDefinition.BlissfulLearner_3_Earth.Description
   Text: Cast at a <slink=GeomancyClassStation> 75 times in an Advanced Classroom or Geomancer's Hall while at or above 75 <slink=Mood>.
 - Key: BadgeDefinition.BlissfulLearner_4_Earth.DisplayName
-  Text: Blissful Learner (Earth) - Platinum Trial
+  Text: Blissful Learner (Earth) - 플래티넘 메달 과제
 - Key: BadgeDefinition.BlissfulLearner_4_Earth.Description
   Text: Cast at a <slink=GeomancyClassStation> 100 times in a Geomancer's Hall while at or above 75 <slink=Mood>.
 - Key: BadgeDefinition.BlissfulLearner_3_Air.DisplayName
-  Text: Blissful Learner (Air) - Gold Trial
+  Text: Blissful Learner (Air) - 금메달 과제
 - Key: BadgeDefinition.BlissfulLearner_3_Air.Description
   Text: Cast at a <slink=ManipulationClassStation> 75 times in an Advanced Classroom or Windy Pinnacle while at or above 75 <slink=Mood>.
 - Key: BadgeDefinition.BlissfulLearner_4_Air.DisplayName
-  Text: Blissful Learner (Air) - Platinum Trial
+  Text: Blissful Learner (Air) - 플래티넘 메달 과제
 - Key: BadgeDefinition.BlissfulLearner_4_Air.Description
   Text: Cast at a <slink=ManipulationClassStation> 100 times in a Windy Pinnacle while at or above 75 <slink=Mood>.
 - Key: BadgeDefinition.BlissfulLearner_3_Nature.DisplayName
-  Text: Blissful Learner (Nature) - Gold Trial
+  Text: Blissful Learner (Nature) - 금메달 과제
 - Key: BadgeDefinition.BlissfulLearner_3_Nature.Description
   Text: Cast at a <slink=ViturgyClassStation> 75 times in an Advanced Classroom or Arboretum while at or above 75 <slink=Mood>.
 - Key: BadgeDefinition.BlissfulLearner_4_Nature.DisplayName
-  Text: Blissful Learner (Nature) - Platinum Trial
+  Text: Blissful Learner (Nature) - 플래티넘 메달 과제
 - Key: BadgeDefinition.BlissfulLearner_4_Nature.Description
   Text: Cast at a <slink=ViturgyClassStation> 100 times in an Arboretum while at or above 75 <slink=Mood>.
 - Key: BadgeDefinition.BlissfulLearner_3_Dark.DisplayName
-  Text: Blissful Learner (Dark) - Gold Trial
+  Text: Blissful Learner (Dark) - 금메달 과제
 - Key: BadgeDefinition.BlissfulLearner_3_Dark.Description
   Text: Cast at a <slink=MortemClassStation> 75 times in an Advanced Classroom or Lair of Dark Arts while at or above 75 <slink=Mood>.
 - Key: BadgeDefinition.BlissfulLearner_4_Dark.DisplayName
-  Text: Blissful Learner (Dark) - Platinum Trial
+  Text: Blissful Learner (Dark) - 플래티넘 메달 과제
 - Key: BadgeDefinition.BlissfulLearner_4_Dark.Description
   Text: Cast at a <slink=MortemClassStation> 100 times in a Lair of Dark Arts while at or above 75 <slink=Mood>.
 - Key: BadgeDefinition.BlissfulLearner_3_Lightning.DisplayName
-  Text: Blissful Learner (Lightning) - Gold Trial
+  Text: Blissful Learner (Lightning) - 금메달 과제
 - Key: BadgeDefinition.BlissfulLearner_3_Lightning.Description
   Text: Cast at a <slink=DivinationClassStation> 75 times in an Advanced Classroom or Lightning Observatory while at or above 75 <slink=Mood>.
 - Key: BadgeDefinition.BlissfulLearner_4_Lightning.DisplayName
-  Text: Blissful Learner (Lightning) - Platinum Trial
+  Text: Blissful Learner (Lightning) - 플래티넘 메달 과제
 - Key: BadgeDefinition.BlissfulLearner_4_Lightning.Description
   Text: Cast at a <slink=DivinationClassStation> 100 times in a Lightning Observatory while at or above 75 <slink=Mood>.
 - Key: BadgeDefinition.EagerToLearn_1.DisplayName
-  Text: Eager To Learn - Bronze Trial
+  Text: Eager To Learn - 동메달 과제
 - Key: BadgeDefinition.EagerToLearn_1.Description
   Text: Cast at a <slink=LearningClassStationBasic> 33 times in a Basic or Intermediate Classroom.
 - Key: BadgeDefinition.EagerToLearn_2.DisplayName
-  Text: Eager To Learn - Silver Trial
+  Text: Eager To Learn - 은메달 과제
 - Key: BadgeDefinition.EagerToLearn_2.Description
   Text: Cast at a <slink=LearningClassStationBasic> 75 times in an Intermediate Classroom.
 - Key: BadgeDefinition.AnticipationLearn_1.DisplayName
-  Text: Anticipatory Learning - Bronze Trial
+  Text: Anticipatory Learning - 동메달 과제
 - Key: BadgeDefinition.AnticipationLearn_1.Description
   Text: Cast while <slink=Anticipation> at a <slink=LearningClassStationBasic> 25 times in a Basic or Intermediate Classroom.
 - Key: BadgeDefinition.AnticipationLearn_2.DisplayName
-  Text: Anticipatory Learning - Silver Trial
+  Text: Anticipatory Learning - 은메달 과제
 - Key: BadgeDefinition.AnticipationLearn_2.Description
   Text: Cast while <slink=Anticipation> at a <slink=LearningClassStationBasic> 50 times in an Intermediate Classroom.
 - Key: BadgeDefinition.FullLearn_1.DisplayName
-  Text: Full Learning - Bronze Trial
+  Text: Full Learning - 동메달 과제
 - Key: BadgeDefinition.FullLearn_1.Description
   Text: Cast while <slink=Full> at a <slink=LearningClassStationBasic> 25 times in a Basic or Intermediate Classroom.
 - Key: BadgeDefinition.FullLearn_2.DisplayName
-  Text: Full Learning - Silver Trial
+  Text: Full Learning - 은메달 과제
 - Key: BadgeDefinition.FullLearn_2.Description
   Text: Cast while <slink=Full> at a <slink=LearningClassStationBasic> 50 times in an Intermediate Classroom.
 - Key: BadgeDefinition.RestedLearn_1.DisplayName
-  Text: Rested Learning - Bronze Trial
+  Text: Rested Learning - 동메달 과제
 - Key: BadgeDefinition.RestedLearn_1.Description
   Text: Cast while <slink=Rested> at a <slink=LearningClassStationBasic> 25 times in a Basic or Intermediate Classroom.
 - Key: BadgeDefinition.RestedLearn_2.DisplayName
-  Text: Rested Learning - Silver Trial
+  Text: Rested Learning - 은메달 과제
 - Key: BadgeDefinition.RestedLearn_2.Description
   Text: Cast while <slink=Rested> at a <slink=LearningClassStationBasic> 50 times in an Intermediate Classroom.
 - Key: BadgeDefinition.RitualParticipant_2a.DisplayName
-  Text: Ritual Participant - Silver Trial
+  Text: Ritual Participant - 은메달 과제
 - Key: BadgeDefinition.RitualParticipant_2a.Description
   Text: Participate in a Ritual 2 times.
 - Key: BadgeDefinition.BossSoloist_2.DisplayName
-  Text: Boss Soloist - Silver Trial
+  Text: Boss Soloist - 은메달 과제
 - Key: BadgeDefinition.BossSoloist_2.Description
   Text: Beat the <slink=Psycrow> solo.
 - Key: BadgeDefinition.Conqueror_1.DisplayName
-  Text: Conqueror - Bronze Trial
+  Text: Conqueror - 동메달 과제
 - Key: BadgeDefinition.Conqueror_1.Description
   Text: Overcome the <slink=Psycrow>.
 - Key: BadgeDefinition.EnemySoloist_1.DisplayName
-  Text: Enemy Soloist - Bronze Trial
+  Text: Enemy Soloist - 동메달 과제
 - Key: BadgeDefinition.EnemySoloist_1.Description
   Text: Defeat a 1-skull or higher enemy party solo.
 - Key: BadgeDefinition.EnemySoloist_2.DisplayName
-  Text: Enemy Soloist - Silver Trial
+  Text: Enemy Soloist - 은메달 과제
 - Key: BadgeDefinition.EnemySoloist_2.Description
   Text: Defeat a 2-skull or higher enemy party solo.
 - Key: BadgeDefinition.EnemySoloist_3.DisplayName
-  Text: Enemy Soloist - Gold Trial
+  Text: Enemy Soloist - 금메달 과제
 - Key: BadgeDefinition.EnemySoloist_3.Description
   Text: Defeat a 3-skull or higher enemy party solo.
 - Key: BadgeDefinition.EnemySoloist_4.DisplayName
-  Text: Enemy Soloist - Platinum Trial
+  Text: Enemy Soloist - 플래티넘 메달 과제
 - Key: BadgeDefinition.EnemySoloist_4.Description
   Text: Defeat a 4-skull or higher enemy party solo.
 - Key: BadgeDefinition.DefensiveDuelist_1.DisplayName
-  Text: Defensive Duelist - Bronze Trial
+  Text: Defensive Duelist - 동메달 과제
 - Key: BadgeDefinition.DefensiveDuelist_1.Description
-  Text: Defeat a 1-skull or higher enemy party without any ally going <slink=Unconscious>.
+  Text: 아군이 <slink=Unconscious> 상태가 되지 않고 해골 1개 이상의 적을 물리치세요.
 - Key: BadgeDefinition.DefensiveDuelist_2.DisplayName
-  Text: Defensive Duelist - Silver Trial
+  Text: Defensive Duelist - 은메달 과제
 - Key: BadgeDefinition.DefensiveDuelist_2.Description
-  Text: Defeat a 2-skull or higher enemy party without any ally going <slink=Unconscious>.
+  Text: 아군이 <slink=Unconscious> 상태가 되지 않고 해골 2개 이상의 적을 물리치세요.
 - Key: BadgeDefinition.DefensiveDuelist_3.DisplayName
-  Text: Defensive Duelist - Gold Trial
+  Text: Defensive Duelist - 금메달 과제
 - Key: BadgeDefinition.DefensiveDuelist_3.Description
-  Text: Defeat a 3-skull or higher enemy party without any ally going <slink=Unconscious>.
+  Text: 아군이 <slink=Unconscious> 상태가 되지 않고 해골 3개 이상의 적을 물리치세요.
 - Key: BadgeDefinition.DefensiveDuelist_4.DisplayName
-  Text: Defensive Duelist - Platinum Trial
+  Text: Defensive Duelist - 플래티넘 메달 과제
 - Key: BadgeDefinition.DefensiveDuelist_4.Description
-  Text: Defeat a 4-skull or higher enemy party without any ally going <slink=Unconscious>.
+  Text: 아군이 <slink=Unconscious> 상태가 되지 않고 해골 4개 이상의 적을 물리치세요.
 - Key: BadgeDefinition.PotionPurist_1.DisplayName
-  Text: Potion Purist - Bronze Trial
+  Text: Potion Purist - 동메달 과제
 - Key: BadgeDefinition.PotionPurist_1.Description
-  Text: Defeat 2 1-skull or higher enemy parties without using any potions.
+  Text: 물약을 사용하지 않고 해골 1개 이상의 전투에서 2번 승리하세요.
 - Key: BadgeDefinition.PotionPurist_2.DisplayName
-  Text: Potion Purist - Silver Trial
+  Text: Potion Purist - 은메달 과제
 - Key: BadgeDefinition.PotionPurist_2.Description
-  Text: Defeat 2 2-skull or higher enemy parties without using any potions.
+  Text: 물약을 사용하지 않고 해골 2개 이상의 전투에서 2번 승리하세요.
 - Key: BadgeDefinition.PotionPurist_3.DisplayName
-  Text: Potion Purist - Gold Trial
+  Text: Potion Purist - 금메달 과제
 - Key: BadgeDefinition.PotionPurist_3.Description
-  Text: Defeat 2 3-skull or higher enemy parties without using any potions.
+  Text: 물약을 사용하지 않고 해골 3개 이상의 전투에서 2번 승리하세요.
 - Key: BadgeDefinition.PotionPurist_4.DisplayName
-  Text: Potion Purist - Platinum Trial
+  Text: Potion Purist - 플래티넘 메달 과제
 - Key: BadgeDefinition.PotionPurist_4.Description
-  Text: Defeat 2 4-skull or higher enemy parties without using any potions.
+  Text: 물약을 사용하지 않고 해골 4개 이상의 전투에서 2번 승리하세요.
 - Key: BadgeDefinition.Champion_1.DisplayName
-  Text: Champion - Bronze Trial
+  Text: Champion - 동메달 과제
 - Key: BadgeDefinition.Champion_1.Description
-  Text: Defeat 3 1-skull or higher enemy parties.
+  Text: 해골 1개 이상의 전투에서 3번 승리하세요.
 - Key: BadgeDefinition.Champion_2.DisplayName
-  Text: Champion - Silver Trial
+  Text: Champion - 은메달 과제
 - Key: BadgeDefinition.Champion_2.Description
-  Text: Defeat 3 2-skull or higher enemy parties.
+  Text: 해골 2개 이상의 전투에서 3번 승리하세요.
 - Key: BadgeDefinition.Champion_3.DisplayName
-  Text: Champion - Gold Trial
+  Text: Champion - 금메달 과제
 - Key: BadgeDefinition.Champion_3.Description
-  Text: Defeat 3 3-skull or higher enemy parties.
+  Text: 해골 3개 이상의 전투에서 3번 승리하세요.
 - Key: BadgeDefinition.Champion_4.DisplayName
-  Text: Champion - Platinum Trial
+  Text: Champion - 플래티넘 메달 과제
 - Key: BadgeDefinition.Champion_4.Description
-  Text: Defeat 3 4-skull or higher enemy parties.
+  Text: 해골 4개 이상의 전투에서 3번 승리하세요.
 - Key: BadgeDefinition.Reaper_1.DisplayName
-  Text: Reaper - Bronze Trial
+  Text: Reaper - 동메달 과제
 - Key: BadgeDefinition.Reaper_1.Description
-  Text: Land the killing blow on 3 enemies during 1-skull or higher battles.
+  Text: 해골 1개 이상의 전투에서 3명의 적에게 최후의 일격을 날리세요.
 - Key: BadgeDefinition.Reaper_2.DisplayName
-  Text: Reaper - Silver Trial
+  Text: Reaper - 은메달 과제
 - Key: BadgeDefinition.Reaper_2.Description
-  Text: Land the killing blow on 3 enemies during 2-skull or higher battles.
+  Text: 해골 2개 이상의 전투에서 3명의 적에게 최후의 일격을 날리세요.
 - Key: BadgeDefinition.Reaper_3.DisplayName
-  Text: Reaper - Gold Trial
+  Text: Reaper - 금메달 과제
 - Key: BadgeDefinition.Reaper_3.Description
-  Text: Land the killing blow on 3 enemies during 3-skull or higher battles.
+  Text: 해골 3개 이상의 전투에서 3명의 적에게 최후의 일격을 날리세요.
 - Key: BadgeDefinition.Reaper_4.DisplayName
-  Text: Reaper - Platinum Trial
+  Text: Reaper - 플래티넘 메달 과제
 - Key: BadgeDefinition.Reaper_4.Description
-  Text: 4개의 두개골 전투 중에 3명의 적에게 살해 타격을 가합니다.
+  Text: 해골 4개 이상의 전투에서 3명의 적에게 최후의 일격을 날리세요.
 - Key: BadgeDefinition.BlissSeeker_1.DisplayName
-  Text: Bliss Seeker - Bronze Trial
+  Text: Bliss Seeker - 동메달 과제
 - Key: BadgeDefinition.BlissSeeker_1.Description
-  Text: Go 2 days in a row at or above 70 <slink=Mood>.
+  Text: <slink=Mood> 70 이상을 유지하며 2일을 보내세요.
 - Key: BadgeDefinition.BlissSeeker_2.DisplayName
-  Text: Bliss Seeker - Silver Trial
+  Text: Bliss Seeker - 은메달 과제
 - Key: BadgeDefinition.BlissSeeker_2.Description
-  Text: Go 2 days in a row at or above 80 <slink=Mood>.
+  Text: <slink=Mood> 80 이상을 유지하며 2일을 보내세요.
 - Key: BadgeDefinition.BlissSeeker_3.DisplayName
-  Text: Bliss Seeker - Gold Trial
+  Text: Bliss Seeker - 금메달 과제
 - Key: BadgeDefinition.BlissSeeker_3.Description
-  Text: Go 2 days in a row at or above 90 <slink=Mood>.
+  Text: <slink=Mood> 90 이상을 유지하며 2일을 보내세요.
 - Key: BadgeDefinition.BlissSeeker_4.DisplayName
-  Text: Bliss Seeker - Platinum Trial
+  Text: Bliss Seeker - 플래티넘 메달 과제
 - Key: BadgeDefinition.BlissSeeker_4.Description
-  Text: Go 2 days in a row at or above 95 <slink=Mood>.
+  Text: <slink=Mood> 95 이상을 유지하며 2일을 보내세요.
 - Key: BadgeDefinition.RecreationFocuser_1.DisplayName
-  Text: Dancing Machine - Bronze Trial
+  Text: Dancing Machine - 동메달 과제
 - Key: BadgeDefinition.RecreationFocuser_1.Description
-  Text: Go 2 days without ever getting <slink=Anticipation>.
+  Text: <slink=Anticipation> 상태가 되지 않고 2일을 보내세요.
 - Key: BadgeDefinition.RecreationFocuser_2.DisplayName
-  Text: Dancing Machine - Silver Trial
+  Text: Dancing Machine - 은메달 과제
 - Key: BadgeDefinition.RecreationFocuser_2.Description
-  Text: Go 4 days without ever getting <slink=Anticipation>.
+  Text: <slink=Anticipation> 상태가 되지 않고 4일을 보내세요.
 - Key: BadgeDefinition.RecreationFocuser_3.DisplayName
-  Text: Dancing Machine - Gold Trial
+  Text: Dancing Machine - 금메달 과제
 - Key: BadgeDefinition.RecreationFocuser_3.Description
-  Text: Go 6 days without ever getting <slink=Anticipation>.
+  Text: <slink=Anticipation> 상태가 되지 않고 6일을 보내세요.
 - Key: BadgeDefinition.RecreationFocuser_4.DisplayName
-  Text: Dancing Machine - Platinum Trial
+  Text: Dancing Machine - 플래티넘 메달 과제
 - Key: BadgeDefinition.RecreationFocuser_4.Description
-  Text: Go 8 days without ever getting <slink=Anticipation>.
+  Text: <slink=Anticipation> 상태가 되지 않고 8일을 보내세요.
 - Key: BadgeDefinition.SleepFocuser_1.DisplayName
-  Text: Sleep Focuser - Bronze Trial
+  Text: Sleep Focuser - 동메달 과제
 - Key: BadgeDefinition.SleepFocuser_1.Description
-  Text: Go 2 days without ever getting <slink=VeryTired>.
+  Text: <slink=VeryTired> 상태가 되지 않고 2일을 보내세요.
 - Key: BadgeDefinition.SleepFocuser_2.DisplayName
-  Text: Sleep Focuser - Silver Trial
+  Text: Sleep Focuser - 은메달 과제
 - Key: BadgeDefinition.SleepFocuser_2.Description
-  Text: Go 4 days without ever getting <slink=VeryTired>.
+  Text: <slink=VeryTired> 상태가 되지 않고 4일을 보내세요.
 - Key: BadgeDefinition.SleepFocuser_3.DisplayName
-  Text: Sleep Focuser - Gold Trial
+  Text: Sleep Focuser - 금메달 과제
 - Key: BadgeDefinition.SleepFocuser_3.Description
-  Text: Go 6 days without ever getting <slink=VeryTired>.
+  Text: <slink=VeryTired> 상태가 되지 않고 6일을 보내세요.
 - Key: BadgeDefinition.SleepFocuser_4.DisplayName
-  Text: Sleep Focuser - Platinum Trial
+  Text: Sleep Focuser - 플래티넘 메달 과제
 - Key: BadgeDefinition.SleepFocuser_4.Description
-  Text: Go 8 days without ever getting <slink=VeryTired>.
+  Text: <slink=VeryTired> 상태가 되지 않고 8일을 보내세요.
 - Key: BadgeDefinition.FoodFocuser_1.DisplayName
-  Text: Food Focuser - Bronze Trial
+  Text: Food Focuser - 동메달 과제
 - Key: BadgeDefinition.FoodFocuser_1.Description
-  Text: Go 2 days without ever getting <slink=VeryHungry>.
+  Text: <slink=VeryHungry> 상태가 되지 않고 2일을 보내세요.
 - Key: BadgeDefinition.FoodFocuser_2.DisplayName
-  Text: Food Focuser - Silver Trial
+  Text: Food Focuser - 은메달 과제
 - Key: BadgeDefinition.FoodFocuser_2.Description
-  Text: Go 4 days without ever getting <slink=VeryHungry>.
+  Text: <slink=VeryHungry> 상태가 되지 않고 4일을 보내세요.
 - Key: BadgeDefinition.FoodFocuser_3.DisplayName
-  Text: Food Focuser - Gold Trial
+  Text: Food Focuser - 금메달 과제
 - Key: BadgeDefinition.FoodFocuser_3.Description
-  Text: Go 6 days without ever getting <slink=VeryHungry>.
+  Text: <slink=VeryHungry> 상태가 되지 않고 6일을 보내세요.
 - Key: BadgeDefinition.FoodFocuser_4.DisplayName
-  Text: Food Focuser - Platinum Trial
+  Text: Food Focuser - 플래티넘 메달 과제
 - Key: BadgeDefinition.FoodFocuser_4.Description
-  Text: Go 8 days without ever getting <slink=VeryHungry>.
+  Text: <slink=VeryHungry> 상태가 되지 않고 8일을 보내세요.
 - Key: BadgeDefinition.RestedFighter_1.DisplayName
-  Text: Rested Fighter - Bronze Trial
+  Text: Rested Fighter - 동메달 과제
 - Key: BadgeDefinition.RestedFighter_1.Description
-  Text: Defeat a 1-skull or higher enemy party while <slink=Rested>.
+  Text: <slink=Rested> 상태로 해골 1개 이상의 적을 상대해서 승리하세요.
 - Key: BadgeDefinition.RestedFighter_2.DisplayName
-  Text: Rested Fighter - Silver Trial
+  Text: Rested Fighter - 은메달 과제
 - Key: BadgeDefinition.RestedFighter_2.Description
-  Text: Defeat a 2-skull or higher enemy party while <slink=Rested>.
+  Text: <slink=Rested> 상태로 해골 2개 이상의 적을 상대해서 승리하세요.
 - Key: BadgeDefinition.RestedFighter_3.DisplayName
-  Text: Rested Fighter - Gold Trial
+  Text: Rested Fighter - 금메달 과제
 - Key: BadgeDefinition.RestedFighter_3.Description
-  Text: Defeat a 3-skull or higher enemy party while <slink=Rested>.
+  Text: <slink=Rested> 상태로 해골 3개 이상의 적을 상대해서 승리하세요.
 - Key: BadgeDefinition.RestedFighter_4.DisplayName
-  Text: Rested Fighter - Platinum Trial
+  Text: Rested Fighter - 플래티넘 메달 과제
 - Key: BadgeDefinition.RestedFighter_4.Description
-  Text: Defeat a 4-skull or higher enemy party while <slink=Rested>.
+  Text: <slink=Rested> 상태로 해골 4개 이상의 적을 상대해서 승리하세요.
 - Key: BadgeDefinition.FullFighter_1.DisplayName
-  Text: Full Fighter - Bronze Trial
+  Text: Full Fighter - 동메달 과제
 - Key: BadgeDefinition.FullFighter_1.Description
-  Text: Defeat a 1-skull or higher enemy party while <slink=Full>.
+  Text: <slink=Full> 상태로 해골 개 1이상의 적을 상대해서 승리하세요.
 - Key: BadgeDefinition.FullFighter_2.DisplayName
-  Text: Full Fighter - Silver Trial
+  Text: Full Fighter - 은메달 과제
 - Key: BadgeDefinition.FullFighter_2.Description
-  Text: Defeat a 2-skull or higher enemy party while <slink=Full>.
+  Text: <slink=Full> 상태로 해골 개 2이상의 적을 상대해서 승리하세요.
 - Key: BadgeDefinition.FullFighter_3.DisplayName
-  Text: Full Fighter - Gold Trial
+  Text: Full Fighter - 금메달 과제
 - Key: BadgeDefinition.FullFighter_3.Description
-  Text: Defeat a 3-skull or higher enemy party while <slink=Full>.
+  Text: <slink=Full> 상태로 해골 개 3이상의 적을 상대해서 승리하세요.
 - Key: BadgeDefinition.FullFighter_4.DisplayName
-  Text: Full Fighter - Platinum Trial
+  Text: Full Fighter - 플래티넘 메달 과제
 - Key: BadgeDefinition.FullFighter_4.Description
-  Text: Defeat a 4-skull or higher enemy party while <slink=Full>.
+  Text: <slink=Full> 상태로 해골 개 4이상의 적을 상대해서 승리하세요.
 - Key: BadgeDefinition.GoodDay_1.DisplayName
-  Text: Great Day - Bronze Trial
+  Text: Great Day - 동메달 과제
 - Key: BadgeDefinition.GoodDay_1.Description
-  Text: Be <slink=Full>, <slink=Rested>, and <slink=Relaxed> at the same time.
+  Text: 동시에 <slink=Full>, <slink=Rested>, <slink=Relaxed> 상태가 되세요.
 - Key: BadgeDefinition.GoodDay_2.DisplayName
-  Text: Great Day - Silver Trial
+  Text: Great Day - 은메달 과제
 - Key: BadgeDefinition.GoodDay_2.Description
-  Text: Be <slink=Full>, <slink=Rested>, and <slink=Serene> at the same time.
+  Text: 동시에 <slink=Full>, <slink=Rested>, <slink=Serene> 상태가 되세요.
 - Key: BadgeDefinition.GoodDay_3.DisplayName
-  Text: Great Day - Gold Trial
+  Text: Great Day - 금메달 과제
 - Key: BadgeDefinition.GoodDay_3.Description
-  Text: Have <slink=Learning_High> and be <slink=Full>, <slink=Rested>, and <slink=Serene> at the same time.
+  Text: 동시에 <slink=Learning_High>, <slink=Full>, <slink=Rested>, <slink=Serene> 상태가 되세요.
 - Key: BadgeDefinition.Cleaner_1.DisplayName
-  Text: Neatnik - Bronze Trial
+  Text: Neatnik - 동메달 과제
 - Key: BadgeDefinition.Cleaner_1.Description
-  Text: Clean 3 messes.
+  Text: 쓰레기 3개를 치우세요.
 - Key: BadgeDefinition.Cleaner_2.DisplayName
-  Text: Neatnik - Silver Trial
+  Text: Neatnik - 은메달 과제
 - Key: BadgeDefinition.Cleaner_2.Description
-  Text: Clean 15 messes.
+  Text: 쓰레기 15개를 치우세요.
 - Key: BadgeDefinition.Cleaner_3.DisplayName
-  Text: Neatnik - Gold Trial
+  Text: Neatnik - 금메달 과제
 - Key: BadgeDefinition.Cleaner_3.Description
-  Text: Clean 40 messes.
+  Text: 쓰레기 40개를 치우세요.
 - Key: BadgeDefinition.Cleaner_4.DisplayName
-  Text: Neatnik - Platinum Trial
+  Text: Neatnik - 플래티넘 메달 과제
 - Key: BadgeDefinition.Cleaner_4.Description
-  Text: Clean 75 messes.
+  Text: 쓰레기 75개를 치우세요.
 - Key: BadgeDefinition.CreatureComforter_1.DisplayName
-  Text: Creature Comforter - Bronze Trial
+  Text: Creature Comforter - 동메달 과제
 - Key: BadgeDefinition.CreatureComforter_1.Description
-  Text: Pet a <slink=Refining_Beast> 3 times.
+  Text: <slink=Refining_Beast>을 3번 돌보세요.
 - Key: BadgeDefinition.CreatureComforter_2.DisplayName
-  Text: Creature Comforter - Silver Trial
+  Text: Creature Comforter - 은메달 과제
 - Key: BadgeDefinition.CreatureComforter_2.Description
-  Text: Pet a <slink=Refining_Beast> 15 times.
+  Text: <slink=Refining_Beast>을 15번 돌보세요.
 - Key: BadgeDefinition.CreatureComforter_3.DisplayName
-  Text: Creature Comforter - Gold Trial
+  Text: Creature Comforter - 금메달 과제
 - Key: BadgeDefinition.CreatureComforter_3.Description
-  Text: Pet a <slink=Refining_Beast> 40 times.
+  Text: <slink=Refining_Beast>을 40번 돌보세요.
 - Key: BadgeDefinition.CreatureComforter_4.DisplayName
-  Text: Creature Comforter - Platinum Trial
+  Text: Creature Comforter - 플래티넘 메달 과제
 - Key: BadgeDefinition.CreatureComforter_4.Description
-  Text: Pet a <slink=Refining_Beast> 75 times.
+  Text: <slink=Refining_Beast>을 75번 돌보세요.
 - Key: BadgeDefinition.Charger_1.DisplayName
-  Text: Charger - Bronze Trial
+  Text: Charger - 동메달 과제
 - Key: BadgeDefinition.Charger_1.Description
-  Text: Charge a Mana Lantern 3 times.
+  Text: 마나 등불을 3번 충전하세요.
 - Key: BadgeDefinition.Charger_2.DisplayName
-  Text: Charger - Silver Trial
+  Text: Charger - 은메달 과제
 - Key: BadgeDefinition.Charger_2.Description
-  Text: Charge a Mana Lantern 15 times.
+  Text: 마나 등불을 15번 충전하세요.
 - Key: BadgeDefinition.Charger_3.DisplayName
-  Text: Charger - Gold Trial
+  Text: Charger - 금메달 과제
 - Key: BadgeDefinition.Charger_3.Description
-  Text: Charge a Mana Lantern 40 times.
+  Text: 마나 등불을 40번 충전하세요.
 - Key: BadgeDefinition.Charger_4.DisplayName
-  Text: Charger - Platinum Trial
+  Text: Charger - 플래티넘 메달 과제
 - Key: BadgeDefinition.Charger_4.Description
-  Text: Charge a Mana Lantern 75 times.
+  Text: 마나 등불을 75번 충전하세요.
 - Key: BadgeDefinition.Destroyer_1.DisplayName
-  Text: Pyromania - Bronze Trial
+  Text: Pyromania - 동메달 과제
 - Key: BadgeDefinition.Destroyer_1.Description
   Text: 물체 3개를 파괴합니다.
 - Key: BadgeDefinition.Destroyer_2.DisplayName
-  Text: Pyromania - Silver Trial
+  Text: Pyromania - 은메달 과제
 - Key: BadgeDefinition.Destroyer_2.Description
   Text: 물체 15개를 파괴합니다.
 - Key: BadgeDefinition.Destroyer_3.DisplayName
-  Text: Pyromania - Gold Trial
+  Text: Pyromania - 금메달 과제
 - Key: BadgeDefinition.Destroyer_3.Description
   Text: 물체 40개를 파괴합니다.
 - Key: BadgeDefinition.Destroyer_4.DisplayName
-  Text: Pyromania - Platinum Trial
+  Text: Pyromania - 플래티넘 메달 과제
 - Key: BadgeDefinition.Destroyer_4.Description
   Text: 물체 75개를 파괴합니다.
 - Key: BadgeCategoriesDefinition.WisdomCenter.DisplayName
@@ -13776,83 +13805,83 @@
 - Key: InjuryDefinition.MajorWoundWisdom_1.DisplayName
   Text: 트라우마 - 흔들리는 용기
 - Key: InjuryDefinition.MajorWoundWisdom_1.Description
-  Text: A <slink=MajorInjury> that lowers a Mage's <slink=HP> and <slink=Mood>.
+  Text: <slink=MajorInjury>를 겪어 마법사의 <slink=HP>와 <slink=Mood>가 낮아집니다.
 - Key: InjuryDefinition.MajorWoundWisdom_2.DisplayName
   Text: 트라우마 - Sputtering Thoughts
 - Key: InjuryDefinition.MajorWoundWisdom_2.Description
-  Text: A <slink=MajorInjury> that lowers a Mage's <slink=HP> and <slink=Mood>.
+  Text: <slink=MajorInjury>를 겪어 마법사의 <slink=HP>와 <slink=Mood>가 낮아집니다.
 - Key: InjuryDefinition.MajorWoundWisdom_3.DisplayName
   Text: 트라우마 - 허둥대는 믿음
 - Key: InjuryDefinition.MajorWoundWisdom_3.Description
-  Text: A <slink=MajorInjury> that lowers a Mage's <slink=HP> and <slink=Mood>.
+  Text: <slink=MajorInjury>를 겪어 마법사의 <slink=HP>와 <slink=Mood>가 낮아집니다.
 - Key: InjuryDefinition.MajorWoundWisdom_4.DisplayName
   Text: 트라우마 - Crippling Doubts
 - Key: InjuryDefinition.MajorWoundWisdom_4.Description
-  Text: A <slink=MajorInjury> that lowers a Mage's <slink=HP> and <slink=Mood>.
+  Text: <slink=MajorInjury>를 겪어 마법사의 <slink=HP>와 <slink=Mood>가 낮아집니다.
 - Key: InjuryDefinition.MajorWoundHeart_1.DisplayName
   Text: 트라우마 - 비통한 심장
 - Key: InjuryDefinition.MajorWoundHeart_1.Description
-  Text: A <slink=MajorInjury> that lowers a Mage's <slink=HP> and <slink=Mood>.
+  Text: <slink=MajorInjury>를 겪어 마법사의 <slink=HP>와 <slink=Mood>가 낮아집니다.
 - Key: InjuryDefinition.MajorWoundHeart_2.DisplayName
   Text: 트라우마 - 괴로운 기억
 - Key: InjuryDefinition.MajorWoundHeart_2.Description
-  Text: A <slink=MajorInjury> that lowers a Mage's <slink=HP> and <slink=Mood>.
+  Text: <slink=MajorInjury>를 겪어 마법사의 <slink=HP>와 <slink=Mood>가 낮아집니다.
 - Key: InjuryDefinition.MajorWoundHeart_3.DisplayName
   Text: 트라우마 - Soured Disposition
 - Key: InjuryDefinition.MajorWoundHeart_3.Description
-  Text: A <slink=MajorInjury> that lowers a Mage's <slink=HP> and <slink=Mood>.
+  Text: <slink=MajorInjury>를 겪어 마법사의 <slink=HP>와 <slink=Mood>가 낮아집니다.
 - Key: InjuryDefinition.MajorWoundHeart_4.DisplayName
   Text: 트라우마 - 자기 혐오
 - Key: InjuryDefinition.MajorWoundHeart_4.Description
-  Text: A <slink=MajorInjury> that lowers a Mage's <slink=HP> and <slink=Mood>.
+  Text: <slink=MajorInjury>를 겪어 마법사의 <slink=HP>와 <slink=Mood>가 낮아집니다.
 - Key: InjuryDefinition.MajorWoundSpirit_1.DisplayName
   Text: 트라우마 - 작아지는 희망
 - Key: InjuryDefinition.MajorWoundSpirit_1.Description
-  Text: A <slink=MajorInjury> that lowers a Mage's <slink=HP> and <slink=Mood>.
+  Text: <slink=MajorInjury>를 겪어 마법사의 <slink=HP>와 <slink=Mood>가 낮아집니다.
 - Key: InjuryDefinition.MajorWoundSpirit_2.DisplayName
   Text: 트라우마 - 희미해지는 꿈
 - Key: InjuryDefinition.MajorWoundSpirit_2.Description
-  Text: A <slink=MajorInjury> that lowers a Mage's <slink=HP> and <slink=Mood>.
+  Text: <slink=MajorInjury>를 겪어 마법사의 <slink=HP>와 <slink=Mood>가 낮아집니다.
 - Key: InjuryDefinition.MajorWoundSpirit_3.DisplayName
   Text: 트라우마 - Dwindling Ambition
 - Key: InjuryDefinition.MajorWoundSpirit_3.Description
-  Text: A <slink=MajorInjury> that lowers a Mage's <slink=HP> and <slink=Mood>.
+  Text: <slink=MajorInjury>를 겪어 마법사의 <slink=HP>와 <slink=Mood>가 낮아집니다.
 - Key: InjuryDefinition.MajorWoundSpirit_4.DisplayName
   Text: 트라우마 - Ebbing Lifeforce
 - Key: InjuryDefinition.MajorWoundSpirit_4.Description
-  Text: A <slink=MajorInjury> that lowers a Mage's <slink=HP> and <slink=Mood>.
+  Text: <slink=MajorInjury>를 겪어 마법사의 <slink=HP>와 <slink=Mood>가 낮아집니다.
 - Key: InjuryDefinition.MajorWoundSerenity_1.DisplayName
   Text: 트라우마 - 깨진 확신
 - Key: InjuryDefinition.MajorWoundSerenity_1.Description
-  Text: A <slink=MajorInjury> that lowers a Mage's <slink=HP> and <slink=Mood>.
+  Text: <slink=MajorInjury>를 겪어 마법사의 <slink=HP>와 <slink=Mood>가 낮아집니다.
 - Key: InjuryDefinition.MajorWoundSerenity_2.DisplayName
   Text: 트라우마 - 지속되는 의심
 - Key: InjuryDefinition.MajorWoundSerenity_2.Description
-  Text: A <slink=MajorInjury> that lowers a Mage's <slink=HP> and <slink=Mood>.
+  Text: <slink=MajorInjury>를 겪어 마법사의 <slink=HP>와 <slink=Mood>가 낮아집니다.
 - Key: InjuryDefinition.MajorWoundSerenity_3.DisplayName
   Text: 트라우마 - 상처받은 자아
 - Key: InjuryDefinition.MajorWoundSerenity_3.Description
-  Text: A <slink=MajorInjury> that lowers a Mage's <slink=HP> and <slink=Mood>.
+  Text: <slink=MajorInjury>를 겪어 마법사의 <slink=HP>와 <slink=Mood>가 낮아집니다.
 - Key: InjuryDefinition.MajorWoundSerenity_4.DisplayName
   Text: 트라우마 - Stripped of Safety
 - Key: InjuryDefinition.MajorWoundSerenity_4.Description
-  Text: A <slink=MajorInjury> that lowers a Mage's <slink=HP> and <slink=Mood>.
+  Text: <slink=MajorInjury>를 겪어 마법사의 <slink=HP>와 <slink=Mood>가 낮아집니다.
 - Key: InjuryDefinition.MajorWoundTenacity_1.DisplayName
   Text: 트라우마 - Enfeebled Soul
 - Key: InjuryDefinition.MajorWoundTenacity_1.Description
-  Text: A <slink=MajorInjury> that lowers a Mage's <slink=HP> and <slink=Mood>.
+  Text: <slink=MajorInjury>를 겪어 마법사의 <slink=HP>와 <slink=Mood>가 낮아집니다.
 - Key: InjuryDefinition.MajorWoundTenacity_2.DisplayName
   Text: 트라우마 - Weakened Lifeforce
 - Key: InjuryDefinition.MajorWoundTenacity_2.Description
-  Text: A <slink=MajorInjury> that lowers a Mage's <slink=HP> and <slink=Mood>.
+  Text: <slink=MajorInjury>를 겪어 마법사의 <slink=HP>와 <slink=Mood>가 낮아집니다.
 - Key: InjuryDefinition.MajorWoundTenacity_3.DisplayName
   Text: 트라우마 - Wavering Mettle
 - Key: InjuryDefinition.MajorWoundTenacity_3.Description
-  Text: A <slink=MajorInjury> that lowers a Mage's <slink=HP> and <slink=Mood>.
+  Text: <slink=MajorInjury>를 겪어 마법사의 <slink=HP>와 <slink=Mood>가 낮아집니다.
 - Key: InjuryDefinition.MajorWoundTenacity_4.DisplayName
   Text: 트라우마 - Utter Enervation
 - Key: InjuryDefinition.MajorWoundTenacity_4.Description
-  Text: A <slink=MajorInjury> that lowers a Mage's <slink=HP> and <slink=Mood>.
+  Text: <slink=MajorInjury>를 겪어 마법사의 <slink=HP>와 <slink=Mood>가 낮아집니다.
 - Key: WallpaperDefinition.SchoolRoomDefault.DisplayName
   Text: SchoolRoomDefault
 - Key: WallpaperDefinition.HovelDefault.DisplayName
