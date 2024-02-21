@@ -1742,21 +1742,21 @@
 - Key: Archetype.Seed_Gutberry.Configs.1-638379728822944507.Description
   Text: 내장딸기의 씨앗으로, <slink=GutberryPlanterNew>(을)를 만드는 데 쓰입니다.
 - Key: Archetype.Seed_SunshadowTree.Configs.1-638379728822944507.DisplayName
-  Text: Sunshadow Nut
+  Text: 해그림자 씨앗
 - Key: Archetype.Seed_SunshadowTree.Configs.1-638379728822944507.Description
-  Text: 해그림자 나무의 Nut으로, <slink=TreePlanter>(을)를 만드는 데 쓰입니다.
+  Text: 해그림자 나무의 씨앗으로, <slink=TreePlanter>(을)를 만드는 데 쓰입니다.
 - Key: Archetype.Seed_BristleconeTree.Configs.1-638379728822954515.DisplayName
-  Text: Bristle Cone
+  Text: 털솔방울 씨앗
 - Key: Archetype.Seed_BristleconeTree.Configs.1-638379728822954515.Description
-  Text: 털솔방울 나무의 Nut로, <slink=SlowTreePlanter>(을)를 만드는 데 쓰입니다.
+  Text: 털솔방울 나무의 씨앗으로, <slink=SlowTreePlanter>(을)를 만드는 데 쓰입니다.
 - Key: Archetype.Seed_SweetleafTree.Configs.1-638379728822959552.DisplayName
-  Text: Sweetleaf Nut
+  Text: 달콤잎 씨앗
 - Key: Archetype.Seed_SweetleafTree.Configs.1-638379728822959552.Description
-  Text: 해그림자 나무의 Nut으로, <slink=FastTreePlanter>(을)를 만드는 데 쓰입니다.
+  Text: 해그림자 나무의 씨앗으로, <slink=FastTreePlanter>(을)를 만드는 데 쓰입니다.
 - Key: Archetype.Seed_RunewoodTree.Configs.1-638379728822969586.DisplayName
-  Text: Runewood Nut
+  Text: 룬 목재 씨앗
 - Key: Archetype.Seed_RunewoodTree.Configs.1-638379728822969586.Description
-  Text: 룬 목재 나무의 Nut으로, <slink=AdvancedTreePlanter>(을)를 만드는 데 쓰입니다.
+  Text: 룬 목재 나무의 씨앗으로, <slink=AdvancedTreePlanter>(을)를 만드는 데 쓰입니다.
 - Key: Archetype.Seed_Wyrmweed.Configs.1-638379728822969586.DisplayName
   Text: 뱀풀 씨앗
 - Key: Archetype.Seed_Wyrmweed.Configs.1-638379728822969586.Description
@@ -12623,7 +12623,23 @@
   Text: >
     A magic school is never complete. It must shift endlessly, changing to meet the needs of the current students.
 - Key: TutorialDefinition.Construction.Body
-  Text: "The Build Palette <slink=ConstructPanel> in the bottom left bar can be used to spend resources to create objects in the world.\n\nThe first step towards building a school on the <slink=Foundation> is selecting Construction from the Build tool.\n\n<slink=Sidewall> and <slink=AutoRoofing> pieces can be used to create rooms. Left-click to place the first block, then move the mouse and left-click again to complete placement.\n\nPlacing them instructs available Mages to gather the necessary materials and to bring them to the construction site to build out the school. \n\nCancelling a placement, deconstructing construction, or disassembling a completed Furnishing will refund all resources spent, so don't be afraid to experiment!\n\nThey will only use materials that are available to them, so separately ordering Mages to collect resources is a prerequisite to Construction and Assembly. See the Collecting Resources tutorial for help.             \n"
+  Text: >
+    화면 왼쪽 아래의 건설 툴<slink=ConstructPanel>을 사용하면 게임 내의 자원을 이용하여 구조물을 건설할 수 있습니다.
+
+
+    건설 툴에서 건설을 선택해서 <slink=Foundation> 위에 구조물을 지으세요.
+
+
+    <slink=Sidewall>과 <slink=AutoRoofing>을 사용하면 방을 만들 수 있습니다. 왼쪽 클릭으로 첫번째 블록의 위치를 지정하고, 마우스를 움직여 다시 왼쪽 클릭하면 여러 개의 블록을 한 번에 건설할 수 있습니다.
+
+
+    블록 건설을 지정하면 마법사들이 재료를 모아 지정한 위치에 구조물을 건설할 것입니다.
+
+
+    건설을 취소하거나, 이미 건설된 구조물을 철거하거나, 제작된 가구를 분해하면 건설에 들어간 모든 재료를 돌려받습니다. 그러니 지었다 부수는 것을 두려워하지 마세요!
+
+
+    마법사들은 당장 사용 가능한 재료만 건설에 사용하므로, 구조물이나 가구를 건설하기 전에 게임 내의 물체들로부터 재료를 먼저 모아야 합니다. 자원 수집 튜토리얼을 참고하세요.
 - Key: TutorialDefinition.DoorsAndHallways.Feed
   Text: 문과 복도에 대해 알아보기
 - Key: TutorialDefinition.DoorsAndHallways.Listing

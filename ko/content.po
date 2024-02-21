@@ -4319,42 +4319,42 @@ msgstr "내장딸기의 씨앗으로, <slink=GutberryPlanterNew>(을)를 만드�
 #. Key: Archetype.Seed_SunshadowTree.Configs.1-638379728822944507.DisplayName
 msgctxt "Archetype.Seed_SunshadowTree.Configs.1-638379728822944507.DisplayName"
 msgid "Sunshadow Nut"
-msgstr "Sunshadow Nut"
+msgstr "해그림자 씨앗"
 
 #. Key: Archetype.Seed_SunshadowTree.Configs.1-638379728822944507.Description
 msgctxt "Archetype.Seed_SunshadowTree.Configs.1-638379728822944507.Description"
 msgid "Nut from a Sunshadow Tree, used to build a <slink=TreePlanter>."
-msgstr "해그림자 나무의 Nut으로, <slink=TreePlanter>(을)를 만드는 데 쓰입니다."
+msgstr "해그림자 나무의 씨앗으로, <slink=TreePlanter>(을)를 만드는 데 쓰입니다."
 
 #. Key: Archetype.Seed_BristleconeTree.Configs.1-638379728822954515.DisplayName
 msgctxt "Archetype.Seed_BristleconeTree.Configs.1-638379728822954515.DisplayName"
 msgid "Bristle Cone"
-msgstr "Bristle Cone"
+msgstr "털솔방울 씨앗"
 
 #. Key: Archetype.Seed_BristleconeTree.Configs.1-638379728822954515.Description
 msgctxt "Archetype.Seed_BristleconeTree.Configs.1-638379728822954515.Description"
 msgid "Pinecone from a Bristlecone Tree, used to build a <slink=SlowTreePlanter>."
-msgstr "털솔방울 나무의 Nut로, <slink=SlowTreePlanter>(을)를 만드는 데 쓰입니다."
+msgstr "털솔방울 나무의 씨앗으로, <slink=SlowTreePlanter>(을)를 만드는 데 쓰입니다."
 
 #. Key: Archetype.Seed_SweetleafTree.Configs.1-638379728822959552.DisplayName
 msgctxt "Archetype.Seed_SweetleafTree.Configs.1-638379728822959552.DisplayName"
 msgid "Sweetleaf Nut"
-msgstr "Sweetleaf Nut"
+msgstr "달콤잎 씨앗"
 
 #. Key: Archetype.Seed_SweetleafTree.Configs.1-638379728822959552.Description
 msgctxt "Archetype.Seed_SweetleafTree.Configs.1-638379728822959552.Description"
 msgid "Nut from a Sunshadow Tree, used to build a <slink=FastTreePlanter>."
-msgstr "해그림자 나무의 Nut으로, <slink=FastTreePlanter>(을)를 만드는 데 쓰입니다."
+msgstr "해그림자 나무의 씨앗으로, <slink=FastTreePlanter>(을)를 만드는 데 쓰입니다."
 
 #. Key: Archetype.Seed_RunewoodTree.Configs.1-638379728822969586.DisplayName
 msgctxt "Archetype.Seed_RunewoodTree.Configs.1-638379728822969586.DisplayName"
 msgid "Runewood Nut"
-msgstr "Runewood Nut"
+msgstr "룬 목재 씨앗"
 
 #. Key: Archetype.Seed_RunewoodTree.Configs.1-638379728822969586.Description
 msgctxt "Archetype.Seed_RunewoodTree.Configs.1-638379728822969586.Description"
 msgid "Nut from a Runewood Tree, used to build a <slink=AdvancedTreePlanter>."
-msgstr "룬 목재 나무의 Nut으로, <slink=AdvancedTreePlanter>(을)를 만드는 데 쓰입니다."
+msgstr "룬 목재 나무의 씨앗으로, <slink=AdvancedTreePlanter>(을)를 만드는 데 쓰입니다."
 
 #. Key: Archetype.Seed_Wyrmweed.Configs.1-638379728822969586.DisplayName
 msgctxt "Archetype.Seed_Wyrmweed.Configs.1-638379728822969586.DisplayName"
@@ -22031,12 +22031,12 @@ msgstr "{0} {1}"
 #. Key: CharacterStatusConfig.Full.DisplayName
 msgctxt "CharacterStatusConfig.Full.DisplayName"
 msgid "Full"
-msgstr "최대"
+msgstr "배부름"
 
 #. Key: CharacterStatusConfig.Full.Description
 msgctxt "CharacterStatusConfig.Full.Description"
 msgid "Couldn't eat another bite."
-msgstr ""
+msgstr "한 입도 더 못 먹겠습니다."
 
 #. Key: CharacterStatusConfig.Full.FlavorText
 msgctxt "CharacterStatusConfig.Full.FlavorText"
@@ -22046,17 +22046,17 @@ msgstr ""
 #. Key: CharacterStatusConfig.Full.LogEntry
 msgctxt "CharacterStatusConfig.Full.LogEntry"
 msgid "{0} is {1}"
-msgstr "{0} {1}"
+msgstr "{0}: {1}"
 
 #. Key: CharacterStatusConfig.VeryHungry.DisplayName
 msgctxt "CharacterStatusConfig.VeryHungry.DisplayName"
 msgid "Very Hungry"
-msgstr ""
+msgstr "매우 배고픔"
 
 #. Key: CharacterStatusConfig.VeryHungry.Description
 msgctxt "CharacterStatusConfig.VeryHungry.Description"
 msgid "Hasn't had a meal in too long. Feed them as soon as possible."
-msgstr ""
+msgstr "너무 오랫동안 못 먹었습니다. 최대한 빨리 식사시키세요."
 
 #. Key: CharacterStatusConfig.VeryHungry.FlavorText
 msgctxt "CharacterStatusConfig.VeryHungry.FlavorText"
@@ -22066,17 +22066,17 @@ msgstr ""
 #. Key: CharacterStatusConfig.VeryHungry.LogEntry
 msgctxt "CharacterStatusConfig.VeryHungry.LogEntry"
 msgid "{0} is {1}"
-msgstr "{0} {1}"
+msgstr "{0}: {1}"
 
 #. Key: CharacterStatusConfig.NearStarving.DisplayName
 msgctxt "CharacterStatusConfig.NearStarving.DisplayName"
 msgid "Nearly Starving"
-msgstr ""
+msgstr "굶주림"
 
 #. Key: CharacterStatusConfig.NearStarving.Description
 msgctxt "CharacterStatusConfig.NearStarving.Description"
 msgid "<slink=Hunger> reaching extreme levels. Make sure they have food and enough meals scheduled, and/or lower the priority on other tasks to allow them to eat."
-msgstr ""
+msgstr "<slink=Hunger> 수준이 극단적인 상태입니다. 저장된 음식이 충분하고 식사 스케줄이 설정되어 있는지 확인하고, 다른 작업의 우선순위를 낮춰 보세요."
 
 #. Key: CharacterStatusConfig.NearStarving.FlavorText
 msgctxt "CharacterStatusConfig.NearStarving.FlavorText"
@@ -22086,42 +22086,42 @@ msgstr ""
 #. Key: CharacterStatusConfig.NearStarving.FeedString
 msgctxt "CharacterStatusConfig.NearStarving.FeedString"
 msgid "Near Starving"
-msgstr ""
+msgstr "굶주리고 있음"
 
 #. Key: CharacterStatusConfig.NearStarving.FeedHoverString
 msgctxt "CharacterStatusConfig.NearStarving.FeedHoverString"
 msgid "Mages are {0}:"
-msgstr ""
+msgstr "마법사들이 {0}:"
 
 #. Key: CharacterStatusConfig.NearStarving.LogString
 msgctxt "CharacterStatusConfig.NearStarving.LogString"
 msgid "{0} is {1}"
-msgstr "{0} {1}"
+msgstr "{0}: {1}"
 
 #. Key: CharacterStatusConfig.NearStarving.LogStringRemove
 msgctxt "CharacterStatusConfig.NearStarving.LogStringRemove"
 msgid "{0} is no longer {1}"
-msgstr ""
+msgstr "{0}: {1} 상태에서 벗어남"
 
 #. Key: CharacterStatusConfig.NearStarving.LogEntry
 msgctxt "CharacterStatusConfig.NearStarving.LogEntry"
 msgid "{0} is {1}"
-msgstr "{0} {1}"
+msgstr "{0}: {1}"
 
 #. Key: CharacterStatusConfig.NearStarving.LogEntryEnd
 msgctxt "CharacterStatusConfig.NearStarving.LogEntryEnd"
 msgid "{0} is no longer {1}"
-msgstr ""
+msgstr "{0}: {1} 상태에서 벗어남"
 
 #. Key: CharacterStatusConfig.StarvingToDeath.DisplayName
 msgctxt "CharacterStatusConfig.StarvingToDeath.DisplayName"
 msgid "Starving"
-msgstr ""
+msgstr "매우 굶주림"
 
 #. Key: CharacterStatusConfig.StarvingToDeath.Description
 msgctxt "CharacterStatusConfig.StarvingToDeath.Description"
 msgid "<slink=Hunger> at extreme levels. Make sure they have food and enough meals scheduled, and/or lower the priority on other tasks to allow them to eat."
-msgstr ""
+msgstr "<slink=Hunger> 수준이 극단적인 상태입니다. 저장된 음식이 충분하고 식사 스케줄이 설정되어 있는지 확인하고, 다른 작업의 우선순위를 낮춰 보세요."
 
 #. Key: CharacterStatusConfig.StarvingToDeath.FlavorText
 msgctxt "CharacterStatusConfig.StarvingToDeath.FlavorText"
@@ -22131,22 +22131,22 @@ msgstr ""
 #. Key: CharacterStatusConfig.StarvingToDeath.LogEntry
 msgctxt "CharacterStatusConfig.StarvingToDeath.LogEntry"
 msgid "{0} is {1}"
-msgstr "{0} {1}"
+msgstr "{0}: {1}"
 
 #. Key: CharacterStatusConfig.StarvingToDeath.LogEntryEnd
 msgctxt "CharacterStatusConfig.StarvingToDeath.LogEntryEnd"
 msgid "{0} is no longer {1}"
-msgstr ""
+msgstr "{0}: {1} 상태에서 벗어남"
 
 #. Key: CharacterStatusConfig.VeryTired.DisplayName
 msgctxt "CharacterStatusConfig.VeryTired.DisplayName"
 msgid "Very Tired"
-msgstr ""
+msgstr "매우 피곤함"
 
 #. Key: CharacterStatusConfig.VeryTired.Description
 msgctxt "CharacterStatusConfig.VeryTired.Description"
 msgid "Needs to catch some z's. Caused by low <slink=Sleep>."
-msgstr ""
+msgstr "자야 합니다. 낮은 <slink=Sleep> 수준 때문에 발생합니다."
 
 #. Key: CharacterStatusConfig.VeryTired.FlavorText
 msgctxt "CharacterStatusConfig.VeryTired.FlavorText"
@@ -22156,17 +22156,17 @@ msgstr ""
 #. Key: CharacterStatusConfig.VeryTired.LogEntry
 msgctxt "CharacterStatusConfig.VeryTired.LogEntry"
 msgid "{0} is {1}"
-msgstr "{0} {1}"
+msgstr "{0}: {1}"
 
 #. Key: CharacterStatusConfig.Exhausted.DisplayName
 msgctxt "CharacterStatusConfig.Exhausted.DisplayName"
 msgid "Exhausted"
-msgstr ""
+msgstr "탈진"
 
 #. Key: CharacterStatusConfig.Exhausted.Description
 msgctxt "CharacterStatusConfig.Exhausted.Description"
 msgid "Needs <slink=Sleep> badly. Make sure they have a bed, and/or lower the priority on other tasks to allow them to sleep."
-msgstr ""
+msgstr "<slink=Sleep>이 극단적으로 부족한 상태입니다. 침대가 충분한지 확인하고, 다른 작업의 우선순위를 낮춰 보세요."
 
 #. Key: CharacterStatusConfig.Exhausted.FlavorText
 msgctxt "CharacterStatusConfig.Exhausted.FlavorText"
@@ -22176,22 +22176,22 @@ msgstr ""
 #. Key: CharacterStatusConfig.Exhausted.LogEntry
 msgctxt "CharacterStatusConfig.Exhausted.LogEntry"
 msgid "{0} is {1}"
-msgstr "{0} {1}"
+msgstr "{0}: {1}"
 
 #. Key: CharacterStatusConfig.Exhausted.LogEntryEnd
 msgctxt "CharacterStatusConfig.Exhausted.LogEntryEnd"
 msgid "{0} is no longer {1}"
-msgstr ""
+msgstr "{0}: {1} 상태에서 벗어남"
 
 #. Key: CharacterStatusConfig.Alert.DisplayName
 msgctxt "CharacterStatusConfig.Alert.DisplayName"
 msgid "Alert"
-msgstr ""
+msgstr "깨 있음"
 
 #. Key: CharacterStatusConfig.Alert.Description
 msgctxt "CharacterStatusConfig.Alert.Description"
 msgid "Functioning well and does not require sleep right now."
-msgstr ""
+msgstr "잘 잤고 지금은 잘 필요가 없습니다."
 
 #. Key: CharacterStatusConfig.Alert.FlavorText
 msgctxt "CharacterStatusConfig.Alert.FlavorText"
@@ -22201,22 +22201,22 @@ msgstr ""
 #. Key: CharacterStatusConfig.Alert.LogEntry
 msgctxt "CharacterStatusConfig.Alert.LogEntry"
 msgid "{0} is {1}"
-msgstr "{0} {1}"
+msgstr "{0}: {1}"
 
 #. Key: CharacterStatusConfig.Alert.LogEntryEnd
 msgctxt "CharacterStatusConfig.Alert.LogEntryEnd"
 msgid "{0} is no longer {1}"
-msgstr ""
+msgstr "{0}: {1} 상태에서 벗어남"
 
 #. Key: CharacterStatusConfig.Rested.DisplayName
 msgctxt "CharacterStatusConfig.Rested.DisplayName"
 msgid "Rested"
-msgstr ""
+msgstr "개운함"
 
 #. Key: CharacterStatusConfig.Rested.Description
 msgctxt "CharacterStatusConfig.Rested.Description"
 msgid "Fully rested and does not need to sleep."
-msgstr ""
+msgstr "완벽한 수면을 취했고 더 이상 잘 필요가 없습니다."
 
 #. Key: CharacterStatusConfig.Rested.FlavorText
 msgctxt "CharacterStatusConfig.Rested.FlavorText"
@@ -22226,12 +22226,12 @@ msgstr ""
 #. Key: CharacterStatusConfig.Rested.LogEntry
 msgctxt "CharacterStatusConfig.Rested.LogEntry"
 msgid "{0} is {1}"
-msgstr "{0} {1}"
+msgstr "{0}: {1}"
 
 #. Key: CharacterStatusConfig.Rested.LogEntryEnd
 msgctxt "CharacterStatusConfig.Rested.LogEntryEnd"
 msgid "{0} is no longer {1}"
-msgstr ""
+msgstr "{0}: {1} 상태에서 벗어남"
 
 #. Key: CharacterStatusConfig.Anticipation.DisplayName
 msgctxt "CharacterStatusConfig.Anticipation.DisplayName"
@@ -25165,7 +25165,7 @@ msgstr "<slink=Rain>"
 #. Key: GlobalEventDefinition.RainStormShort.EventComingAlertText
 msgctxt "GlobalEventDefinition.RainStormShort.EventComingAlertText"
 msgid "Rain incoming."
-msgstr ""
+msgstr "비가 옵니다."
 
 #. Key: GlobalEventDefinition.RainStormShort.DivinationText
 msgctxt "GlobalEventDefinition.RainStormShort.DivinationText"
@@ -31056,6 +31056,17 @@ msgid ""
 "\n"
 "They will only use materials that are available to them, so separately ordering Mages to collect resources is a prerequisite to Construction and Assembly. See the Collecting Resources tutorial for help.             \n"
 msgstr ""
+"화면 왼쪽 아래의 건설 툴<slink=ConstructPanel>을 사용하면 게임 내의 자원을 이용하여 구조물을 건설할 수 있습니다.\n"
+"\n"
+"건설 툴에서 건설을 선택해서 <slink=Foundation> 위에 구조물을 지으세요.\n"
+"\n"
+"<slink=Sidewall>과 <slink=AutoRoofing>을 사용하면 방을 만들 수 있습니다. 왼쪽 클릭으로 첫번째 블록의 위치를 지정하고, 마우스를 움직여 다시 왼쪽 클릭하면 여러 개의 블록을 한 번에 건설할 수 있습니다.\n"
+"\n"
+"블록 건설을 지정하면 마법사들이 재료를 모아 지정한 위치에 구조물을 건설할 것입니다.\n"
+"\n"
+"건설을 취소하거나, 이미 건설된 구조물을 철거하거나, 제작된 가구를 분해하면 건설에 들어간 모든 재료를 돌려받습니다. 그러니 지었다 부수는 것을 두려워하지 마세요!\n"
+"\n"
+"마법사들은 당장 사용 가능한 재료만 건설에 사용하므로, 구조물이나 가구를 건설하기 전에 게임 내의 물체들로부터 재료를 먼저 모아야 합니다. 자원 수집 튜토리얼을 참고하세요.\n"
 
 #. Key: TutorialDefinition.DoorsAndHallways.Feed
 msgctxt "TutorialDefinition.DoorsAndHallways.Feed"

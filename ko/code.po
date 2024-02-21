@@ -9,7 +9,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.4.2\n"
+"X-Generator: Poedit 2.4.2\n"
 
 #. Key: PersistentState.0-638415221456974594
 msgctxt "PersistentState.0-638415221456974594"
@@ -11808,70 +11808,70 @@ msgstr ""
 #. Key: MoveAssembledButtonProvider.0-638327234819647197
 msgctxt "MoveAssembledButtonProvider.0-638327234819647197"
 msgid "Cancel Move"
-msgstr ""
+msgstr "이동 취소"
 
 #. Key: MoveAssembledButtonProvider.1-638327234819647197
 msgctxt "MoveAssembledButtonProvider.1-638327234819647197"
 msgid "Move"
-msgstr ""
+msgstr "이동"
 
 #. Key: MoveAssembledButtonProvider.2-638327234819647197
 #. Args:
 #. - Model.Format.Link(spellConfig, includeStyle: true)
 msgctxt "MoveAssembledButtonProvider.2-638327234819647197"
 msgid "Requires staff member to cast {0: true)}"
-msgstr ""
+msgstr "{0: true)} 시전 대기 중"
 
 #. Key: MoveAssembledButtonProvider.3-638327234819647197
 #. Args:
 #. - Model.Format.Link(spellConfig, includeStyle: true)
 msgctxt "MoveAssembledButtonProvider.3-638327234819647197"
 msgid "Requires staff member to cast {0: true)}"
-msgstr ""
+msgstr "{0: true)} 시전 대기 중"
 
 #. Key: MoveAssembledButtonProvider.0-638191561194512106
 #. Args:
 #. - Model.Format.Link(JobType.Assemble, includeStyle: false)
 msgctxt "MoveAssembledButtonProvider.0-638191561194512106"
 msgid "Put this in a different location. Uses {0: false)}"
-msgstr ""
+msgstr "이 물체를 다른 곳으로 이동합니다. {0: false)} 사용."
 
 #. Key: MoveButtonProvider.0-638327234819647197
 msgctxt "MoveButtonProvider.0-638327234819647197"
 msgid "Cancel Move"
-msgstr ""
+msgstr "이동 취소"
 
 #. Key: MoveButtonProvider.1-638327234819647197
 msgctxt "MoveButtonProvider.1-638327234819647197"
 msgid "Move"
-msgstr ""
+msgstr "이동"
 
 #. Key: MoveButtonProvider.2-638327234819647197
 msgctxt "MoveButtonProvider.2-638327234819647197"
 msgid "Click to Cancel"
-msgstr ""
+msgstr "클릭해서 취소"
 
 #. Key: MoveButtonProvider.0-638164628328235352
 #. Args:
 #. - Model.Format.Link(JobType.Haul, includeStyle: false)
 msgctxt "MoveButtonProvider.0-638164628328235352"
 msgid "Move this to a different location. Uses {0: false)}."
-msgstr ""
+msgstr "이 물체를 다른 곳으로 옮깁니다. {0: false)} 사용."
 
 #. Key: PasteSettingsButtonProvider.0-638415221471801581
 msgctxt "PasteSettingsButtonProvider.0-638415221471801581"
 msgid "Paste Settings"
-msgstr ""
+msgstr "설정 붙여넣기"
 
 #. Key: PasteSettingsButtonProvider.1-638415221471801581
 msgctxt "PasteSettingsButtonProvider.1-638415221471801581"
 msgid "Pasted"
-msgstr ""
+msgstr "붙여넣기 완료"
 
 #. Key: PasteSettingsButtonProvider.2-638415221471801581
 msgctxt "PasteSettingsButtonProvider.2-638415221471801581"
 msgid "Paste settings for Access, Storage, as available to all relevant selects."
-msgstr ""
+msgstr "설정을 붙여넣습니다."
 
 #. Key: SelectedDebugButton.0-638359255639207708
 msgctxt "SelectedDebugButton.0-638359255639207708"
@@ -11883,12 +11883,12 @@ msgstr ""
 #. - displayName
 msgctxt "CraftingInfoWidget.0-638327234819657198"
 msgid "Crafting: {0}"
-msgstr ""
+msgstr "{0} 제작 중"
 
 #. Key: CraftingInfoWidget.1-638327234819657198
 msgctxt "CraftingInfoWidget.1-638327234819657198"
 msgid " (Paused)"
-msgstr ""
+msgstr "(일시정지됨)"
 
 #. Key: CraftingInfoWidget.2-638327234819657198
 msgctxt "CraftingInfoWidget.2-638327234819657198"
@@ -11896,6 +11896,8 @@ msgid ""
 "\n"
 "Waiting..."
 msgstr ""
+"\n"
+"기다리는 중..."
 
 #. Key: CraftingInfoWidget.3-638327234819657198
 msgctxt "CraftingInfoWidget.3-638327234819657198"
@@ -11903,6 +11905,8 @@ msgid ""
 "\n"
 "Waiting on resources..."
 msgstr ""
+"\n"
+"재료 기다리는 중..."
 
 #. Key: CraftingInfoWidget.4-638327234819657198
 msgctxt "CraftingInfoWidget.4-638327234819657198"
@@ -11910,6 +11914,8 @@ msgid ""
 "\n"
 "Gathering..."
 msgstr ""
+"\n"
+"채집 중..."
 
 #. Key: CraftingInfoWidget.5-638327234819657198
 #. Args:
@@ -11920,6 +11926,8 @@ msgid ""
 "\n"
 "Progress: {0}/{1}"
 msgstr ""
+"\n"
+"진행도: {0}/{1}"
 
 #. Key: CraftingInfoWidget.0-638404054175148526
 #. Args:
@@ -11929,20 +11937,22 @@ msgid ""
 "\n"
 "Refining Paused due to Empty <slink={0}> Need"
 msgstr ""
+"\n"
+"<slink={0}> 욕구가 충족되지 않아 제련이 중지됨"
 
 #. Key: MultiSelectInfoEntry.0-638415221471826640
 #. Args:
 #. - Model.Format.Link(entityKey.GetDefinition(), false)
 msgctxt "MultiSelectInfoEntry.0-638415221471826640"
 msgid "{0} (Placemarker)"
-msgstr ""
+msgstr "{0} (건설 예약)"
 
 #. Key: ResearchInfoWidget.0-638327234819657198
 #. Args:
 #. - displayName
 msgctxt "ResearchInfoWidget.0-638327234819657198"
 msgid "Researching: {0}"
-msgstr ""
+msgstr "연구 중: {0}"
 
 #. Key: ResearchInfoWidget.1-638327234819657198
 msgctxt "ResearchInfoWidget.1-638327234819657198"
@@ -11950,6 +11960,8 @@ msgid ""
 "\n"
 "Gathering..."
 msgstr ""
+"\n"
+"채집 중..."
 
 #. Key: ResearchInfoWidget.2-638327234819657198
 #. Args:
@@ -11960,38 +11972,40 @@ msgid ""
 "\n"
 "Progress: {0}/{1}"
 msgstr ""
+"\n"
+"진행도: {0}/{1}"
 
 #. Key: SelectedEntityMainPanel.0-638327234819670259
 #. Args:
 #. - priority.GetPriorityString()
 msgctxt "SelectedEntityMainPanel.0-638327234819670259"
 msgid "Priority: {0}"
-msgstr ""
+msgstr "우선순위: {0}"
 
 #. Key: AllowedAccessEntry.0-638325564500368161
 msgctxt "AllowedAccessEntry.0-638325564500368161"
 msgid "Allowed"
-msgstr ""
+msgstr "허용"
 
 #. Key: AllowedGroupsWidget.0-638325564500383209
 msgctxt "AllowedGroupsWidget.0-638325564500383209"
 msgid "Allowed"
-msgstr ""
+msgstr "허용"
 
 #. Key: AllowedStorageWidget.0-638325564500403371
 msgctxt "AllowedStorageWidget.0-638325564500403371"
 msgid "Allowed"
-msgstr ""
+msgstr "허용"
 
 #. Key: AllowedStorageWidget.1-638325564500403371
 msgctxt "AllowedStorageWidget.1-638325564500403371"
 msgid "Allow All"
-msgstr ""
+msgstr "모두 허용"
 
 #. Key: AllowedStorageWidget.2-638325564500403371
 msgctxt "AllowedStorageWidget.2-638325564500403371"
 msgid "Clear All"
-msgstr ""
+msgstr "모두 금지"
 
 #. Key: AllowedStorageWidgetEntry.0-638429976725516060
 #. Args:
@@ -11999,49 +12013,49 @@ msgstr ""
 #. - stackSize
 msgctxt "AllowedStorageWidgetEntry.0-638429976725516060"
 msgid "Storage Limit: {0} <size=60%>(Stacks of {1})</size>"
-msgstr ""
+msgstr "저장 한도: {0} <size=60%>({1} 스택)</size>"
 
 #. Key: AllowedStorageWidgetEntry.1-638429976725516060
 #. Args:
 #. - Model.Format.Link(EntityKey.GetDefinition())
 msgctxt "AllowedStorageWidgetEntry.1-638429976725516060"
 msgid "Set the maximum number of {0} stacks stored here."
-msgstr ""
+msgstr "{0} 스택의 최대 한도를 지정합니다."
 
 #. Key: AssignedAccessEntry.0-638325564500413712
 msgctxt "AssignedAccessEntry.0-638325564500413712"
 msgid "Auto-Assign"
-msgstr ""
+msgstr "자동 지정"
 
 #. Key: AssignedAccessEntry.1-638325564500428767
 msgctxt "AssignedAccessEntry.1-638325564500428767"
 msgid "Assigned"
-msgstr ""
+msgstr "지정됨"
 
 #. Key: AssignedAccessWidget.0-638325564500428767
 msgctxt "AssignedAccessWidget.0-638325564500428767"
 msgid "Auto-Assign"
-msgstr ""
+msgstr "자동 지정"
 
 #. Key: AssignedAccessWidget.1-638325564500428767
 msgctxt "AssignedAccessWidget.1-638325564500428767"
 msgid "Assigned"
-msgstr ""
+msgstr "지정됨"
 
 #. Key: AssignedAccessWidget.0-638359255639252771
 msgctxt "AssignedAccessWidget.0-638359255639252771"
 msgid "Any"
-msgstr ""
+msgstr "아무나"
 
 #. Key: AssignedClipBoardData.0-638325564500438872
 msgctxt "AssignedClipBoardData.0-638325564500438872"
 msgid "Allowed"
-msgstr ""
+msgstr "허용"
 
 #. Key: AssignedClipBoardData.1-638325564500438872
 msgctxt "AssignedClipBoardData.1-638325564500438872"
 msgid "Allowed"
-msgstr ""
+msgstr "허용"
 
 #. Key: SelectedEntity_Gear.0-637938161250071416
 msgctxt "SelectedEntity_Gear.0-637938161250071416"
@@ -12056,34 +12070,34 @@ msgstr ""
 #. Key: SelectedEntity_Storage.0-637921765304052842
 msgctxt "SelectedEntity_Storage.0-637921765304052842"
 msgid "Claimed"
-msgstr ""
+msgstr "예약됨"
 
 #. Key: SelectedEntity_Storage.1-637921765304062850
 msgctxt "SelectedEntity_Storage.1-637921765304062850"
 msgid "Use"
-msgstr ""
+msgstr "사용"
 
 #. Key: SelectedEntity_Storage.2-637921765304062850
 msgctxt "SelectedEntity_Storage.2-637921765304062850"
 msgid "Remove"
-msgstr ""
+msgstr "제거"
 
 #. Key: SelectedEntity_Potions.0-637938168814182163
 msgctxt "SelectedEntity_Potions.0-637938168814182163"
 msgid "Equipped Potions"
-msgstr ""
+msgstr "보유 중인 물약"
 
 #. Key: SelectedEntity_Potions.1-637938168814192163
 msgctxt "SelectedEntity_Potions.1-637938168814192163"
 msgid "Available Potions"
-msgstr ""
+msgstr "사용 가능 물약"
 
 #. Key: EntityPotionsPanel.0-638325564500463146
 #. Args:
 #. - EntityUtils.GetDisplayName(claimedBy.ClaimedBy)
 msgctxt "EntityPotionsPanel.0-638325564500463146"
 msgid "Claimed by {0}."
-msgstr ""
+msgstr "예약: {0}"
 
 #. Key: EntityPotionsPanel.1-638325564500463146
 msgctxt "EntityPotionsPanel.1-638325564500463146"
@@ -12093,12 +12107,12 @@ msgstr ""
 #. Key: EntityPotionsPanel.2-638325564500463146
 msgctxt "EntityPotionsPanel.2-638325564500463146"
 msgid "Drop"
-msgstr ""
+msgstr "바닥에 놓기"
 
 #. Key: EntityPotionsPanel.3-638325564500463146
 msgctxt "EntityPotionsPanel.3-638325564500463146"
 msgid "Remove"
-msgstr ""
+msgstr "제거"
 
 #. Key: EntityPrioritySelectWidget.0-638325564500468196
 msgctxt "EntityPrioritySelectWidget.0-638325564500468196"
@@ -12107,6 +12121,9 @@ msgid ""
 "\n"
 "X = Never, 1 = Low, 5 = High"
 msgstr ""
+"이 개별 작업의 우선 순위를 정합니다.\n"
+"\n"
+"X = 금지, 1 = 낮음, 5 = 높음"
 
 #. Key: EntityPrioritySelectWidget.1-638325564500468196
 #. Args:
@@ -12133,129 +12150,129 @@ msgstr ""
 #. Key: SelectedEntity_Access.0-638318400365523758
 msgctxt "SelectedEntity_Access.0-638318400365523758"
 msgid "Set access rules and assign"
-msgstr ""
+msgstr "접근 권한 설정"
 
 #. Key: SelectedEntity_Access.1-638318400365523758
 msgctxt "SelectedEntity_Access.1-638318400365523758"
 msgid "Access"
-msgstr ""
+msgstr "접근 권한"
 
 #. Key: SelectedEntity_Access.6-638318400365523758
 msgctxt "SelectedEntity_Access.6-638318400365523758"
 msgid "Access"
-msgstr ""
+msgstr "접근 권한"
 
 #. Key: SelectedEntity_Badges.0-638301172113490899
 msgctxt "SelectedEntity_Badges.0-638301172113490899"
 msgid "Trials & Medallions"
-msgstr ""
+msgstr "과제 & 메달"
 
 #. Key: SelectedEntity_Badges.1-638301172113490899
 msgctxt "SelectedEntity_Badges.1-638301172113490899"
 msgid "Trials & Medallions"
-msgstr ""
+msgstr "과제 & 메달"
 
 #. Key: SelectedEntity_Badges.2-638301172113490899
 msgctxt "SelectedEntity_Badges.2-638301172113490899"
 msgid "View Trials and Medallions"
-msgstr ""
+msgstr "과제와 메달 보기"
 
 #. Key: SelectedEntity_Battle.0-638357407852821484
 msgctxt "SelectedEntity_Battle.0-638357407852821484"
 msgid "Cancel Battle"
-msgstr ""
+msgstr "전투 취소"
 
 #. Key: SelectedEntity_Battle.1-638357407852821484
 msgctxt "SelectedEntity_Battle.1-638357407852821484"
 msgid "Battle"
-msgstr ""
+msgstr "전투"
 
 #. Key: SelectedEntity_Battle.2-638357407852821484
 msgctxt "SelectedEntity_Battle.2-638357407852821484"
 msgid "Waiting For:"
-msgstr ""
+msgstr "이동 중:"
 
 #. Key: SelectedEntity_Battle.3-638357407852821484
 #. Args:
 #. - TimeUtils.GetFriendlyStringFromDuration(lifetime.TTLGameTime)
 msgctxt "SelectedEntity_Battle.3-638357407852821484"
 msgid "A battle awaits. Dispels in {0}"
-msgstr ""
+msgstr "전투 가능: {0}"
 
 #. Key: SelectedEntity_Battle.4-638357407852821484
 msgctxt "SelectedEntity_Battle.4-638357407852821484"
 msgid "A battle awaits."
-msgstr ""
+msgstr "전투 가능."
 
 #. Key: SelectedEntity_Battle.5-638357407852821484
 msgctxt "SelectedEntity_Battle.5-638357407852821484"
 msgid "Difficulty:"
-msgstr ""
+msgstr "난이도:"
 
 #. Key: SelectedEntity_Battle.6-638357407852821484
 msgctxt "SelectedEntity_Battle.6-638357407852821484"
 msgid "Do you want to cancel the battle?"
-msgstr ""
+msgstr "전투를 취소하시겠습니까?"
 
 #. Key: SelectedEntity_Battle.7-638357407852821484
 msgctxt "SelectedEntity_Battle.7-638357407852821484"
 msgid "Yes"
-msgstr ""
+msgstr "네"
 
 #. Key: SelectedEntity_Battle.8-638357407852821484
 msgctxt "SelectedEntity_Battle.8-638357407852821484"
 msgid "No"
-msgstr ""
+msgstr "아니오"
 
 #. Key: SelectedEntity_BookOfRituals.0-638290009912537685
 msgctxt "SelectedEntity_BookOfRituals.0-638290009912537685"
 msgid "Open Book of Rituals"
-msgstr ""
+msgstr "의식의 책 열기"
 
 #. Key: SelectedEntity_BookOfRituals.1-638290009912537685
 msgctxt "SelectedEntity_BookOfRituals.1-638290009912537685"
 msgid "Open Book of Rituals"
-msgstr ""
+msgstr "의식의 책 열기"
 
 #. Key: SelectedEntity_Errands.0-638325564500523749
 msgctxt "SelectedEntity_Errands.0-638325564500523749"
 msgid "Tasks"
-msgstr ""
+msgstr "작업"
 
 #. Key: SelectedEntity_Errands.1-638325564500523749
 msgctxt "SelectedEntity_Errands.1-638325564500523749"
 msgid "Tasks"
-msgstr ""
+msgstr "작업"
 
 #. Key: SelectedEntity_Errands.2-638325564500523749
 msgctxt "SelectedEntity_Errands.2-638325564500523749"
 msgid "Show <slink=Tasks> available to be worked on."
-msgstr ""
+msgstr "수행 가능한 <slink=Tasks>을 봅니다."
 
 #. Key: SelectedEntity_Magic.0-638325564500533838
 msgctxt "SelectedEntity_Magic.0-638325564500533838"
 msgid "Magic"
-msgstr ""
+msgstr "마법"
 
 #. Key: SelectedEntity_Magic.1-638325564500533838
 msgctxt "SelectedEntity_Magic.1-638325564500533838"
 msgid "Magic & Combat"
-msgstr ""
+msgstr "마법 & 전투"
 
 #. Key: SelectedEntity_Magic.2-638325564500533838
 msgctxt "SelectedEntity_Magic.2-638325564500533838"
 msgid "Magic"
-msgstr ""
+msgstr "마법"
 
 #. Key: SelectedEntity_Magic.3-638325564500533838
 msgctxt "SelectedEntity_Magic.3-638325564500533838"
 msgid "Magic & Combat"
-msgstr ""
+msgstr "마법 & 전투"
 
 #. Key: SelectedEntity_Magic.4-638325564500533838
 msgctxt "SelectedEntity_Magic.4-638325564500533838"
 msgid "Magic Skills"
-msgstr ""
+msgstr "마법 주문"
 
 #. Key: SelectedEntity_MerchantTab.0-638325564500533838
 msgctxt "SelectedEntity_MerchantTab.0-638325564500533838"
@@ -12363,71 +12380,71 @@ msgstr ""
 #. Key: SelectedEntity_Needs.0-638325564500553970
 msgctxt "SelectedEntity_Needs.0-638325564500553970"
 msgid "Show Needs and Conviction"
-msgstr ""
+msgstr "욕구와 만족도 보기"
 
 #. Key: SelectedEntity_Needs.1-638325564500553970
 msgctxt "SelectedEntity_Needs.1-638325564500553970"
 msgid "Show Needs"
-msgstr ""
+msgstr "욕구 보기"
 
 #. Key: SelectedEntity_Needs.2-638325564500553970
 msgctxt "SelectedEntity_Needs.2-638325564500553970"
 msgid "Needs"
-msgstr ""
+msgstr "욕구"
 
 #. Key: SelectedEntity_Needs.3-638325564500553970
 msgctxt "SelectedEntity_Needs.3-638325564500553970"
 msgid "Needs"
-msgstr ""
+msgstr "욕구"
 
 #. Key: SelectedEntity_Needs_RefiningEntry.0-638325564500569018
 #. Args:
 #. - EnumNames.NeedsType.Definition((int)needs.Config.NeedsType).DisplayName
 msgctxt "SelectedEntity_Needs_RefiningEntry.0-638325564500569018"
 msgid "Refining Time Modifier - {0}"
-msgstr ""
+msgstr "제련 속도 - {0}"
 
 #. Key: SelectedEntity_Needs_RefiningEntry.1-638325564500569018
 #. Args:
 #. - EnumNames.NeedsType.Definition((int)needs.Config.NeedsType).DisplayName
 msgctxt "SelectedEntity_Needs_RefiningEntry.1-638325564500569018"
 msgid "{0} Schedule:\n"
-msgstr ""
+msgstr "{0} 스케줄:\n"
 
 #. Key: SelectedEntity_Needs_RefiningEntry.2-638325564500569018
 msgctxt "SelectedEntity_Needs_RefiningEntry.2-638325564500569018"
 msgid "Total Refining Time Modifier"
-msgstr ""
+msgstr "총 제련 속도"
 
 #. Key: SelectedEntity_Potions.0-638325564500569018
 msgctxt "SelectedEntity_Potions.0-638325564500569018"
 msgid "Manage potions"
-msgstr ""
+msgstr "물약 관리"
 
 #. Key: SelectedEntity_Potions.1-638325564500569018
 msgctxt "SelectedEntity_Potions.1-638325564500569018"
 msgid "Potions"
-msgstr ""
+msgstr "물약"
 
 #. Key: SelectedEntity_Properties.0-638325564500579259
 msgctxt "SelectedEntity_Properties.0-638325564500579259"
 msgid "Show properties"
-msgstr ""
+msgstr "속성 보기"
 
 #. Key: SelectedEntity_Properties.1-638325564500579259
 msgctxt "SelectedEntity_Properties.1-638325564500579259"
 msgid "Properties"
-msgstr ""
+msgstr "속성"
 
 #. Key: SelectedEntity_Properties.2-638325564500579259
 msgctxt "SelectedEntity_Properties.2-638325564500579259"
 msgid "Properties"
-msgstr ""
+msgstr "속성"
 
 #. Key: SelectedEntity_ProvidedErrands.0-638325564500579259
 msgctxt "SelectedEntity_ProvidedErrands.0-638325564500579259"
 msgid "Show <slink=Tasks> provided by this object."
-msgstr ""
+msgstr "이 물체와 관련해서 가능한 <slink=Tasks> 목록을 봅니다."
 
 #. Key: SelectedEntity_ProvidedErrands.1-638325564500579259
 #. Args:
@@ -12435,71 +12452,71 @@ msgstr ""
 #. - EnumNames.JobType.Definition((int)_errandComponent.GetJobType()).DisplayName
 msgctxt "SelectedEntity_ProvidedErrands.1-638325564500579259"
 msgid "EMERGENCY {0: null)} [{1}]"
-msgstr ""
+msgstr "긴급 {0: null)} [{1}]"
 
 #. Key: SelectedEntity_ProvidedErrands.2-638325564500579259
 msgctxt "SelectedEntity_ProvidedErrands.2-638325564500579259"
 msgid "Unassigned"
-msgstr ""
+msgstr "할당 안 됨"
 
 #. Key: SelectedEntity_ProvidedErrands.3-638325564500579259
 msgctxt "SelectedEntity_ProvidedErrands.3-638325564500579259"
 msgid "Provided Tasks"
-msgstr ""
+msgstr "작업 목록"
 
 #. Key: SelectedEntity_ProvidedErrands.4-638325564500579259
 msgctxt "SelectedEntity_ProvidedErrands.4-638325564500579259"
 msgid "Tasks"
-msgstr ""
+msgstr "작업"
 
 #. Key: HUDWindow_Research.0-637926111304736173
 msgctxt "HUDWindow_Research.0-637926111304736173"
 msgid "Open Research"
-msgstr ""
+msgstr "연구 열기"
 
 #. Key: SelectedEntity_Research.0-638290009912632566
 msgctxt "SelectedEntity_Research.0-638290009912632566"
 msgid "Open research"
-msgstr ""
+msgstr "연구 열기"
 
 #. Key: SelectedEntity_Research.1-638290009912632566
 msgctxt "SelectedEntity_Research.1-638290009912632566"
 msgid "No research currently available"
-msgstr ""
+msgstr "가능한 연구 없음"
 
 #. Key: SelectedEntity_RitualSite.0-638325564500590032
 msgctxt "SelectedEntity_RitualSite.0-638325564500590032"
 msgid "Rituals"
-msgstr ""
+msgstr "의식"
 
 #. Key: SelectedEntity_RitualSite.1-638325564500600226
 msgctxt "SelectedEntity_RitualSite.1-638325564500600226"
 msgid "Rituals"
-msgstr ""
+msgstr "의식"
 
 #. Key: SelectedEntity_RitualSite.2-638325564500600226
 msgctxt "SelectedEntity_RitualSite.2-638325564500600226"
 msgid "Current Ritual:"
-msgstr ""
+msgstr "현재 의식:"
 
 #. Key: SelectedEntity_RitualSite.3-638325564500600226
 msgctxt "SelectedEntity_RitualSite.3-638325564500600226"
 msgid "Cancel Ritual"
-msgstr ""
+msgstr "의식 취소"
 
 #. Key: SelectedEntity_RitualSite.0-638290098606925439
 #. Args:
 #. - total
 msgctxt "SelectedEntity_RitualSite.0-638290098606925439"
 msgid "Ritual Time: {0}"
-msgstr ""
+msgstr "의식 시간: {0}"
 
 #. Key: SelectedEntity_RitualSite.1-638290098606925439
 #. Args:
 #. - remaining
 msgctxt "SelectedEntity_RitualSite.1-638290098606925439"
 msgid "Remaining: {0}"
-msgstr ""
+msgstr "잔여 시간: {0}"
 
 #. Key: SelectedEntity_RitualSite.0-638326434632824836
 #. Args:
@@ -12508,37 +12525,37 @@ msgstr ""
 #. - total
 msgctxt "SelectedEntity_RitualSite.0-638326434632824836"
 msgid "{0}: {1}/{2}\n"
-msgstr ""
+msgstr "{0}: {1}/{2}\n"
 
 #. Key: SelectedEntity_RitualSite.4-638325564500600226
 msgctxt "SelectedEntity_RitualSite.4-638325564500600226"
 msgid "Rituals"
-msgstr ""
+msgstr "의식"
 
 #. Key: SelectedEntity_RitualSiteButton.0-638325564500615902
 msgctxt "SelectedEntity_RitualSiteButton.0-638325564500615902"
 msgid "Promote a Student onto the Staff."
-msgstr ""
+msgstr "학생을 교사로 임용합니다."
 
 #. Key: SelectedEntity_RitualSiteButton.0-638295488014453352
 msgctxt "SelectedEntity_RitualSiteButton.0-638295488014453352"
 msgid "<b>Requirements</b>"
-msgstr ""
+msgstr "<b>요구 사항</b>"
 
 #. Key: SelectedEntity_Role.0-638325564500625480
 msgctxt "SelectedEntity_Role.0-638325564500625480"
 msgid "Wand"
-msgstr ""
+msgstr "지팡이"
 
 #. Key: SelectedEntity_Role.1-638325564500625480
 msgctxt "SelectedEntity_Role.1-638325564500625480"
 msgid "Wand"
-msgstr ""
+msgstr "지팡이"
 
 #. Key: SelectedEntity_Role.2-638325564500625480
 msgctxt "SelectedEntity_Role.2-638325564500625480"
 msgid "Inspect Role"
-msgstr ""
+msgstr "역할 보기"
 
 #. Key: SelectedEntity_Social.0-638325564500635509
 msgctxt "SelectedEntity_Social.0-638325564500635509"
@@ -12558,32 +12575,32 @@ msgstr ""
 #. Key: SelectedEntity_Storage.0-638325564500645567
 msgctxt "SelectedEntity_Storage.0-638325564500645567"
 msgid "Set storage rules"
-msgstr ""
+msgstr "저장 규칙 설정"
 
 #. Key: SelectedEntity_Storage.1-638325564500645567
 msgctxt "SelectedEntity_Storage.1-638325564500645567"
 msgid "Contents"
-msgstr ""
+msgstr "내용물"
 
 #. Key: SelectedEntity_Storage.2-638325564500645567
 msgctxt "SelectedEntity_Storage.2-638325564500645567"
 msgid "Contents"
-msgstr ""
+msgstr "내용물"
 
 #. Key: SelectedEntity_Storage.3-637921765304052842
 msgctxt "SelectedEntity_Storage.3-637921765304052842"
 msgid "Claimed"
-msgstr ""
+msgstr "예약:"
 
 #. Key: SelectedEntity_Storage.4-637921765304062850
 msgctxt "SelectedEntity_Storage.4-637921765304062850"
 msgid "Use"
-msgstr ""
+msgstr "사용"
 
 #. Key: SelectedEntity_Storage.5-637921765304062850
 msgctxt "SelectedEntity_Storage.5-637921765304062850"
 msgid "Remove"
-msgstr ""
+msgstr "제거"
 
 #. Key: StorageEntryWidget.0-638325564500665602
 #. Args:
@@ -12592,24 +12609,24 @@ msgstr ""
 #. - slotCount
 msgctxt "StorageEntryWidget.0-638325564500665602"
 msgid "{0} {1} ({2} Stacks)"
-msgstr ""
+msgstr "{0} {1} ({2} 스택)"
 
 #. Key: StorageEntryWidget.1-638325564500665602
 #. Args:
 #. - EntityUtils.GetDisplayName(claimedBy.ClaimedBy)
 msgctxt "StorageEntryWidget.1-638325564500665602"
 msgid "Claimed by {0}."
-msgstr ""
+msgstr "예약: {0}"
 
 #. Key: StorageEntryWidget.2-638325564500665602
 msgctxt "StorageEntryWidget.2-638325564500665602"
 msgid "Drop"
-msgstr ""
+msgstr "바닥에 놓기"
 
 #. Key: StorageEntryWidget.3-638325564500665602
 msgctxt "StorageEntryWidget.3-638325564500665602"
 msgid "Remove"
-msgstr ""
+msgstr "제거"
 
 #. Key: WandSkillInfoWidget.0-638325564500665602
 #. Args:
@@ -12621,12 +12638,12 @@ msgstr ""
 #. Key: BaseErrandPlayerDisabledButtonProvider.41-638327234819586961
 msgctxt "BaseErrandPlayerDisabledButtonProvider.41-638327234819586961"
 msgid "Cancel Attack"
-msgstr ""
+msgstr "공격 취소"
 
 #. Key: BaseErrandPlayerDisabledButtonProvider.42-638327234819586961
 msgctxt "BaseErrandPlayerDisabledButtonProvider.42-638327234819586961"
 msgid "Attack"
-msgstr ""
+msgstr "공격"
 
 #. Key: BaseErrandPlayerDisabledButtonProvider.5-638162900514012611
 msgctxt "BaseErrandPlayerDisabledButtonProvider.5-638162900514012611"
@@ -12638,24 +12655,24 @@ msgstr ""
 #. - SkillsUtils.GetSkillRequirementStringForSpell(spellConfig.GetDefId<SpellConfig>())
 msgctxt "BaseErrandPlayerDisabledButtonProvider.0-638301217416007944"
 msgid "Requires {0}"
-msgstr ""
+msgstr "{0} 필요"
 
 #. Key: BaseErrandPlayerDisabledButtonProvider.0-638327234819571353
 #. Args:
 #. - Model.Format.Link(spellConfig, includeStyle: true)
 msgctxt "BaseErrandPlayerDisabledButtonProvider.0-638327234819571353"
 msgid "Requires cast of {0: true)}"
-msgstr ""
+msgstr "{0: true)} 시전 필요"
 
 #. Key: BaseErrandPlayerDisabledButtonProvider.5-638327234819571353
 msgctxt "BaseErrandPlayerDisabledButtonProvider.5-638327234819571353"
 msgid "Cancel Clean"
-msgstr ""
+msgstr "청소 취소"
 
 #. Key: BaseErrandPlayerDisabledButtonProvider.6-638327234819571353
 msgctxt "BaseErrandPlayerDisabledButtonProvider.6-638327234819571353"
 msgid "Clean"
-msgstr ""
+msgstr "청소"
 
 #. Key: BaseErrandPlayerDisabledButtonProvider.2-638191535139308169
 #. Args:
@@ -12663,81 +12680,81 @@ msgstr ""
 #. - Model.Format.Link(found.GetJobType(), includeStyle: false)
 msgctxt "BaseErrandPlayerDisabledButtonProvider.2-638191535139308169"
 msgid "Remove {0}. Uses {1: false)}."
-msgstr ""
+msgstr "{0}(을)를 제거합니다. {1: false)} 사용."
 
 #. Key: BaseErrandPlayerDisabledButtonProvider.16-638327234819571353
 msgctxt "BaseErrandPlayerDisabledButtonProvider.16-638327234819571353"
 msgid "Cancel"
-msgstr ""
+msgstr "취소"
 
 #. Key: BaseErrandPlayerDisabledButtonProvider.17-638327234819571353
 msgctxt "BaseErrandPlayerDisabledButtonProvider.17-638327234819571353"
 msgid "Cancel"
-msgstr ""
+msgstr "취소"
 
 #. Key: BaseErrandPlayerDisabledButtonProvider.18-638327234819571353
 msgctxt "BaseErrandPlayerDisabledButtonProvider.18-638327234819571353"
 msgid "Cancel construction"
-msgstr ""
+msgstr "건설 취소"
 
 #. Key: BaseErrandPlayerDisabledButtonProvider.48-638327234819586961
 msgctxt "BaseErrandPlayerDisabledButtonProvider.48-638327234819586961"
 msgid "Cancel Disintegrate"
-msgstr ""
+msgstr "분해 취소"
 
 #. Key: BaseErrandPlayerDisabledButtonProvider.49-638327234819586961
 msgctxt "BaseErrandPlayerDisabledButtonProvider.49-638327234819586961"
 msgid "Disintegrate"
-msgstr ""
+msgstr "분해"
 
 #. Key: BaseErrandPlayerDisabledButtonProvider.8-638191535139308169
 #. Args:
 #. - Model.Format.Link(found.GetJobType(), includeStyle: false)
 msgctxt "BaseErrandPlayerDisabledButtonProvider.8-638191535139308169"
 msgid "Disintegrate construction blocks. Uses {0: false)}."
-msgstr ""
+msgstr "건설 블록을 철거합니다. {0: false)} 사용."
 
 #. Key: BaseErrandPlayerDisabledButtonProvider.21-638327234819571353
 #. Args:
 #. - errand.Config.ErrandDisplayName
 msgctxt "BaseErrandPlayerDisabledButtonProvider.21-638327234819571353"
 msgid "Cancel {0}"
-msgstr ""
+msgstr "{0} 취소"
 
 #. Key: BaseErrandPlayerDisabledButtonProvider.22-638327234819571353
 #. Args:
 #. - Model.Format.Link(found.GetJobType(), includeStyle: false)
 msgctxt "BaseErrandPlayerDisabledButtonProvider.22-638327234819571353"
 msgid "Collect reagents from this. Uses {0: false)}."
-msgstr ""
+msgstr "이 물체로부터 자원을 수집합니다. {0: false)} 사용."
 
 #. Key: BaseErrandPlayerDisabledButtonProvider.19-638327234819571353
 #. Args:
 #. - errand.Config.ErrandDisplayName
 msgctxt "BaseErrandPlayerDisabledButtonProvider.19-638327234819571353"
 msgid "Cancel {0}"
-msgstr ""
+msgstr "{0} 취소"
 
 #. Key: BaseErrandPlayerDisabledButtonProvider.20-638327234819571353
 #. Args:
 #. - Model.Format.Link(found.GetJobType(), includeStyle: false)
 msgctxt "BaseErrandPlayerDisabledButtonProvider.20-638327234819571353"
 msgid "Collect reagents from this. Uses {0: false)}"
-msgstr ""
+msgstr "이 물체로부터 자원을 수집합니다. {0: false)} 사용."
 
 #. Key: BaseErrandPlayerDisabledButtonProvider.23-638327234819571353
 #. Args:
 #. - errand.Config.ErrandDisplayName
 msgctxt "BaseErrandPlayerDisabledButtonProvider.23-638327234819571353"
 msgid "Cancel {0}"
-msgstr ""
+msgstr "{0} 취소"
 
 #. Key: BaseErrandPlayerDisabledButtonProvider.24-638327234819571353
 #. Args:
 #. - Model.Format.Link(found.GetJobType(), includeStyle: false)
 msgctxt "BaseErrandPlayerDisabledButtonProvider.24-638327234819571353"
 msgid "Collect reagents from this. Uses {0: false)}"
-msgstr ""
+msgstr "이 물체로부터 자원을 수집합니다. {0: false)} 사용."
 
 #. Key: BaseErrandPlayerDisabledButtonProvider.25-638327234819571353
 #. Args:
@@ -12748,50 +12765,53 @@ msgid ""
 "\n"
 "Can only be {0} at night."
 msgstr ""
+"\n"
+"\n"
+"밤에만 {0} 가능."
 
 #. Key: BaseErrandPlayerDisabledButtonProvider.1-638327234819571353
 msgctxt "BaseErrandPlayerDisabledButtonProvider.1-638327234819571353"
 msgid "Cancel Shrink"
-msgstr ""
+msgstr "축소 취소"
 
 #. Key: BaseErrandPlayerDisabledButtonProvider.2-638327234819571353
 msgctxt "BaseErrandPlayerDisabledButtonProvider.2-638327234819571353"
 msgid "Shrink"
-msgstr ""
+msgstr "축소"
 
 #. Key: BaseErrandPlayerDisabledButtonProvider.0-638191535139298019
 #. Args:
 #. - Model.Format.Link(found.GetJobType(), includeStyle: false)
 msgctxt "BaseErrandPlayerDisabledButtonProvider.0-638191535139298019"
 msgid "Shrink this to a portable size. Uses {0: false)}."
-msgstr ""
+msgstr "이 물체를 휴대 가능한 크기로 축소합니다. {0: false)} 사용."
 
 #. Key: BaseErrandPlayerDisabledButtonProvider.3-638327234819571353
 msgctxt "BaseErrandPlayerDisabledButtonProvider.3-638327234819571353"
 msgid "Cancel Disintegrate"
-msgstr ""
+msgstr "분해 취소"
 
 #. Key: BaseErrandPlayerDisabledButtonProvider.4-638327234819571353
 msgctxt "BaseErrandPlayerDisabledButtonProvider.4-638327234819571353"
 msgid "Disintegrate"
-msgstr ""
+msgstr "분해"
 
 #. Key: BaseErrandPlayerDisabledButtonProvider.1-638191535139308169
 #. Args:
 #. - Model.Format.Link(found.GetJobType(), includeStyle: false)
 msgctxt "BaseErrandPlayerDisabledButtonProvider.1-638191535139308169"
 msgid "Turn this into its constituent reagents. Uses {0: false)}."
-msgstr ""
+msgstr "이 물체를 재료로 분해합니다. {0: false)} 사용."
 
 #. Key: BaseErrandPlayerDisabledButtonProvider.7-638327234819571353
 msgctxt "BaseErrandPlayerDisabledButtonProvider.7-638327234819571353"
 msgid "Cancel Spell"
-msgstr ""
+msgstr "주문 취소"
 
 #. Key: BaseErrandPlayerDisabledButtonProvider.8-638327234819571353
 msgctxt "BaseErrandPlayerDisabledButtonProvider.8-638327234819571353"
 msgid "Cancel Spell"
-msgstr ""
+msgstr "주문 취소"
 
 #. Key: BaseErrandPlayerDisabledButtonProvider.9-638327234819571353
 #. Args:
@@ -12799,96 +12819,96 @@ msgstr ""
 #. - EntityUtils.GetDisplayName(entity)
 msgctxt "BaseErrandPlayerDisabledButtonProvider.9-638327234819571353"
 msgid "Cancel command to cast {0: false)} at {1}"
-msgstr ""
+msgstr "{1}에게 {0: false)} 시전 취소"
 
 #. Key: BaseErrandPlayerDisabledButtonProvider.10-638327234819571353
 msgctxt "BaseErrandPlayerDisabledButtonProvider.10-638327234819571353"
 msgid "Bury"
-msgstr ""
+msgstr "묻기"
 
 #. Key: BaseErrandPlayerDisabledButtonProvider.11-638327234819571353
 msgctxt "BaseErrandPlayerDisabledButtonProvider.11-638327234819571353"
 msgid "Midden"
-msgstr ""
+msgstr "묻기"
 
 #. Key: BaseErrandPlayerDisabledButtonProvider.12-638327234819571353
 msgctxt "BaseErrandPlayerDisabledButtonProvider.12-638327234819571353"
 msgid "Cancel Store"
-msgstr ""
+msgstr "저장 취소"
 
 #. Key: BaseErrandPlayerDisabledButtonProvider.13-638327234819571353
 msgctxt "BaseErrandPlayerDisabledButtonProvider.13-638327234819571353"
 msgid "Bury"
-msgstr ""
+msgstr "묻기"
 
 #. Key: BaseErrandPlayerDisabledButtonProvider.14-638327234819571353
 msgctxt "BaseErrandPlayerDisabledButtonProvider.14-638327234819571353"
 msgid "Midden"
-msgstr ""
+msgstr "묻기"
 
 #. Key: BaseErrandPlayerDisabledButtonProvider.15-638327234819571353
 msgctxt "BaseErrandPlayerDisabledButtonProvider.15-638327234819571353"
 msgid "Store"
-msgstr ""
+msgstr "저장"
 
 #. Key: BaseErrandPlayerDisabledButtonProvider.3-638191535139308169
 #. Args:
 #. - Model.Format.Link(found.GetJobType(), includeStyle: false)
 msgctxt "BaseErrandPlayerDisabledButtonProvider.3-638191535139308169"
 msgid "Move this to storage. Uses {0: false)}."
-msgstr ""
+msgstr "이 물체를 저장합니다. {0: false)} 사용."
 
 #. Key: BaseErrandPlayerDisabledButtonProvider.4-638191535139308169
 #. Args:
 #. - Model.Format.Link(found.GetJobType(), includeStyle: false)
 msgctxt "BaseErrandPlayerDisabledButtonProvider.4-638191535139308169"
 msgid "Bury this corpse in a <slink=Grave>. Uses {0: false)}."
-msgstr ""
+msgstr "이 시체를 <slink=Grave>에 묻습니다. {0: false)} 사용."
 
 #. Key: BaseErrandPlayerDisabledButtonProvider.50-638327234819586961
 msgctxt "BaseErrandPlayerDisabledButtonProvider.50-638327234819586961"
 msgid "Cancel Repair"
-msgstr ""
+msgstr "수리 취소"
 
 #. Key: BaseErrandPlayerDisabledButtonProvider.51-638327234819586961
 msgctxt "BaseErrandPlayerDisabledButtonProvider.51-638327234819586961"
 msgid "Repair"
-msgstr ""
+msgstr "수리"
 
 #. Key: BaseErrandPlayerDisabledButtonProvider.9-638191535139308169
 #. Args:
 #. - Model.Format.Link(found.GetJobType(), includeStyle: false)
 msgctxt "BaseErrandPlayerDisabledButtonProvider.9-638191535139308169"
 msgid "Restore <slink=Durability>. Uses {0: false)}."
-msgstr ""
+msgstr "<slink=Durability>가 닳은 물체를 수리합니다. {0: false)} 사용."
 
 #. Key: BaseErrandPlayerDisabledButtonProvider.36-638327234819586961
 #. Args:
 #. - errand.Config.ErrandDisplayName
 msgctxt "BaseErrandPlayerDisabledButtonProvider.36-638327234819586961"
 msgid "Cancel {0}"
-msgstr ""
+msgstr "{0} 취소"
 
 #. Key: BaseErrandPlayerDisabledButtonProvider.37-638327234819586961
 #. Args:
 #. - jobString
 msgctxt "BaseErrandPlayerDisabledButtonProvider.37-638327234819586961"
 msgid "Collect reagents from this. Uses {0}."
-msgstr ""
+msgstr "이 물체로부터 자원을 수집합니다. {0} 사용."
 
 #. Key: BaseErrandPlayerDisabledButtonProvider.32-638327234819586404
 #. Args:
 #. - errand.Config.ErrandDisplayName
 msgctxt "BaseErrandPlayerDisabledButtonProvider.32-638327234819586404"
 msgid "Cancel {0}"
-msgstr ""
+msgstr "{0} 취소"
 
 #. Key: BaseErrandPlayerDisabledButtonProvider.33-638327234819586404
 #. Args:
 #. - jobString
 msgctxt "BaseErrandPlayerDisabledButtonProvider.33-638327234819586404"
 msgid "Collect reagents from this. Uses {0}."
-msgstr ""
+msgstr "이 물체로부터 자원을 수집합니다. {0} 사용."
 
 #. Key: BaseErrandPlayerDisabledButtonProvider.34-638327234819586961
 #. Args:
@@ -12899,6 +12919,9 @@ msgid ""
 "\n"
 "Can only be {0} when fully grown."
 msgstr ""
+"\n"
+"\n"
+"다 자라야 {0} 가능."
 
 #. Key: BaseErrandPlayerDisabledButtonProvider.35-638327234819586961
 #. Args:
@@ -12909,34 +12932,37 @@ msgid ""
 "\n"
 "Can only be {0} at night."
 msgstr ""
+"\n"
+"\n"
+"밤에만 {0} 가능."
 
 #. Key: BaseErrandPlayerDisabledButtonProvider.28-638327234819571353
 #. Args:
 #. - errand.Config.ErrandDisplayName
 msgctxt "BaseErrandPlayerDisabledButtonProvider.28-638327234819571353"
 msgid "Cancel {0}"
-msgstr ""
+msgstr "{0} 취소"
 
 #. Key: BaseErrandPlayerDisabledButtonProvider.29-638327234819571353
 #. Args:
 #. - jobString
 msgctxt "BaseErrandPlayerDisabledButtonProvider.29-638327234819571353"
 msgid "Collect reagents from this. Uses {0}."
-msgstr ""
+msgstr "이 물체로부터 자원을 수집합니다. {0} 사용."
 
 #. Key: BaseErrandPlayerDisabledButtonProvider.26-638327234819571353
 #. Args:
 #. - errand.Config.ErrandDisplayName
 msgctxt "BaseErrandPlayerDisabledButtonProvider.26-638327234819571353"
 msgid "Cancel {0}"
-msgstr ""
+msgstr "{0} 취소"
 
 #. Key: BaseErrandPlayerDisabledButtonProvider.27-638327234819571353
 #. Args:
 #. - jobString
 msgctxt "BaseErrandPlayerDisabledButtonProvider.27-638327234819571353"
 msgid "Collect reagents from this. Uses {0}."
-msgstr ""
+msgstr "이 물체로부터 자원을 수집합니다. {0} 사용."
 
 #. Key: BaseErrandPlayerDisabledButtonProvider.45-638327234819586961
 msgctxt "BaseErrandPlayerDisabledButtonProvider.45-638327234819586961"
@@ -12965,82 +12991,82 @@ msgstr ""
 #. - errand.Config.ErrandDisplayName
 msgctxt "BaseErrandPlayerDisabledButtonProvider.30-638327234819571353"
 msgid "Cancel {0}"
-msgstr ""
+msgstr "{0} 취소"
 
 #. Key: BaseErrandPlayerDisabledButtonProvider.31-638327234819586404
 #. Args:
 #. - jobString
 msgctxt "BaseErrandPlayerDisabledButtonProvider.31-638327234819586404"
 msgid "Create a new plant. Uses {0}."
-msgstr ""
+msgstr "새 식물을 심습니다. {0} 사용."
 
 #. Key: BaseErrandPlayerDisabledButtonProvider.38-638327234819586961
 msgctxt "BaseErrandPlayerDisabledButtonProvider.38-638327234819586961"
 msgid "Cancel Destroy"
-msgstr ""
+msgstr "파괴 취소"
 
 #. Key: BaseErrandPlayerDisabledButtonProvider.39-638327234819586961
 msgctxt "BaseErrandPlayerDisabledButtonProvider.39-638327234819586961"
 msgid "Destroy"
-msgstr ""
+msgstr "파괴"
 
 #. Key: BaseErrandPlayerDisabledButtonProvider.40-638327234819586961
 #. Args:
 #. - Model.Format.Link(found.GetJobType(), includeStyle: false)
 msgctxt "BaseErrandPlayerDisabledButtonProvider.40-638327234819586961"
 msgid "Destroy this. Uses {0: false)}."
-msgstr ""
+msgstr "이 물체를 파괴합니다. {0: false)} 사용."
 
 #. Key: SelectedEntity_Crafting_Details_New.0-638179427227236705
 msgctxt "SelectedEntity_Crafting_Details_New.0-638179427227236705"
 msgid "Details"
-msgstr ""
+msgstr "상세"
 
 #. Key: SelectedEntity_Crafting_Details_New.2-638179427227236705
 msgctxt "SelectedEntity_Crafting_Details_New.2-638179427227236705"
 msgid "Ingredients:"
-msgstr ""
+msgstr "재료:"
 
 #. Key: SelectedEntity_Crafting_Details_New.0-638325564500710921
 #. Args:
 #. - MoodUtils.MoodBiasDisplayString(sanityEffect)
 msgctxt "SelectedEntity_Crafting_Details_New.0-638325564500710921"
 msgid "Conviction {0} when eaten"
-msgstr ""
+msgstr "섭취 시 만족도 {0}"
 
 #. Key: SelectedEntity_Crafting_Details_New.1-638179427227236705
 msgctxt "SelectedEntity_Crafting_Details_New.1-638179427227236705"
 msgid "Magic Used:"
-msgstr ""
+msgstr "사용 마법:"
 
 #. Key: SelectedEntity_Crafting_Details_New.0-638285544895469963
 #. Args:
 #. - (int)_craftErrand.GameMinutes
 msgctxt "SelectedEntity_Crafting_Details_New.0-638285544895469963"
 msgid "{0} <slink=MinuteUnits>"
-msgstr ""
+msgstr "{0} <slink=Medallions>"
 
 #. Key: SelectedEntity_Crafting_Details_New.0-638301217416366609
 #. Args:
 #. - SkillsUtils.GetSkillRequirementStringForSpell(spellConfig)
 msgctxt "SelectedEntity_Crafting_Details_New.0-638301217416366609"
 msgid "Requires {0}"
-msgstr ""
+msgstr "{0} 필요"
 
 #. Key: SelectedEntity_Crafting_Details_New.0-638301184538119647
 msgctxt "SelectedEntity_Crafting_Details_New.0-638301184538119647"
 msgid "No qualified staff!"
-msgstr ""
+msgstr "스킬 레벨이 충분한 교사가 없습니다!"
 
 #. Key: SelectedEntity_Crafting_Details_New.3-638179427227236705
 msgctxt "SelectedEntity_Crafting_Details_New.3-638179427227236705"
 msgid "Pause Until"
-msgstr ""
+msgstr "일시정지:"
 
 #. Key: SelectedEntity_Crafting_Details_New.4-638179427227236705
 msgctxt "SelectedEntity_Crafting_Details_New.4-638179427227236705"
 msgid "Pause Until (None)"
-msgstr ""
+msgstr "일시정지"
 
 #. Key: SelectedEntity_Crafting_Details_Recipe_New.0-638325564500710921
 msgctxt "SelectedEntity_Crafting_Details_Recipe_New.0-638325564500710921"
@@ -13057,22 +13083,22 @@ msgstr ""
 #. Key: SelectedEntity_Crafting_Entry_New.0-638179427227257022
 msgctxt "SelectedEntity_Crafting_Entry_New.0-638179427227257022"
 msgid "Details"
-msgstr ""
+msgstr "상세"
 
 #. Key: SelectedEntity_Crafting_Entry_New.1-638179427227267140
 msgctxt "SelectedEntity_Crafting_Entry_New.1-638179427227267140"
 msgid "Pause Order"
-msgstr ""
+msgstr "일시정지"
 
 #. Key: SelectedEntity_Crafting_Entry_New.2-638179427227267140
 msgctxt "SelectedEntity_Crafting_Entry_New.2-638179427227267140"
 msgid "Unpause Order"
-msgstr ""
+msgstr "일시정지 해제"
 
 #. Key: SelectedEntity_Crafting_Entry_New.6-638179427227267140
 msgctxt "SelectedEntity_Crafting_Entry_New.6-638179427227267140"
 msgid "Delete Order"
-msgstr ""
+msgstr "삭제"
 
 #. Key: SelectedEntity_Crafting_Entry_New.0-638415221472338296
 #. Args:
@@ -13085,6 +13111,9 @@ msgid ""
 "{1} + Ctrl <indent=220px>+10</indent>\n"
 "{2} + Shift <indent=220px>+100</indent>"
 msgstr ""
+"{0} <indent=220px>+1</indent>\n"
+"{1} + Ctrl <indent=220px>+10</indent>\n"
+"{2} + Shift <indent=220px>+100</indent>"
 
 #. Key: SelectedEntity_Crafting_Entry_New.1-638415221472338296
 #. Args:
@@ -13097,115 +13126,118 @@ msgid ""
 "{1} + Ctrl <indent=220px>-10</indent>\n"
 "{2} + Shift <indent=220px>-100</indent>"
 msgstr ""
+"{0} <indent=220px>-1</indent>\n"
+"{1} + Ctrl <indent=220px>-10</indent>\n"
+"{2} + Shift <indent=220px>-100</indent>"
 
 #. Key: SelectedEntity_Crafting_Entry_New.2-638325564500735243
 msgctxt "SelectedEntity_Crafting_Entry_New.2-638325564500735243"
 msgid "None"
-msgstr ""
+msgstr "없음"
 
 #. Key: SelectedEntity_Crafting_Entry_New.3-638325564500735243
 msgctxt "SelectedEntity_Crafting_Entry_New.3-638325564500735243"
 msgid "Do X Times"
-msgstr ""
+msgstr "X개 만들기"
 
 #. Key: SelectedEntity_Crafting_Entry_New.4-638325564500735243
 msgctxt "SelectedEntity_Crafting_Entry_New.4-638325564500735243"
 msgid "Do Until X"
-msgstr ""
+msgstr "총 X개가 될 때까지 만들기"
 
 #. Key: SelectedEntity_Crafting_Entry_New.5-638325564500735243
 msgctxt "SelectedEntity_Crafting_Entry_New.5-638325564500735243"
 msgid "Infinite"
-msgstr ""
+msgstr "무한 반복"
 
 #. Key: SelectedEntity_Crafting_Entry_New.7-638179427227267140
 msgctxt "SelectedEntity_Crafting_Entry_New.7-638179427227267140"
 msgid "Not enough ingredients:"
-msgstr ""
+msgstr "재료 부족:"
 
 #. Key: SelectedEntity_Crafting_New.0-638325564500749128
 msgctxt "SelectedEntity_Crafting_New.0-638325564500749128"
 msgid "Crafting"
-msgstr ""
+msgstr "제작"
 
 #. Key: SelectedEntity_Crafting_New.1-638325564500749128
 msgctxt "SelectedEntity_Crafting_New.1-638325564500749128"
 msgid "Setup orders"
-msgstr ""
+msgstr "제작 예약"
 
 #. Key: SelectedEntity_Crafting_SelectRecipe.0-638179427227429322
 msgctxt "SelectedEntity_Crafting_SelectRecipe.0-638179427227429322"
 msgid "Select a Recipe"
-msgstr ""
+msgstr "제작법 선택"
 
 #. Key: SelectedEntity_Crafting_SelectRecipe_Entry.0-638339120336451739
 #. Args:
 #. - Format.RecipeInputs(Recipe.Inputs, null, separator: ", ", includeStyle: false)
 msgctxt "SelectedEntity_Crafting_SelectRecipe_Entry.0-638339120336451739"
 msgid "Ingredients: {0: false)}"
-msgstr ""
+msgstr "재료: {0: false)}"
 
 #. Key: SelectedEntity_Crafting_SelectRecipe_Entry.0-638285544895508427
 #. Args:
 #. - MoodUtils.MoodBiasDisplayString(sanityEffect)
 msgctxt "SelectedEntity_Crafting_SelectRecipe_Entry.0-638285544895508427"
 msgid "Conviction {0} when eaten"
-msgstr ""
+msgstr "섭취 시 만족도 {0}"
 
 #. Key: SelectedEntity_Crafting_SelectRecipe_Entry.1-638285544895508427
 #. Args:
 #. - (int)Recipe.GameMinutes
 msgctxt "SelectedEntity_Crafting_SelectRecipe_Entry.1-638285544895508427"
 msgid "{0} <slink=MinuteUnits>"
-msgstr ""
+msgstr "{0} <slink=MinuteUnits>"
 
 #. Key: SelectedEntity_Crafting_SelectRecipe_Entry.0-638301217416413043
 msgctxt "SelectedEntity_Crafting_SelectRecipe_Entry.0-638301217416413043"
 msgid "No qualified staff!"
-msgstr ""
+msgstr "스킬 레벨이 충분한 교사가 없습니다!"
 
 #. Key: SelectedEntity_Crafting_SelectRecipe_Entry.1-638301217416413043
 #. Args:
 #. - SkillsUtils.GetSkillRequirementStringForSpell(spellConfig)
 msgctxt "SelectedEntity_Crafting_SelectRecipe_Entry.1-638301217416413043"
 msgid "Requires {0}"
-msgstr ""
+msgstr "{0} 필요"
 
 #. Key: SelectedEntity_Crafting_SelectWand.0-638177583008949363
 msgctxt "SelectedEntity_Crafting_SelectWand.0-638177583008949363"
 msgid "Select a Recipe"
-msgstr ""
+msgstr "제작법 선택"
 
 #. Key: SanityBarArea.0-638325564500789701
 #. Args:
 #. - ComputeTargetValue(_need) * 100:N0
 msgctxt "SanityBarArea.0-638325564500789701"
 msgid "Conviction Target: {0:N0}"
-msgstr ""
+msgstr "최종 만족도: {0:N0}"
 
 #. Key: SanityBarArea.1-638325564500789701
 msgctxt "SanityBarArea.1-638325564500789701"
 msgid "Mages in this range have a chance of experiencing a <slink=break>"
-msgstr ""
+msgstr "만족도가 이 범위에 들어올 경우 <slink=break>을 일으킬 가능성이 있습니다."
 
 #. Key: SanityBarArea.2-638325564500789701
 msgctxt "SanityBarArea.2-638325564500789701"
 msgid "Mages in this range have a high chance of experiencing a <slink=break>"
-msgstr ""
+msgstr "만족도가 이 범위에 들어올 경우 <slink=break>을 일으킬 가능성이 매우 높습니다."
 
 #. Key: SanityBarArea.3-638325564500789701
 #. Args:
 #. - Model.Format.SignedNumber(need.Config.TargetTrendVelocity * 100)
 msgctxt "SanityBarArea.3-638325564500789701"
 msgid "{0} Per Hour"
-msgstr ""
+msgstr "시간당 {0}"
 
 #. Key: SanityBarArea.4-638325564500789701
 #. Args:
 #. - Model.Format.SignedNumber(-need.Config.TargetTrendVelocity * 100)
 msgctxt "SanityBarArea.4-638325564500789701"
 msgid "{0} Per Hour"
-msgstr ""
+msgstr "시간당 {0}"
 
 #. Key: SanityBarArea.5-638325564500789701
 #. Args:
@@ -13216,6 +13248,8 @@ msgid ""
 "\n"
 "{0}: {1:N2} per hour\n"
 msgstr ""
+"\n"
+"{0}: 시간당 {1:N2}\n"
 
 #. Key: SanityBarArea.6-638325564500789701
 #. Args:
@@ -13226,6 +13260,8 @@ msgid ""
 "\n"
 "Value: {0}/{1}"
 msgstr ""
+"\n"
+"값: {0}/{1}"
 
 #. Key: SanityBarArea.7-638325564500789701
 #. Args:
@@ -13236,6 +13272,8 @@ msgid ""
 "\n"
 "Value: {0:N2}/{1}"
 msgstr ""
+"\n"
+"값: {0:N2}/{1}"
 
 #. Key: SanityBarArea.8-638325564500789701
 #. Args:
@@ -13245,6 +13283,8 @@ msgid ""
 "\n"
 "Status: {0}"
 msgstr ""
+"\n"
+"상태: {0}"
 
 #. Key: SanityBarArea.9-638325564500789701
 #. Args:
@@ -13254,6 +13294,8 @@ msgid ""
 "\n"
 "Changing by: {0:N2} per hour"
 msgstr ""
+"\n"
+"변화량: 시간당 {0:N2}"
 
 #. Key: SanityBarArea.10-638325564500789701
 #. Args:
@@ -13264,6 +13306,8 @@ msgid ""
 "\n"
 "Value: {0}/{1}"
 msgstr ""
+"\n"
+"값: {0}/{1}"
 
 #. Key: SanityBarArea.11-638325564500789701
 #. Args:
@@ -13273,6 +13317,8 @@ msgid ""
 "\n"
 "Status: {0}"
 msgstr ""
+"\n"
+"상태: {0}"
 
 #. Key: SanityBarArea.12-638325564500789701
 #. Args:
@@ -13282,6 +13328,8 @@ msgid ""
 "\n"
 "Target Value: {0}"
 msgstr ""
+"\n"
+"목표 값: {0}"
 
 #. Key: SanityBarArea.13-638325564500789701
 #. Args:
@@ -13291,6 +13339,8 @@ msgid ""
 "\n"
 "Changing by: +{0} per hour"
 msgstr ""
+"\n"
+"변화량: 시간당 +{0}"
 
 #. Key: SanityBarArea.14-638325564500789701
 #. Args:
@@ -13300,6 +13350,8 @@ msgid ""
 "\n"
 "Changing by: -{0} per hour"
 msgstr ""
+"\n"
+"변화량: 시간당 -{0}"
 
 #. Key: SanityBarArea.15-638325564500789701
 msgctxt "SanityBarArea.15-638325564500789701"
@@ -13307,128 +13359,130 @@ msgid ""
 "\n"
 "Having <slink=break>"
 msgstr ""
+"\n"
+"<slink=break> 중"
 
 #. Key: SanityNeedBar.0-638325564500814851
 msgctxt "SanityNeedBar.0-638325564500814851"
 msgid "Hours"
-msgstr ""
+msgstr "시간"
 
 #. Key: SanityNeedBar.2-638325564500814851
 msgctxt "SanityNeedBar.2-638325564500814851"
 msgid "Will pass out if sleep reaches zero."
-msgstr ""
+msgstr "수면 욕구치가 0이 되면 기절합니다."
 
 #. Key: SanityNeedBar.3-638325564500814851
 #. Args:
 #. - needsBasedString
 msgctxt "SanityNeedBar.3-638325564500814851"
 msgid "Will not eat ({0})"
-msgstr ""
+msgstr "식사할 생각 없음 ({0})"
 
 #. Key: SanityNeedBar.4-638325564500814851
 #. Args:
 #. - needsBasedString
 msgctxt "SanityNeedBar.4-638325564500814851"
 msgid "Will eat if scheduled ({0})"
-msgstr ""
+msgstr "식사 일정이 되면 식사 ({0})"
 
 #. Key: SanityNeedBar.5-638325564500814851
 #. Args:
 #. - needsBasedString
 msgctxt "SanityNeedBar.5-638325564500814851"
 msgid "Will eat if schedule allows ({0})"
-msgstr ""
+msgstr "스케줄이 허용 시 식사 ({0})"
 
 #. Key: SanityNeedBar.6-638325564500814851
 #. Args:
 #. - needsBasedString
 msgctxt "SanityNeedBar.6-638325564500814851"
 msgid "Will eat ({0})"
-msgstr ""
+msgstr "식사 예정 ({0})"
 
 #. Key: SanityNeedBar.7-638325564500814851
 #. Args:
 #. - needsBasedString
 msgctxt "SanityNeedBar.7-638325564500814851"
 msgid "Will not sleep ({0})"
-msgstr ""
+msgstr "잘 생각 없음 ({0})"
 
 #. Key: SanityNeedBar.8-638325564500814851
 #. Args:
 #. - needsBasedString
 msgctxt "SanityNeedBar.8-638325564500814851"
 msgid "Will sleep if scheduled ({0})"
-msgstr ""
+msgstr "수면 일정이 되면 수면 ({0})"
 
 #. Key: SanityNeedBar.9-638325564500814851
 #. Args:
 #. - needsBasedString
 msgctxt "SanityNeedBar.9-638325564500814851"
 msgid "Will sleep if schedule allows ({0})"
-msgstr ""
+msgstr "스케줄이 허용 시 수면 ({0})"
 
 #. Key: SanityNeedBar.10-638325564500814851
 #. Args:
 #. - needsBasedString
 msgctxt "SanityNeedBar.10-638325564500814851"
 msgid "Will sleep ({0})"
-msgstr ""
+msgstr "수면 예정 ({0})"
 
 #. Key: SanityNeedBar.11-638325564500814851
 #. Args:
 #. - needsBasedString
 msgctxt "SanityNeedBar.11-638325564500814851"
 msgid "Will not recreate ({0})"
-msgstr ""
+msgstr "휴식할 생각 없음 ({0})"
 
 #. Key: SanityNeedBar.12-638325564500814851
 #. Args:
 #. - needsBasedString
 msgctxt "SanityNeedBar.12-638325564500814851"
 msgid "Will recreate if scheduled ({0})"
-msgstr ""
+msgstr "휴식 일정이 되면 휴식 ({0})"
 
 #. Key: SanityNeedBar.13-638325564500814851
 #. Args:
 #. - needsBasedString
 msgctxt "SanityNeedBar.13-638325564500814851"
 msgid "Will recreate if schedule allows ({0})"
-msgstr ""
+msgstr "스케줄이 허용 시 휴식 ({0})"
 
 #. Key: SanityNeedBar.14-638325564500814851
 #. Args:
 #. - needsBasedString
 msgctxt "SanityNeedBar.14-638325564500814851"
 msgid "Will recreate ({0})"
-msgstr ""
+msgstr "휴식 예정 ({0})"
 
 #. Key: SanityNeedBar.0-638348799260747455
 #. Args:
 #. - needsBasedString
 msgctxt "SanityNeedBar.0-638348799260747455"
 msgid "Will not learn ({0})"
-msgstr ""
+msgstr "학습할 생각 없음 ({0})"
 
 #. Key: SanityNeedBar.1-638348799260747455
 #. Args:
 #. - needsBasedString
 msgctxt "SanityNeedBar.1-638348799260747455"
 msgid "Will learn if scheduled ({0})"
-msgstr ""
+msgstr "학습 일정 시 학습 ({0})"
 
 #. Key: SanityNeedBar.2-638348799260747455
 #. Args:
 #. - needsBasedString
 msgctxt "SanityNeedBar.2-638348799260747455"
 msgid "Will learn if schedule allows ({0})"
-msgstr ""
+msgstr "스케줄이 허용 시 학습 ({0})"
 
 #. Key: SanityNeedBar.3-638348799260747455
 #. Args:
 #. - needsBasedString
 msgctxt "SanityNeedBar.3-638348799260747455"
 msgid "Will learn ({0})"
-msgstr ""
+msgstr "학습 예정 ({0})"
 
 #. Key: SanityNeedBar.15-638325564500814851
 #. Args:
@@ -13439,6 +13493,8 @@ msgid ""
 "\n"
 "{0}: {1:N2} per hour\n"
 msgstr ""
+"\n"
+"{0}: 시간당 {1:N2}\n"
 
 #. Key: SanityNeedBar.16-638325564500814851
 #. Args:
@@ -13449,6 +13505,8 @@ msgid ""
 "\n"
 "Value: {0}/{1}"
 msgstr ""
+"\n"
+"값: {0}/{1}"
 
 #. Key: SanityNeedBar.17-638325564500814851
 #. Args:
@@ -13459,6 +13517,8 @@ msgid ""
 "\n"
 "Value: {0:N2}/{1}"
 msgstr ""
+"\n"
+"값: {0:N2}/{1}"
 
 #. Key: SanityNeedBar.18-638325564500814851
 #. Args:
@@ -13468,6 +13528,8 @@ msgid ""
 "\n"
 "Status: {0}"
 msgstr ""
+"\n"
+"상태: {0}"
 
 #. Key: SanityNeedBar.19-638325564500814851
 #. Args:
@@ -13477,6 +13539,8 @@ msgid ""
 "\n"
 "Changing by: {0:N2} per hour"
 msgstr ""
+"\n"
+"변화량: 시간당 {0:N2}"
 
 #. Key: SanityNeedBar.20-638325564500814851
 #. Args:
@@ -13487,6 +13551,8 @@ msgid ""
 "\n"
 "Value: {0}/{1}"
 msgstr ""
+"\n"
+"값: {0}/{1}"
 
 #. Key: SanityNeedBar.21-638325564500814851
 #. Args:
@@ -13496,6 +13562,8 @@ msgid ""
 "\n"
 "Status: {0}"
 msgstr ""
+"\n"
+"상태: {0}"
 
 #. Key: SanityNeedBar.22-638325564500814851
 #. Args:
@@ -13505,6 +13573,8 @@ msgid ""
 "\n"
 "Target Value: {0}"
 msgstr ""
+"\n"
+"목표 값: {0}"
 
 #. Key: SanityNeedBar.23-638325564500814851
 #. Args:
@@ -13514,6 +13584,8 @@ msgid ""
 "\n"
 "Changing by: +{0} per hour"
 msgstr ""
+"\n"
+"변화량: 시간당 +{0}"
 
 #. Key: SanityNeedBar.24-638325564500814851
 #. Args:
@@ -13523,6 +13595,8 @@ msgid ""
 "\n"
 "Changing by: -{0} per hour"
 msgstr ""
+"\n"
+"변화량: 시간당 -{0}"
 
 #. Key: SanityNeedBar.25-638325564500814851
 msgctxt "SanityNeedBar.25-638325564500814851"
@@ -13530,26 +13604,28 @@ msgid ""
 "\n"
 "Having <slink=break>"
 msgstr ""
+"\n"
+"<slink=break> 중"
 
 #. Key: SelectedEntity_Sanity.0-638325564500834964
 msgctxt "SelectedEntity_Sanity.0-638325564500834964"
 msgid "Show needs and sanity details"
-msgstr ""
+msgstr "욕구와 만족도에 대해 상세하게 보여줍니다"
 
 #. Key: SelectedEntity_Sanity.1-638325564500834964
 msgctxt "SelectedEntity_Sanity.1-638325564500834964"
 msgid "Show needs details"
-msgstr ""
+msgstr "욕구에 대해 상세하게 보여줍니다"
 
 #. Key: SelectedEntity_Sanity.2-638325564500834964
 msgctxt "SelectedEntity_Sanity.2-638325564500834964"
 msgid "Status & Conviction"
-msgstr ""
+msgstr "상태 & 만족도"
 
 #. Key: SelectedEntity_Sanity.3-638325564500834964
 msgctxt "SelectedEntity_Sanity.3-638325564500834964"
 msgid "Status & Conviction"
-msgstr ""
+msgstr "상태 & 만족도"
 
 #. Key: SelectedEntity_Sanity.4-638325564500834964
 #. Args:
@@ -13557,7 +13633,7 @@ msgstr ""
 #. - delta
 msgctxt "SelectedEntity_Sanity.4-638325564500834964"
 msgid "{0} {1} above current"
-msgstr ""
+msgstr "{0} 현재 값에서 +{1}"
 
 #. Key: SelectedEntity_Sanity.5-638325564500834964
 #. Args:
@@ -13565,28 +13641,28 @@ msgstr ""
 #. - System.Math.Abs(delta)
 msgctxt "SelectedEntity_Sanity.5-638325564500834964"
 msgid "{0} {1} below current"
-msgstr ""
+msgstr "{0} 현재 값에서 -{1}"
 
 #. Key: SelectedEntity_Sanity.6-638325564500834964
 msgctxt "SelectedEntity_Sanity.6-638325564500834964"
 msgid "Conviction Target"
-msgstr ""
+msgstr "최종 만족도"
 
 #. Key: SelectedEntity_Sanity.7-638325564500834964
 msgctxt "SelectedEntity_Sanity.7-638325564500834964"
 msgid "Base Conviction"
-msgstr ""
+msgstr "기본 만족도"
 
 #. Key: SelectedEntity_Sanity.8-638325564500834964
 #. Args:
 #. - EnumNames.NeedsType.Definition((int)status.Config.NeedsType).DisplayName
 msgctxt "SelectedEntity_Sanity.8-638325564500834964"
 msgid "({0} Status)"
-msgstr ""
+msgstr "({0} 상태)"
 
 #. Key: SelectedEntity_Sanity.9-638325564500834964
 #. Args:
 #. - durationString
 msgctxt "SelectedEntity_Sanity.9-638325564500834964"
 msgid "({0} remaining)"
-msgstr ""
+msgstr "({0} 남음)"
