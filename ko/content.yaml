@@ -251,9 +251,9 @@
 - Key: Archetype.Scythe.CombatIdleErrandConfig.0.BehaviorDesc
   Text: 공격 대기 중
 - Key: Archetype.Psycrow.DescriptionConfig.0.DisplayName
-  Text: 버로워 애벌레는
+  Text: 버로워 라바
 - Key: Archetype.Psycrow.DescriptionConfig.0.Description
-  Text: A Fire Underlord. 적에게 불을 뱉고 때로는 해를 입지 않도록 보호합니다.
+  Text: 불꽃 속성의 지하군주입니다. 적에게 불을 뱉고, 때로는 피해를 방어하며 숨습니다.
 - Key: Archetype.Psycrow.DescriptionConfig.0.FlavorText
   Text: 수천 개의 작은 이빨이 휘젓고 있다.
 - Key: Archetype.Psycrow.CombatIdleErrandConfig.0.BehaviorDesc
@@ -2508,7 +2508,7 @@
 - Key: Archetype.CarvingCraftingStation.Configs.22-638357407930567279.ErrandDesc
   Text: '{0} 제작 중'
 - Key: Archetype.AirRefinery_Deprecated.Configs.1-638362487164301117.DisplayName
-  Text: Weaver Bird Nest
+  Text: 베짜기새 둥지
 - Key: Archetype.AirRefinery_Deprecated.Configs.1-638362487164301117.Description
   Text: A <slink=Refining_Beast> for creating wood, rope and textile Reagents. Must be <slink=WeaverBirdHatched>.
 - Key: Archetype.AirRefinery_Deprecated.Configs.1-638362487164301117.FlavorText
@@ -2528,22 +2528,22 @@
 - Key: Archetype.AirRefinery_Deprecated.Configs.18-638362487164311118.ErrandDesc
   Text: '{0} 제작'
 - Key: Archetype.AirRefinery_Deprecated.Configs.21-638362487164311118.BookOfRitualsDescription
-  Text: 위버 버드의 둥지는 화려한 색상의 달걀 하나를 수용하기 위해 지어졌으며 강력한 마법의 존재에서만 부화됩니다. 그 결과 생긴 청소년 위버 버드는 선천적으로 그것을 부화한 마법사들을 신뢰하며, 손재주 있는 부리로 그들에게 깊은 인상을 주기 위해 부지런히 노력할 것이다.
+  Text: The nest of a Weaver Bird is built solely to house a single brilliantly-colored egg, which only hatches in the presence of powerful magic. The resulting juvenile Weaver Bird innately trusts the Mages that have hatched it, and will diligently work to impress them with its dexterous beak.
 - Key: Archetype.AirRefinery_Deprecated.Configs.22-638362487164311118.ButtonName
-  Text: 해치 위버 버드
+  Text: 베짜기새 부화
 - Key: Archetype.AirRefinery_Deprecated.Configs.22-638362487164311118.ButtonDescription
-  Text: Hatch the egg into a fully grown Weaver Bird.
+  Text: 베짜기새 알을 다 자란 베짜기새로 부화시킵니다.
 - Key: Archetype.AirRefinery_Deprecated.Configs.22-638362487164311118.WindowDescription
   Text: >
-    Hatch the Weaver Bird Egg in the nest. Weaver Birds expertly use their beaks to create materials such as ropes, fabrics, and parchment.
+    베짜기새를 부화시킵니다. 베짜기새는 부리를 이용해 밧줄, 직물, 종이 같은 재료를 만들어낼 수 있습니다.
 - Key: Archetype.AirRefinery_Deprecated.Configs.22-638362487164311118.Buckets.0-638362487164311118.Name
-  Text: Incubator
+  Text: 알을 품는 자
 - Key: Archetype.AirRefinery_Deprecated.Configs.22-638362487164311118.Buckets.1-638362487164311118.Name
-  Text: Nest Fluffer
+  Text: 둥지를 돌보는 자
 - Key: Archetype.SummoningFocus.DescriptionConfig.0.DisplayName
-  Text: Student Summoner
+  Text: 학생 소환 지점
 - Key: Archetype.SummoningFocus.DescriptionConfig.0.Description
-  Text: A ritual site used to summon the Student destined for a Wand. More powerful Rituals can summon Students with extra potential.
+  Text: 지팡이에 걸맞는 학생을 소환하기 위한 시설입니다. 상급 의식을 통해 더 재능있는 학생을 소환할 수 있습니다.
 - Key: Archetype.SummoningFocus.DescriptionConfig.0.FlavorText
   Text: Arriving, a bolt from the blue.
 - Key: Archetype.SummoningFocus.Configs.5-638290265867854454.BookOfRitualsDescription
@@ -2554,7 +2554,7 @@
   Text: 지팡이를 사용하여 새 학생을 학교에 데려오세요.
 - Key: Archetype.SummoningFocus.Configs.5-638289151911486976.WindowDescription
   Text: >
-    새 학생에게 부여할 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.
+    새 학생에게 건네줄 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.
 - Key: Archetype.SummoningFocus.Configs.5-638249409199279957.Buckets.0-638249409199279957.Name
   Text: 교사
 - Key: Archetype.SummoningFocus.Configs.6-638252710605589374.ButtonName
@@ -2563,7 +2563,7 @@
   Text: 지팡이를 사용하여 새 학생을 학교에 데려오세요.
 - Key: Archetype.SummoningFocus.Configs.6-638289151911486976.WindowDescription
   Text: >
-    새 학생에게 부여할 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.
+    새 학생에게 건네줄 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.
 - Key: Archetype.SummoningFocus.Configs.6-638249409199279957.Buckets.0-638249409199279957.Name
   Text: 교사
 - Key: Archetype.SummoningFocus.Configs.7-638252710605589374.ButtonName
@@ -2572,7 +2572,7 @@
   Text: 지팡이를 사용하여 새 학생을 학교에 데려오세요.
 - Key: Archetype.SummoningFocus.Configs.7-638289151911486976.WindowDescription
   Text: >
-    새 학생에게 부여할 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.
+    새 학생에게 건네줄 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.
 - Key: Archetype.SummoningFocus.Configs.7-638249409199279957.Buckets.0-638249409199279957.Name
   Text: 교사
 - Key: Archetype.SummoningFocus.Configs.8-638252710605589374.ButtonName
@@ -2581,7 +2581,7 @@
   Text: 지팡이를 사용하여 새 학생을 학교에 데려오세요.
 - Key: Archetype.SummoningFocus.Configs.8-638289151911486976.WindowDescription
   Text: >
-    새 학생에게 부여할 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.
+    새 학생에게 건네줄 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.
 - Key: Archetype.SummoningFocus.Configs.8-638249409199279957.Buckets.0-638249409199279957.Name
   Text: 교사
 - Key: Archetype.SummoningFocus.Configs.9-638252710605589374.ButtonName
@@ -2590,7 +2590,7 @@
   Text: 지팡이를 사용하여 새 학생을 학교에 데려오세요.
 - Key: Archetype.SummoningFocus.Configs.9-638289151911486976.WindowDescription
   Text: >
-    새 학생에게 부여할 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.
+    새 학생에게 건네줄 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.
 - Key: Archetype.SummoningFocus.Configs.9-638249409199279957.Buckets.0-638249409199279957.Name
   Text: 교사
 - Key: Archetype.SummoningFocus.Configs.10-638252710605589374.ButtonName
@@ -2599,7 +2599,7 @@
   Text: 지팡이를 사용하여 새 학생을 학교에 데려오세요.
 - Key: Archetype.SummoningFocus.Configs.10-638289151911486976.WindowDescription
   Text: >
-    새 학생에게 부여할 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.
+    새 학생에게 건네줄 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.
 - Key: Archetype.SummoningFocus.Configs.10-638249409199279957.Buckets.0-638249409199279957.Name
   Text: 교사
 - Key: Archetype.SummoningFocus.Configs.11-638252710605589374.ButtonName
@@ -2608,7 +2608,7 @@
   Text: 지팡이를 사용하여 새 학생을 학교에 데려오세요.
 - Key: Archetype.SummoningFocus.Configs.11-638289151911486976.WindowDescription
   Text: >
-    새 학생에게 부여할 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.
+    새 학생에게 건네줄 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.
 - Key: Archetype.SummoningFocus.Configs.11-638249409199279957.Buckets.0-638249409199279957.Name
   Text: 교사
 - Key: Archetype.SummoningFocus.Configs.12-638252710605589374.ButtonName
@@ -2617,7 +2617,7 @@
   Text: 지팡이를 사용하여 새 학생을 학교에 데려오세요.
 - Key: Archetype.SummoningFocus.Configs.12-638289151911486976.WindowDescription
   Text: >
-    새 학생에게 부여할 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.
+    새 학생에게 건네줄 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.
 - Key: Archetype.SummoningFocus.Configs.12-638249409199279957.Buckets.0-638249409199279957.Name
   Text: 교사
 - Key: Archetype.SummoningFocus.Configs.14-638303103272231254.ButtonName
@@ -2626,7 +2626,7 @@
   Text: 지팡이를 사용하여 새 학생을 학교에 데려오세요.
 - Key: Archetype.SummoningFocus.Configs.14-638303103272231254.WindowDescription
   Text: >
-    새 학생에게 부여할 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.
+    새 학생에게 건네줄 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.
 - Key: Archetype.SummoningFocus.Configs.13-638249409199279957.Buckets.0-638249409199279957.Name
   Text: 교사
 - Key: Archetype.SummoningFocus.Configs.15-638303103272231254.ButtonName
@@ -2635,7 +2635,7 @@
   Text: 지팡이를 사용하여 새 학생을 학교에 데려오세요.
 - Key: Archetype.SummoningFocus.Configs.15-638303103272231254.WindowDescription
   Text: >
-    새 학생에게 부여할 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.
+    새 학생에게 건네줄 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.
 - Key: Archetype.SummoningFocus.Configs.15-638303104456977029.Buckets.0-638303104456977029.Name
   Text: 교사
 - Key: Archetype.SummoningFocus.Configs.16-638303103272231254.ButtonName
@@ -2644,7 +2644,7 @@
   Text: 지팡이를 사용하여 새 학생을 학교에 데려오세요.
 - Key: Archetype.SummoningFocus.Configs.16-638303103272231254.WindowDescription
   Text: >
-    새 학생에게 부여할 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.
+    새 학생에게 건네줄 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.
 - Key: Archetype.SummoningFocus.Configs.16-638303104456977029.Buckets.0-638303104456977029.Name
   Text: 교사
 - Key: Archetype.SummoningFocus.Configs.17-638303103272231254.ButtonName
@@ -2653,7 +2653,7 @@
   Text: 지팡이를 사용하여 새 학생을 학교에 데려오세요.
 - Key: Archetype.SummoningFocus.Configs.17-638303103272231254.WindowDescription
   Text: >
-    새 학생에게 부여할 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.
+    새 학생에게 건네줄 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.
 - Key: Archetype.SummoningFocus.Configs.17-638303104456977029.Buckets.0-638303104456977029.Name
   Text: 교사
 - Key: Archetype.SummoningFocus.Configs.18-638303103272231254.ButtonName
@@ -2671,7 +2671,7 @@
   Text: 지팡이를 사용하여 새 학생을 학교에 데려오세요.
 - Key: Archetype.SummoningFocus.Configs.19-638379728829854561.WindowDescription
   Text: >
-    재능있는 새 학생에게 부여할 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.
+    재능있는 새 학생을 소환할 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.
 - Key: Archetype.SummoningFocus.Configs.19-638379728829854561.Buckets.0-638379728829854561.Name
   Text: 교사
 - Key: Archetype.SummoningFocus.Configs.20-638379728829859614.ButtonName
@@ -2680,7 +2680,7 @@
   Text: 지팡이를 사용하여 새 학생을 학교에 데려오세요.
 - Key: Archetype.SummoningFocus.Configs.20-638379728829859614.WindowDescription
   Text: >
-    재능있는 새 학생에게 부여할 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.
+    재능있는 새 학생을 소환할 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.
 - Key: Archetype.SummoningFocus.Configs.20-638379736113022829.Buckets.0-638379736113022829.Name
   Text: 교사
 - Key: Archetype.SummoningFocus.Configs.21-638379728829859614.ButtonName
@@ -2689,7 +2689,7 @@
   Text: 지팡이를 사용하여 새 학생을 학교에 데려오세요.
 - Key: Archetype.SummoningFocus.Configs.21-638379736113022829.WindowDescription
   Text: >
-    재능있는 새 학생에게 부여할 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.
+    재능있는 새 학생을 소환할 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.
 - Key: Archetype.SummoningFocus.Configs.21-638379736113022829.Buckets.0-638379736113022829.Name
   Text: 교사
 - Key: Archetype.SummoningFocus.Configs.22-638379728829859614.ButtonName
@@ -2698,7 +2698,7 @@
   Text: 지팡이를 사용하여 새 학생을 학교에 데려오세요.
 - Key: Archetype.SummoningFocus.Configs.22-638379728829859614.WindowDescription
   Text: >
-    재능있는 새 학생에게 부여할 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.
+    재능있는 새 학생을 소환할 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.
 - Key: Archetype.SummoningFocus.Configs.22-638379738392151029.Buckets.0-638379738392151029.Name
   Text: 교사
 - Key: Archetype.SummoningFocus.Configs.23-638379728829859614.ButtonName
@@ -2707,7 +2707,7 @@
   Text: 지팡이를 사용하여 새 학생을 학교에 데려오세요.
 - Key: Archetype.SummoningFocus.Configs.23-638379728829859614.WindowDescription
   Text: >
-    재능있는 새 학생에게 부여할 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.
+    재능있는 새 학생을 소환할 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.
 - Key: Archetype.SummoningFocus.Configs.23-638379738392166055.Buckets.0-638379738392166055.Name
   Text: 교사
 - Key: Archetype.SummoningFocus.Configs.24-638379728829859614.ButtonName
@@ -2716,7 +2716,7 @@
   Text: 지팡이를 사용하여 새 학생을 학교에 데려오세요.
 - Key: Archetype.SummoningFocus.Configs.24-638379728829859614.WindowDescription
   Text: >
-    재능있는 새 학생에게 부여할 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.
+    재능있는 새 학생을 소환할 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.
 - Key: Archetype.SummoningFocus.Configs.24-638379738392166055.Buckets.0-638379738392166055.Name
   Text: 교사
 - Key: Archetype.SummoningFocus.Configs.25-638379728829859614.ButtonName
@@ -2725,7 +2725,7 @@
   Text: 지팡이를 사용하여 새 학생을 학교에 데려오세요.
 - Key: Archetype.SummoningFocus.Configs.25-638379728829859614.WindowDescription
   Text: >
-    재능있는 새 학생에게 부여할 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.
+    재능있는 새 학생을 소환할 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.
 - Key: Archetype.SummoningFocus.Configs.25-638379738392166055.Buckets.0-638379738392166055.Name
   Text: 교사
 - Key: Archetype.SummoningFocus.Configs.26-638379728829859614.ButtonName
@@ -2734,7 +2734,7 @@
   Text: 지팡이를 사용하여 새 학생을 학교에 데려오세요.
 - Key: Archetype.SummoningFocus.Configs.26-638379728829859614.WindowDescription
   Text: >
-    재능있는 새 학생에게 부여할 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.
+    재능있는 새 학생을 소환할 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.
 - Key: Archetype.SummoningFocus.Configs.26-638379742342374568.Buckets.0-638379742342374568.Name
   Text: 교사
 - Key: Archetype.SummoningFocus.Configs.27-638379728829869641.ButtonName
@@ -2743,7 +2743,7 @@
   Text: 지팡이를 사용하여 새 학생을 학교에 데려오세요.
 - Key: Archetype.SummoningFocus.Configs.27-638379728829869641.WindowDescription
   Text: >
-    재능있는 새 학생에게 부여할 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.
+    재능있는 새 학생을 소환할 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.
 - Key: Archetype.SummoningFocus.Configs.27-638379742342374568.Buckets.0-638379742342374568.Name
   Text: 교사
 - Key: Archetype.SummoningFocus.Configs.28-638379728829869641.ButtonName
@@ -2752,7 +2752,7 @@
   Text: 지팡이를 사용하여 새 학생을 학교에 데려오세요.
 - Key: Archetype.SummoningFocus.Configs.28-638379728829869641.WindowDescription
   Text: >
-    재능있는 새 학생에게 부여할 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.
+    재능있는 새 학생을 소환할 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.
 - Key: Archetype.SummoningFocus.Configs.28-638379742342374568.Buckets.0-638379742342374568.Name
   Text: 교사
 - Key: Archetype.SummoningFocus.Configs.29-638379728829869641.ButtonName
@@ -2761,7 +2761,7 @@
   Text: 지팡이를 사용하여 새 학생을 학교에 데려오세요.
 - Key: Archetype.SummoningFocus.Configs.29-638379728829869641.WindowDescription
   Text: >
-    재능있는 새 학생에게 부여할 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.
+    재능있는 새 학생을 소환할 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.
 - Key: Archetype.SummoningFocus.Configs.29-638379742342374568.Buckets.0-638379742342374568.Name
   Text: 교사
 - Key: Archetype.SummoningFocus.Configs.30-638379728829869641.ButtonName
@@ -2770,7 +2770,7 @@
   Text: 지팡이를 사용하여 새 학생을 학교에 데려오세요.
 - Key: Archetype.SummoningFocus.Configs.30-638379728829869641.WindowDescription
   Text: >
-    재능있는 새 학생에게 부여할 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.
+    재능있는 새 학생을 소환할 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.
 - Key: Archetype.SummoningFocus.Configs.30-638379742342374568.Buckets.0-638379742342384571.Name
   Text: 교사
 - Key: Archetype.SummoningFocus.Configs.31-638379728829869641.ButtonName
@@ -2779,7 +2779,7 @@
   Text: 지팡이를 사용하여 새 학생을 학교에 데려오세요.
 - Key: Archetype.SummoningFocus.Configs.31-638379728829869641.WindowDescription
   Text: >
-    재능있는 새 학생에게 부여할 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.
+    재능있는 새 학생을 소환할 지팡이를 선택하세요. 학교에 있는 학생이 많을수록 의식이 더 오래 걸립니다.
 - Key: Archetype.SummoningFocus.Configs.31-638379743541373206.Buckets.0-638379743541373206.Name
   Text: 교사
 - Key: Archetype.HallwayRug.DescriptionConfig.0.DisplayName
@@ -4982,39 +4982,39 @@
 - Key: Archetype.Helper_RepairSpell.Configs.0-638169753642663668.Description
   Text: 수리
 - Key: Archetype.Helper_PickupSpell.Configs.0-638169753642673635.DisplayName
-  Text: Pick Up
+  Text: 줍기
 - Key: Archetype.Helper_PickupSpell.Configs.0-638169753642673635.Description
-  Text: Pick Up
+  Text: 줍기
 - Key: Archetype.Helper_PutdownSpell.Configs.0-638182820160321233.DisplayName
-  Text: Pick Up
+  Text: 줍기
 - Key: Archetype.Helper_PutdownSpell.Configs.0-638182820160321233.Description
-  Text: Pick Up
+  Text: 줍기
 - Key: Archetype.Vine_AttackSpell_Entity.DescriptionConfig.0.DisplayName
   Text: 덩굴 채찍
 - Key: Archetype.Vine_AttackSpell_Entity.DescriptionConfig.0.Description
   Text: 덩굴 채찍
 - Key: Archetype.MinesCreature_03_Cast.Configs.0-638357415802519146.DisplayName
-  Text: Push
+  Text: 밀기
 - Key: Archetype.Fire_EmberGolem_Entity.DescriptionConfig.0.DisplayName
-  Text: Flare
+  Text: 플레어
 - Key: Archetype.Fire_EmberGolem_Entity.DescriptionConfig.0.Description
-  Text: Flare
+  Text: 플레어
 - Key: Archetype.AirFly_AttackSpell_Cast.DescriptionConfig.0.DisplayName
-  Text: Flap
+  Text: 플랩
 - Key: Archetype.TombsCreature_01_Projectile.Configs.0-638357415802669238.DisplayName
-  Text: Spray
+  Text: 뿌리기
 - Key: Archetype.TombsCreature_01_Projectile.Configs.0-638357415802669238.Description
-  Text: Spray
+  Text: 뿌리기
 - Key: Archetype.Lightning_LightningDog_Entity.DescriptionConfig.0.DisplayName
-  Text: Shine
+  Text: 빛내기
 - Key: Archetype.Lightning_LightningDog_Entity.DescriptionConfig.0.Description
-  Text: Shine
+  Text: 빛내기
 - Key: Archetype.HallowedOne_AttackSpell.Configs.0-638169753642872972.DisplayName
-  Text: Wave
+  Text: 웨이브
 - Key: Archetype.HallowedOne_AttackSpell.Configs.0-638169753642872972.Description
-  Text: Wave
+  Text: 웨이브
 - Key: Archetype.Potion_Rejuvenate.Configs.0-638270141975322835.DisplayName
-  Text: Rejuvenate
+  Text: 체력 회복
 - Key: Archetype.Snaptrap_Spell.DescriptionConfig.0.DisplayName
   Text: Snaptrap
 - Key: Archetype.Snaptrap_Spell.DescriptionConfig.0.Description
@@ -5028,285 +5028,285 @@
 - Key: Archetype.SnaptrapSpike_Spell.DescriptionConfig.0.Description
   Text: A sharp spike shot out by a triggering Snaptrap.
 - Key: Archetype.ScarecroaSpell.Configs.0-638345097736142391.DisplayName
-  Text: Scarecroa
+  Text: 크로아비
 - Key: SpellConfig.Air_Dualstrike1_Config.DisplayName
-  Text: Multistrike I
+  Text: 다중 공격 I
 - Key: SpellConfig.Air_Dualstrike1_Config.Description
   Text: 하나의 적을 두 번 공격합니다.
 - Key: SpellConfig.Air_ShieldOfWind1_Config.DisplayName
-  Text: Shield of Wind I
+  Text: 바람 방패 I
 - Key: SpellConfig.Air_ShieldOfWind1_Config.Description
-  Text: Adds <slink=Shield> 1 to the targeted ally.
+  Text: 대상 아군에게 <slink=Shield> 1을 부여합니다.
 - Key: SpellConfig.Air_Dualstrike2_Config.DisplayName
-  Text: Multistrike II
+  Text: 다중 공격 II
 - Key: SpellConfig.Air_Dualstrike2_Config.Description
   Text: 하나의 적을 세 번 공격합니다.
 - Key: SpellConfig.Air_Haste1_Config.DisplayName
-  Text: Haste I
+  Text: 가속 I
 - Key: SpellConfig.Air_Haste1_Config.Description
-  Text: Adds <slink=Character_Fast> to an ally for 2 rounds.
+  Text: 아군 하나에게 <slink=Character_Fast> 상태를 2라운드 동안 부여합니다.
 - Key: SpellConfig.Air_ShieldOfWind2_Config.DisplayName
-  Text: Shield of Wind II
+  Text: 바람 방패 II
 - Key: SpellConfig.Air_ShieldOfWind2_Config.Description
-  Text: Adds <slink=Shield> 1 to allies in the targeted row.
+  Text: 대상 열의 모든 아군에게 <slink=Shield> 1을 부여합니다.
 - Key: SpellConfig.Air_Haste2_Config.DisplayName
-  Text: Haste II
+  Text: 가속 II
 - Key: SpellConfig.Air_Haste2_Config.Description
-  Text: Adds <slink=Character_Fast> to allies in the targeted row for 2 rounds.
+  Text: 대상 열의 모든 아군에게 <slink=Character_Fast> 상태를 2라운드 동안 부여합니다.
 - Key: SpellConfig.Air_ShieldOfWind3_Config.DisplayName
-  Text: Shield of Wind III
+  Text: 바람 방패 III
 - Key: SpellConfig.Air_ShieldOfWind3_Config.Description
-  Text: Adds <slink=Shield> 1 to all allies.
+  Text: 모든 아군에게 <slink=Shield> 1을 부여합니다.
 - Key: SpellConfig.Air_WhirlwindStrike_Config.DisplayName
-  Text: Whirlwind Strike
+  Text: 회오리 공격
 - Key: SpellConfig.Air_WhirlwindStrike_Config.Description
-  Text: Attacks an enemy ten times.
+  Text: 적 하나를 열 번 공격합니다.
 - Key: SpellConfig.Dark_TentacleLash1_Config.DisplayName
   Text: 촉수 채찍 I
 - Key: SpellConfig.Dark_TentacleLash1_Config.Description
-  Text: Attacks an enemy. Deals +20 damage when attacking from <slink=Dark_ShadowCloak>.
+  Text: 적 하나를 공격합니다. <slink=Dark_ShadowCloak> 상태에서 공격 시 +20 데미지를 가합니다.
 - Key: SpellConfig.Dark_ShadowCloak1_Config.DisplayName
-  Text: Shadow Cloak I
+  Text: 그림자 망토 I
 - Key: SpellConfig.Dark_ShadowCloak1_Config.Description
-  Text: Adds <slink=Dark_ShadowCloak> to an allied position for 2 rounds.
+  Text: 아군 위치 하나에 <slink=Dark_ShadowCloak> 상태를 2라운드 동안 부여합니다.
 - Key: SpellConfig.Dark_TentacleLash2_Config.DisplayName
   Text: 촉수 채찍 II
 - Key: SpellConfig.Dark_TentacleLash2_Config.Description
-  Text: Attacks an enemy. Deals +40 damage when attacking from <slink=Dark_ShadowCloak>.
+  Text: 적 하나를 공격합니다. <slink=Dark_ShadowCloak> 상태에서 공격 시 +40 데미지를 가합니다.
 - Key: SpellConfig.Dark_Miasma1_Config.DisplayName
-  Text: Miasma I
+  Text: 경련 I
 - Key: SpellConfig.Dark_Miasma1_Config.Description
   Text: 모든 적을 공격합니다.
 - Key: SpellConfig.Dark_ShadowCloak2_Config.DisplayName
-  Text: Shadow Cloak II
+  Text: 그림자 망토 II
 - Key: SpellConfig.Dark_ShadowCloak2_Config.Description
-  Text: Adds <slink=Dark_ShadowCloak> to an allied position for 3 rounds.
+  Text: 아군 위치 하나에 <slink=Dark_ShadowCloak> 상태를 3라운드 동안 부여합니다.
 - Key: SpellConfig.Dark_Miasma2_Config.DisplayName
-  Text: Miasma II
+  Text: 경련 II
 - Key: SpellConfig.Dark_Miasma2_Config.Description
   Text: 모든 적을 공격합니다.
 - Key: SpellConfig.Dark_TentacleLash3_Config.DisplayName
   Text: 촉수 채찍 III
 - Key: SpellConfig.Dark_TentacleLash3_Config.Description
-  Text: Attacks an enemy. Deals +60 damage when attacking from <slink=Dark_ShadowCloak>.
+  Text: 적 하나를 공격합니다. <slink=Dark_ShadowCloak> 상태에서 공격 시 +60 데미지를 가합니다.
 - Key: SpellConfig.Dark_Oblivion_Config.DisplayName
-  Text: Oblivion
+  Text: 망각
 - Key: SpellConfig.Dark_Oblivion_Config.Description
-  Text: Attacks all enemies. Deals triple damage when attacking from <slink=Dark_ShadowCloak>.
+  Text: 모든 적을 동시에 공격합니다. <slink=Dark_ShadowCloak> 상태에서 공격 시 세 배의 데미지를 가합니다.
 - Key: SpellConfig.Dark_Miasma3_Config.DisplayName
-  Text: Miasma III
+  Text: 경련 III
 - Key: SpellConfig.Dark_Miasma3_Config.Description
   Text: 모든 적을 공격합니다.
 - Key: SpellConfig.Earth_Smash1_Config.DisplayName
-  Text: Smash I
+  Text: 바위던지기 I
 - Key: SpellConfig.Earth_Smash1_Config.Description
-  Text: Attacks an enemy. Deals +10 damage when at full <slink=HP>.
+  Text: 적 하나를 공격합니다. <slink=HP>가 다 차 있을 때 +10 데미지를 가합니다.
 - Key: SpellConfig.Earth_EarthArmor1_Config.DisplayName
-  Text: Earth Armor I
+  Text: 대지 갑옷 I
 - Key: SpellConfig.Earth_EarthArmor1_Config.Description
-  Text: Adds 60 <slink=TempHP> and <slink=Taunt> 2 to the caster.
+  Text: 자신에게 60 <slink=TempHP>와 <slink=Taunt> 2를 부여합니다.
 - Key: SpellConfig.Earth_Smash2_Config.DisplayName
-  Text: Smash II
+  Text: 바위던지기 II
 - Key: SpellConfig.Earth_Smash2_Config.Description
-  Text: Attacks an enemy. Deals +20 damage when at full <slink=HP>.
+  Text: 적 하나를 공격합니다. <slink=HP>가 다 차 있을 때 +20 데미지를 가합니다.
 - Key: SpellConfig.Earth_EarthArmor2_Config.DisplayName
-  Text: Earth Armor II
+  Text: 대지 갑옷 II
 - Key: SpellConfig.Earth_EarthArmor2_Config.Description
-  Text: Adds 120 <slink=TempHP> and <slink=Taunt> 3 to the caster.
+  Text: 자신에게 120 <slink=TempHP>와 <slink=Taunt> 3을 부여합니다.
 - Key: SpellConfig.Earth_Quake1_Config.DisplayName
-  Text: Quake I
+  Text: 지진 I
 - Key: SpellConfig.Earth_Quake1_Config.Description
-  Text: Attacks the frontmost row of enemies. Deals +30 damage when at full <slink=HP>.
+  Text: 전열의 모든 적을 공격합니다. <slink=HP>가 다 차 있을 때 +30 데미지를 가합니다.
 - Key: SpellConfig.Earth_Smash3_Config.DisplayName
-  Text: Smash III
+  Text: 바위던지기 III
 - Key: SpellConfig.Earth_Smash3_Config.Description
-  Text: Attacks an enemy. Deals +40 damage when at full <slink=HP>.
+  Text: 적 하나를 공격합니다. <slink=HP>가 다 차 있을 때 +40 데미지를 가합니다.
 - Key: SpellConfig.Earth_Quake2_Config.DisplayName
-  Text: Quake II
+  Text: 지진 II
 - Key: SpellConfig.Earth_Quake2_Config.Description
-  Text: Attacks the frontmost row of enemies. Deals +60 damage when at full <slink=HP>.
+  Text: 전열의 모든 적을 공격합니다. <slink=HP>가 다 차 있을 때 +60 데미지를 가합니다.
 - Key: SpellConfig.Earth_Stonecage_Config.DisplayName
-  Text: Stonecage
+  Text: 돌감옥
 - Key: SpellConfig.Earth_Stonecage_Config.Description
-  Text: Attacks an enemy. Adds 50 <slink=TempHP> and <slink=Taunt> 3 to the caster.
+  Text: 적 하나를 공격합니다. 자신에게 50 <slink=TempHP>와 <slink=Taunt> 3을 부여합니다.
 - Key: SpellConfig.Fire_Fireball1_Config.DisplayName
-  Text: Fireball I
+  Text: 화염구 I
 - Key: SpellConfig.Fire_Fireball1_Config.Description
-  Text: Attacks an enemy. 50% <slink=CriticalHit> chance.
+  Text: 적 하나를 공격합니다. 50%의 <slink=CriticalHit> 확률이 있습니다.
 - Key: SpellConfig.Fire_Vengeance1_Config.DisplayName
-  Text: Vengeance I
+  Text: 복수 I
 - Key: SpellConfig.Fire_Vengeance1_Config.Description
-  Text: Adds <slink=Retaliate> 15 to allies in the targeted row.
+  Text: 대상 열의 모든 아군에게 <slink=Retaliate> 15를 부여합니다.
 - Key: SpellConfig.Fire_Fireball2_Config.DisplayName
-  Text: Fireball II
+  Text: 화염구 II
 - Key: SpellConfig.Fire_Fireball2_Config.Description
-  Text: Attacks an enemy. 50% <slink=CriticalHit> chance.
+  Text: 적 하나를 공격합니다. 50%의 <slink=CriticalHit> 확률이 있습니다.
 - Key: SpellConfig.Fire_FlameLash1_Config.DisplayName
-  Text: Flame Lash I
+  Text: 불꽃 채찍 I
 - Key: SpellConfig.Fire_FlameLash1_Config.Description
-  Text: Attacks an enemy. Spends half of the caster's mana and deals twice that much damage.
+  Text: 적 하나를 공격합니다. 자신의 마나 절반을 소모해 그 두 배의 데미지를 입힙니다.
 - Key: SpellConfig.Fire_Fireball3_Config.DisplayName
-  Text: Fireball III
+  Text: 화염구 III
 - Key: SpellConfig.Fire_Fireball3_Config.Description
-  Text: Attacks an enemy. 50% <slink=CriticalHit> chance.
+  Text: 적 하나를 공격합니다. 50%의 <slink=CriticalHit> 확률이 있습니다.
 - Key: SpellConfig.Fire_Vengeance2_Config.DisplayName
-  Text: Vengeance II
+  Text: 복수 I
 - Key: SpellConfig.Fire_Vengeance2_Config.Description
-  Text: Adds <slink=Retaliate> 30 to allies in the targeted row.
+  Text: 대상 열의 모든 아군에게 <slink=Retaliate> 30을 부여합니다.
 - Key: SpellConfig.Fire_FlameLash2_Config.DisplayName
-  Text: Flame Lash II
+  Text: 불꽃 채찍 II
 - Key: SpellConfig.Fire_FlameLash2_Config.Description
-  Text: Attacks an enemy. Spends half of the caster's mana and deals triple that much damage.
+  Text: 적 하나를 공격합니다. 자신의 마나 절반을 소모해 그 두 배의 데미지를 입힙니다.
 - Key: SpellConfig.Fire_Inferno_Config.DisplayName
-  Text: Inferno
+  Text: 지옥불
 - Key: SpellConfig.Fire_Inferno_Config.Description
   Text: 모든 적을 공격합니다.
 - Key: SpellConfig.Lightning_Bolt1_Config.DisplayName
-  Text: Bolt I
+  Text: 전기충격 I
 - Key: SpellConfig.Lightning_Bolt1_Config.Description
-  Text: Attacks any target.
+  Text: 아무 적 하나를 공격합니다.
 - Key: SpellConfig.Lightning_Recharge1_Config.DisplayName
-  Text: Recharge I
+  Text: 재충전 I
 - Key: SpellConfig.Lightning_Recharge1_Config.Description
-  Text: An ally regains 30 <slink=Mana> and gains 30 <slink=CombatStat_CombatSpeed>.
+  Text: 아군 하나에게 30 <slink=Mana>와 30 <slink=CombatStat_CombatSpeed>를 부여합니다.
 - Key: SpellConfig.Lightning_Bolt2_Config.DisplayName
-  Text: Bolt II
+  Text: 전기충격 II
 - Key: SpellConfig.Lightning_Bolt2_Config.Description
-  Text: Attacks any target.
+  Text: 아무 적 하나를 공격합니다.
 - Key: SpellConfig.Lightning_Stunstrike1_Config.DisplayName
-  Text: Slowing Strike I
+  Text: 마비 공격 I
 - Key: SpellConfig.Lightning_Stunstrike1_Config.Description
-  Text: Attacks and adds <slink=Lightning_Stunned> to any target for 2 rounds.
+  Text: 적 하나를 공격하고 2라운드 동안 <slink=Lightning_Stunned> 상태로 만듭니다.
 - Key: SpellConfig.Lightning_Bolt3_Config.DisplayName
-  Text: Bolt III
+  Text: 전기충격 III
 - Key: SpellConfig.Lightning_Bolt3_Config.Description
-  Text: Attacks any target.
+  Text: 아무 적 하나를 공격합니다.
 - Key: SpellConfig.Lightning_Recharge2_Config.DisplayName
-  Text: Recharge II
+  Text: 재충전 II
 - Key: SpellConfig.Lightning_Recharge2_Config.Description
-  Text: An ally regains 60 <slink=Mana> and gains 60 <slink=CombatStat_CombatSpeed>.
+  Text: 아군 하나에게 60 <slink=Mana>와 60 <slink=CombatStat_CombatSpeed>를 부여합니다.
 - Key: SpellConfig.Lightning_Stunstrike2_Config.DisplayName
-  Text: Slowing Strike II
+  Text: 마비 공격 II
 - Key: SpellConfig.Lightning_Stunstrike2_Config.Description
-  Text: Attacks and adds <slink=Lightning_Stunned> to any target for 2 rounds.
+  Text: 적 하나를 공격하고 2라운드 동안 <slink=Lightning_Stunned> 상태로 만듭니다.
 - Key: SpellConfig.Lightning_Storm_Config.DisplayName
-  Text: Call the Storm
+  Text: 폭풍 소환
 - Key: SpellConfig.Lightning_Storm_Config.Description
-  Text: Attack a target, then <slink=Chain> 4 times.
+  Text: 적 하나를 공격하고 4번 <slink=Chain>합니다.
 - Key: SpellConfig.Nature_Growth1_Config.DisplayName
   Text: 성장 I
 - Key: SpellConfig.Nature_Growth1_Config.Description
-  Text: Attacks and applies <slink=Nature_Thorns> to the targeted position for 2 rounds.
+  Text: 적 하나를 공격하고 해당 위치에 2라운드 동안 <slink=Nature_Thorns> 상태를 부여합니다.
 - Key: SpellConfig.Nature_SurgingStrength1_Config.DisplayName
-  Text: Surging Strength I
+  Text: 솟아오르는 힘 I
 - Key: SpellConfig.Nature_SurgingStrength1_Config.Description
-  Text: Adds 10 <slink=CombatStat_DamageBonus> to allies in the targeted row for 2 rounds.
+  Text: 대상 열의 모든 아군에게 2라운드 동안 10 <slink=CombatStat_DamageBonus>을 부여합니다.
 - Key: SpellConfig.Nature_Growth2_Config.DisplayName
   Text: 성장 II
 - Key: SpellConfig.Nature_Growth2_Config.Description
-  Text: Attacks and applies <slink=Nature_Thorns> to the targeted position for 3 rounds.
+  Text: 적 하나를 공격하고 해당 위치에 3라운드 동안 <slink=Nature_Thorns> 상태를 부여합니다.
 - Key: SpellConfig.Nature_SurgingStrength2_Config.DisplayName
-  Text: Surging Strength II
+  Text: 솟아오르는 힘 II
 - Key: SpellConfig.Nature_SurgingStrength2_Config.Description
-  Text: Adds 20 <slink=CombatStat_DamageBonus> to allies in the targeted row for 2 rounds.
+  Text: 대상 열의 모든 아군에게 2라운드 동안 20 <slink=CombatStat_DamageBonus>을 부여합니다.
 - Key: SpellConfig.Nature_VineLash1_Config.DisplayName
   Text: 덩굴 채찍 I
 - Key: SpellConfig.Nature_VineLash1_Config.Description
-  Text: Attack an enemy and the enemy behind them, then swap their positions.
+  Text: 적 하나와 그 뒤의 적을 공격하고, 둘의 자리를 바꿉니다.
 - Key: SpellConfig.Nature_SurgingStrength3_Config.DisplayName
-  Text: Surging Strength III
+  Text: 솟아오르는 힘 III
 - Key: SpellConfig.Nature_SurgingStrength3_Config.Description
-  Text: Adds 30 <slink=CombatStat_DamageBonus> to allies in the targeted row.
+  Text: 대상 열의 모든 아군에게 30 <slink=CombatStat_DamageBonus>을 부여합니다.
 - Key: SpellConfig.Nature_VineLash2_Config.DisplayName
   Text: 덩굴 채찍 II
 - Key: SpellConfig.Nature_VineLash2_Config.Description
-  Text: Attack an enemy and the enemy behind them, then swap their positions.
+  Text: 적 하나와 그 뒤의 적을 공격하고, 둘의 자리를 바꿉니다.
 - Key: SpellConfig.Nature_MightyGrowth_Config.DisplayName
-  Text: Mighty Growth
+  Text: 강력한 성장
 - Key: SpellConfig.Nature_MightyGrowth_Config.Description
-  Text: Attacks a target. Deals +15 damage per spell this Mage has cast this battle.
+  Text: 적 하나를 공격합니다. 이 마법사가 이번 전투에서 시전한 주문 수만큼 +15 데미지를 가합니다.
 - Key: SpellConfig.Water_Torrent1_Config.DisplayName
-  Text: Torrent I
+  Text: 소용돌이 I
 - Key: SpellConfig.Water_Torrent1_Config.Description
-  Text: Attacks an enemy. Deals +10 damage when attacking from the back row.
+  Text: 적 하나를 공격합니다. 후열에서 시전하면 +10 데미지를 가합니다.
 - Key: SpellConfig.Water_Soak1_Config.DisplayName
-  Text: Soak I
+  Text: 쏟아붓기 I
 - Key: SpellConfig.Water_Soak1_Config.Description
-  Text: Attacks an enemy and lowers their <slink=CombatStat_DamageBonus> and <slink=CombatStat_CombatSpeed> by 7.
+  Text: 적 하나를 공격하고 적의 <slink=CombatStat_DamageBonus>과 <slink=CombatStat_CombatSpeed>를 7 낮춥니다.
 - Key: SpellConfig.Water_Torrent2_Config.DisplayName
-  Text: Torrent II
+  Text: 소용돌이 II
 - Key: SpellConfig.Water_Torrent2_Config.Description
-  Text: Attacks an enemy. Deals +20 damage when attacking from the back row.
+  Text: 적 하나를 공격합니다. 후열에서 시전하면 +20 데미지를 가합니다.
 - Key: SpellConfig.Water_ConsecratingDrops1_Config.DisplayName
-  Text: Consecrating Drops I
+  Text: 성수 I
 - Key: SpellConfig.Water_ConsecratingDrops1_Config.Description
-  Text: Adds 30 <slink=TempHP> to allies in the the targeted row and removes Sadness, Fearful, and Restless.
+  Text: 대상 열의 모든 아군에게 30 <slink=TempHP>를 부여하고 모든 슬픔, 공포, 지침 상태를 없앱니다.
 - Key: SpellConfig.Water_Soak2_Config.DisplayName
-  Text: Soak II
+  Text: 쏟아붓기 II
 - Key: SpellConfig.Water_Soak2_Config.Description
-  Text: Attacks an enemy and lowers their <slink=CombatStat_DamageBonus> and <slink=CombatStat_CombatSpeed> by 15.
+  Text: 적 하나를 공격하고 적의 <slink=CombatStat_DamageBonus>과 <slink=CombatStat_CombatSpeed>를 15 낮춥니다.
 - Key: SpellConfig.Water_ConsecratingDrops2_Config.DisplayName
-  Text: Consecrating Drops II
+  Text: 성수 II
 - Key: SpellConfig.Water_ConsecratingDrops2_Config.Description
-  Text: Adds 30 <slink=TempHP> to all allies and removes Sadness, Fearful, and Restless.
+  Text: 모든 아군에게 30 <slink=TempHP>를 부여하고 모든 슬픔, 공포, 지침 상태를 없앱니다.
 - Key: SpellConfig.Water_Soak3_Config.DisplayName
-  Text: Soak III
+  Text: 쏟아붓기 III
 - Key: SpellConfig.Water_Soak3_Config.Description
-  Text: Attacks an enemy and lowers their <slink=CombatStat_DamageBonus> and <slink=CombatStat_CombatSpeed> by 30.
+  Text: 적 하나를 공격하고 적의 <slink=CombatStat_DamageBonus>과 <slink=CombatStat_CombatSpeed>를 30 낮춥니다.
 - Key: SpellConfig.Water_Tsunami_Config.DisplayName
-  Text: Tsunami
+  Text: 쓰나미
 - Key: SpellConfig.Water_Tsunami_Config.Description
-  Text: Attacks all enemies for 50 damage, and heals all allies for the total damage dealt.
+  Text: 모든 적에게 50 데미지를 가하고, 총 데미지 양만큼 모든 아군을 치유합니다.
 - Key: SpellConfig.ManaSpell1.DisplayName
-  Text: Small Mana
+  Text: 작은 마나
 - Key: SpellConfig.ManaSpell2.DisplayName
-  Text: 회복 물약
+  Text: 충전의 물약
 - Key: SpellConfig.ManaSpell3.DisplayName
-  Text: Greater Potion of Recharging
+  Text: 고급 충전의 물약
 - Key: SpellConfig.HPSpell1.DisplayName
-  Text: Potion of Rejuvenation
+  Text: 회춘의 물약
 - Key: SpellConfig.HPSpell2.DisplayName
-  Text: Potion of Greater Rejuvenation
+  Text: 고급 회춘의 물약
 - Key: SpellConfig.UntangleSpell.DisplayName
-  Text: Untangle
+  Text: 덩굴 풀기
 - Key: SpellConfig.RevivalSpell.DisplayName
-  Text: Revival Flask
+  Text: 부활 물약
 - Key: SpellConfig.StrengthSpell.DisplayName
-  Text: Potion of Strength
+  Text: 힘의 물약
 - Key: SpellConfig.RetaliateSpell.DisplayName
-  Text: Potion of Retaliation
+  Text: 복수의 물약
 - Key: SpellConfig.HasteSpell.DisplayName
-  Text: Hastening Potion
+  Text: 속도의 물약
 - Key: SpellConfig.EarthArmorSpell.DisplayName
-  Text: Earth Guardian's Potion
+  Text: 대지 수호자의 물약
 - Key: SpellConfig.StunAttack.DisplayName
-  Text: Lightning in a Bottle
+  Text: 병에 든 번개
 - Key: SpellConfig.MiasmaAttack.DisplayName
-  Text: Miasma Flask
+  Text: 경련 물약
 - Key: SpellConfig.DragonfireAttack.DisplayName
-  Text: Dragonfire Flask
+  Text: 용의 숨결 물약
 - Key: SpellConfig.BraverySpell.DisplayName
-  Text: Bravery Potion
+  Text: 용기의 물약
 - Key: SpellConfig.CheerfulnessSpell.DisplayName
-  Text: Cheerfulness Potion
+  Text: 행복의 물약
 - Key: SpellConfig.CalmingSpell.DisplayName
-  Text: Calming Potion
+  Text: 진정 물약
 - Key: SpellConfig.Rain_Drip_Config.DisplayName
-  Text: Dripping Water
+  Text: 물 샘
 - Key: SpellConfig.Rain_Drip_Config.Description
-  Text: Water dripping through the ceiling
+  Text: 물이 천장에서 새고 있음
 - Key: SpellConfig.RampageSpell-021.DisplayName
   Text: 폭주
 - Key: SpellConfig.RampageSpell-021.Description
-  Text: Mage on a Rampage destroying furniture.
+  Text: 폭주 중인 마법사가 가구를 파괴하고 있습니다.
 - Key: SpellConfig.Wild-011.DisplayName
-  Text: Plague
+  Text: 역병
 - Key: SpellConfig.Wild-011.Description
-  Text: Applies <slink=Plague>.
+  Text: <slink=Plague> 상태를 적용합니다.
 - Key: SpellConfig.Wild-012.DisplayName
-  Text: Bind
+  Text: 묶기
 - Key: SpellConfig.Wild-012.Description
-  Text: Target is bound by vines.
+  Text: 덩굴에 묶여 있습니다.
 - Key: SpellConfig.Wild-013.DisplayName
   Text: 독 포자
 - Key: SpellConfig.Wild-013.Description
@@ -5368,9 +5368,9 @@
 - Key: SpellConfig.Wild-027.DisplayName
   Text: Grimy Hands
 - Key: SpellConfig.Wild-028.DisplayName
-  Text: Scares
+  Text: 놀래키기
 - Key: SpellConfig.Wild-028.Description
-  Text: Scarecroa spell
+  Text: 크로아비 주문
 - Key: SpellConfig.Lightning_Storm.DisplayName
   Text: Actual Lightning
 - Key: SpellConfig.Lightning_StormSafe.DisplayName
@@ -5516,51 +5516,51 @@
 - Key: CharacterStatusConfig.Enemy_Belcher.DisplayName
   Text: 벨처
 - Key: CharacterStatusConfig.Enemy_Droplet.DisplayName
-  Text: Droplet
+  Text: 드로플렛
 - Key: CharacterStatusConfig.Enemy_FurryMite.DisplayName
-  Text: 모피 진드기
+  Text: 퍼리 마이트
 - Key: CharacterStatusConfig.Enemy_Batkin.DisplayName
-  Text: Batkin
+  Text: 배트킨
 - Key: CharacterStatusConfig.Enemy_EmberGolem.DisplayName
   Text: 엠버 골렘
 - Key: CharacterStatusConfig.Enemy_Wraith.DisplayName
-  Text: Wraith
+  Text: 레이스
 - Key: CharacterStatusConfig.Enemy_LanternKeeper.DisplayName
-  Text: Lantern Keeper
+  Text: 랜턴 키퍼
 - Key: CharacterStatusConfig.Enemy_Strigoi.DisplayName
-  Text: Strigoi
+  Text: 스트리고이
 - Key: CharacterStatusConfig.Enemy_Fernling.DisplayName
-  Text: Fernling
+  Text: 펀링
 - Key: CharacterStatusConfig.Enemy_Boulderjaw.DisplayName
-  Text: Boulderjaw
+  Text: 볼더조
 - Key: CharacterStatusConfig.Enemy_HallowedOne.DisplayName
-  Text: Hallowed One
+  Text: 할로우드 원
 - Key: CharacterStatusConfig.Enemy_Hellmaw.DisplayName
-  Text: Hellmaw
+  Text: 헬모
 - Key: CharacterStatusConfig.Enemy_Scythe.DisplayName
-  Text: Scythe
+  Text: 사이드
 - Key: CharacterStatusConfig.Enemy_BurrowerLarva.DisplayName
-  Text: Burrower Larva
+  Text: 버로워 라바
 - Key: CharacterStatusConfig.Enemy_BurrowerMoth.DisplayName
-  Text: Burrower Moth
+  Text: 버로워 모스
 - Key: CharacterStatusConfig.Enemy_BurrowerSpitter.DisplayName
-  Text: Burrower Spitter
+  Text: 버로워 스피터
 - Key: CharacterStatusConfig.Enemy_ThrallMage.DisplayName
-  Text: Thrall Mage
+  Text: 스랄 메이지
 - Key: CharacterStatusConfig.Enemy_DarkTentacle.DisplayName
-  Text: Dark Tentacle
+  Text: 다크 텐타클
 - Key: CharacterStatusConfig.Enemy_FieryTentacle.DisplayName
-  Text: Fiery Tentacle
+  Text: 파이어리 텐타클
 - Key: CharacterStatusConfig.Enemy_WateryTentacle.DisplayName
-  Text: Watery Tentacle
+  Text: 워터리 텐타클
 - Key: CharacterStatusConfig.Enemy_SporeTentacle.DisplayName
-  Text: 포자 촉수
+  Text: 스포어 텐타클
 - Key: CharacterStatusConfig.Enemy_CracklingTentacle.DisplayName
-  Text: Crackling Tentacle
+  Text: 크래클링 텐타클
 - Key: CharacterStatusConfig.Enemy_StonyTentacle.DisplayName
-  Text: Stony Tentacle
+  Text: 스토니 텐타클
 - Key: CharacterStatusConfig.Enemy_ZephyrTentacle.DisplayName
-  Text: Zephyr Tentacle
+  Text: 제퍼 텐타클
 - Key: CharacterStatusConfig.Enemy_Sadness_Debuff_1.DisplayName
   Text: 슬픔 1
 - Key: CharacterStatusConfig.Enemy_Sadness_Debuff_1.Description
@@ -6001,29 +6001,29 @@
 - Key: CharacterStatusConfig.Scar_Tenacity4.Description
   Text: <slink=MajorWound_Tenacity4>(을)를 극복했습니다.
 - Key: CharacterStatusConfig.MissingBedroomOfOwn.DisplayName
-  Text: Doesn't Have Bedroom of Own
+  Text: 침실 없음
 - Key: CharacterStatusConfig.MissingBedroomOfOwn.Description
-  Text: Currently without bedroom of their own.
+  Text: 잘 침실이 없습니다.
 - Key: CharacterStatusConfig.FontSteward.DisplayName
-  Text: Font Steward
+  Text: 우물 지킴이
 - Key: CharacterStatusConfig.FontSteward.Description
   Text: Performed the first Repel Fog ritual at the <slink=ManaFont>.
 - Key: CharacterStatusConfig.FontSteward.FlavorText
   Text: Taking up the mantle.
 - Key: CharacterStatusConfig.FontSteward.LogEntry
-  Text: "{0} was chosen as the school's {1}"
+  Text: '{0}: 학교의 {1}로 선택됨'
 - Key: CharacterStatusConfig.InspiredArt.DisplayName
-  Text: Inspired Art
+  Text: 예술적 영감
 - Key: CharacterStatusConfig.InspiredArt.Description
-  Text: Inspired to make more Art.
+  Text: 예술적 영감을 받았습니다.
 - Key: CharacterStatusConfig.PerformedRitual.DisplayName
-  Text: Performed a Ritual
+  Text: 의식을 치름
 - Key: CharacterStatusConfig.PerformedRitual.Description
-  Text: Participated in a Ritual and feeling good about it.
+  Text: 마법 의식에 참여해서 기분이 좋습니다.
 - Key: CharacterStatusConfig.Sacrificed.DisplayName
-  Text: Sacrificed
+  Text: 희생당함
 - Key: CharacterStatusConfig.Sacrificed.Description
-  Text: Sacrificed in a Ritual.
+  Text: 마법 의식에서 희생당했습니다.
 - Key: CharacterStatusConfig.HasFireSkill1.DisplayName
   Text: 1레벨 불꽃 마법
 - Key: CharacterStatusConfig.HasFireSkill1.Description
@@ -6059,75 +6059,75 @@
 - Key: CharacterStatusConfig.HappyCooking1.DisplayName
   Text: 고급 주방에서 요리
 - Key: CharacterStatusConfig.HappyCooking1.Description
-  Text: 좋은 부엌에서 요리를 즐겼다.
+  Text: 고급 주방에서 즐겁게 요리했습니다.
 - Key: CharacterStatusConfig.HappyCooking1.LogEntry
   Text: '{0} {1}'
 - Key: CharacterStatusConfig.HappyCooking2.DisplayName
-  Text: Cooked in a Fine Kitchen
+  Text: 고급 주방에서 요리
 - Key: CharacterStatusConfig.HappyCooking2.Description
-  Text: Enjoyed cooking in a Fine Kitchen.
+  Text: 고급 주방에서 즐겁게 요리했습니다.
 - Key: CharacterStatusConfig.HappyCooking2.LogEntry
   Text: '{0} {1}'
 - Key: CharacterStatusConfig.HappyCooking3.DisplayName
-  Text: Cooked in a Fine Kitchen
+  Text: 고급 주방에서 요리
 - Key: CharacterStatusConfig.HappyCooking3.Description
-  Text: Enjoyed cooking in a Fine Kitchen.
+  Text: 고급 주방에서 즐겁게 요리했습니다.
 - Key: CharacterStatusConfig.HappyCooking3.LogEntry
   Text: '{0} {1}'
 - Key: CharacterStatusConfig.HappyCooking4.DisplayName
-  Text: Cooked in a Fine Kitchen
+  Text: 고급 주방에서 요리
 - Key: CharacterStatusConfig.HappyCooking4.Description
-  Text: Enjoyed cooking in a Fine Kitchen.
+  Text: 고급 주방에서 즐겁게 요리했습니다.
 - Key: CharacterStatusConfig.HappyCooking4.LogEntry
   Text: '{0} {1}'
 - Key: CharacterStatusConfig.HappyCooking5.DisplayName
   Text: 고급 주방에서 요리
 - Key: CharacterStatusConfig.HappyCooking5.Description
-  Text: Enjoyed cooking in a Fine Kitchen.
+  Text: 고급 주방에서 즐겁게 요리했습니다.
 - Key: CharacterStatusConfig.HappyCooking5.LogEntry
   Text: '{0} {1}'
 - Key: CharacterStatusConfig.HappyCooking6.DisplayName
-  Text: Cooked in a Fine Kitchen
+  Text: 고급 주방에서 요리
 - Key: CharacterStatusConfig.HappyCooking6.Description
-  Text: Enjoyed cooking in a Fine Kitchen.
+  Text: 고급 주방에서 즐겁게 요리했습니다.
 - Key: CharacterStatusConfig.HappyCooking6.LogEntry
   Text: '{0} {1}'
 - Key: CharacterStatusConfig.HappyCooking7.DisplayName
-  Text: Cooked in a Fine Kitchen
+  Text: 고급 주방에서 요리
 - Key: CharacterStatusConfig.HappyCooking7.Description
-  Text: Enjoyed cooking in a Fine Kitchen.
+  Text: 고급 주방에서 즐겁게 요리했습니다.
 - Key: CharacterStatusConfig.HappyCooking7.LogEntry
   Text: '{0} {1}'
 - Key: CharacterStatusConfig.HappyCooking8.DisplayName
-  Text: Cooked in a Fine Kitchen
+  Text: 고급 주방에서 요리
 - Key: CharacterStatusConfig.HappyCooking8.Description
-  Text: Enjoyed cooking in a Fine Kitchen.
+  Text: 고급 주방에서 즐겁게 요리했습니다.
 - Key: CharacterStatusConfig.HappyCooking8.LogEntry
   Text: '{0} {1}'
 - Key: CharacterStatusConfig.InBasicRitualRoom.DisplayName
-  Text: In Assembly Hall
+  Text: 회관에 있음
 - Key: CharacterStatusConfig.InBasicRitualRoom.Description
-  Text: In a basic ritual room.
+  Text: 회관에 있습니다.
 - Key: CharacterStatusConfig.InIntermediateRitualRoom.DisplayName
-  Text: In Auditorium
+  Text: 강당에 있음
 - Key: CharacterStatusConfig.InIntermediateRitualRoom.Description
-  Text: In an intermediate ritual room.
+  Text: 강당에 있습니다.
 - Key: CharacterStatusConfig.InAdvancedRitualRoom.DisplayName
-  Text: In Great Hall
+  Text: 대강당에 있음
 - Key: CharacterStatusConfig.InAdvancedRitualRoom.Description
-  Text: In an advanced ritual room.
+  Text: 대강당에 있습니다.
 - Key: CharacterStatusConfig.InScullery.DisplayName
-  Text: In Scullery
+  Text: 부엌에 있음
 - Key: CharacterStatusConfig.InScullery.Description
-  Text: Can cook more efficiently due to being in a dedicated Scullery.
+  Text: 부엌에 있기 때문에 더 효율적으로 요리할 수 있습니다.
 - Key: CharacterStatusConfig.InKitchen.DisplayName
-  Text: In Kitchen
+  Text: 주방에 있음
 - Key: CharacterStatusConfig.InKitchen.Description
-  Text: Can cook more efficiently due to being in a dedicated Kitchen.
+  Text: 주방에 있기 때문에 더 효율적으로 요리할 수 있습니다.
 - Key: CharacterStatusConfig.InFineKitchen.DisplayName
-  Text: In Fine Kitchen
+  Text: 고급 주방에 있음
 - Key: CharacterStatusConfig.InFineKitchen.Description
-  Text: Can cook more efficiently due to being in a dedicated Fine Kitchen.
+  Text: 고급 주방에 있기 때문에 더 효율적으로 요리할 수 있습니다.
 - Key: CharacterStatusConfig.InWorkshop.DisplayName
   Text: In Workshop
 - Key: CharacterStatusConfig.InWorkshop.Description
@@ -6157,33 +6157,33 @@
 - Key: CharacterStatusConfig.InDiningHall.Description
   Text: Currently in a room with a dining table.
 - Key: CharacterStatusConfig.Eat_DiningHall.DisplayName
-  Text: Ate in Dining Room
+  Text: 식당에서 식사함
 - Key: CharacterStatusConfig.Eat_DiningHall.Description
-  Text: 식당에서 식사를 합니다.
+  Text: 식당에서 식사를 했습니다.
 - Key: CharacterStatusConfig.Eat_DiningHall.LogEntry
-  Text: '{0} is {1}'
+  Text: '{0}: {1}'
 - Key: CharacterStatusConfig.InCafeteria.DisplayName
-  Text: In Mess Hall
+  Text: 학생 식당에 있음
 - Key: CharacterStatusConfig.InCafeteria.Description
-  Text: Currently in a room with more than one dining table.
+  Text: 학생 식당에 있습니다.
 - Key: CharacterStatusConfig.Eat_Cafeteria.DisplayName
-  Text: Ate in Mess Hall
+  Text: 학생 식당에서 식사함
 - Key: CharacterStatusConfig.Eat_Cafeteria.Description
-  Text: 혼란스러운 홀에서 식사를 했다.
+  Text: 학생 식당에서 식사를 했습니다.
 - Key: CharacterStatusConfig.Eat_Cafeteria.LogEntry
-  Text: '{0} is {1}'
+  Text: '{0}: {1}'
 - Key: CharacterStatusConfig.InPrivateDiningRoom.DisplayName
-  Text: In Private Dining Room
+  Text: 교사 식당에 있음
 - Key: CharacterStatusConfig.InPrivateDiningRoom.Description
-  Text: Currently in a Private Dining Room.
+  Text: 교사 식당에 있습니다.
 - Key: CharacterStatusConfig.Eat_PrivateDiningRoom.DisplayName
-  Text: Ate in a Private Dining Room
+  Text: 교사 식당에서 식사함
 - Key: CharacterStatusConfig.Eat_PrivateDiningRoom.Description
-  Text: Ate a meal in a Private Dining Room.
+  Text: 교사 식당에서 식사를 했습니다.
 - Key: CharacterStatusConfig.Eat_PrivateDiningRoom.LogEntry
-  Text: '{0} is {1}'
+  Text: '{0}: {1}'
 - Key: CharacterStatusConfig.InSalleaManger.DisplayName
-  Text: In Salle a Manger
+  Text: 고급 교사 식당에 있음
 - Key: CharacterStatusConfig.InSalleaManger.Description
   Text: Currently in a Salle a Manger.
 - Key: CharacterStatusConfig.Eat_SalleaManger.DisplayName
@@ -9275,9 +9275,9 @@
 - Key: StatusEffectConfig.UnableToMove.DisplayName
   Text: 이동 불능
 - Key: StatusEffectConfig.UnableToMove.Description
-  Text: Mage cannot move
+  Text: 움직일 수 없음
 - Key: StatusEffectConfig.Prone.DisplayName
-  Text: Lying Down
+  Text: 누워 있음
 - Key: StatusEffectConfig.Prone.Description
   Text: To Do
 - Key: StatusEffectConfig.UnableToAct.DisplayName
@@ -9289,11 +9289,11 @@
 - Key: StatusEffectConfig.UnableToLearn.Description
   Text: To Do
 - Key: StatusEffectConfig.Downed.DisplayName
-  Text: Down
+  Text: 쓰러짐
 - Key: StatusEffectConfig.Downed.Description
   Text: To Do
 - Key: StatusEffectConfig.UnableToSleep.DisplayName
-  Text: Can't fall asleep
+  Text: 잘 수 없음
 - Key: StatusEffectConfig.UnableToSleep.Description
   Text: To Do
 - Key: StatusEffectConfig.UnableToResearch.DisplayName
@@ -9447,7 +9447,7 @@
 - Key: KeyMappingConfigLoader.ActionButton_Disintegrate.DisplayName
   Text: 분해
 - Key: KeyMappingConfigLoader.ActionButton_Uproot.DisplayName
-  Text: 뽑기
+  Text: 제초
 - Key: KeyMappingConfigLoader.ActionButton_StartPlant.DisplayName
   Text: ActionButton_StartPlant
 - Key: KeyMappingConfigLoader.ActionButton_Unlock.DisplayName
@@ -9455,7 +9455,7 @@
 - Key: KeyMappingConfigLoader.ActionButton_Attack.DisplayName
   Text: Attack With Selected
 - Key: KeyMappingConfigLoader.ActionButton_Deconstruct.DisplayName
-  Text: Deconstruct
+  Text: 철거
 - Key: KeyMappingConfigLoader.ActionButton_Repair.DisplayName
   Text: 수리
 - Key: KeyMappingConfigLoader.ActionButton_ToggleBlocking.DisplayName
@@ -9627,27 +9627,27 @@
 - Key: KeywordDefinition.Tasks.DisplayName
   Text: 작업
 - Key: KeywordDefinition.Tasks.Description
-  Text: "Tasks tell Mages, and Helpers to do things in the world. They choose their next Task based on:\n\n1. Task Type Priority - Prefer to do one kind of Task over another. eg. Harvest before Mine.\n\n2. Task Priority - If two Tasks have the same Task Type Priority, then choose the one with the higher Task Priority, regardless of what Task Type those Tasks belong to.\n\n3. If both priorities are the same, Mages and Helpers will perform Tasks in the order they appear on the Task Type Priority UI.\n\nSet Task Type Priorities on the Tasks UI.\nSet Task Priorities on the selected object (the numbers 1-5) or with the Task Pri tool. "
+  Text: "작업은 마법사와 누더기들이 게임 내에서 수행하는 행동입니다. 작업 순서는 다음 규칙에 따라 정해집니다:\n\n1. 작업 우선순위 - 우선순위에 따라 어떤 작업을 먼저 수행할지 결정합니다.\n\n2. 개별 작업 우선순위 - 두 작업의 우선순위가 같다면, 개별 작업의 우선순위가 높은 쪽을 수행합니다.\n\n3. 개별 작업 우선순위도 같다면, 작업 우선순위 UI에 출력되는 순서대로 작업을 수행합니다.\n\n작업 우선순위 UI에서 우선순위를 지정할 수 있습니다.\n개별 작업 우선순위 툴을 사용하거나, 대상을 선택하여 개별 작업 우선순위를 선택할 수 있습니다(판넬 하단의 1-5를 사용). "
 - Key: KeywordDefinition.Task Type.DisplayName
-  Text: Task Type
+  Text: 작업 타입
 - Key: KeywordDefinition.Task Type.Description
-  Text: Tasks Types are categories of Tasks that Mages, Ghosts, and Helpers perform. These categories can be prioritized at the Tasks UI.
+  Text: 작업 타입은 캐릭터들이 수행하는 작업의 종류입니다. 작업 우선순위 UI에서 우선순위를 지정할 수 있습니다.
 - Key: KeywordDefinition.SchoolScore.DisplayName
-  Text: M.A.G.E. Score
+  Text: M.A.G.E 점수
 - Key: KeywordDefinition.SchoolScore.Description
-  Text: Magic, Architecture, Growth, Exploration. Represents the overall progress of your school.
+  Text: 마법(Magic), 건축(Architecture), 성장(Growth), 탐험(Exploration). 학교의 성장 척도를 점수로 나타냅니다.
 - Key: KeywordDefinition.WandTier.DisplayName
   Text: 지팡이 티어
 - Key: KeywordDefinition.WandTier.Description
-  Text: A wand's tier dictates the max skill a wielder can attain. Research new wands to access higher tiers.
+  Text: 지팡이 티어는 지팡이의 주인의 최대 스킬 레벨을 결정합니다. 마법 연구를 통해 더 높은 티어의 지팡이를 제작할 수 있습니다.
 - Key: KeywordDefinition.PathingFilter.DisplayName
-  Text: Pathing View
+  Text: 경로 뷰
 - Key: KeywordDefinition.PathingFilter.Description
   Text: The Pathing Filter shows connected pathing areas. If different parts of the school are in different areas, characters will be unable to cross between them and Tasks may be unreachable.
 - Key: KeywordDefinition.LightingFilter.DisplayName
-  Text: Lighting View
+  Text: 조명 뷰
 - Key: KeywordDefinition.LightingFilter.Description
-  Text: The Lighting View shows the amount of light in each room.
+  Text: 조명 뷰는 각 방의 조명 수준을 나타냅니다.
 - Key: KeywordDefinition.MinuteUnits.DisplayName
   Text: Minutes
 - Key: KeywordDefinition.MinuteUnits.Description
@@ -9655,47 +9655,47 @@
 - Key: KeywordDefinition.Fog.DisplayName
   Text: 안개
 - Key: KeywordDefinition.Fog.Description
-  Text: A deadly miasma from the depths of the dungeon. Each night, the Fog advances to consume the school. Performing a ritual to clear the <slink=ManaFont> will force the fog to retreat.
+  Text: 사악한 안개는 매일 저녁 학교로 가까워져 옵니다. <slink=ManaFont>에서 안개 추방 의식을 치르면 몰아낼 수 있습니다.
 - Key: KeywordDefinition.Rain.DisplayName
   Text: 빗물
 - Key: KeywordDefinition.Rain.Description
-  Text: Storms that occur from time to time. Objects that are exposed to the elements will take Durability damage and characters will get <slink=Wet>. Rain will seep through Floors, but is blocked by Roofs.
+  Text: 이 세계에는 때때로 폭풍우가 몰아칩니다. 비를 맞은 아이템과 가구는 데미지를 입고, 비를 맞은 마법사는 <slink=Wet> 상태를 얻습니다. 비는 지붕으로 막지 않으면 바닥을 뚫고 새어나갑니다.
 - Key: KeywordDefinition.Durability.DisplayName
   Text: 내구도
 - Key: KeywordDefinition.Durability.Description
-  Text: The condition of a furnishing or item. Furnishings with zero Durability must be fully repaired in order to be used. Other items are destroyed when they have zero Durability.
+  Text: 가구나 아이템에는 내구도가 있습니다. 내구도가 0이 된 가구는 완전히 수리되기 전에는 제 역할을 하지 못합니다. 내구도가 0이 된 아이템은 파괴됩니다.
 - Key: KeywordDefinition.Underschool.DisplayName
   Text: 지하세계
 - Key: KeywordDefinition.Underschool.Description
-  Text: A dangerous, mysterious realm underneath the school to explore, where one can find <slink=Underlords>.
+  Text: 학교 아래에는 위험하고 신비로운 지하세계가 도사리고 있습니다. <slink=Underlords>들을 마주칠지도 모릅니다.
 - Key: KeywordDefinition.Underlords.DisplayName
-  Text: Underlords
+  Text: 지하군주
 - Key: KeywordDefinition.Underlords.Description
-  Text: Powerful enemies in the Underschool that guard larger quantities of <slink=BookOfDreadPage>.
+  Text: 지하군주들은 지하 세계의 강력한 군주들로, 물리치면 대량의 <slink=BookOfDreadPage>를 보상으로 줍니다.
 - Key: KeywordDefinition.Research.DisplayName
   Text: 연구
 - Key: KeywordDefinition.Research.Description
-  Text: Investigate reagents to discover new furniture and crafting recipes.
+  Text: 마법 연구는 새로운 제작법과 가구를 해금시킵니다.
 - Key: KeywordDefinition.students.DisplayName
   Text: 학생
 - Key: KeywordDefinition.students.Description
-  Text: The lifeblood of your school. Teach them how to use magic and keep them safe from harm.
+  Text: 학생은 마법 학교의 생명입니다. 마법을 가르치고 위험에서 보호하세요.
 - Key: KeywordDefinition.storage.DisplayName
-  Text: Storage
+  Text: 저장소
 - Key: KeywordDefinition.storage.Description
-  Text: Storage furniture holds loose objects to keep rooms tidy.
+  Text: 아이템을 저장하기 위한 곳입니다.
 - Key: KeywordDefinition.reagents.DisplayName
   Text: 마법 재료
 - Key: KeywordDefinition.reagents.Description
-  Text: Useful objects for magical crafting.
+  Text: 마법 제작에 유용한 재료들입니다.
 - Key: KeywordDefinition.walls_alert.DisplayName
   Text: 벽
 - Key: KeywordDefinition.walls_alert.Description
-  Text: Place some Walls and start building your school.
+  Text: 벽을 배치하면 학교를 건설할 수 있습니다.
 - Key: KeywordDefinition.doors_hallways_alert.DisplayName
   Text: 문과 복도
 - Key: KeywordDefinition.doors_hallways_alert.Description
-  Text: Place some Doors or Hallways to allow passage through walls.
+  Text: 벽을 지나다니려면 문이나 복도가 필요합니다.
 - Key: KeywordDefinition.materials.DisplayName
   Text: 재료
 - Key: KeywordDefinition.materials.Description
@@ -9703,113 +9703,113 @@
 - Key: KeywordDefinition.meal.DisplayName
   Text: 식사
 - Key: KeywordDefinition.meal.Description
-  Text: Meals are used keep your characters fed. Be sure to always have some on hand.
+  Text: 식사는 마법사들이 배고픔을 채우는 데 필요합니다. 식량이 떨어지지 않게 주의하세요.
 - Key: KeywordDefinition.break.DisplayName
-  Text: Break
+  Text: 정신착란
 - Key: KeywordDefinition.break.Description
-  Text: A Mage may Break and act out severely if they have low Conviction. Mages suffer a <slink=MajorInjury> after Breaking.
+  Text: 마법사의 만족도가 낮아지면 정신착란을 일으킬 수 있습니다. 정신착란을 일으킨 마법사는 <slink=MajorInjury> 상태에 빠집니다.
 - Key: KeywordDefinition.Skill_Pyromancy.DisplayName
-  Text: 불
+  Text: 불꽃 마법
 - Key: KeywordDefinition.Skill_Pyromancy.Description
   Text: >-
-    Fire magic can be used in the school to <slink=JobType_Cook>, <slink=JobType_Hunting>, and <slink=JobType_Uproot> obstacles.
+    불꽃 마법은 <slink=JobType_Cook>, <slink=JobType_Hunting>, 그리고 <slink=JobType_Uproot> 작업에 쓰입니다.
 
-    In combat, Fire attacks are focused on high damage output, such as landing Critical Hits, but can be Mana-intensive to cast. Fire magic can also allow a Mage to retaliate when attacked by enemies.
+    전투에서 불꽃 마법은 높은 데미지를 가하는 데에 집중하지만, 그만큼 마나가 많이 듭니다. 불 마법은 적에게 데미지를 반사하는 데에도 쓰입니다.
 - Key: KeywordDefinition.Skill_Hydrokinesis.DisplayName
-  Text: 물
+  Text: 물 마법
 - Key: KeywordDefinition.Skill_Hydrokinesis.Description
   Text: >-
-    Water magic can be used in the school for <slink=JobType_Alchemy> and to <slink=JobType_Clean>, and mastery of Water is necessary for various healing rituals.
+    물 마법은 <slink=JobType_Alchemy>과 <slink=JobType_Clean> 작업에 쓰이며, 다양한 치유 의식에도 필요합니다.
 
-    In combat, Water attacks are somewhat weak and prefer being cast from the back row, but often lower the Attack and Speed of enemies. Water magic also excels at cleansing negative statuses from allies.
+    전투에서 물 마법은 상대적으로 약하고 후열에서 장점을 보이지만 상대의 공격력이나 속도를 낮출 수 있습니다. 물 마법은 아군의 상태이상을 제거하는 데에도 유용합니다.
 - Key: KeywordDefinition.Skill_Necromancy.DisplayName
-  Text: Dark
+  Text: 어둠 마법
 - Key: KeywordDefinition.Skill_Necromancy.Description
-  Text: "Dark magic can be used in the school to <slink=JobType_Quilting> and <slink=JobType_Ward>.\nIn combat, Dark magic allows the Mage to create <slink=Cover>, and to attack from the shadows for huge damage. Some Dark attacks hit many enemies, and are great for crowd control. "
+  Text: "어둠 마법은 <slink=JobType_Quilting>과 <slink=JobType_Ward> 작업에 사용됩니다.\n전투에서 어둠 마법은 <slink=Cover>를 제공하며, 어둠 속에서 큰 데미지를 가할 수 있습니다. 일부 어둠 마법은 여러 적을 공격하기도 합니다. "
 - Key: KeywordDefinition.Skill_Manipulation.DisplayName
-  Text: 공기
+  Text: 바람 마법
 - Key: KeywordDefinition.Skill_Manipulation.Description
   Text: >-
-    Air magic can be used in the school to <slink=JobType_Assemble>, <slink=JobType_Painting>, and <slink=JobType_Haul>.
+    바람 마법은 <slink=JobType_Assemble>, <slink=JobType_Painting>, 그리고 <slink=JobType_Haul> 작업에 사용됩니다.
 
-    In combat, Air attacks quickly and repeatedly, scaling well with Attack boosts. Air magic also can be used to put up Shields to block attacks or to Hasten allies, allowing them to act more frequently.
+    전투에서 바람 마법은 빠르고 연속적으로 공격하며, 공격력 강화와 좋은 시너지를 냅니다. 바람 마법은 적의 공격을 막는 실드를 제공하거나 아군의 속도를 높이는 데에도 쓰입니다.
 - Key: KeywordDefinition.Skill_Geomancy.DisplayName
-  Text: 대지
+  Text: 대지 마법
 - Key: KeywordDefinition.Skill_Geomancy.Description
   Text: >-
-    Earth magic can be used in the school to <slink=JobType_Construct>, <slink=JobType_Carving>, <slink=JobType_Mining>, and <slink=JobType_Repair>.
+    대지 마법은 <slink=JobType_Construct>, <slink=JobType_Carving>, <slink=JobType_Mining>, 그리고 <slink=JobType_Repair> 작업에 사용됩니다.
 
-    In combat, Earth attacks with powerful spells that are often even more powerful when cast at full HP. Earth magic can also let a Mage put up Armor to absorb blows and Taunt to goad enemies.
+    전투에서 대지 마법은 HP가 가득 차 있을 때 위력적인 기술들로 구성되어 있습니다. 대지 마법은 적의 공격을 막는 아머를 제공하고, 적을 도발하는 데에도 사용됩니다.
 - Key: KeywordDefinition.Skill_Divination.DisplayName
-  Text: 번개
+  Text: 번개 마법
 - Key: KeywordDefinition.Skill_Divination.Description
   Text: >-
-    Lightning magic can be used in the school to <slink=JobType_Charge>, <slink=JobType_Scrivening>, and <slink=JobType_Research>.
+    번개 마법은 <slink=JobType_Charge>, <slink=JobType_Scrivening>, 그리고 <slink=JobType_Research> 작업에 사용됩니다.
 
-    In combat, Lightning attacks are great at targeting specific foes, often slowing them in the process. Lightning magic also support allies with additional Mana and Speed.
+    전투에서 번개 마법은 특정 적을 공격하고, 적의 속도를 느리게 하는 것이 특기입니다. 번개 마법은 아군에게 추가 마나와 속도를 제공하기도 합니다.
 - Key: KeywordDefinition.Skill_Viturgy.DisplayName
-  Text: 자연
+  Text: 자연 마법
 - Key: KeywordDefinition.Skill_Viturgy.Description
   Text: >-
-    Nature magic can be used in the school to <slink=JobType_Harvest>, <slink=JobType_Tend>, <slink=JobType_Chop> and to craft <slink=JobType_Wandmaking>.
+    자연 마법은 <slink=JobType_Harvest>, <slink=JobType_Tend>, <slink=JobType_Chop> 그리고 <slink=JobType_Wandmaking> 작업에 사용됩니다.
 
-    In combat, Nature attacks can move enemies around and create Thorns to damage enemies passively. Nature magic is also great at boosting the Attack of allied Mages.
+    전투에서 자연 마법은 적의 위치를 바꾸거나 적에게 라운드당 데미지를 부여하는 가시덤불을 만들 수 있습니다. 자연 마법은 아군의 공격력을 높여 주기도 합니다.
 - Key: KeywordDefinition.Skill_None.DisplayName
-  Text: Any Skill
+  Text: 아무 마법
 - Key: KeywordDefinition.Skill_None.Description
-  Text: Any Skill can satisfy this requirement.
+  Text: 아무 마법이나 괜찮습니다.
 - Key: KeywordDefinition.Priority_Emergency.DisplayName
   Text: 긴급 우선순위
 - Key: KeywordDefinition.Priority_Emergency.Description
-  Text: This job will be prioritized over everything besides other Emergency Priority jobs, including Eating and Sleeping. Characters will be roused from their normal Sleep to perform these jobs.
+  Text: 이 작업은 다른 긴급 작업을 제외한 모든 작업보다 우선하여 수행될 것입니다. 마법사는 이 작업을 수행하는 동안 먹거나 자지 않을 것입니다. 마법사들은 이 작업을 수행하기 위해 잠에서 깰 것입니다.
 - Key: KeywordDefinition.Priority_Top.DisplayName
-  Text: Top Priority
+  Text: 최고 우선순위
 - Key: KeywordDefinition.Priority_Top.Description
-  Text: This job will be prioritized over Top and lower priority jobs. Characters will still choose to Eat or Sleep if it is <color=#FF0000>Critical</color>, but won't wake up to do these jobs.
+  Text: 이 작업은 최고 우선순위를 가지며, 높은 우선순위나 중간 우선순위 작업보다 우선됩니다. 이 작업을 수행하는 캐릭터는 <color=#FF0000>긴급한</color> 상태일 때만 먹거나 잘 것입니다. 마법사들은 이 작업을 수행하기 위해 잠에서 깨지 않습니다.
 - Key: KeywordDefinition.Priority_High.DisplayName
-  Text: High Priority
+  Text: 높은 우선순위
 - Key: KeywordDefinition.Priority_High.Description
-  Text: This job will be prioritized over Medium and lower priority jobs. Characters will still choose to Eat or Sleep if it is <color=#FFFF00>Urgent</color>, but won't wake up to do these jobs.
+  Text: 이 작업은 높은 우선순위를 가지며, 중간이나 낮은 우선순위 작업보다 우선됩니다. 이 작업을 수행하는 캐릭터는 <color=#FF0000>위급한</color> 상태일 때만 먹거나 잘 것입니다. 마법사들은 이 작업을 수행하기 위해 잠에서 깨지 않습니다.
 - Key: KeywordDefinition.Priority_Med.DisplayName
-  Text: Medium Priority
+  Text: 중간 우선순위
 - Key: KeywordDefinition.Priority_Med.Description
-  Text: The default priority of jobs.
+  Text: 기본 우선순위입니다.
 - Key: KeywordDefinition.Priority_Low.DisplayName
-  Text: Low Priority
+  Text: 낮은 우선순위
 - Key: KeywordDefinition.Priority_Low.Description
-  Text: 이 작업은 다른 모든 작업이 완료된 후에도 최후의 수단으로 수행됩니다.
+  Text: 이 작업은 모든 작업이 완료된 후에 따로 할 일이 없을 때에만 수행됩니다.
 - Key: KeywordDefinition.Priority_Never.DisplayName
-  Text: Will Not Do
+  Text: 금지
 - Key: KeywordDefinition.Priority_Never.Description
-  Text: The job will never be performed.
+  Text: 이 작업은 절대 진행되지 않습니다.
 - Key: KeywordDefinition.NeedLevel_Critical.DisplayName
-  Text: Critical
+  Text: 긴급
 - Key: KeywordDefinition.NeedLevel_Critical.Description
-  Text: This need is causing severe Sanity decrease.
+  Text: 이 욕구가 충족되지 않아서 만족도가 심각하게 떨어졌습니다.
 - Key: KeywordDefinition.NeedLevel_Warning.DisplayName
-  Text: Warning
+  Text: 위험
 - Key: KeywordDefinition.NeedLevel_Warning.Description
-  Text: This need is causing Sanity decrease.
+  Text: 이 욕구가 충족되지 않아서 만족도가 떨어졌습니다.
 - Key: KeywordDefinition.NeedLevel_Normal.DisplayName
-  Text: Normal
+  Text: 보통
 - Key: KeywordDefinition.NeedLevel_Normal.Description
   Text: Not Used
 - Key: KeywordDefinition.NeedLevel_Positive.DisplayName
-  Text: Positive
+  Text: 긍정적
 - Key: KeywordDefinition.NeedLevel_Positive.Description
-  Text: This need is well served and increasing Sanity.
+  Text: 이 욕구가 잘 충족되어서 만족도가 올라갔습니다.
 - Key: KeywordDefinition.NeedLevel_VeryPositive.DisplayName
-  Text: Very Positive
+  Text: 매우 긍정적
 - Key: KeywordDefinition.NeedLevel_VeryPositive.Description
-  Text: This need is extremely well served and dramatically increasing Sanity.
+  Text: 이 욕구가 아주 잘 충족되어서 만족도가 크게 올라갔습니다.
 - Key: KeywordDefinition.NeedLevelSatisfyRule_MustSatisfy.DisplayName
-  Text: Must Satisfy
+  Text: 충족되어야 함
 - Key: KeywordDefinition.NeedLevelSatisfyRule_MustSatisfy.Description
-  Text: Will ignore priority and schedule to satisfy this need.
+  Text: 우선순위를 무시하고 이 욕구를 충족시키기 위해 행동할 것입니다.
 - Key: KeywordDefinition.NeedLevelSatisfyRule_NeverSatisfy.DisplayName
-  Text: 절대 만족하지 않음
+  Text: 충족 금지
 - Key: KeywordDefinition.NeedLevelSatisfyRule_NeverSatisfy.Description
-  Text: Will not satisfy this need.
+  Text: 이 욕구를 충족하지 않을 것입니다.
 - Key: KeywordDefinition.NeedLevelSatisfyRule_SatisfyDungeonParty.DisplayName
   Text: Satisfy Dungeon Party
 - Key: KeywordDefinition.NeedLevelSatisfyRule_SatisfyDungeonParty.Description
@@ -9829,195 +9829,195 @@
 - Key: KeywordDefinition.HP.DisplayName
   Text: HP
 - Key: KeywordDefinition.HP.Description
-  Text: If a Mage loses all of their Health Points in battle, they will suffer a <slink=MajorInjury> and be knocked out. Mages can sometimes gain more max HP via earning certain Badges. HP recovers in a <slink=HospitalBed> or by drinking a Health Potion.
+  Text: 마법사가 전투에서 HP를 모두 잃으면, <slink=MajorInjury> 상태를 얻고 기절합니다. 특정 메달은 최대 HP를 높여 주기도 합니다. HP는 <slink=HospitalBed>에서 회복하거나 체력 회복 물약을 마셔서 회복할 수 있습니다.
 - Key: KeywordDefinition.TempHP.DisplayName
   Text: 아머
 - Key: KeywordDefinition.TempHP.Description
-  Text: Armor grants a pool of temporary HP that is depleted before the Mage's main HP pool.
+  Text: 아머는 마법사의 HP가 깎이는 것을 방어해 주는 임시 HP입니다.
 - Key: KeywordDefinition.Shield.DisplayName
   Text: 막음
 - Key: KeywordDefinition.Shield.Description
-  Text: A Shield prevents all damage from the next time a Mage is attacked in battle.
+  Text: 실드는 다음 공격 한 번을 완전히 막아 줍니다.
 - Key: KeywordDefinition.Taunt.DisplayName
-  Text: Taunt
+  Text: 도발
 - Key: KeywordDefinition.Taunt.Description
-  Text: 도발은 다음 번에 적이 차례에 공격을 가해 마법사를 목표로 삼을 수 있도록 합니다.
+  Text: 도발은 다음 차례에 공격하는 적이 이 마법사를 목표로 하도록 합니다.
 - Key: KeywordDefinition.Mana.DisplayName
   Text: 마나
 - Key: KeywordDefinition.Mana.Description
-  Text: Mana is a character's magical energy that is spent when casting a spell. Restore mana at a Mana Lantern, at the Mana Font, or by sleeping. Mages can sometimes gain more max Mana via earning certain Badges.
+  Text: 마나는 마법사가 마법을 시전할 때 쓰이는 마법의 힘입니다. 마나 등불이나 마나 우물에 접촉하거나, 수면함으로서 마나를 회복할 수 있습니다. 특정 메달은 최대 마나를 높여 주기도 합니다.
 - Key: KeywordDefinition.SkillPassion.DisplayName
   Text: 재능
 - Key: KeywordDefinition.SkillPassion.Description
-  Text: Having a Gift grants extra starting Skill levels and makes higher Skill levels faster to obtain.
+  Text: 재능있는 마법사는 시작 스킬 레벨이 높으며, 배우는 속도도 빠릅니다.
 - Key: KeywordDefinition.Quilted.DisplayName
   Text: 누더기
 - Key: KeywordDefinition.Quilted.Description
-  Text: Helpful creatures stitched together from pieces of the dead. Created by Mages using <slink=JobType_Quilting> to perform tasks.
+  Text: 시체 조각으로부터 만들어진 유용한 생명체들입니다. 청소, 운반 등 다양한 작업을 수행할 수 있습니다. <slink=JobType_Quilting>을 통해 만들 수 있습니다.
 - Key: KeywordDefinition.CombatStat_DamageBonus.DisplayName
-  Text: Power
+  Text: 마력
 - Key: KeywordDefinition.CombatStat_DamageBonus.Description
   Text: 공격 주문에 추가 데미지가 더해집니다.
 - Key: KeywordDefinition.CombatStat_CombatSpeed.DisplayName
   Text: 속도
 - Key: KeywordDefinition.CombatStat_CombatSpeed.Description
-  Text: Speed determines combat order. A higher Speed stat will allow a Mage to act earlier each round of a battle.
+  Text: 속도는 전투 순서를 결정합니다. 높은 속도를 가진 마법사가 전투에서 더 일찍 행동합니다.
 - Key: KeywordDefinition.CriticalHit.DisplayName
-  Text: Critical Hit
+  Text: 치명타
 - Key: KeywordDefinition.CriticalHit.Description
-  Text: A spell that deals a Critical Hit will deal double damage.
+  Text: 치명타가 발생하면 데미지가 두 배가 됩니다.
 - Key: KeywordDefinition.Dead.DisplayName
   Text: 죽음
 - Key: KeywordDefinition.Dead.Description
-  Text: This Mage has died and needs to be buried in a <slink=Grave>.
+  Text: 이 마법사는 죽었습니다. <slink=Grave>에 묻어야 합니다.
 - Key: KeywordDefinition.Buried.DisplayName
-  Text: 묻기
+  Text: 묻힘
 - Key: KeywordDefinition.Buried.Description
-  Text: This Mage has been buried and needs a <slink=Funeral> at their <slink=Grave>.
+  Text: 이 마법사는 무덤에 묻혔습니다. <slink=Grave>에서 <slink=Funeral>을 치러야 합니다.
 - Key: KeywordDefinition.CombatStat_DodgeChance.DisplayName
   Text: 회피
 - Key: KeywordDefinition.CombatStat_DodgeChance.Description
-  Text: Dodge percent represents a Mage's odds to dodge incoming attacks.
+  Text: 회피 확률에 따라 적의 공격을 피할 수 있습니다.
 - Key: KeywordDefinition.CombatStat_Retaliation.DisplayName
-  Text: 마나 회복
+  Text: 보복
 - Key: KeywordDefinition.CombatStat_Retaliation.Description
-  Text: When attacked, a Mage with Retaliate will damage the attacker.
+  Text: 공격당하면 보복 수치에 따라 공격한 적에게 데미지를 가합니다.
 - Key: KeywordDefinition.Refining_Beast.DisplayName
-  Text: Refining Beast
+  Text: 제련 괴물
 - Key: KeywordDefinition.Refining_Beast.Description
-  Text: A creature that serves wizards by transforming reagents. They may need to be hatched, and may require food, affection, or other magical care to do so.
+  Text: 자원을 새로운 재료로 바꿈으로서 마법사를 돕는 생물들입니다. 알에서 부화시켜야 할 때도 있습니다. 학생들이 먹이와 관심을 주고 돌봐 주어야 합니다.
 - Key: KeywordDefinition.Nightmares.DisplayName
   Text: 악몽
 - Key: KeywordDefinition.Nightmares.Description
-  Text: 마법의 악몽은 위험하고 <slink=MajorInjury> 때로는 학생과 다른 사람들에게 더 위험한 영향을 미칩니다.
+  Text: 마법사의 악몽은 위험합니다. 마법사들에게 <slink=MajorInjury> 상태를 부여하거나 더 위험한 효과를 일으킵니다.
 - Key: KeywordDefinition.LesserWand.DisplayName
   Text: 지팡이
 - Key: KeywordDefinition.LesserWand.Description
-  Text: Used by wizards to cast spells. Permanently binds to its destined student.
+  Text: 마법사들이 주문을 시전하기 위해 필요합니다. 주인에게 영원히 귀속됩니다.
 - Key: KeywordDefinition.Filth.DisplayName
-  Text: Filth
-- Key: KeywordDefinition.Filth.Description
-  Text: Disgusting fluids and debris created by cooking, crafting, and some creatures. <slink=JobType_Clean> to remove.
-- Key: KeywordDefinition.Clutter.DisplayName
   Text: 쓰레기
+- Key: KeywordDefinition.Filth.Description
+  Text: 요리나 제작, 다른 활동으로 인해 생겨난 역겨운 흔적입니다. <slink=JobType_Clean>를 통해 치울 수 있습니다.
+- Key: KeywordDefinition.Clutter.DisplayName
+  Text: 잡동사니
 - Key: KeywordDefinition.Clutter.Description
-  Text: Items left about on the floor. Build storage and <slink=JobType_Haul> the items away.
+  Text: 바닥에 널브러진 아이템들입니다. 저장소를 짓고 <slink=JobType_Haul>을 통해 아이템을 저장하세요.
 - Key: KeywordDefinition.Shop_Construction.DisplayName
   Text: 건설
 - Key: KeywordDefinition.Shop_Construction.Description
-  Text: Blocks to build your school.
+  Text: 학교를 건설하기 위한 블록들입니다.
 - Key: KeywordDefinition.Shop_Furniture.DisplayName
   Text: 가구
 - Key: KeywordDefinition.Shop_Furniture.Description
-  Text: Miscellaneous indoor furniture.
+  Text: 다양한 가구입니다.
 - Key: KeywordDefinition.Shop_Crafting.DisplayName
-  Text: 제작 중
+  Text: 제작
 - Key: KeywordDefinition.Shop_Crafting.Description
-  Text: 가구는 제작과 refining에 쓰입니다.
+  Text: 제작에 쓰이는 시설입니다.
 - Key: KeywordDefinition.Shop_Teaching.DisplayName
-  Text: Teaching
+  Text: 교육
 - Key: KeywordDefinition.Shop_Teaching.Description
-  Text: Furniture for classrooms.
+  Text: 교육을 위한 시설입니다.
 - Key: KeywordDefinition.Shop_Lighting.DisplayName
   Text: 조명
 - Key: KeywordDefinition.Shop_Lighting.Description
-  Text: Lights and windows.
+  Text: 조명과 창문입니다.
 - Key: KeywordDefinition.Shop_Storage.DisplayName
-  Text: Storage
+  Text: 저장소
 - Key: KeywordDefinition.Shop_Storage.Description
-  Text: Storage for loose objects in your school.
+  Text: 아이템을 저장하기 위한 곳입니다.
 - Key: KeywordDefinition.Shop_Garden.DisplayName
   Text: 정원
 - Key: KeywordDefinition.Shop_Garden.Description
-  Text: Furniture meant to go outdoors.
+  Text: 야외에 놓는 시설입니다.
 - Key: KeywordDefinition.Shop_Recreation.DisplayName
   Text: 휴식
 - Key: KeywordDefinition.Shop_Recreation.Description
-  Text: Relaxation options to raise the <slink=Mood> of your Mages.
+  Text: <slink=Mood>를 올리기 위한 휴식 시설입니다.
 - Key: KeywordDefinition.Shop_Decorations.DisplayName
   Text: 장식
 - Key: KeywordDefinition.Shop_Decorations.Description
-  Text: Finery that increases the <slink=Luxury> of your school.
+  Text: <slink=Luxury>을 올리기 위한 장식물입니다.
 - Key: KeywordDefinition.Shop_Shrinks.DisplayName
-  Text: 축소
+  Text: 축소물
 - Key: KeywordDefinition.Shop_Shrinks.Description
-  Text: Furniture made miniature by Air magic.
+  Text: 바람 마법으로 소형화된 가구들입니다.
 - Key: KeywordDefinition.CombatSpells.DisplayName
   Text: 전투 주문
 - Key: KeywordDefinition.CombatSpells.Description
-  Text: Spells used by Mages to defend themselves in battles. Each Skill has multiple Combat Spells to unlock which become more powerful as the Mage gains Skill.
+  Text: 마법사들이 전투에서 사용하는 주문입니다. 마법사들의 스킬 레벨이 올라갈수록 더 다양하고 강력한 전투 주문을 사용할 수 있습니다.
 - Key: KeywordDefinition.Grave.DisplayName
-  Text: Grave
+  Text: 무덤
 - Key: KeywordDefinition.Grave.Description
-  Text: Dead Mages can be laid to rest in a Grave. Holding a Funeral at some Graves merely allows the Mage within to rest in peace, while others will allow a particular type of <slink=Spirit> to arrive to help your school each night. All Graves will also grow a <slink=HallowlilyPlant> after a Funeral is held there.
+  Text: 죽은 마법사들은 무덤에서 영원한 휴식을 취합니다. 무덤에서 장례식을 치르면 무덤의 종류에 따라 <slink=Spirit>이 나타나 마법사들을 도와 주기도 합니다. 장례식이 치러진 모든 무덤에서는 <slink=HallowlilyPlant>이 자랍니다.
 - Key: KeywordDefinition.Ghost.DisplayName
-  Text: Ghost
+  Text: 유령
 - Key: KeywordDefinition.Ghost.Description
-  Text: A Ghost is a permanent apparition that exists at all times, as long as its Grave is not covered by the <slink=Fog>. Ghosts act as Staff for your school.
+  Text: 유령은 무덤이 <slink=Fog>에 덮이지 않은 이상 언제나 존재합니다. 그들은 학교의 교사로서 근무할 수 있습니다.
 - Key: KeywordDefinition.Spirit.DisplayName
-  Text: 정신
+  Text: 영혼
 - Key: KeywordDefinition.Spirit.Description
-  Text: A Spirit is a temporary apparition that appears for a short while at night, as long as its Grave is not covered by the <slink=Fog>. Spirits have different purposes depending on the Grave in which their body was interred.
+  Text: 영혼은 무덤이 <slink=Fog>에 덮이지 않은 상태에서는 밤마다 나타납니다. 무덤의 종류에 따라 각기 다른 역할을 합니다.
 - Key: KeywordDefinition.SpectralCreature.DisplayName
-  Text: Spectral Creature
+  Text: 유령 생명체
 - Key: KeywordDefinition.SpectralCreature.Description
-  Text: Spectral Creatures appear at night from wild animal corpses. They can be dispelled by a <slink=Snaptrap>.
+  Text: 유령 생명체는 야생 동물의 시체에서 밤마다 나타납니다. <slink=Snaptrap>을 통해 쫓아낼 수 있습니다.
 - Key: KeywordDefinition.Funeral.DisplayName
-  Text: Funeral
+  Text: 장례식
 - Key: KeywordDefinition.Funeral.Description
-  Text: Holding a <slink=Funeral> for a deceased Mages allows them to rest in peace. A <slink=HallowlilyPlant> grows on their Grave and can be harvested. Additionally, fancier Graves will occasionally allow a <slink=Spirit> to appear and assist your school.
+  Text: <slink=Funeral>을 치르면 죽은 마법사가 영면에 들 수 있습니다. 장례식이 치러진 무덤에서는 <slink=HallowlilyPlant>이 자랍니다. 고급 무덤에서는 <slink=Spirit>이 나타나 마법사들을 돕습니다.
 - Key: KeywordDefinition.MagicalStability.DisplayName
-  Text: Magical Stability
+  Text: 마법적 안정성
 - Key: KeywordDefinition.MagicalStability.Description
-  Text: Mages with high magical potential have lower magical stability, giving them permanently lowered <slink=Mood>. They'll need many sources of positive Conviction like Recreation or fancier eating, dining, and sleeping quarters.
+  Text: 좋은 마법 재능을 가진 마법사들은 마법적 안정성이 낮아 <slink=Mood>가 낮습니다. 휴식이나 좋은 식사, 좋은 침실이나 식당을 통해 만족도를 높여 주어야 합니다.
 - Key: KeywordDefinition.Stun.DisplayName
-  Text: Stun
+  Text: 스턴
 - Key: KeywordDefinition.Stun.Description
-  Text: Stunned Mages have their <slink=CombatStat_CombatSpeed> severely lowered.
+  Text: 스턴 상태의 마법사는 <slink=CombatStat_CombatSpeed>가 크게 낮아집니다.
 - Key: KeywordDefinition.DeathSave.DisplayName
-  Text: Death Save
+  Text: 소생 횟수
 - Key: KeywordDefinition.DeathSave.Description
-  Text: A Death Save prevents Mages from dying when suffering a <slink=MajorInjury>. Earning <slink=Medallions> grants +1 Max Death Save.
+  Text: 소생 횟수는 <slink=MajorInjury> 상태의 마법사가 죽는 것을 막아 줍니다. <slink=Medallions> 하나마다 소생 횟수가 +1 추가됩니다.
 - Key: KeywordDefinition.MajorInjury.DisplayName
   Text: 트라우마
 - Key: KeywordDefinition.MajorInjury.Description
-  Text: A long-lasting limitation incurred when a Mage reaches 0 <slink=HP> or has a <slink=break>. If a Mage recieves a <slink=MajorInjury> and has no Death Saves, they die.
+  Text: 마법사가 0<slink=HP>가 되거나 <slink=break>을 겪을 때 받는 장기적인 상태이상입니다. 마법사가 <slink=MajorInjury> 상태가 되었을 때 소생 횟수가 남아 있지 않다면 죽습니다.
 - Key: KeywordDefinition.Retaliate.DisplayName
-  Text: 마나 회복
+  Text: 보복
 - Key: KeywordDefinition.Retaliate.Description
-  Text: When attacked, a Mage with Retaliate will damage the attacker.
+  Text: 공격당하면 보복 수치에 따라 공격한 적에게 데미지를 가합니다.
 - Key: KeywordDefinition.Cover.DisplayName
-  Text: Cover
+  Text: 장막
 - Key: KeywordDefinition.Cover.Description
-  Text: When attacked, a Mage with Cover has a chance to dodge the attack.
+  Text: 공격당했을 때 회피할 확률이 올라갑니다.
 - Key: KeywordDefinition.Chain.DisplayName
-  Text: Chain
+  Text: 연쇄
 - Key: KeywordDefinition.Chain.Description
-  Text: Spells with Chain will jump to attack another enemy for the same amount of damage. Spells with Chain also cannot be dodged.
+  Text: 연쇄가 붙은 공격은 동일 데미지로 다른 적을 연속 타격합니다. 연쇄가 붙은 공격은 회피할 수 없습니다.
 - Key: KeywordDefinition.Dodge.DisplayName
   Text: 회피
 - Key: KeywordDefinition.Dodge.Description
-  Text: Dodge percent represents a Mage's odds to dodge incoming attacks.
+  Text: 회피 확률에 따라 적의 공격을 피할 수 있습니다.
 - Key: KeywordDefinition.Luxury.DisplayName
   Text: 화려함
 - Key: KeywordDefinition.Luxury.Description
-  Text: Fancy decorative objects grant Luxury to a Room, while unsightly things like filth will remove Luxury. Some roomtypes require high Luxury to be created.
+  Text: 화려한 장식품은 방에 화려함을 더해주고, 보기 싫은 물건들은 화려함을 낮춥니다. 일부 방 타입은 특정 값 이상의 화려함을 요구합니다.
 - Key: KeywordDefinition.Badges.DisplayName
-  Text: Medallions
+  Text: 메달
 - Key: KeywordDefinition.Badges.Description
-  Text: Students can complete Trials to earn Medallions that represent the inner growth of a Student. Each Medallion unlocks additional power for a Student.
+  Text: 학생들은 과제를 완수하고 메달을 받을 수 있습니다. 이는 학생들의 내면의 성장을 뜻합니다. 각 메달은 학생들에게 추가적인 능력을 부여합니다.
 - Key: KeywordDefinition.Trials.DisplayName
-  Text: Trials
+  Text: 과제
 - Key: KeywordDefinition.Trials.Description
-  Text: Students can complete Trials to earn <slink=Medallions> that represent the inner growth of a Student. Each Medallion unlocks additional power for a Student.
+  Text: 학생들은 과제를 완수하고 <slink=Medallions>을 받을 수 있습니다. 이는 학생들의 내면의 성장을 뜻합니다. 각 메달은 학생들에게 추가적인 능력을 부여합니다.
 - Key: KeywordDefinition.Disapparated.DisplayName
-  Text: Disapparated
+  Text: 사라짐
 - Key: KeywordDefinition.Disapparated.Description
-  Text: <slink=FounderGrave> is covered by Fog or shrunken. Place the Grave in the world or Repel the Fog to re-apparate the Founder.
+  Text: <slink=FounderGrave>이 안개에 뒤덮혔거나 축소되어 있습니다. 무덤에서 안개를 몰아내거나 무덤을 땅 위에 배치하여 창립자를 다시 불러내세요.
 - Key: KeywordDefinition.Center.DisplayName
-  Text: Center
+  Text: 중심
 - Key: KeywordDefinition.Center.Description
-  Text: 센터는 마법과 관련된 마법의 내면을 나타냅니다.
+  Text: 중심은 마법사의 내면의 중심을 뜻합니다.
 - Key: KeywordDefinition.CursedCanvases.DisplayName
   Text: 저주받은 캔버스
 - Key: KeywordDefinition.CursedCanvases.Description
@@ -10471,9 +10471,9 @@
 - Key: GlobalEventDefinition.TestGhost1.TriggeredEventDisplayText
   Text: 횃불소등자가 풀려났습니다!
 - Key: GlobalEventDefinition.TestGhost1.EventPersistLog
-  Text: 횃불소등자가 홀을 배회합니다.
+  Text: 횃불소등자가 학교를 배회합니다.
 - Key: GlobalEventDefinition.TestGhost1.EventStopLog
-  Text: 횃불소등자는 떠났습니다.
+  Text: 횃불소등자가 떠났습니다.
 - Key: GlobalEventDefinition.TestGhost1.EventLogHover
   Text: <slink=TorchBoggarts>
 - Key: GlobalEventDefinition.TestGhost1_Tier2.EventDisplayName
@@ -10481,9 +10481,9 @@
 - Key: GlobalEventDefinition.TorchSnuffer_Tier2.TriggeredEventDisplayText
   Text: 강한 횃불소등자가 풀려났습니다!
 - Key: GlobalEventDefinition.TestGhost1_Tier2.EventPersistLog
-  Text: 횃불소등자가 홀을 배회합니다.
+  Text: 횃불소등자가 학교를 배회합니다.
 - Key: GlobalEventDefinition.TestGhost1_Tier2.EventStopLog
-  Text: 횃불소등자는 떠났습니다.
+  Text: 횃불소등자가 떠났습니다.
 - Key: GlobalEventDefinition.TestGhost1_Tier2.EventLogHover
   Text: <slink=TorchBoggarts>
 - Key: GlobalEventDefinition.TestGhost1_Tier3.EventDisplayName
@@ -10491,9 +10491,9 @@
 - Key: GlobalEventDefinition.TorchSnuffer_Tier3.TriggeredEventDisplayText
   Text: 매우 강한 횃불소등자가 풀려났습니다!
 - Key: GlobalEventDefinition.TestGhost1_Tier3.EventPersistLog
-  Text: 횃불소등자가 홀을 배회합니다.
+  Text: 횃불소등자가 학교를 배회합니다.
 - Key: GlobalEventDefinition.TestGhost1_Tier3.EventStopLog
-  Text: 횃불소등자는 떠났습니다.
+  Text: 횃불소등자가 떠났습니다.
 - Key: GlobalEventDefinition.TestGhost1_Tier3.EventLogHover
   Text: <slink=TorchBoggarts>
 - Key: GlobalEventDefinition.TestGhost2.EventDisplayName
@@ -10501,9 +10501,9 @@
 - Key: GlobalEventDefinition.TestGhost2.TriggeredEventDisplayText
   Text: 상자파괴자가 풀려났습니다!
 - Key: GlobalEventDefinition.TestGhost2.EventPersistLog
-  Text: 상자파괴자가 홀을 배회합니다.
+  Text: 상자파괴자가 학교를 배회합니다.
 - Key: GlobalEventDefinition.TestGhost2.EventStopLog
-  Text: 상자파괴자는 떠났습니다.
+  Text: 상자파괴자가 떠났습니다.
 - Key: GlobalEventDefinition.TestGhost2.EventLogHover
   Text: <slink=StoragePoltergeists>
 - Key: GlobalEventDefinition.TestGhost2_Tier2.EventDisplayName
@@ -10511,9 +10511,9 @@
 - Key: GlobalEventDefinition.ChestSmasher_Tier2.TriggeredEventDisplayText
   Text: 강한 상자파괴자가 풀려났습니다!
 - Key: GlobalEventDefinition.TestGhost2_Tier2.EventPersistLog
-  Text: 상자파괴자가 홀을 배회합니다.
+  Text: 상자파괴자가 학교를 배회합니다.
 - Key: GlobalEventDefinition.TestGhost2_Tier2.EventStopLog
-  Text: 상자파괴자는 떠났습니다.
+  Text: 상자파괴자가 떠났습니다.
 - Key: GlobalEventDefinition.TestGhost2_Tier2.EventLogHover
   Text: <slink=StoragePoltergeists>
 - Key: GlobalEventDefinition.TestGhost2_Tier3.EventDisplayName
@@ -10521,9 +10521,9 @@
 - Key: GlobalEventDefinition.ChestSmasher_Tier3.TriggeredEventDisplayText
   Text: 매우 강한 상자파괴자가 풀려났습니다!
 - Key: GlobalEventDefinition.TestGhost2_Tier3.EventPersistLog
-  Text: 상자파괴자가 홀을 배회합니다.
+  Text: 상자파괴자가 학교를 배회합니다.
 - Key: GlobalEventDefinition.TestGhost2_Tier3.EventStopLog
-  Text: 상자파괴자는 떠났습니다.
+  Text: 상자파괴자가 떠났습니다.
 - Key: GlobalEventDefinition.TestGhost2_Tier3.EventLogHover
   Text: <slink=StoragePoltergeists>
 - Key: GlobalEventDefinition.TestGhost3.EventDisplayName
@@ -10531,9 +10531,9 @@
 - Key: GlobalEventDefinition.TestGhost3.TriggeredEventDisplayText
   Text: 진흙배회자가 풀려났습니다!
 - Key: GlobalEventDefinition.TestGhost3.EventPersistLog
-  Text: 진흙배회자가 홀을 배회합니다.
+  Text: 진흙배회자가 학교를 배회합니다.
 - Key: GlobalEventDefinition.TestGhost3.EventStopLog
-  Text: 진흙배회자는 떠났습니다.
+  Text: 진흙배회자가 떠났습니다.
 - Key: GlobalEventDefinition.TestGhost3.EventLogHover
   Text: <slink=FilthyAkanames>
 - Key: GlobalEventDefinition.TestGhost3_Tier2.EventDisplayName
@@ -10541,9 +10541,9 @@
 - Key: GlobalEventDefinition.MessyMeddler_Tier2.TriggeredEventDisplayText
   Text: 강한 진흙배회자가 풀려났습니다!
 - Key: GlobalEventDefinition.TestGhost3_Tier2.EventPersistLog
-  Text: 진흙배회자가 홀을 배회합니다.
+  Text: 진흙배회자가 학교를 배회합니다.
 - Key: GlobalEventDefinition.TestGhost3_Tier2.EventStopLog
-  Text: 진흙배회자는 떠났습니다.
+  Text: 진흙배회자가 떠났습니다.
 - Key: GlobalEventDefinition.TestGhost3_Tier2.EventLogHover
   Text: <slink=FilthyAkanames>
 - Key: GlobalEventDefinition.TestGhost3_Tier3.EventDisplayName
@@ -10551,9 +10551,9 @@
 - Key: GlobalEventDefinition.MessyMeddler_Tier3.TriggeredEventDisplayText
   Text: 매우 강한 진흙배회자가 풀려났습니다!
 - Key: GlobalEventDefinition.TestGhost3_Tier3.EventPersistLog
-  Text: 진흙배회자가 홀을 배회합니다.
+  Text: 진흙배회자가 학교를 배회합니다.
 - Key: GlobalEventDefinition.TestGhost3_Tier3.EventStopLog
-  Text: 진흙배회자는 떠났습니다.
+  Text: 진흙배회자가 떠났습니다.
 - Key: GlobalEventDefinition.TestGhost3_Tier3.EventLogHover
   Text: <slink=FilthyAkanames>
 - Key: GlobalEventDefinition.TestGhost4.EventDisplayName
@@ -10857,41 +10857,41 @@
 - Key: RecipeDefinition.HealthPotionRecipe.DisplayName
   Text: 회춘의 물약
 - Key: RecipeDefinition.ManaPotionRecipe.DisplayName
-  Text: Potion of Recharging
+  Text: 충전의 물약
 - Key: RecipeDefinition.BraveryPotionRecipe.DisplayName
-  Text: 용감한 물약
+  Text: 용기의 물약
 - Key: RecipeDefinition.RevivalPotionRecipe.DisplayName
-  Text: 리바이벌 플라스크
+  Text: 부활 물약
 - Key: RecipeDefinition.StunFlaskRecipe.DisplayName
-  Text: 병 속의 번개
+  Text: 병에 든 번개
 - Key: RecipeDefinition.MiasmaFlaskRecipe.DisplayName
-  Text: 경련 플라스크
+  Text: 경련 물약
 - Key: RecipeDefinition.GreaterHealthPotionRecipe.DisplayName
-  Text: Potion of Greater Rejuvenation
+  Text: 고급 회춘의 물약
 - Key: RecipeDefinition.GreaterManaPotionRecipe.DisplayName
-  Text: 더 큰 재충전의 물약
+  Text: 고급 충전의 물약
 - Key: RecipeDefinition.CalmingPotionRecipe.DisplayName
-  Text: Calming Potion
+  Text: 진정 물약
 - Key: RecipeDefinition.DragonfireFlaskRecipe.DisplayName
-  Text: 드래곤 파이어 플라스크
+  Text: 용의 숨결 물약
 - Key: RecipeDefinition.EnshroudingPotionRecipe.DisplayName
-  Text: Enshrouding Flask
+  Text: 장막 물약
 - Key: RecipeDefinition.PotionOfStrengthRecipe.DisplayName
-  Text: Potion of Strength
+  Text: 힘의 물약
 - Key: RecipeDefinition.HastePotionRecipe.DisplayName
-  Text: Hastening Potion
+  Text: 속도의 물약
 - Key: RecipeDefinition.PotionOfRetaliationRecipe.DisplayName
-  Text: Potion of Retaliation
+  Text: 복수의 물약
 - Key: RecipeDefinition.EarthArmorPotionRecipe.DisplayName
-  Text: Earth Guardian's Potion
+  Text: 대지 수호자의 물약
 - Key: RecipeDefinition.CheerfulnessPotionRecipe.DisplayName
-  Text: Cheerfulness Potion
+  Text: 행복의 물약
 - Key: RecipeDefinition.StationDebugAlchemy1.DisplayName
   Text: Debug Alchemy 1
 - Key: RecipeDefinition.StationDebugAlchemy2.DisplayName
   Text: Debug Alchemy 2
 - Key: RecipeDefinition.UntanglingPotionRecipe.DisplayName
-  Text: Untangling Potion
+  Text: 속박 해제 물약
 - Key: RecipeDefinition.Fire_1_Recipe.DisplayName
   Text: 불꽃 지팡이 - 티어 1
 - Key: RecipeDefinition.Water_1_Recipe.DisplayName
@@ -10969,13 +10969,13 @@
 - Key: RecipeDefinition.RecycledQuiltedMinerRecipe.DisplayName
   Text: 재활용된 누더기 광부
 - Key: RecipeDefinition.QuiltedFertilizerRecipe.DisplayName
-  Text: Quilted Fertilizer
+  Text: 누더기 정원사
 - Key: RecipeDefinition.RecycledFertilizerRecipe.DisplayName
-  Text: Recycled Quilted Fertilizer
+  Text: 재활용된 누더기 정원사
 - Key: RecipeDefinition.QuiltedHarvesterRecipe.DisplayName
-  Text: Quilted Harvester
+  Text: 누더기 수확꾼
 - Key: RecipeDefinition.RecycledGardenerRecipe.DisplayName
-  Text: Recycled Quilted Harvester
+  Text: 재활용된 누더기 수확꾼
 - Key: RecipeDefinition.SpindleDebugQuilting1.DisplayName
   Text: Debug Quilting 1
 - Key: RecipeDefinition.SpindleDebugQuilting2.DisplayName
@@ -11446,20 +11446,20 @@
   Text: 사냥
 - Key: JobTypeDefinition.JobType_Hunting.Description
   Text: >-
-    Hunt wild creatures for resources.
+    야생 동물을 사냥해 자원을 얻습니다.
 
-    Can do Task: Staff
+    작업 가능: 교사
 - Key: JobTypeDefinition.JobType_Healing.DisplayName
-  Text: Aid
+  Text: 치료
 - Key: JobTypeDefinition.JobType_Healing.Description
   Text: >-
-    Remove dangerous statuses from characters and administer potions.
+    상태 이상을 제거하고 물약을 처방합니다.
 
-    Can do Task: Staff
+    작업 가능: 교사
 - Key: JobTypeDefinition.JobType_Dining.DisplayName
   Text: 식사 중
 - Key: JobTypeDefinition.JobType_Dining.Description
-  Text: Time to eat
+  Text: 식사 시간
 - Key: JobTypeDefinition.JobType_Gearmaking.DisplayName
   Text: 장비
 - Key: JobTypeDefinition.JobType_Gearmaking.Description
@@ -11489,80 +11489,80 @@
 - Key: JobTypeDefinition.JobType_RestockInventory.DisplayName
   Text: 재고 채우기
 - Key: JobTypeDefinition.JobType_RestockInventory.Description
-  Text: Restock inventory.
+  Text: 재고 채우기
 - Key: JobTypeDefinition.JobType_OpenBlockers.DisplayName
   Text: 탐험
 - Key: JobTypeDefinition.JobType_OpenBlockers.Description
-  Text: Explore dungeons and fight battles.
+  Text: 던전을 탐험하고 전투합니다.
 - Key: JobTypeDefinition.JobType_Alarm.DisplayName
-  Text: Alarm
+  Text: 알람
 - Key: JobTypeDefinition.JobType_Alarm.Description
-  Text: Respond to alarms.
+  Text: 알람을 확인합니다.
 - Key: JobTypeDefinition.JobType_Danger.DisplayName
   Text: Hazards
 - Key: JobTypeDefinition.JobType_Danger.Description
   Text: React to danger.
 - Key: JobTypeDefinition.JobType_Teach.DisplayName
-  Text: Teach
+  Text: 교육
 - Key: JobTypeDefinition.JobType_Teach.Description
   Text: >-
-    Teach students during scheduled classes. Teaching effectiveness is determined by the character's skill in the discipline.
+    학생을 가르칩니다. 교육 효율은 교사의 스킬 레벨에 따라 변화합니다.
 
-    Can do Task: Staff
+    작업 가능: 교사
 - Key: JobTypeDefinition.JobType_Learn.DisplayName
-  Text: Learn
+  Text: 학습
 - Key: JobTypeDefinition.JobType_Learn.Description
   Text: >-
-    Attend classes to learn magic.
+    마법을 배우기 위해 수업을 듣습니다.
 
-    Can do Task: Students
+    작업 가능: 학생
 - Key: JobTypeDefinition.JobType_Eat.DisplayName
   Text: 식사
 - Key: JobTypeDefinition.JobType_Eat.Description
-  Text: Eat food to recover <slink=Hunger>.
+  Text: <slink=Hunger> 회복을 위해 음식을 먹습니다.
 - Key: JobTypeDefinition.JobType_BedRest.DisplayName
   Text: 체력 회복
 - Key: JobTypeDefinition.JobType_BedRest.Description
-  Text: Rest in a <slink=HospitalBed> to recover lost <slink=HP>.
+  Text: <slink=HP> 회복을 위해 <slink=HospitalBed>에서 쉽니다.
 - Key: JobTypeDefinition.JobType_Sleep.DisplayName
   Text: 수면
 - Key: JobTypeDefinition.JobType_Sleep.Description
-  Text: Sleep to recover <slink=Sleep>.
+  Text: <slink=Sleep> 욕구 충족을 위해 잡니다.
 - Key: JobTypeDefinition.JobType_Cook.DisplayName
   Text: 요리
 - Key: JobTypeDefinition.JobType_Cook.Description
   Text: >-
-    Prepare food using cooking stations.
+    요리 시설을 통해 음식을 만듭니다.
 
-    Can do Task: Staff
+    작업 가능: 교사
 - Key: JobTypeDefinition.JobType_Construct.DisplayName
   Text: 건설
 - Key: JobTypeDefinition.JobType_Construct.Description
   Text: >-
-    Build new floors, walls, supports, and stairs.
+    새 바닥, 벽, 계단과 기둥을 만듭니다.
 
-    Can do Task: Staff
+    작업 가능: 교사
 - Key: JobTypeDefinition.JobType_Mining.DisplayName
   Text: 채굴
 - Key: JobTypeDefinition.JobType_Mining.Description
   Text: >-
-    Harvest stone and other resources from the earth.
+    돌과 광물을 대지에서 캐냅니다.
 
-    Can do Task: Staff, Quilted
+    작업 가능: 교사, 누더기
 - Key: JobTypeDefinition.JobType_Assemble.DisplayName
   Text: 조립
 - Key: JobTypeDefinition.JobType_Assemble.Description
   Text: >-
-    Create and move furniture for the school.
+    가구를 생성하고 움직입니다.
 
-    Can do Task: Staff
+    작업 가능: 교사
 - Key: JobTypeDefinition.JobType_Repair.DisplayName
   Text: 수리
 - Key: JobTypeDefinition.JobType_Repair.Description
   Text: >-
-    Restore Durability to damaged furnishings.
+    망가진 가구를 수리합니다.
 
-    Can do Task: Staff, Students, Quilted
+    작업 가능: 교사, 학생, 누더기
 - Key: JobTypeDefinition.JobType_Harvest.DisplayName
   Text: 수확
 - Key: JobTypeDefinition.JobType_Harvest.Description
@@ -11571,94 +11571,97 @@
 
     작업 가능: 교사
 - Key: JobTypeDefinition.JobType_Tend.DisplayName
-  Text: Tend
+  Text: 경작
 - Key: JobTypeDefinition.JobType_Tend.Description
   Text: >-
     씨앗을 심고 작물에 비료를 줍니다.
 
     작업 가능: 교사, 학생
 - Key: JobTypeDefinition.JobType_Uproot.DisplayName
-  Text: 뽑기
+  Text: 제초
 - Key: JobTypeDefinition.JobType_Uproot.Description
-  Text: 방해가 되는 식물을 뽑으세요.  교사, 학생
+  Text: "방해가 되는 식물을 뽑습니다. \n작업 가능: 교사, 학생"
 - Key: JobTypeDefinition.JobType_Chop.DisplayName
   Text: 벌목
 - Key: JobTypeDefinition.JobType_Chop.Description
   Text: >-
-    Chop down trees for Reagents.
+    나무를 벌목해서 자원을 얻습니다.
 
-    Can do Task: Staff, Quilted
+    작업 가능: 교사, 누더기
 - Key: JobTypeDefinition.JobType_Shaping.DisplayName
-  Text: Shape
+  Text: 제련
 - Key: JobTypeDefinition.JobType_Shaping.Description
   Text: >-
-    Combine Reagents into advanced Reagents.
+    자원을 조합해 고급 재료로 바꿉니다.
 
-    Can do Task: Staff
+    작업 가능: 교사
 - Key: JobTypeDefinition.JobType_Alchemy.DisplayName
   Text: 연금술
 - Key: JobTypeDefinition.JobType_Alchemy.Description
   Text: >-
-    Brew helpful potions.
+    물약을 만듭니다.
 
-    Can do Task: Staff
+    작업 가능: 교사
 - Key: JobTypeDefinition.JobType_Quilting.DisplayName
-  Text: Quilt
+  Text: 누더기 제작
 - Key: JobTypeDefinition.JobType_Quilting.Description
   Text: >-
-    Create undead helpers.
+    시체에서 누더기를 만듭니다.
 
-    Can do Task: Staff
+    작업 가능: 교사
 - Key: JobTypeDefinition.JobType_Clean.DisplayName
   Text: 청소
 - Key: JobTypeDefinition.JobType_Clean.Description
   Text: >-
-    Get rid of messy crafting byproducts in the school.
+    작업 과정에서 나온 더러운 쓰레기를 치웁니다.
 
-    Can do Task: Staff, Students, Quilted
+    작업 가능: 교사, 학생, 누더기
 - Key: JobTypeDefinition.JobType_Haul.DisplayName
-  Text: Haul
+  Text: 운반
 - Key: JobTypeDefinition.JobType_Haul.Description
   Text: >-
-    Move items by carrying or teleporting them.
+    아이템을 운반하거나 텔레포트시킵니다.
 
-    Can do Task: Staff, Students, Quilted
+    작업 가능: 교사, 학생, 누더기
 - Key: JobTypeDefinition.JobType_Research.DisplayName
   Text: 연구
 - Key: JobTypeDefinition.JobType_Research.Description
   Text: >-
-    Investigate the secrets of magic to unlock new furnishings and recipes.
+    미지의 마법을 연구하여 새 제작법과 가구를 해금시킵니다.
 
-    Can do Task: Staff
+    작업 가능: 교사
 - Key: JobTypeDefinition.JobType_RefineryCare.DisplayName
-  Text: 짐승 돌보기
+  Text: 괴물 돌보기
 - Key: JobTypeDefinition.JobType_RefineryCare.Description
   Text: >-
-    Keep your refining beasts happy and working well.
+    제련 괴물들을 돌봅니다.
 
-    Can do Task: Students
+    작업 가능: 학생
 - Key: JobTypeDefinition.JobType_Charge.DisplayName
   Text: 충전
 - Key: JobTypeDefinition.JobType_Charge.Description
-  Text: "Refill the charge in a <slink=ManaLantern>.    \nCan do Task: Staff, Students"
+  Text: >-
+    <slink=ManaLantern>을 충전합니다.
+
+    작업 가능: 교사, 학생
 - Key: JobTypeDefinition.JobType_FuneralSpeaker.DisplayName
-  Text: Funeral Speaker
+  Text: 장례식 추도인
 - Key: JobTypeDefinition.JobType_FuneralSpeaker.Description
   Text: >-
-    Speak at a funeral.
+    장례식에서 추도사를 읊습니다.
 
-    Can do Task: Staff
+    작업 가능: 교사
 - Key: JobTypeDefinition.JobType_FuneralMourner.DisplayName
-  Text: Mourn
+  Text: 장례식 참석자
 - Key: JobTypeDefinition.JobType_FuneralMourner.Description
   Text: >-
-    Attend a funeral.
+    장례식에 참석합니다.
 
-    Can do Task: Staff, Students
+    작업 가능: 교사, 학생
 - Key: JobTypeDefinition.JobType_Recreation.DisplayName
   Text: 휴식
 - Key: JobTypeDefinition.JobType_Recreation.Description
-  Text: Relax at Recreation furnishings.
+  Text: 휴게 시설에서 휴식합니다.
 - Key: JobTypeDefinition.JobType_EndOfJobTypes.DisplayName
   Text: Unused
 - Key: JobTypeDefinition.JobType_EndOfJobTypes.Description
@@ -11666,23 +11669,23 @@
 - Key: JobTypeDefinition.JobType_DungeonCost.DisplayName
   Text: 던전 비용
 - Key: JobTypeDefinition.JobType_DungeonCost.Description
-  Text: Pay cost to enter the dungeon.
+  Text: 던전에 입장하기 위한 비용을 치릅니다.
 - Key: JobTypeDefinition.JobType_CollectPotions.DisplayName
   Text: 물약 가져가기
 - Key: JobTypeDefinition.JobType_CollectPotions.Description
-  Text: Gather potions to use in the dungeon.
+  Text: 던전에서 사용할 물약을 가져갑니다.
 - Key: JobTypeDefinition.JobType_ExploreDoor.DisplayName
   Text: 던전 탐험
 - Key: JobTypeDefinition.JobType_ExploreDoor.Description
-  Text: Enter the dungeon.
+  Text: 던전에 입장합니다.
 - Key: JobTypeDefinition.JobType_EnterBattle.DisplayName
   Text: 전투 참여
 - Key: JobTypeDefinition.JobType_EnterBattle.Description
-  Text: 다음 적과 싸울 준비를하십시오.
+  Text: 다음 적과 싸울 준비를 합니다.
 - Key: JobTypeDefinition.JobType_ExitDungeon.DisplayName
   Text: 던전 나가기
 - Key: JobTypeDefinition.JobType_ExitDungeon.Description
-  Text: Leave the dungeon.
+  Text: 던전을 나갑니다.
 - Key: JobTypeDefinition.JobType_PostAdult.DisplayName
   Text: Adult
 - Key: JobTypeDefinition.JobType_PostAdult.Description
@@ -11700,19 +11703,19 @@
 - Key: JobTypeDefinition.JobType_Ritual.Description
   Text: 의식 수행
 - Key: JobTypeDefinition.JobType_Ward.DisplayName
-  Text: Ward
+  Text: 순찰
 - Key: JobTypeDefinition.JobType_Ward.Description
   Text: >-
-    Protective magic used to reset a <slink=DungeonRespawnTimer>. Can also enable a <slink=Scarecroa> or a <slink=FogLantern> to function.
+    <slink=DungeonRespawnTimer>를 충전하기 위해 사용되는 보호 마법입니다. <slink=Scarecroa>나 <slink=FogLantern>을 충전하는 데에도 쓰입니다.
 
-    Can do Task: Staff, Students
+    작업 가능: 교사, 학생
 - Key: JobTypeDefinition.JobType_Painting.DisplayName
-  Text: Paint
+  Text: 그림
 - Key: JobTypeDefinition.JobType_Painting.Description
   Text: >-
-    Create paintings.
+    그림을 그립니다.
 
-    Can do Task: Staff
+    작업 가능: 교사
 - Key: JobTypeDefinition.JobType_Carving.DisplayName
   Text: 조각
 - Key: JobTypeDefinition.JobType_Carving.Description
@@ -11721,7 +11724,7 @@
 
     작업 가능: 교사
 - Key: JobTypeDefinition.JobType_Scrivening.DisplayName
-  Text: Scriven
+  Text: 두루마리 제작
 - Key: JobTypeDefinition.JobType_Scrivening.Description
   Text: >-
     두루마리를 만들고 복제합니다.
@@ -11732,35 +11735,35 @@
 - Key: NeedsDefinition.Hunger.DisplayName
   Text: 배고픔
 - Key: NeedsDefinition.Hunger.Description
-  Text: How hungry a Mage is. Eating a <slink=meal> will relieve Hunger.
+  Text: 마법사의 배고픈 정도입니다. <slink=meal>를 먹어서 채울 수 있습니다.
 - Key: NeedsDefinition.Sleep.DisplayName
   Text: 수면
 - Key: NeedsDefinition.Sleep.Description
-  Text: How tired a Mage is. A good night's sleep will restore Sleep.
+  Text: 마법사가 피곤한 정도입니다. 충분히 수면을 취하면 채울 수 있습니다.
 - Key: NeedsDefinition.Recreation.DisplayName
   Text: 휴식
 - Key: NeedsDefinition.Recreation.Description
-  Text: Everyone needs time away from class and work. During scheduled Recreation times, they will seek out opportunities to satisfy this need.
+  Text: 누구에게나 휴식은 필요합니다. 스케줄에 휴식 시간을 지정하면 적절한 휴게 공간에서 휴식을 취할 것입니다.
 - Key: NeedsDefinition.Learning.DisplayName
   Text: 학습
 - Key: NeedsDefinition.Learning.Description
-  Text: Students are here to achieve! Learning is only satisfied by gaining a Skill level or earning <slink=Medallions>.
+  Text: 학생들은 배우고자 하는 욕구가 있습니다. 스킬 레벨을 얻거나 <slink=Medallions>을 얻으면 충족됩니다.
 - Key: NeedsDefinition.Mana.DisplayName
   Text: 마나
 - Key: Archetype.Adult.NeedsConfig.7.Description
   Text: Hidden need to drive Mana Refill - derives its value from ManaComponent
 - Key: NeedsDefinition.Feeding.DisplayName
-  Text: 먹이 주기
+  Text: 먹이
 - Key: NeedsDefinition.Feeding.Description
-  Text: Needs to be fed <slink=Slop> on a regular basis. Feeding level affects refining speed, ranging from 0% to 200%.
+  Text: 제련 괴물은 정기적으로 <slink=Slop>을 먹여야 합니다. 먹이 욕구는 제련 속도에 영향을 미칩니다. (0%~200%)
 - Key: NeedsDefinition.Affection.DisplayName
-  Text: Affection
+  Text: 관심
 - Key: NeedsDefinition.Affection.Description
-  Text: Needs to be pet regularly. 애정 수준은 20%에서 200%에 배열하는 정제 속도에 영향을 미칩니다.
+  Text: 제련 괴물은 주기적으로 돌봐 주어야 합니다. 관심 욕구는 제련 속도에 영향을 미칩니다. (20%~200%)
 - Key: NeedsDefinition.Mood.DisplayName
   Text: 만족도
 - Key: NeedsDefinition.Mood.Description
-  Text: A Mage's mental state. Low Conviction risks the Mage having a <slink=break>.
+  Text: 마법사의 정신 상태입니다. 만족도가 낮아지면 <slink=break>을 일으킬 수 있습니다.
 - Key: GameDifficultyDefinition.Default.DisplayName
   Text: 느긋하게
 - Key: GameDifficultyDefinition.Default.Description
@@ -11820,7 +11823,7 @@
 - Key: RoomTypeDefinition.Hovel.DisplayName
   Text: 소박한 침실
 - Key: RoomTypeDefinition.Hovel.Effects.0-638169128389213559
-  Text: 여기서 자면 +2.5 <slink=Mood>를 얻습니다
+  Text: 수면 시 +2.5 <slink=Mood>
 - Key: RoomTypeDefinition.Hovel.Rules.0-638122528420851451.Criteria.11-638122528420851451.ComponentRequirementDisplayName
   Text: 침상, 보통 침대, 화려한 침대, 또는 휘장 침대
 - Key: RoomTypeDefinition.Hovel.Rules.1-638122528420851451.Criteria.0-638122528420851451.ComponentRequirementDisplayName
@@ -11834,7 +11837,7 @@
 - Key: RoomTypeDefinition.LuxuryBedroom.DisplayName
   Text: 개인 침실
 - Key: RoomTypeDefinition.LuxuryBedroom.Effects.0-638169128389213559
-  Text: 여기서 자는 교사는 +15 <slink=Mood>를 얻습니다
+  Text: 교사 수면 시 +15 <slink=Mood>
 - Key: RoomTypeDefinition.LuxuryBedroom.Rules.0-638122528420851451.Criteria.9-638122528420851451.ComponentRequirementDisplayName
   Text: 문
 - Key: RoomTypeDefinition.LuxuryBedroom.Rules.1-638122528420841473.Criteria.8-638122528420841473.ComponentRequirementDisplayName
@@ -11856,7 +11859,7 @@
 - Key: RoomTypeDefinition.Dormitory.DisplayName
   Text: 기숙사
 - Key: RoomTypeDefinition.Dormitory.Effects.0-638169128389213559
-  Text: 여기서 자는 학생은 +5 <slink=Mood>를 얻습니다
+  Text: 학생 수면 시 +5 <slink=Mood>
 - Key: RoomTypeDefinition.Dormitory.Rules.0-638122528420851451.Criteria.9-638122528420851451.ComponentRequirementDisplayName
   Text: 일반 침대, 화려한 침대 또는 휘장 침대
 - Key: RoomTypeDefinition.Dormitory.Rules.0-638122528420851451.Criteria.4-638122528420851451.ComponentRequirementDisplayName
@@ -11870,7 +11873,7 @@
 - Key: RoomTypeDefinition.Bedroom.DisplayName
   Text: 침실
 - Key: RoomTypeDefinition.Bedroom.Effects.0-638169128389213559
-  Text: 여기서 자는 교사는 +5 <slink=Mood>를 얻습니다
+  Text: 교사 수면 시 +5 <slink=Mood>
 - Key: RoomTypeDefinition.Bedroom.Rules.0-638122528420851451.Criteria.11-638122528420851451.ComponentRequirementDisplayName
   Text: 일반 침대, 화려한 침대, 또는 휘장 침대
 - Key: RoomTypeDefinition.Bedroom.Rules.0-638122528420851451.Criteria.10-638122528420851451.ComponentRequirementDisplayName
@@ -11888,7 +11891,7 @@
 - Key: RoomTypeDefinition.Bedchamber.DisplayName
   Text: 고급 침실
 - Key: RoomTypeDefinition.Bedchamber.Effects.0-638169128389228605
-  Text: 여기서 자는 교사는 +25 <slink=Mood>를 얻습니다
+  Text: 교사 수면 시 +25 <slink=Mood>
 - Key: RoomTypeDefinition.Bedchamber.Rules.0-638122528420851451.Criteria.9-638122528420851451.ComponentRequirementDisplayName
   Text: 문
 - Key: RoomTypeDefinition.Bedchamber.Rules.0-638122528420841473.Criteria.8-638122528420841473.ComponentRequirementDisplayName
@@ -12262,7 +12265,7 @@
 - Key: RoomTypeDefinition.DiningRoom.DisplayName
   Text: 식당
 - Key: RoomTypeDefinition.DiningRoom.Effects.0-638169128389373788
-  Text: 여기서 식사하는 교사는 +5 <slink=Mood>를 얻습니다.
+  Text: 교사 식사 시 +5 <slink=Mood>
 - Key: RoomTypeDefinition.DiningRoom.Rules.0-638122528421041227.Criteria.0-638122528421041227.ComponentRequirementDisplayName
   Text: 식탁
 - Key: RoomTypeDefinition.DiningRoom.Rules.1-638122528421041227.Criteria.0-638122528421041227.ComponentRequirementDisplayName
@@ -12276,7 +12279,7 @@
 - Key: RoomTypeDefinition.Cafeteria.DisplayName
   Text: 학생 식당
 - Key: RoomTypeDefinition.Cafeteria.Effects.0-638169128389383783
-  Text: 여기서 식사하는 학생은 +5 <slink=Mood>를 얻습니다.
+  Text: 학생 식사 시 +5 <slink=Mood>
 - Key: RoomTypeDefinition.Cafeteria.Rules.0-638122528421041227.Criteria.0-638122528421041227.ComponentRequirementDisplayName
   Text: 식탁
 - Key: RoomTypeDefinition.Cafeteria.Rules.1-638122528421041227.Criteria.0-638122528421041227.ComponentRequirementDisplayName
@@ -12290,7 +12293,7 @@
 - Key: RoomTypeDefinition.PrivateDiningRoom.DisplayName
   Text: 교사 식당
 - Key: RoomTypeDefinition.PrivateDiningRoom.Effects.0-638169128389373788
-  Text: 여기서 식사하는 교사는 +15 <slink=Mood>를 얻습니다.
+  Text: 교사 식사 시 +15 <slink=Mood>
 - Key: RoomTypeDefinition.PrivateDiningRoom.Rules.0-638122528421041227.Criteria.4-638122528421041227.ComponentRequirementDisplayName
   Text: 식탁
 - Key: RoomTypeDefinition.PrivateDiningRoom.Rules.0-638122528420841473.Criteria.5-638122528420841473.ComponentRequirementDisplayName
@@ -12308,7 +12311,7 @@
 - Key: RoomTypeDefinition.SalleaManger.DisplayName
   Text: 고급 교사 식당
 - Key: RoomTypeDefinition.SalleaManger.Effects.0-638169128389373788
-  Text: 여기서 식사하는 교사는 +25 <slink=Mood>를 얻습니다.
+  Text: 교사 식사 시 +25 <slink=Mood>
 - Key: RoomTypeDefinition.SalleaManger.Rules.0-638122528421041227.Criteria.4-638122528421041227.ComponentRequirementDisplayName
   Text: 식탁
 - Key: RoomTypeDefinition.SalleaManger.Rules.0-638122528420841473.Criteria.5-638122528420841473.ComponentRequirementDisplayName
@@ -12328,7 +12331,7 @@
 - Key: RoomTypeDefinition.Infirmary.DisplayName
   Text: 진료소
 - Key: RoomTypeDefinition.Infirmary.Effects.0-638297882929857930
-  Text: 이곳에서 휴식하면 시간당 +5% <slink=HP>를 회복합니다.
+  Text: 체력 회복 시 시간당 +5% <slink=HP>
 - Key: RoomTypeDefinition.Infirmary.Effects.1-638297882929857930
   Text: 의료 의식을 치를 수 있습니다.
 - Key: RoomTypeDefinition.Infirmary.Rules.1-638122528420901400.Criteria.0-638122528420911373.ComponentRequirementDisplayName
@@ -12342,7 +12345,7 @@
 - Key: RoomTypeDefinition.Hospital.DisplayName
   Text: 병원
 - Key: RoomTypeDefinition.Hospital.Effects.0-638169128389053349
-  Text: 이곳에서 휴식하면 시간당 +10% <slink=HP>를 회복합니다.
+  Text: 체력 회복 시 시간당 +10% <slink=HP>
 - Key: RoomTypeDefinition.Hospital.Effects.1-638291826994256737
   Text: 고급 의료 의식을 치를 수 있습니다.
 - Key: RoomTypeDefinition.Hospital.Rules.0-638122528420841473.Criteria.8-638122528420841473.ComponentRequirementDisplayName
@@ -12358,7 +12361,7 @@
 - Key: RoomTypeDefinition.Conservatory.DisplayName
   Text: 음악 감상실
 - Key: RoomTypeDefinition.Conservatory.Effects.0-638169128389428838
-  Text: 이곳에서 휴식하면 +5 <slink=Mood>를 얻습니다.
+  Text: 휴식 시 +5 <slink=Mood>
 - Key: RoomTypeDefinition.Conservatory.Rules.1-638357415835060891.Criteria.0-638357415835060891.ComponentRequirementDisplayName
   Text: 침대
 - Key: RoomTypeDefinition.Conservatory.Rules.1-638357415835060891.Criteria.1-638357415835060891.ComponentRequirementDisplayName
@@ -12370,11 +12373,11 @@
 - Key: RoomTypeDefinition.CommonRoom.DisplayName
   Text: 학생 회관
 - Key: RoomTypeDefinition.CommonRoom.Effects.0-638169128389229457
-  Text: 이곳에서 자는 학생은 +15 <slink=Mood>를 얻습니다
+  Text: 학생 수면 시 +15 <slink=Mood>
 - Key: RoomTypeDefinition.CommonRoom.Effects.1-638345160241146308
-  Text: 이곳에서 식사하는 학생은 +15 <slink=Mood>를 얻습니다
+  Text: 학생 식사 시 +15 <slink=Mood>
 - Key: RoomTypeDefinition.CommonRoom.Effects.1-638169128389229457
-  Text: 이곳에서 휴식하는 학생은 +5 <slink=Mood>를 얻습니다
+  Text: 학생 휴식 시 +5 <slink=Mood>
 - Key: RoomTypeDefinition.CommonRoom.Rules.0-638122528420851451.Criteria.10-638122528420851451.ComponentRequirementDisplayName
   Text: 일반 침대, 화려한 침대 또는 휘장 침대
 - Key: RoomTypeDefinition.CommonRoom.Rules.0-638122528421041227.Criteria.3-638122528421041227.ComponentRequirementDisplayName
@@ -12394,13 +12397,13 @@
 - Key: RoomTypeDefinition.HouseCommons.DisplayName
   Text: 고급 학생회관
 - Key: RoomTypeDefinition.HouseCommons.Effects.0-638169128389229457
-  Text: 이곳에서 자는 학생은 +25 <slink=Mood>를 얻습니다
+  Text: 학생 수면 시 +25 <slink=Mood>
 - Key: RoomTypeDefinition.HouseCommons.Effects.1-638345160241146308
-  Text: 이곳에서 식사하는 학생은 +25 <slink=Mood>를 얻습니다
+  Text: 학생 식사 시 +25 <slink=Mood>
 - Key: RoomTypeDefinition.HouseCommons.Effects.1-638169128389229457
-  Text: 이곳에서 휴식하는 학생은 +10 <slink=Mood>를 얻습니다
+  Text: 학생 휴식 시 +10 <slink=Mood>
 - Key: RoomTypeDefinition.HouseCommons.Rules.0-638122528420851451.Criteria.10-638122528420851451.ComponentRequirementDisplayName
-  Text: 일반 침대, 멋진 침대 또는 휘장 침대
+  Text: 일반 침대, 화려한 침대 또는 휘장 침대
 - Key: RoomTypeDefinition.HouseCommons.Rules.0-638122528421041227.Criteria.3-638122528421041227.ComponentRequirementDisplayName
   Text: 식탁
 - Key: RoomTypeDefinition.HouseCommons.Rules.0-638122528421041227.Criteria.4-638122528421041227.ComponentRequirementDisplayName

@@ -4226,15 +4226,15 @@
 - Key: BuildCopyButtonProvider.0-638191561193062448
   Text: '이 물체를 복사해서 다른 곳에 건설합니다. {0: false)}(을)를 사용합니다.'
 - Key: BuildCopyWithSettingsButtonProvider.0-638385715195613717
-  Text: Build Copy With Settings
+  Text: 설정을 유지하고 복제 건설
 - Key: BuildCopyWithSettingsButtonProvider.1-638385715195613717
-  Text: 'Build a copy of this somewhere else, including settings. Uses {0: false)}.'
+  Text: '이 물체를 설정을 포함해서 복제합니다. {0: false)}(을)를 사용합니다.'
 - Key: BuildCopyWithSettingsButtonProvider.2-638385715195613717
-  Text: 'Build a copy of this somewhere else, including settings. Uses {0: false)}.'
+  Text: '이 물체를 설정을 포함해서 복제합니다. {0: false)}(을)를 사용합니다.'
 - Key: CancelPlayerErrandButtonProvider.0-638327234819616921
-  Text: Cancel Player Order
+  Text: 플레이어 지시 취소
 - Key: CancelPlayerErrandButtonProvider.1-638327234819616921
-  Text: Cancel direct order of {0}
+  Text: '{0} 직접 명령 취소'
 - Key: CheatMakeGhost.0-638359255639157411
   Text: Debug Make Ghost
 - Key: CheatMakeGhost.1-638359255639157411
@@ -4244,19 +4244,19 @@
 - Key: CheatNukeEntity.1-638359255639167410
   Text: Debug nuke entity
 - Key: ClaimRewardButton.0-638327234819626924
-  Text: Claim Reward
+  Text: 보상 받기
 - Key: ClaimRewardButton.1-638327234819626924
-  Text: Click to claim reward.
+  Text: 클릭해서 보상을 받으세요.
 - Key: CopySettingsButtonProvider.0-638415221471756448
-  Text: Copy Settings
+  Text: 설정 복사
 - Key: CopySettingsButtonProvider.1-638415221471756448
-  Text: Copied
+  Text: 복사됨
 - Key: CopySettingsButtonProvider.2-638415221471756448
-  Text: Copy settings for Access, Storage, as available.
+  Text: 이 물체의 설정을 복사합니다.
 - Key: CraftedAssembleButtonProvider.0-638327234819626924
-  Text: Cancel Assemble
+  Text: 조립 취소
 - Key: CraftedAssembleButtonProvider.1-638327234819626924
-  Text: Click to cancel {0:false)}
+  Text: 클릭하여 {0:false)} 취소
 - Key: DebugCycleEntityKey.0-638359255639177412
   Text: Debug Cycle Entity Key
 - Key: DebugCycleEntityKey.1-638359255639177412
