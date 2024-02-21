@@ -9,7 +9,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.4.2\n"
+"X-Generator: Poedit 3.4.2\n"
 
 #. Key: Archetype.CroaNest.DescriptionConfig.0.DisplayName
 msgctxt "Archetype.CroaNest.DescriptionConfig.0.DisplayName"
@@ -459,7 +459,7 @@ msgstr "모피 진드기"
 #. Key: Archetype.FurryMite.DescriptionConfig.0.Description
 msgctxt "Archetype.FurryMite.DescriptionConfig.0.Description"
 msgid "A creepy-crawly Dark monster found near the entrance to the Underschool. Attacks all its foes at once."
-msgstr "지하세계의 입구 주변에서 나타나는 creepy-crawly Dark 괴물입니다. 한 번에 모든 적을 공격합니다."
+msgstr "지하세계의 입구 주변에서 나타나는 creepy-crawly 어둠괴물입니다. 한 번에 모든 적을 공격합니다."
 
 #. Key: Archetype.FurryMite.DescriptionConfig.0.FlavorText
 msgctxt "Archetype.FurryMite.DescriptionConfig.0.FlavorText"
@@ -479,7 +479,7 @@ msgstr "배트킨"
 #. Key: Archetype.Bat.DescriptionConfig.0.Description
 msgctxt "Archetype.Bat.DescriptionConfig.0.Description"
 msgid "An agile Air monster found in shallow depths of the Underschool. Strikes quickly with multi-hit attacks."
-msgstr "지하세계의 얕은 깊이에서 나타나는 agile Air 괴물입니다. 멀티 히트 공격으로 빠르게 공격합니다."
+msgstr "지하세계의 얕은 깊이에서 나타나는 agile 바람괴물입니다. 멀티 히트 공격으로 빠르게 공격합니다."
 
 #. Key: Archetype.Bat.DescriptionConfig.0.FlavorText
 msgctxt "Archetype.Bat.DescriptionConfig.0.FlavorText"
@@ -514,7 +514,7 @@ msgstr "Wraith"
 #. Key: Archetype.Wraith.DescriptionConfig.0.Description
 msgctxt "Archetype.Wraith.DescriptionConfig.0.Description"
 msgid "An eerie Dark monster found in shallow depths of the Underschool. Inflicts <slink=Enemy_Sadness_Debuff_1> when it damages an enemy."
-msgstr "지하세계의 얕은 깊이에서 나타나는 eerie Dark 괴물입니다.  <slink=Enemy_Sadness_Debuff_1> 적에게 피해를 줄 때 가해진다."
+msgstr "지하세계의 얕은 깊이에서 나타나는 eerie 어둠괴물입니다.  <slink=Enemy_Sadness_Debuff_1> 적에게 피해를 줄 때 가해진다."
 
 #. Key: Archetype.Wraith.CombatIdleErrandConfig.0.BehaviorDesc
 msgctxt "Archetype.Wraith.CombatIdleErrandConfig.0.BehaviorDesc"
@@ -544,7 +544,7 @@ msgstr "스트리고이"
 #. Key: Archetype.Strigoi.DescriptionConfig.0.Description
 msgctxt "Archetype.Strigoi.DescriptionConfig.0.Description"
 msgid "A stealthy Dark monster found deep in the Underschool. Inflicts <slink=Enemy_Restless_Debuff_1> on enemies they damage."
-msgstr "지하세계의 깊은 곳에서 나타나는 stealthy Dark 괴물입니다.  <slink=Enemy_Restless_Debuff_1> 적에게 피해를 입히다."
+msgstr "지하세계의 깊은 곳에서 나타나는 stealthy 어둠괴물입니다.  <slink=Enemy_Restless_Debuff_1> 적에게 피해를 입히다."
 
 #. Key: Archetype.Strigoi.DescriptionConfig.0.FlavorText
 msgctxt "Archetype.Strigoi.DescriptionConfig.0.FlavorText"
@@ -564,7 +564,7 @@ msgstr "페른링"
 #. Key: Archetype.Fernling.DescriptionConfig.0.Description
 msgctxt "Archetype.Fernling.DescriptionConfig.0.Description"
 msgid "An overgrown Nature monster found deep in the Underschool. Heals itself while attacking the front row."
-msgstr "지하세계의 깊은 곳에서 나타나는 overgrown Nature 괴물입니다. 첫 줄을 공격하는 동안 자신을 치유합니다."
+msgstr "지하세계의 깊은 곳에서 나타나는 overgrown 자연괴물입니다. 첫 줄을 공격하는 동안 자신을 치유합니다."
 
 #. Key: Archetype.Fernling.DescriptionConfig.0.FlavorText
 msgctxt "Archetype.Fernling.DescriptionConfig.0.FlavorText"
@@ -584,7 +584,7 @@ msgstr "볼더조"
 #. Key: Archetype.Boulder.DescriptionConfig.0.Description
 msgctxt "Archetype.Boulder.DescriptionConfig.0.Description"
 msgid "A burly Earth monster found deep in the Underschool. Lowers the speed of Mages it attacks."
-msgstr "지하세계의 깊은 곳에서 나타나는 burly Earth 괴물입니다. 공격하는 마법사의 속도를 낮춥니다."
+msgstr "지하세계의 깊은 곳에서 나타나는 burly 대지괴물입니다. 공격하는 마법사의 속도를 낮춥니다."
 
 #. Key: Archetype.Boulder.CombatIdleErrandConfig.0.BehaviorDesc
 msgctxt "Archetype.Boulder.CombatIdleErrandConfig.0.BehaviorDesc"
@@ -634,7 +634,7 @@ msgstr "Scythe"
 #. Key: Archetype.Scythe.DescriptionConfig.0.Description
 msgctxt "Archetype.Scythe.DescriptionConfig.0.Description"
 msgid "A loud Air monster found in the furthest reaches of the Underschool. Preys on weak Mages and boosts the Attack of its allies."
-msgstr "지하세계의 가장 먼 곳에서 나타나는 loud Air 괴물입니다. 약한 마법사에게 먹이를 주고 동맹국의 공격을 촉진시킵니다."
+msgstr "지하세계의 가장 먼 곳에서 나타나는 loud 바람괴물입니다. 약한 마법사에게 먹이를 주고 동맹국의 공격을 촉진시킵니다."
 
 #. Key: Archetype.Scythe.CombatIdleErrandConfig.0.BehaviorDesc
 msgctxt "Archetype.Scythe.CombatIdleErrandConfig.0.BehaviorDesc"
@@ -669,7 +669,7 @@ msgstr "버로워 모스"
 #. Key: Archetype.AirFly.DescriptionConfig.0.Description
 msgctxt "Archetype.AirFly.DescriptionConfig.0.Description"
 msgid "An Air Underlord. Raises its allies Speed and attacks multiple times."
-msgstr "An Air Underlord. 아군의 속도를 높이고 여러 번 공격합니다."
+msgstr "An 바람Underlord. 아군의 속도를 높이고 여러 번 공격합니다."
 
 #. Key: Archetype.AirFly.DescriptionConfig.0.FlavorText
 msgctxt "Archetype.AirFly.DescriptionConfig.0.FlavorText"
@@ -689,7 +689,7 @@ msgstr "버로워 스피터"
 #. Key: Archetype.FireSpitter.DescriptionConfig.0.Description
 msgctxt "Archetype.FireSpitter.DescriptionConfig.0.Description"
 msgid "An Earth Underlord. Summons allies and becomes enraged when it takes enough damage."
-msgstr "An Earth Underlord. 아군을 소환하고 충분한 피해를 입으면 분노하게 된다."
+msgstr "An 대지Underlord. 아군을 소환하고 충분한 피해를 입으면 분노하게 된다."
 
 #. Key: Archetype.FireSpitter.DescriptionConfig.0.FlavorText
 msgctxt "Archetype.FireSpitter.DescriptionConfig.0.FlavorText"
@@ -709,7 +709,7 @@ msgstr ""
 #. Key: Archetype.ThrallMage.DescriptionConfig.0.Description
 msgctxt "Archetype.ThrallMage.DescriptionConfig.0.Description"
 msgid "A Dark Underlord. Lashes out at random foes while summoning allies with varying abilities."
-msgstr "A Dark Underlord. 다양한 능력을 가진 아군을 소환하면서 무작위 적에게 채찍질합니다."
+msgstr "A 어둠Underlord. 다양한 능력을 가진 아군을 소환하면서 무작위 적에게 채찍질합니다."
 
 #. Key: Archetype.ThrallMage.DescriptionConfig.0.FlavorText
 msgctxt "Archetype.ThrallMage.DescriptionConfig.0.FlavorText"
@@ -729,7 +729,7 @@ msgstr "어두운 촉수"
 #. Key: Archetype.DarkTentacle.DescriptionConfig.0.Description
 msgctxt "Archetype.DarkTentacle.DescriptionConfig.0.Description"
 msgid "One of the <slink=ThrallMage>'s tentacles imbued with Dark magic."
-msgstr "Dark 마법이 깃든 <slink=ThrallMage>의 촉수 중 하나입니다."
+msgstr "어둠마법이 깃든 <slink=ThrallMage>의 촉수 중 하나입니다."
 
 #. Key: Archetype.DarkTentacle.DescriptionConfig.0.FlavorText
 msgctxt "Archetype.DarkTentacle.DescriptionConfig.0.FlavorText"
@@ -749,7 +749,7 @@ msgstr "불타는 촉수"
 #. Key: Archetype.FieryTentacle.DescriptionConfig.0.Description
 msgctxt "Archetype.FieryTentacle.DescriptionConfig.0.Description"
 msgid "One of the <slink=ThrallMage>'s tentacles imbued with Fire magic."
-msgstr "Fire 마법이 깃든 <slink=ThrallMage>의 촉수 중 하나입니다."
+msgstr "불꽃 마법이 깃든 <slink=ThrallMage>의 촉수 중 하나입니다."
 
 #. Key: Archetype.FieryTentacle.DescriptionConfig.0.FlavorText
 msgctxt "Archetype.FieryTentacle.DescriptionConfig.0.FlavorText"
@@ -5544,7 +5544,7 @@ msgstr "오벨리스크"
 #. Key: Archetype.Obelisk.DescriptionConfig.0.Description
 msgctxt "Archetype.Obelisk.DescriptionConfig.0.Description"
 msgid "Required to make a Lair of Dark Arts."
-msgstr "Lair of Dark Arts를 만드는 데 필요합니다."
+msgstr "Lair of 어둠Arts를 만드는 데 필요합니다."
 
 #. Key: Archetype.Obelisk.DescriptionConfig.0.FlavorText
 msgctxt "Archetype.Obelisk.DescriptionConfig.0.FlavorText"
@@ -5559,7 +5559,7 @@ msgstr "안구 글로브"
 #. Key: Archetype.EyeGlobe.DescriptionConfig.0.Description
 msgctxt "Archetype.EyeGlobe.DescriptionConfig.0.Description"
 msgid "Required to make a Lair of Dark Arts."
-msgstr "Lair of Dark Arts를 만드는 데 필요합니다."
+msgstr "Lair of 어둠Arts를 만드는 데 필요합니다."
 
 #. Key: Archetype.EyeGlobe.DescriptionConfig.0.FlavorText
 msgctxt "Archetype.EyeGlobe.DescriptionConfig.0.FlavorText"
@@ -5589,7 +5589,7 @@ msgstr "이온 회로"
 #. Key: Archetype.IonConduit.DescriptionConfig.0.Description
 msgctxt "Archetype.IonConduit.DescriptionConfig.0.Description"
 msgid "Required to make a Lightning Observatory."
-msgstr "Lightning Observatory를 만드는 데 필요합니다."
+msgstr "번개Observatory를 만드는 데 필요합니다."
 
 #. Key: Archetype.IonConduit.DescriptionConfig.0.FlavorText
 msgctxt "Archetype.IonConduit.DescriptionConfig.0.FlavorText"
@@ -13126,7 +13126,7 @@ msgstr ""
 #. Key: SpellConfig.Wild-018.DisplayName
 msgctxt "SpellConfig.Wild-018.DisplayName"
 msgid "Spectral Snare"
-msgstr ""
+msgstr "유령 함정"
 
 #. Key: SpellConfig.Wild-018.Description
 msgctxt "SpellConfig.Wild-018.Description"
@@ -13716,12 +13716,12 @@ msgstr "슬픔 1"
 #. Key: CharacterStatusConfig.Enemy_Sadness_Debuff_1.Description
 msgctxt "CharacterStatusConfig.Enemy_Sadness_Debuff_1.Description"
 msgid "Lowered <slink=CombatStat_DamageBonus>. Will be afflicted with <slink=Enemy_Melancholy_Debuff> at 3 stacks.\n"
-msgstr ""
+msgstr "<slink=CombatStat_DamageBonus>이 낮아집니다. <slink=Enemy_Melancholy_Debuff> 상태를 3스택 얻습니다.\n"
 
 #. Key: CharacterStatusConfig.Enemy_Sadness_Debuff_1.BattleString
 msgctxt "CharacterStatusConfig.Enemy_Sadness_Debuff_1.BattleString"
 msgid "Sadness 1 (-10 Power)"
-msgstr ""
+msgstr "슬픔 1 (-10 마력)"
 
 #. Key: CharacterStatusConfig.Enemy_Sadness_Debuff_2.DisplayName
 msgctxt "CharacterStatusConfig.Enemy_Sadness_Debuff_2.DisplayName"
@@ -13731,12 +13731,12 @@ msgstr "슬픔 2"
 #. Key: CharacterStatusConfig.Enemy_Sadness_Debuff_2.Description
 msgctxt "CharacterStatusConfig.Enemy_Sadness_Debuff_2.Description"
 msgid "Lowered <slink=CombatStat_DamageBonus>. Will be afflicted with <slink=Enemy_Melancholy_Debuff> at 3 stacks.\n"
-msgstr ""
+msgstr "<slink=CombatStat_DamageBonus>이 낮아집니다. <slink=Enemy_Melancholy_Debuff> 상태를 3스택 얻습니다.\n"
 
 #. Key: CharacterStatusConfig.Enemy_Sadness_Debuff_2.BattleString
 msgctxt "CharacterStatusConfig.Enemy_Sadness_Debuff_2.BattleString"
 msgid "Sadness 2 (-20 Power)"
-msgstr ""
+msgstr "슬픔 2 (-20 마력)"
 
 #. Key: CharacterStatusConfig.Enemy_Sadness_Debuff_3.DisplayName
 msgctxt "CharacterStatusConfig.Enemy_Sadness_Debuff_3.DisplayName"
@@ -13746,12 +13746,12 @@ msgstr "슬픔 3"
 #. Key: CharacterStatusConfig.Enemy_Sadness_Debuff_3.Description
 msgctxt "CharacterStatusConfig.Enemy_Sadness_Debuff_3.Description"
 msgid "Lowered <slink=CombatStat_DamageBonus>. Also inflicts <slink=Enemy_Melancholy_Debuff>.\n"
-msgstr ""
+msgstr "<slink=CombatStat_DamageBonus>이 낮아집니다. <slink=Enemy_Melancholy_Debuff> 상태를 3스택 얻습니다.\n"
 
 #. Key: CharacterStatusConfig.Enemy_Sadness_Debuff_3.BattleString
 msgctxt "CharacterStatusConfig.Enemy_Sadness_Debuff_3.BattleString"
 msgid "Sadness 3 (-30 Power)"
-msgstr ""
+msgstr "슬픔 3 (-30 마력)"
 
 #. Key: CharacterStatusConfig.Enemy_Melancholy_Debuff.DisplayName
 msgctxt "CharacterStatusConfig.Enemy_Melancholy_Debuff.DisplayName"
@@ -13761,7 +13761,7 @@ msgstr "우울감"
 #. Key: CharacterStatusConfig.Enemy_Melancholy_Debuff.Description
 msgctxt "CharacterStatusConfig.Enemy_Melancholy_Debuff.Description"
 msgid "The character is unable to cast work spells. Cure with a Cure Melancholy Ritual at the <slink=HospitalBed>.\n"
-msgstr ""
+msgstr "이 캐릭터는 우울해서 작업을 할 수 없습니다. <slink=HospitalBed>에서 우울 치료 의식을 치르세요.\n"
 
 #. Key: CharacterStatusConfig.Enemy_Melancholy_Debuff.BattleString
 msgctxt "CharacterStatusConfig.Enemy_Melancholy_Debuff.BattleString"
@@ -13771,7 +13771,7 @@ msgstr "우울감"
 #. Key: CharacterStatusConfig.Enemy_Restless_Debuff_1.DisplayName
 msgctxt "CharacterStatusConfig.Enemy_Restless_Debuff_1.DisplayName"
 msgid "Restless 1"
-msgstr ""
+msgstr "지침 1"
 
 #. Key: CharacterStatusConfig.Enemy_Restless_Debuff_1.Description
 msgctxt "CharacterStatusConfig.Enemy_Restless_Debuff_1.Description"
@@ -16191,7 +16191,7 @@ msgstr ""
 #. Key: CharacterStatusConfig.Fire_Waning.DisplayName
 msgctxt "CharacterStatusConfig.Fire_Waning.DisplayName"
 msgid "Fire Wanes"
-msgstr "Fire Wanes"
+msgstr "불꽃의 그믐달"
 
 #. Key: CharacterStatusConfig.Fire_Waning.Description
 msgctxt "CharacterStatusConfig.Fire_Waning.Description"
@@ -16201,7 +16201,7 @@ msgstr ""
 #. Key: CharacterStatusConfig.Fire_Waning_Battle.DisplayName
 msgctxt "CharacterStatusConfig.Fire_Waning_Battle.DisplayName"
 msgid "Fire Wanes"
-msgstr "Fire Wanes"
+msgstr "불꽃의 그믐달"
 
 #. Key: CharacterStatusConfig.Fire_Waning_Battle.Description
 msgctxt "CharacterStatusConfig.Fire_Waning_Battle.Description"
@@ -16216,7 +16216,7 @@ msgstr "-100 속도"
 #. Key: CharacterStatusConfig.Fire_Waxing.DisplayName
 msgctxt "CharacterStatusConfig.Fire_Waxing.DisplayName"
 msgid "Fire Waxes"
-msgstr "Fire Waxes"
+msgstr "불꽃의 보름달"
 
 #. Key: CharacterStatusConfig.Fire_Waxing.Description
 msgctxt "CharacterStatusConfig.Fire_Waxing.Description"
@@ -16226,7 +16226,7 @@ msgstr ""
 #. Key: CharacterStatusConfig.Fire_Waxing_Battle.DisplayName
 msgctxt "CharacterStatusConfig.Fire_Waxing_Battle.DisplayName"
 msgid "Fire Waxes"
-msgstr "Fire Waxes"
+msgstr "불꽃의 보름달"
 
 #. Key: CharacterStatusConfig.Fire_Waxing_Battle.Description
 msgctxt "CharacterStatusConfig.Fire_Waxing_Battle.Description"
@@ -16241,7 +16241,7 @@ msgstr ""
 #. Key: CharacterStatusConfig.Water_Waning.DisplayName
 msgctxt "CharacterStatusConfig.Water_Waning.DisplayName"
 msgid "Water Wanes"
-msgstr "Water Wanes"
+msgstr "물의 그믐달"
 
 #. Key: CharacterStatusConfig.Water_Waning.Description
 msgctxt "CharacterStatusConfig.Water_Waning.Description"
@@ -16251,7 +16251,7 @@ msgstr ""
 #. Key: CharacterStatusConfig.Water_Waning_Battle.DisplayName
 msgctxt "CharacterStatusConfig.Water_Waning_Battle.DisplayName"
 msgid "Water Wanes"
-msgstr "Water Wanes"
+msgstr "물의 그믐달"
 
 #. Key: CharacterStatusConfig.Water_Waning_Battle.Description
 msgctxt "CharacterStatusConfig.Water_Waning_Battle.Description"
@@ -16266,7 +16266,7 @@ msgstr "-100 속도"
 #. Key: CharacterStatusConfig.Water_Waxing.DisplayName
 msgctxt "CharacterStatusConfig.Water_Waxing.DisplayName"
 msgid "Water Waxes"
-msgstr "Water Waxes"
+msgstr "물의 보름달"
 
 #. Key: CharacterStatusConfig.Water_Waxing.Description
 msgctxt "CharacterStatusConfig.Water_Waxing.Description"
@@ -16276,7 +16276,7 @@ msgstr ""
 #. Key: CharacterStatusConfig.Water_Waxing_Battle.DisplayName
 msgctxt "CharacterStatusConfig.Water_Waxing_Battle.DisplayName"
 msgid "Water Waxes"
-msgstr "Water Waxes"
+msgstr "물의 보름달"
 
 #. Key: CharacterStatusConfig.Water_Waxing_Battle.Description
 msgctxt "CharacterStatusConfig.Water_Waxing_Battle.Description"
@@ -16291,7 +16291,7 @@ msgstr ""
 #. Key: CharacterStatusConfig.Earth_Waning.DisplayName
 msgctxt "CharacterStatusConfig.Earth_Waning.DisplayName"
 msgid "Earth Wanes"
-msgstr "Earth Wanes"
+msgstr "대지의 그믐달"
 
 #. Key: CharacterStatusConfig.Earth_Waning.Description
 msgctxt "CharacterStatusConfig.Earth_Waning.Description"
@@ -16301,7 +16301,7 @@ msgstr ""
 #. Key: CharacterStatusConfig.Earth_Waning_Battle.DisplayName
 msgctxt "CharacterStatusConfig.Earth_Waning_Battle.DisplayName"
 msgid "Earth Wanes"
-msgstr "Earth Wanes"
+msgstr "대지의 그믐달"
 
 #. Key: CharacterStatusConfig.Earth_Waning_Battle.Description
 msgctxt "CharacterStatusConfig.Earth_Waning_Battle.Description"
@@ -16316,7 +16316,7 @@ msgstr "-100 속도"
 #. Key: CharacterStatusConfig.Earth_Waxing.DisplayName
 msgctxt "CharacterStatusConfig.Earth_Waxing.DisplayName"
 msgid "Earth Waxes"
-msgstr "Earth Waxes"
+msgstr "대지의 보름달"
 
 #. Key: CharacterStatusConfig.Earth_Waxing.Description
 msgctxt "CharacterStatusConfig.Earth_Waxing.Description"
@@ -16326,7 +16326,7 @@ msgstr ""
 #. Key: CharacterStatusConfig.Earth_Waxing_Battle.DisplayName
 msgctxt "CharacterStatusConfig.Earth_Waxing_Battle.DisplayName"
 msgid "Earth Waxes"
-msgstr "Earth Waxes"
+msgstr "대지의 보름달"
 
 #. Key: CharacterStatusConfig.Earth_Waxing_Battle.Description
 msgctxt "CharacterStatusConfig.Earth_Waxing_Battle.Description"
@@ -16341,7 +16341,7 @@ msgstr ""
 #. Key: CharacterStatusConfig.Air_Waning.DisplayName
 msgctxt "CharacterStatusConfig.Air_Waning.DisplayName"
 msgid "Air Wanes"
-msgstr "Air Wanes"
+msgstr "바람의 그믐달"
 
 #. Key: CharacterStatusConfig.Air_Waning.Description
 msgctxt "CharacterStatusConfig.Air_Waning.Description"
@@ -16351,7 +16351,7 @@ msgstr ""
 #. Key: CharacterStatusConfig.Air_Waning_Battle.DisplayName
 msgctxt "CharacterStatusConfig.Air_Waning_Battle.DisplayName"
 msgid "Air Wanes"
-msgstr "Air Wanes"
+msgstr "바람의 그믐달"
 
 #. Key: CharacterStatusConfig.Air_Waning_Battle.Description
 msgctxt "CharacterStatusConfig.Air_Waning_Battle.Description"
@@ -16366,7 +16366,7 @@ msgstr "-100 속도"
 #. Key: CharacterStatusConfig.Air_Waxing.DisplayName
 msgctxt "CharacterStatusConfig.Air_Waxing.DisplayName"
 msgid "Air Waxes"
-msgstr "Air Waxes"
+msgstr "바람의 보름달"
 
 #. Key: CharacterStatusConfig.Air_Waxing.Description
 msgctxt "CharacterStatusConfig.Air_Waxing.Description"
@@ -16376,7 +16376,7 @@ msgstr ""
 #. Key: CharacterStatusConfig.Air_Waxing_Battle.DisplayName
 msgctxt "CharacterStatusConfig.Air_Waxing_Battle.DisplayName"
 msgid "Air Waxes"
-msgstr "Air Waxes"
+msgstr "바람의 보름달"
 
 #. Key: CharacterStatusConfig.Air_Waxing_Battle.Description
 msgctxt "CharacterStatusConfig.Air_Waxing_Battle.Description"
@@ -16391,7 +16391,7 @@ msgstr ""
 #. Key: CharacterStatusConfig.Dark_Waning.DisplayName
 msgctxt "CharacterStatusConfig.Dark_Waning.DisplayName"
 msgid "Dark Wanes"
-msgstr "Dark Wanes"
+msgstr "어둠의 그믐달"
 
 #. Key: CharacterStatusConfig.Dark_Waning.Description
 msgctxt "CharacterStatusConfig.Dark_Waning.Description"
@@ -16401,7 +16401,7 @@ msgstr ""
 #. Key: CharacterStatusConfig.Dark_Waning_Battle.DisplayName
 msgctxt "CharacterStatusConfig.Dark_Waning_Battle.DisplayName"
 msgid "Dark Wanes"
-msgstr "Dark Wanes"
+msgstr "어둠의 그믐달"
 
 #. Key: CharacterStatusConfig.Dark_Waning_Battle.Description
 msgctxt "CharacterStatusConfig.Dark_Waning_Battle.Description"
@@ -16416,7 +16416,7 @@ msgstr "-100 속도"
 #. Key: CharacterStatusConfig.Dark_Waxing.DisplayName
 msgctxt "CharacterStatusConfig.Dark_Waxing.DisplayName"
 msgid "Dark Waxes"
-msgstr "Dark Waxes"
+msgstr "어둠의 보름달"
 
 #. Key: CharacterStatusConfig.Dark_Waxing.Description
 msgctxt "CharacterStatusConfig.Dark_Waxing.Description"
@@ -16426,7 +16426,7 @@ msgstr ""
 #. Key: CharacterStatusConfig.Dark_Waxing_Battle.DisplayName
 msgctxt "CharacterStatusConfig.Dark_Waxing_Battle.DisplayName"
 msgid "Dark Waxes"
-msgstr "Dark Waxes"
+msgstr "어둠의 보름달"
 
 #. Key: CharacterStatusConfig.Dark_Waxing_Battle.Description
 msgctxt "CharacterStatusConfig.Dark_Waxing_Battle.Description"
@@ -16441,7 +16441,7 @@ msgstr ""
 #. Key: CharacterStatusConfig.Nature_Waning.DisplayName
 msgctxt "CharacterStatusConfig.Nature_Waning.DisplayName"
 msgid "Nature Wanes"
-msgstr "Nature Wanes"
+msgstr "자연의 그믐달"
 
 #. Key: CharacterStatusConfig.Nature_Waning.Description
 msgctxt "CharacterStatusConfig.Nature_Waning.Description"
@@ -16451,7 +16451,7 @@ msgstr ""
 #. Key: CharacterStatusConfig.Nature_Waning_Battle.DisplayName
 msgctxt "CharacterStatusConfig.Nature_Waning_Battle.DisplayName"
 msgid "Nature Wanes"
-msgstr "Nature Wanes"
+msgstr "자연의 그믐달"
 
 #. Key: CharacterStatusConfig.Nature_Waning_Battle.Description
 msgctxt "CharacterStatusConfig.Nature_Waning_Battle.Description"
@@ -16466,7 +16466,7 @@ msgstr "-100 속도"
 #. Key: CharacterStatusConfig.Nature_Waxing.DisplayName
 msgctxt "CharacterStatusConfig.Nature_Waxing.DisplayName"
 msgid "Nature Waxes"
-msgstr "Nature Waxes"
+msgstr "자연의 보름달"
 
 #. Key: CharacterStatusConfig.Nature_Waxing.Description
 msgctxt "CharacterStatusConfig.Nature_Waxing.Description"
@@ -16476,7 +16476,7 @@ msgstr ""
 #. Key: CharacterStatusConfig.Nature_Waxing_Battle.DisplayName
 msgctxt "CharacterStatusConfig.Nature_Waxing_Battle.DisplayName"
 msgid "Nature Waxes"
-msgstr "Nature Waxes"
+msgstr "자연의 보름달"
 
 #. Key: CharacterStatusConfig.Nature_Waxing_Battle.Description
 msgctxt "CharacterStatusConfig.Nature_Waxing_Battle.Description"
@@ -16491,7 +16491,7 @@ msgstr ""
 #. Key: CharacterStatusConfig.Lightning_Waning.DisplayName
 msgctxt "CharacterStatusConfig.Lightning_Waning.DisplayName"
 msgid "Lightning Wanes"
-msgstr "Lightning Wanes"
+msgstr "번개의 그믐달"
 
 #. Key: CharacterStatusConfig.Lightning_Waning.Description
 msgctxt "CharacterStatusConfig.Lightning_Waning.Description"
@@ -16501,7 +16501,7 @@ msgstr ""
 #. Key: CharacterStatusConfig.Lightning_Waning_Battle.DisplayName
 msgctxt "CharacterStatusConfig.Lightning_Waning_Battle.DisplayName"
 msgid "Lightning Wanes"
-msgstr "Lightning Wanes"
+msgstr "번개의 그믐달"
 
 #. Key: CharacterStatusConfig.Lightning_Waning_Battle.Description
 msgctxt "CharacterStatusConfig.Lightning_Waning_Battle.Description"
@@ -16516,7 +16516,7 @@ msgstr "-100 속도"
 #. Key: CharacterStatusConfig.Lightning_Waxing.DisplayName
 msgctxt "CharacterStatusConfig.Lightning_Waxing.DisplayName"
 msgid "Lightning Waxes"
-msgstr "Lightning Waxes"
+msgstr "번개의 보름달"
 
 #. Key: CharacterStatusConfig.Lightning_Waxing.Description
 msgctxt "CharacterStatusConfig.Lightning_Waxing.Description"
@@ -16526,7 +16526,7 @@ msgstr ""
 #. Key: CharacterStatusConfig.Lightning_Waxing_Battle.DisplayName
 msgctxt "CharacterStatusConfig.Lightning_Waxing_Battle.DisplayName"
 msgid "Lightning Waxes"
-msgstr "Lightning Waxes"
+msgstr "번개의 보름달"
 
 #. Key: CharacterStatusConfig.Lightning_Waxing_Battle.Description
 msgctxt "CharacterStatusConfig.Lightning_Waxing_Battle.Description"
@@ -19426,7 +19426,7 @@ msgstr "<slink=CombatStat_DamageBonus>와 <slink=Mana>가 강화됩니다."
 #. Key: CharacterStatusConfig.Wisdom_DarkUpgrade_1.DisplayName
 msgctxt "CharacterStatusConfig.Wisdom_DarkUpgrade_1.DisplayName"
 msgid "Dark Knowledge - Bronze Medallion"
-msgstr "Dark 지식 - 동메달"
+msgstr "어둠지식 - 동메달"
 
 #. Key: CharacterStatusConfig.Wisdom_DarkUpgrade_1.Description
 msgctxt "CharacterStatusConfig.Wisdom_DarkUpgrade_1.Description"
@@ -19436,7 +19436,7 @@ msgstr "어둠 스킬 레벨 상한 +1."
 #. Key: CharacterStatusConfig.Wisdom_DarkUpgrade_2.DisplayName
 msgctxt "CharacterStatusConfig.Wisdom_DarkUpgrade_2.DisplayName"
 msgid "Dark Knowledge - Silver Medallion"
-msgstr "Dark 지식 - 은메달"
+msgstr "어둠지식 - 은메달"
 
 #. Key: CharacterStatusConfig.Wisdom_DarkUpgrade_2.Description
 msgctxt "CharacterStatusConfig.Wisdom_DarkUpgrade_2.Description"
@@ -19446,7 +19446,7 @@ msgstr "어둠 스킬 레벨 및 레벨 상한 +1."
 #. Key: CharacterStatusConfig.Wisdom_DarkUpgrade_3.DisplayName
 msgctxt "CharacterStatusConfig.Wisdom_DarkUpgrade_3.DisplayName"
 msgid "Dark Knowledge - Gold Medallion"
-msgstr "Dark 지식 - 금메달"
+msgstr "어둠지식 - 금메달"
 
 #. Key: CharacterStatusConfig.Wisdom_DarkUpgrade_3.Description
 msgctxt "CharacterStatusConfig.Wisdom_DarkUpgrade_3.Description"
@@ -19456,7 +19456,7 @@ msgstr "어둠 스킬 레벨 상한 +2."
 #. Key: CharacterStatusConfig.Wisdom_DarkUpgrade_4.DisplayName
 msgctxt "CharacterStatusConfig.Wisdom_DarkUpgrade_4.DisplayName"
 msgid "Dark Knowledge - Platinum Medallion"
-msgstr "Dark 지식 - 플래티넘 메달"
+msgstr "어둠지식 - 플래티넘 메달"
 
 #. Key: CharacterStatusConfig.Wisdom_DarkUpgrade_4.Description
 msgctxt "CharacterStatusConfig.Wisdom_DarkUpgrade_4.Description"
@@ -19626,7 +19626,7 @@ msgstr ""
 #. Key: CharacterStatusConfig.Wisdom_DarkTeacherTrigger_4.DisplayName
 msgctxt "CharacterStatusConfig.Wisdom_DarkTeacherTrigger_4.DisplayName"
 msgid "Dark Teacher - Platinum Medallion"
-msgstr "Dark Teacher - 플래티넘 메달"
+msgstr "어둠Teacher - 플래티넘 메달"
 
 #. Key: CharacterStatusConfig.Wisdom_DarkTeacherTrigger_4.Description
 msgctxt "CharacterStatusConfig.Wisdom_DarkTeacherTrigger_4.Description"
@@ -19636,7 +19636,7 @@ msgstr ""
 #. Key: CharacterStatusConfig.Wisdom_DarkTeacherBuff_4.DisplayName
 msgctxt "CharacterStatusConfig.Wisdom_DarkTeacherBuff_4.DisplayName"
 msgid "Dark Teacher - Platinum Medallion"
-msgstr "Dark Teacher - 플래티넘 메달"
+msgstr "어둠Teacher - 플래티넘 메달"
 
 #. Key: CharacterStatusConfig.Wisdom_DarkTeacherBuff_4.Description
 msgctxt "CharacterStatusConfig.Wisdom_DarkTeacherBuff_4.Description"
@@ -19646,7 +19646,7 @@ msgstr ""
 #. Key: CharacterStatusConfig.Wisdom_WaterTeacherTrigger_4.DisplayName
 msgctxt "CharacterStatusConfig.Wisdom_WaterTeacherTrigger_4.DisplayName"
 msgid "Water Teacher - Platinum Medallion"
-msgstr "Water Teacher - 플래티넘 메달"
+msgstr "물Teacher - 플래티넘 메달"
 
 #. Key: CharacterStatusConfig.Wisdom_WaterTeacherTrigger_4.Description
 msgctxt "CharacterStatusConfig.Wisdom_WaterTeacherTrigger_4.Description"
@@ -19656,7 +19656,7 @@ msgstr ""
 #. Key: CharacterStatusConfig.Wisdom_WaterTeacherBuff_4.DisplayName
 msgctxt "CharacterStatusConfig.Wisdom_WaterTeacherBuff_4.DisplayName"
 msgid "Water Teacher - Platinum Medallion"
-msgstr "Water Teacher - 플래티넘 메달"
+msgstr "물Teacher - 플래티넘 메달"
 
 #. Key: CharacterStatusConfig.Wisdom_WaterTeacherBuff_4.Description
 msgctxt "CharacterStatusConfig.Wisdom_WaterTeacherBuff_4.Description"
@@ -19666,7 +19666,7 @@ msgstr ""
 #. Key: CharacterStatusConfig.Wisdom_EarthTeacherTrigger_4.DisplayName
 msgctxt "CharacterStatusConfig.Wisdom_EarthTeacherTrigger_4.DisplayName"
 msgid "Earth Teacher - Platinum Medallion"
-msgstr "Earth Teacher - 플래티넘 메달"
+msgstr "대지Teacher - 플래티넘 메달"
 
 #. Key: CharacterStatusConfig.Wisdom_EarthTeacherTrigger_4.Description
 msgctxt "CharacterStatusConfig.Wisdom_EarthTeacherTrigger_4.Description"
@@ -19676,7 +19676,7 @@ msgstr ""
 #. Key: CharacterStatusConfig.Wisdom_EarthTeacherBuff_4.DisplayName
 msgctxt "CharacterStatusConfig.Wisdom_EarthTeacherBuff_4.DisplayName"
 msgid "Earth Teacher - Platinum Medallion"
-msgstr "Earth Teacher - 플래티넘 메달"
+msgstr "대지Teacher - 플래티넘 메달"
 
 #. Key: CharacterStatusConfig.Wisdom_EarthTeacherBuff_4.Description
 msgctxt "CharacterStatusConfig.Wisdom_EarthTeacherBuff_4.Description"
@@ -19686,7 +19686,7 @@ msgstr ""
 #. Key: CharacterStatusConfig.Wisdom_AirTeacherTrigger_4.DisplayName
 msgctxt "CharacterStatusConfig.Wisdom_AirTeacherTrigger_4.DisplayName"
 msgid "Air Teacher - Platinum Medallion"
-msgstr "Air Teacher - 플래티넘 메달"
+msgstr "바람Teacher - 플래티넘 메달"
 
 #. Key: CharacterStatusConfig.Wisdom_AirTeacherTrigger_4.Description
 msgctxt "CharacterStatusConfig.Wisdom_AirTeacherTrigger_4.Description"
@@ -19696,7 +19696,7 @@ msgstr ""
 #. Key: CharacterStatusConfig.Wisdom_AirTeacherBuff_4.DisplayName
 msgctxt "CharacterStatusConfig.Wisdom_AirTeacherBuff_4.DisplayName"
 msgid "Air Teacher - Platinum Medallion"
-msgstr "Air Teacher - 플래티넘 메달"
+msgstr "바람Teacher - 플래티넘 메달"
 
 #. Key: CharacterStatusConfig.Wisdom_AirTeacherBuff_4.Description
 msgctxt "CharacterStatusConfig.Wisdom_AirTeacherBuff_4.Description"
@@ -19706,7 +19706,7 @@ msgstr ""
 #. Key: CharacterStatusConfig.Wisdom_NatureTeacherTrigger_4.DisplayName
 msgctxt "CharacterStatusConfig.Wisdom_NatureTeacherTrigger_4.DisplayName"
 msgid "Nature Teacher - Platinum Medallion"
-msgstr "Nature Teacher - 플래티넘 메달"
+msgstr "자연Teacher - 플래티넘 메달"
 
 #. Key: CharacterStatusConfig.Wisdom_NatureTeacherTrigger_4.Description
 msgctxt "CharacterStatusConfig.Wisdom_NatureTeacherTrigger_4.Description"
@@ -19716,7 +19716,7 @@ msgstr ""
 #. Key: CharacterStatusConfig.Wisdom_NatureTeacherBuff_4.DisplayName
 msgctxt "CharacterStatusConfig.Wisdom_NatureTeacherBuff_4.DisplayName"
 msgid "Nature Teacher - Platinum Medallion"
-msgstr "Nature Teacher - 플래티넘 메달"
+msgstr "자연Teacher - 플래티넘 메달"
 
 #. Key: CharacterStatusConfig.Wisdom_NatureTeacherBuff_4.Description
 msgctxt "CharacterStatusConfig.Wisdom_NatureTeacherBuff_4.Description"
@@ -19726,7 +19726,7 @@ msgstr ""
 #. Key: CharacterStatusConfig.Wisdom_LightningTeacherTrigger_4.DisplayName
 msgctxt "CharacterStatusConfig.Wisdom_LightningTeacherTrigger_4.DisplayName"
 msgid "Lightning Teacher - Platinum Medallion"
-msgstr "Lightning Teacher - 플래티넘 메달"
+msgstr "번개Teacher - 플래티넘 메달"
 
 #. Key: CharacterStatusConfig.Wisdom_LightningTeacherTrigger_4.Description
 msgctxt "CharacterStatusConfig.Wisdom_LightningTeacherTrigger_4.Description"
@@ -19736,7 +19736,7 @@ msgstr ""
 #. Key: CharacterStatusConfig.Wisdom_LightningTeacherBuff_4.DisplayName
 msgctxt "CharacterStatusConfig.Wisdom_LightningTeacherBuff_4.DisplayName"
 msgid "Lightning Teacher - Platinum Medallion"
-msgstr "Lightning Teacher - 플래티넘 메달"
+msgstr "번개Teacher - 플래티넘 메달"
 
 #. Key: CharacterStatusConfig.Wisdom_LightningTeacherBuff_4.Description
 msgctxt "CharacterStatusConfig.Wisdom_LightningTeacherBuff_4.Description"
@@ -22236,12 +22236,12 @@ msgstr "{0}: {1} 상태에서 벗어남"
 #. Key: CharacterStatusConfig.Anticipation.DisplayName
 msgctxt "CharacterStatusConfig.Anticipation.DisplayName"
 msgid "Craving Recreation"
-msgstr ""
+msgstr "휴식 필요"
 
 #. Key: CharacterStatusConfig.Anticipation.Description
 msgctxt "CharacterStatusConfig.Anticipation.Description"
 msgid "Would like some scheduled Recreation."
-msgstr ""
+msgstr "휴식하고 싶은 상태입니다."
 
 #. Key: CharacterStatusConfig.Anticipation.FlavorText
 msgctxt "CharacterStatusConfig.Anticipation.FlavorText"
@@ -22251,22 +22251,22 @@ msgstr ""
 #. Key: CharacterStatusConfig.Anticipation.LogEntry
 msgctxt "CharacterStatusConfig.Anticipation.LogEntry"
 msgid "{0} is {1}"
-msgstr "{0} {1}"
+msgstr "{0}: {1}"
 
 #. Key: CharacterStatusConfig.Anticipation.LogEntryEnd
 msgctxt "CharacterStatusConfig.Anticipation.LogEntryEnd"
 msgid "{0} is no longer {1}"
-msgstr ""
+msgstr "{0}: {1} 상태에서 벗어남"
 
 #. Key: CharacterStatusConfig.Relaxed.DisplayName
 msgctxt "CharacterStatusConfig.Relaxed.DisplayName"
 msgid "Relaxed"
-msgstr ""
+msgstr "잘 쉼"
 
 #. Key: CharacterStatusConfig.Relaxed.Description
 msgctxt "CharacterStatusConfig.Relaxed.Description"
 msgid "Is calm and has had plenty of Recreation."
-msgstr ""
+msgstr "충분히 휴식해서 좋은 상태입니다."
 
 #. Key: CharacterStatusConfig.Relaxed.FlavorText
 msgctxt "CharacterStatusConfig.Relaxed.FlavorText"
@@ -22276,22 +22276,22 @@ msgstr ""
 #. Key: CharacterStatusConfig.Relaxed.LogEntry
 msgctxt "CharacterStatusConfig.Relaxed.LogEntry"
 msgid "{0} is {1}"
-msgstr "{0} {1}"
+msgstr "{0}: {1}"
 
 #. Key: CharacterStatusConfig.Relaxed.LogEntryEnd
 msgctxt "CharacterStatusConfig.Relaxed.LogEntryEnd"
 msgid "{0} is no longer {1}"
-msgstr ""
+msgstr "{0}: {1} 상태에서 벗어남"
 
 #. Key: CharacterStatusConfig.Serene.DisplayName
 msgctxt "CharacterStatusConfig.Serene.DisplayName"
 msgid "Tranquil"
-msgstr ""
+msgstr "평온"
 
 #. Key: CharacterStatusConfig.Serene.Description
 msgctxt "CharacterStatusConfig.Serene.Description"
 msgid "Is extremely calm and has had plenty of Recreation."
-msgstr ""
+msgstr "매우 충분한 휴식을 해서 평온한 상태입니다."
 
 #. Key: CharacterStatusConfig.Serene.FlavorText
 msgctxt "CharacterStatusConfig.Serene.FlavorText"
@@ -22301,47 +22301,47 @@ msgstr ""
 #. Key: CharacterStatusConfig.Serene.LogEntry
 msgctxt "CharacterStatusConfig.Serene.LogEntry"
 msgid "{0} is {1}"
-msgstr "{0} {1}"
+msgstr "{0}: {1}"
 
 #. Key: CharacterStatusConfig.Serene.LogEntryEnd
 msgctxt "CharacterStatusConfig.Serene.LogEntryEnd"
 msgid "{0} is no longer {1}"
-msgstr ""
+msgstr "{0}: {1} 상태에서 벗어남"
 
 #. Key: CharacterStatusConfig.Learning_Empty.DisplayName
 msgctxt "CharacterStatusConfig.Learning_Empty.DisplayName"
 msgid "Purposeless"
-msgstr ""
+msgstr "목표 잃음"
 
 #. Key: CharacterStatusConfig.Learning_Empty.Description
 msgctxt "CharacterStatusConfig.Learning_Empty.Description"
 msgid "Has not gained a Skill or Medallion in a long time."
-msgstr ""
+msgstr "긴 시간 동안 스킬 레벨이나 메달을 얻지 못했습니다."
 
 #. Key: CharacterStatusConfig.Learning_Empty.FlavorText
 msgctxt "CharacterStatusConfig.Learning_Empty.FlavorText"
 msgid "Idle wands are the Fog's plaything."
-msgstr "Idle wands are the Fog's plaything."
+msgstr ""
 
 #. Key: CharacterStatusConfig.Learning_Empty.LogEntry
 msgctxt "CharacterStatusConfig.Learning_Empty.LogEntry"
 msgid "{0} is {1}"
-msgstr "{0} {1}"
+msgstr "{0}: {1}"
 
 #. Key: CharacterStatusConfig.Learning_Empty.LogEntryEnd
 msgctxt "CharacterStatusConfig.Learning_Empty.LogEntryEnd"
 msgid "{0} is no longer {1}"
-msgstr ""
+msgstr "{0}: {1} 상태에서 벗어남"
 
 #. Key: CharacterStatusConfig.Learning_Low.DisplayName
 msgctxt "CharacterStatusConfig.Learning_Low.DisplayName"
 msgid "Disengaged"
-msgstr ""
+msgstr "흥미 잃음"
 
 #. Key: CharacterStatusConfig.Learning_Low.Description
 msgctxt "CharacterStatusConfig.Learning_Low.Description"
 msgid "Has not gained a Skill or Medallion anytime recently."
-msgstr ""
+msgstr "최근 스킬 레벨이나 메달을 얻지 못했습니다."
 
 #. Key: CharacterStatusConfig.Learning_Low.FlavorText
 msgctxt "CharacterStatusConfig.Learning_Low.FlavorText"
@@ -22351,12 +22351,12 @@ msgstr ""
 #. Key: CharacterStatusConfig.Learning_Med.DisplayName
 msgctxt "CharacterStatusConfig.Learning_Med.DisplayName"
 msgid "Engaged"
-msgstr ""
+msgstr "흥미 있음"
 
 #. Key: CharacterStatusConfig.Learning_Med.Description
 msgctxt "CharacterStatusConfig.Learning_Med.Description"
 msgid "Gained a Skill or Medallion somewhat recently."
-msgstr ""
+msgstr "비교적 최근 스킬 레벨이나 메달을 얻었습니다."
 
 #. Key: CharacterStatusConfig.Learning_Med.FlavorText
 msgctxt "CharacterStatusConfig.Learning_Med.FlavorText"
@@ -22366,22 +22366,22 @@ msgstr ""
 #. Key: CharacterStatusConfig.Learning_Med.LogEntry
 msgctxt "CharacterStatusConfig.Learning_Med.LogEntry"
 msgid "{0} is {1}"
-msgstr "{0} {1}"
+msgstr "{0}: {1}"
 
 #. Key: CharacterStatusConfig.Learning_Med.LogEntryEnd
 msgctxt "CharacterStatusConfig.Learning_Med.LogEntryEnd"
 msgid "{0} is no longer {1}"
-msgstr ""
+msgstr "{0}: {1} 상태에서 벗어남"
 
 #. Key: CharacterStatusConfig.Learning_High.DisplayName
 msgctxt "CharacterStatusConfig.Learning_High.DisplayName"
 msgid "Purposeful"
-msgstr ""
+msgstr "의욕 충만"
 
 #. Key: CharacterStatusConfig.Learning_High.Description
 msgctxt "CharacterStatusConfig.Learning_High.Description"
 msgid "Gained Skill or Medallions very recently."
-msgstr ""
+msgstr "매우 최근에 스킬 레벨이나 메달을 얻었습니다."
 
 #. Key: CharacterStatusConfig.Learning_High.FlavorText
 msgctxt "CharacterStatusConfig.Learning_High.FlavorText"
@@ -22391,62 +22391,62 @@ msgstr ""
 #. Key: CharacterStatusConfig.Learning_High.LogEntry
 msgctxt "CharacterStatusConfig.Learning_High.LogEntry"
 msgid "{0} is {1}"
-msgstr "{0} {1}"
+msgstr "{0}: {1}"
 
 #. Key: CharacterStatusConfig.Learning_High.LogEntryEnd
 msgctxt "CharacterStatusConfig.Learning_High.LogEntryEnd"
 msgid "{0} is no longer {1}"
-msgstr ""
+msgstr "{0}: {1} 상태에서 벗어남"
 
 #. Key: CharacterStatusConfig.CriticalMood.DisplayName
 msgctxt "CharacterStatusConfig.CriticalMood.DisplayName"
 msgid "Break Risk"
-msgstr ""
+msgstr "정신착란 위기"
 
 #. Key: CharacterStatusConfig.CriticalMood.Description
 msgctxt "CharacterStatusConfig.CriticalMood.Description"
 msgid "Critically low <slink=Mood> and at risk for a <slink=break>."
-msgstr ""
+msgstr "매우 낮은 <slink=Mood>로 인해 <slink=break>의 위기에 처해 있습니다."
 
 #. Key: CharacterStatusConfig.CriticalMood.FeedString
 msgctxt "CharacterStatusConfig.CriticalMood.FeedString"
 msgid "Break Risk!"
-msgstr ""
+msgstr "정신착란 위기!"
 
 #. Key: CharacterStatusConfig.CriticalMood.FeedHoverString
 msgctxt "CharacterStatusConfig.CriticalMood.FeedHoverString"
 msgid "<slink=break> Risk"
-msgstr ""
+msgstr "<slink=break> 위기"
 
 #. Key: CharacterStatusConfig.CriticalMoodTarget.DisplayName
 msgctxt "CharacterStatusConfig.CriticalMoodTarget.DisplayName"
 msgid "Possible Break Risk"
-msgstr ""
+msgstr "정신착란 위기"
 
 #. Key: CharacterStatusConfig.CriticalMoodTarget.Description
 msgctxt "CharacterStatusConfig.CriticalMoodTarget.Description"
 msgid "Conviction target is in the break zone. If Conviction not improved, the mage will soon have a <slink=CriticalMood>."
-msgstr ""
+msgstr "목표 만족도가 정신착란 수준으로 낮아졌습니다. 만족도를 높이지 않으면 곧 <slink=CriticalMood>에 진입할 것입니다."
 
 #. Key: CharacterStatusConfig.CriticalMoodTarget.FeedString
 msgctxt "CharacterStatusConfig.CriticalMoodTarget.FeedString"
 msgid "Possible Break Risk"
-msgstr ""
+msgstr "정신착란 위기"
 
 #. Key: CharacterStatusConfig.CriticalMoodTarget.FeedHoverString
 msgctxt "CharacterStatusConfig.CriticalMoodTarget.FeedHoverString"
 msgid "Conviction target is in the break zone. If Conviction not improved, the mage will soon have a <slink=CriticalMood>."
-msgstr ""
+msgstr "목표 만족도가 정신착란 수준으로 낮아졌습니다. 만족도를 높이지 않으면 곧 <slink=CriticalMood>에 진입할 것입니다."
 
 #. Key: CharacterStatusConfig.HadBreak.DisplayName
 msgctxt "CharacterStatusConfig.HadBreak.DisplayName"
 msgid "Post-Break Recovery"
-msgstr ""
+msgstr "정신착란 후 회복 중"
 
 #. Key: CharacterStatusConfig.HadBreak.Description
 msgctxt "CharacterStatusConfig.HadBreak.Description"
 msgid "Had a <slink=break>, but has recovered."
-msgstr ""
+msgstr "<slink=break>을 겪었지만 회복 중입니다."
 
 #. Key: CharacterStatusConfig.HadBreak.FlavorText
 msgctxt "CharacterStatusConfig.HadBreak.FlavorText"
@@ -22456,32 +22456,32 @@ msgstr ""
 #. Key: CharacterStatusConfig.HadBreak.LogEntry
 msgctxt "CharacterStatusConfig.HadBreak.LogEntry"
 msgid "{0} is in {1}"
-msgstr ""
+msgstr "{0}: {1}"
 
 #. Key: CharacterStatusConfig.HadBreak.LogEntryEnd
 msgctxt "CharacterStatusConfig.HadBreak.LogEntryEnd"
 msgid "{0} is no longer in {1}"
-msgstr ""
+msgstr "{0}: {1} 상태에서 벗어남"
 
 #. Key: CharacterStatusConfig.TrappedInCrystal.DisplayName
 msgctxt "CharacterStatusConfig.TrappedInCrystal.DisplayName"
 msgid "Trapped in a Crystal"
-msgstr ""
+msgstr "크리스탈에 갇힘"
 
 #. Key: CharacterStatusConfig.TrappedInCrystal.Description
 msgctxt "CharacterStatusConfig.TrappedInCrystal.Description"
 msgid "Rescue this Mage with a battle. Losing or letting the crystal expire will release them, but knock them out, potentially killing them."
-msgstr ""
+msgstr "전투를 치루어 이 마법사를 구하십시오. 크리스탈의 유효기간이 다 되면 마법사는 풀려나지만, 기절 상태가 되어 죽을지도 모릅니다."
 
 #. Key: CharacterStatusConfig.TrappedInCrystal.LogEntry
 msgctxt "CharacterStatusConfig.TrappedInCrystal.LogEntry"
 msgid "{0} is {1}"
-msgstr "{0} {1}"
+msgstr "{0}: {1}"
 
 #. Key: CharacterStatusConfig.TrappedInCrystal.LogEntryEnd
 msgctxt "CharacterStatusConfig.TrappedInCrystal.LogEntryEnd"
 msgid "{0} is no longer {1}"
-msgstr ""
+msgstr "{0}: {1} 상태에서 벗어남"
 
 #. Key: CharacterStatusConfig.RunAwayBreakStatus.DisplayName
 msgctxt "CharacterStatusConfig.RunAwayBreakStatus.DisplayName"
@@ -22491,27 +22491,27 @@ msgstr "도망치는 중"
 #. Key: CharacterStatusConfig.RunAwayBreakStatus.Description
 msgctxt "CharacterStatusConfig.RunAwayBreakStatus.Description"
 msgid "Had a <slink=break> and are running into the fog."
-msgstr ""
+msgstr "<slink=break>을 일으켜 안개 속으로 도망치고 있습니다."
 
 #. Key: CharacterStatusConfig.RunAwayBreakStatus.FeedString
 msgctxt "CharacterStatusConfig.RunAwayBreakStatus.FeedString"
 msgid "BREAK! Running Away."
-msgstr ""
+msgstr "정신착란! 도망치는 중."
 
 #. Key: CharacterStatusConfig.RunAwayBreakStatus.FeedHoverString
 msgctxt "CharacterStatusConfig.RunAwayBreakStatus.FeedHoverString"
 msgid "Running Away Into the Fog:"
-msgstr ""
+msgstr "안개 속으로 도망치는 중:"
 
 #. Key: CharacterStatusConfig.RunAwayBreakStatus.LogEntry
 msgctxt "CharacterStatusConfig.RunAwayBreakStatus.LogEntry"
 msgid "BREAK! {0} is having a {1}."
-msgstr ""
+msgstr "정신착란! {0}: {1}"
 
 #. Key: CharacterStatusConfig.RunAwayBreakStatus.LogEntryEnd
 msgctxt "CharacterStatusConfig.RunAwayBreakStatus.LogEntryEnd"
 msgid "{0}'s is no longer {1}."
-msgstr ""
+msgstr "{0}: {1} 상태에서 벗어남"
 
 #. Key: CharacterStatusConfig.EatingBinge.DisplayName
 msgctxt "CharacterStatusConfig.EatingBinge.DisplayName"
@@ -22521,27 +22521,27 @@ msgstr "폭식 중"
 #. Key: CharacterStatusConfig.EatingBinge.Description
 msgctxt "CharacterStatusConfig.EatingBinge.Description"
 msgid "Had a <slink=break> and are gorging themselves on whatever food they can find."
-msgstr ""
+msgstr "<slink=break>을 일으켜 손에 잡히는 음식을 모조리 먹어치우고 있습니다."
 
 #. Key: CharacterStatusConfig.EatingBinge.FeedString
 msgctxt "CharacterStatusConfig.EatingBinge.FeedString"
 msgid "BREAK! Feeding Frenzy."
-msgstr ""
+msgstr "정신착란! 폭식 중."
 
 #. Key: CharacterStatusConfig.EatingBinge.FeedHoverString
 msgctxt "CharacterStatusConfig.EatingBinge.FeedHoverString"
 msgid "Having a Feeding Frenzy:"
-msgstr ""
+msgstr "폭식 중:"
 
 #. Key: CharacterStatusConfig.EatingBinge.LogEntry
 msgctxt "CharacterStatusConfig.EatingBinge.LogEntry"
 msgid "BREAK! {0} is having a {1}."
-msgstr ""
+msgstr "정신착란! {0}: {1}"
 
 #. Key: CharacterStatusConfig.EatingBinge.LogEntryEnd
 msgctxt "CharacterStatusConfig.EatingBinge.LogEntryEnd"
 msgid "{0}'s {1} is over."
-msgstr ""
+msgstr "{0}: {1} 상태에서 벗어남"
 
 #. Key: CharacterStatusConfig.PossessionBreakStatus.DisplayName
 msgctxt "CharacterStatusConfig.PossessionBreakStatus.DisplayName"
@@ -22551,27 +22551,27 @@ msgstr "폭주"
 #. Key: CharacterStatusConfig.PossessionBreakStatus.Description
 msgctxt "CharacterStatusConfig.PossessionBreakStatus.Description"
 msgid "Had a <slink=break> and are wandering the school, destroying food and furniture."
-msgstr ""
+msgstr "<slink=break>을 일으켜 학교 내의 가구와 아이템을 부수고 있습니다."
 
 #. Key: CharacterStatusConfig.PossessionBreakStatus.FeedString
 msgctxt "CharacterStatusConfig.PossessionBreakStatus.FeedString"
 msgid "BREAK! Rampage."
-msgstr ""
+msgstr "정신착란! 폭주 중."
 
 #. Key: CharacterStatusConfig.PossessionBreakStatus.FeedHoverString
 msgctxt "CharacterStatusConfig.PossessionBreakStatus.FeedHoverString"
 msgid "Having a Rampage:"
-msgstr "폭주 상태:"
+msgstr "폭주 중:"
 
 #. Key: CharacterStatusConfig.PossessionBreakStatus.LogEntry
 msgctxt "CharacterStatusConfig.PossessionBreakStatus.LogEntry"
 msgid "BREAK! {0} is on a {1}."
-msgstr ""
+msgstr "정신착란! {0}: {1}"
 
 #. Key: CharacterStatusConfig.PossessionBreakStatus.LogEntryEnd
 msgctxt "CharacterStatusConfig.PossessionBreakStatus.LogEntryEnd"
 msgid "{0} is no longer on a {1}"
-msgstr ""
+msgstr "{0}: {1} 상태에서 벗어남"
 
 #. Key: CharacterStatusConfig.BloodPainting.DisplayName
 msgctxt "CharacterStatusConfig.BloodPainting.DisplayName"
@@ -22676,12 +22676,12 @@ msgstr ""
 #. Key: CharacterStatusConfig.CultistFaction.DisplayName
 msgctxt "CharacterStatusConfig.CultistFaction.DisplayName"
 msgid "Raven Cultist"
-msgstr ""
+msgstr "레이븐 이교도"
 
 #. Key: CharacterStatusConfig.CultistFaction.Description
 msgctxt "CharacterStatusConfig.CultistFaction.Description"
 msgid "Strange bird cultists who believe the world is doomed. Have permanently lowered Conviction, but are powerful in battle.\n"
-msgstr ""
+msgstr "세계가 멸망할 것이라고 믿는 기이한 조류 이교도들입니다. 기본 만족도가 낮지만 전투력이 강합니다.\n"
 
 #. Key: CharacterStatusConfig.CultistFaction.FlavorText
 msgctxt "CharacterStatusConfig.CultistFaction.FlavorText"
@@ -22696,7 +22696,7 @@ msgstr "인간"
 #. Key: CharacterStatusConfig.HumanFaction.Description
 msgctxt "CharacterStatusConfig.HumanFaction.Description"
 msgid "Humans with magical talent. Have large reserves of Mana and one extra Death Save.\n"
-msgstr ""
+msgstr "마법 재능을 지닌 인간입니다. 높은 마나와 추가 소생횟수 1회를 갖고 있습니다.\n"
 
 #. Key: CharacterStatusConfig.HumanFaction.FlavorText
 msgctxt "CharacterStatusConfig.HumanFaction.FlavorText"
@@ -22711,7 +22711,7 @@ msgstr "울프킨"
 #. Key: CharacterStatusConfig.WerewolfFaction.Description
 msgctxt "CharacterStatusConfig.WerewolfFaction.Description"
 msgid "Wolflike creatures that will eat wild animals whole. High Speed and will sleep just about anywhere.\n"
-msgstr ""
+msgstr "울프킨은 작은 동물을 산 채로 먹습니다. 속도가 높고 아무 데에서나 잘 잡니다.\n"
 
 #. Key: CharacterStatusConfig.WerewolfFaction.FlavorText
 msgctxt "CharacterStatusConfig.WerewolfFaction.FlavorText"
@@ -22726,7 +22726,7 @@ msgstr "비비파이드"
 #. Key: CharacterStatusConfig.VivifiedFaction.Description
 msgctxt "CharacterStatusConfig.VivifiedFaction.Description"
 msgid "A race of former <slink=Quilted> servants who somehow gained sentience. Nobody knows how. High HP and will eat just about anything.\n"
-msgstr ""
+msgstr "지성을 얻은 <slink=Quilted> 도우미들입니다. 어떻게 지성을 얻었는지는 아무도 모릅니다. 높은 HP를 갖고 있으며, 아무거나 잘 먹습니다.\n"
 
 #. Key: CharacterStatusConfig.VivifiedFaction.FlavorText
 msgctxt "CharacterStatusConfig.VivifiedFaction.FlavorText"
@@ -22741,7 +22741,7 @@ msgstr "섀터드"
 #. Key: CharacterStatusConfig.GlassFaction.Description
 msgctxt "CharacterStatusConfig.GlassFaction.Description"
 msgid "Glass-like humanoids with very low HP. They gain Armor in battle and are immune to many ills.\n"
-msgstr ""
+msgstr "매우 낮은 HP를 지닌 유리 종족입니다. 전투에 진입할 때 아머를 얻고, 여러 질병에 면역입니다.\n"
 
 #. Key: CharacterStatusConfig.GlassFaction.FlavorText
 msgctxt "CharacterStatusConfig.GlassFaction.FlavorText"
@@ -22751,12 +22751,12 @@ msgstr ""
 #. Key: CharacterStatusConfig.DoomAndGloom.DisplayName
 msgctxt "CharacterStatusConfig.DoomAndGloom.DisplayName"
 msgid "Doom and Gloom"
-msgstr ""
+msgstr "멸망의 예감"
 
 #. Key: CharacterStatusConfig.DoomAndGloom.Description
 msgctxt "CharacterStatusConfig.DoomAndGloom.Description"
 msgid "A <slink=CultistFaction> has permanently lowered <slink=Mood>, but are powerful combatants."
-msgstr "A는 <slink=CultistFaction> 영구적으로 낮아졌지만 <slink=Mood>강력한 전투원입니다."
+msgstr "<slink=CultistFaction>는 낮은 <slink=Mood>를 지니지만 전투에서는 강력합니다."
 
 #. Key: CharacterStatusConfig.DoomAndGloom.FlavorText
 msgctxt "CharacterStatusConfig.DoomAndGloom.FlavorText"
@@ -22766,12 +22766,12 @@ msgstr ""
 #. Key: CharacterStatusConfig.ApexPredator.DisplayName
 msgctxt "CharacterStatusConfig.ApexPredator.DisplayName"
 msgid "Apex Predator"
-msgstr ""
+msgstr "최고 포식자"
 
 #. Key: CharacterStatusConfig.ApexPredator.Description
 msgctxt "CharacterStatusConfig.ApexPredator.Description"
 msgid "<slink=WerewolfFaction> do not suffer Conviction penalties if they sleep outside or on the floor, and prefer to eat <slink=DireRat> or <slink=Croa> over meals that have Conviction penalties."
-msgstr "<slink=WerewolfFaction> 그들이 밖에서 또는 바닥에서 잠을 자고, <slink=DireRat> <slink=Croa> 유죄 판결이 처벌이있는 식사를 선호하는 경우 유죄 판결을 처벌하지 마십시오."
+msgstr "<slink=WerewolfFaction>은 바깥이나 바닥에서 자도 만족도가 낮아지지 않습니다. 그리고 <slink=DireRat>나 <slink=Croa>를 산 채로 먹어도 만족도가 떨어지지 않습니다."
 
 #. Key: CharacterStatusConfig.ApexPredator.FlavorText
 msgctxt "CharacterStatusConfig.ApexPredator.FlavorText"
@@ -22781,12 +22781,12 @@ msgstr ""
 #. Key: CharacterStatusConfig.StitchedStomach.DisplayName
 msgctxt "CharacterStatusConfig.StitchedStomach.DisplayName"
 msgid "Stitched Stomach"
-msgstr ""
+msgstr "누더기 위장"
 
 #. Key: CharacterStatusConfig.StitchedStomach.Description
 msgctxt "CharacterStatusConfig.StitchedStomach.Description"
 msgid "<slink=VivifiedFaction> get no Conviction penalties or bonuses from eating, and prefer to eat the lowest quality food available."
-msgstr ""
+msgstr "<slink=VivifiedFaction>는 음식에 따라 만족도가 변하지 않습니다."
 
 #. Key: CharacterStatusConfig.StitchedStomach.FlavorText
 msgctxt "CharacterStatusConfig.StitchedStomach.FlavorText"
@@ -22796,12 +22796,12 @@ msgstr ""
 #. Key: CharacterStatusConfig.Inorganic.DisplayName
 msgctxt "CharacterStatusConfig.Inorganic.DisplayName"
 msgid "Inorganic"
-msgstr ""
+msgstr "무기질"
 
 #. Key: CharacterStatusConfig.Inorganic.Description
 msgctxt "CharacterStatusConfig.Inorganic.Description"
 msgid "<slink=GlassFaction> have low <slink=HP>, but do not suffer from magical illnesses like poisons, and will not be attacked by a <slink=TrapdoorVinePlant>."
-msgstr ""
+msgstr "<slink=GlassFaction>는 낮은 <slink=HP>를 지니지만, 독이나 병에 걸리지 않고 <slink=TrapdoorVinePlant>에게 공격당하지 않습니다."
 
 #. Key: CharacterStatusConfig.Inorganic.FlavorText
 msgctxt "CharacterStatusConfig.Inorganic.FlavorText"
@@ -22811,12 +22811,12 @@ msgstr ""
 #. Key: CharacterStatusConfig.Inorganic_Armor.DisplayName
 msgctxt "CharacterStatusConfig.Inorganic_Armor.DisplayName"
 msgid "Inorganic Armor"
-msgstr ""
+msgstr "무기질 갑옷"
 
 #. Key: CharacterStatusConfig.Inorganic_Armor.Description
 msgctxt "CharacterStatusConfig.Inorganic_Armor.Description"
 msgid "Grants 40 Armor on battle start."
-msgstr ""
+msgstr "전투를 시작할 때 40 아머를 얻습니다."
 
 #. Key: CharacterStatusConfig.Inorganic_Armor.BattleString
 msgctxt "CharacterStatusConfig.Inorganic_Armor.BattleString"
@@ -22826,12 +22826,12 @@ msgstr "아머"
 #. Key: CharacterStatusConfig.Inorganic_Armor_Boon.DisplayName
 msgctxt "CharacterStatusConfig.Inorganic_Armor_Boon.DisplayName"
 msgid "Inorganic Armor (Hour of the Shattered)"
-msgstr ""
+msgstr "무기질 갑옷 (섀터드의 시간)"
 
 #. Key: CharacterStatusConfig.Inorganic_Armor_Boon.Description
 msgctxt "CharacterStatusConfig.Inorganic_Armor_Boon.Description"
 msgid "Grants 80 Armor on battle start."
-msgstr ""
+msgstr "전투를 시작할 때 80 아머를 얻습니다."
 
 #. Key: CharacterStatusConfig.Inorganic_Armor_Boon.BattleString
 msgctxt "CharacterStatusConfig.Inorganic_Armor_Boon.BattleString"
@@ -22841,17 +22841,17 @@ msgstr "아머"
 #. Key: StatusEffectConfig.Slowed.DisplayName
 msgctxt "StatusEffectConfig.Slowed.DisplayName"
 msgid "Slowed"
-msgstr ""
+msgstr "느려짐"
 
 #. Key: StatusEffectConfig.Slowed.Description
 msgctxt "StatusEffectConfig.Slowed.Description"
 msgid "The character moves more slowly."
-msgstr ""
+msgstr "캐릭터가 느리게 움직입니다."
 
 #. Key: StatusEffectConfig.Fast.DisplayName
 msgctxt "StatusEffectConfig.Fast.DisplayName"
 msgid "Fast"
-msgstr ""
+msgstr "빨라짐"
 
 #. Key: StatusEffectConfig.Fast.Description
 msgctxt "StatusEffectConfig.Fast.Description"
@@ -23001,17 +23001,17 @@ msgstr ""
 #. Key: StatusEffectConfig.Endurance.DisplayName
 msgctxt "StatusEffectConfig.Endurance.DisplayName"
 msgid "Endurance"
-msgstr ""
+msgstr "인내"
 
 #. Key: StatusEffectConfig.Endurance.Description
 msgctxt "StatusEffectConfig.Endurance.Description"
 msgid "When downed, Restored to 1 HP and Endurance removed."
-msgstr ""
+msgstr "기절하면 한 번 1HP와 함께 부활할 수 있습니다."
 
 #. Key: StatusEffectConfig.BloodMagic.DisplayName
 msgctxt "StatusEffectConfig.BloodMagic.DisplayName"
 msgid "Blood Magic"
-msgstr ""
+msgstr "피의 마법"
 
 #. Key: StatusEffectConfig.BloodMagic.Description
 msgctxt "StatusEffectConfig.BloodMagic.Description"
@@ -24749,272 +24749,272 @@ msgstr ""
 #. Key: KeywordDefinition.FireWaxesKeyword.DisplayName
 msgctxt "KeywordDefinition.FireWaxesKeyword.DisplayName"
 msgid "Fire Leyline Waxes"
-msgstr "Fire Leyline Waxes"
+msgstr "불의 보름달"
 
 #. Key: KeywordDefinition.FireWaxesKeyword.Description
 msgctxt "KeywordDefinition.FireWaxesKeyword.Description"
 msgid "Fire specialized Mages start battle with <slink=Fire_Waxing_Battle>."
-msgstr ""
+msgstr "불 속성 마법사들이 전투 시 <slink=Fire_Waxing_Battle> 상태를 얻습니다."
 
 #. Key: KeywordDefinition.EarthWaxesKeyword.DisplayName
 msgctxt "KeywordDefinition.EarthWaxesKeyword.DisplayName"
 msgid "Earth Leyline Waxes"
-msgstr "Earth Leyline Waxes"
+msgstr "대지의 보름달"
 
 #. Key: KeywordDefinition.EarthWaxesKeyword.Description
 msgctxt "KeywordDefinition.EarthWaxesKeyword.Description"
 msgid "Earth specialized Mages start battle with <slink=Earth_Waxing_Battle>."
-msgstr ""
+msgstr "대지 속성 마법사들이 전투 시 <slink=Earth_Waxing_Battle> 상태를 얻습니다."
 
 #. Key: KeywordDefinition.WaterWaxesKeyword.DisplayName
 msgctxt "KeywordDefinition.WaterWaxesKeyword.DisplayName"
 msgid "Water Leyline Waxes"
-msgstr "Water Leyline Waxes"
+msgstr "물의 보름달"
 
 #. Key: KeywordDefinition.WaterWaxesKeyword.Description
 msgctxt "KeywordDefinition.WaterWaxesKeyword.Description"
 msgid "Water specialized Mages start battle with <slink=Water_Waxing_Battle>."
-msgstr ""
+msgstr "물 속성 마법사들이 전투 시 <slink=Water_Waxing_Battle> 상태를 얻습니다."
 
 #. Key: KeywordDefinition.AirWaxesKeyword.DisplayName
 msgctxt "KeywordDefinition.AirWaxesKeyword.DisplayName"
 msgid "Air Leyline Waxes"
-msgstr "Air Leyline Waxes"
+msgstr "바람의 보름달"
 
 #. Key: KeywordDefinition.AirWaxesKeyword.Description
 msgctxt "KeywordDefinition.AirWaxesKeyword.Description"
 msgid "Air specialized Mages start battle with <slink=Air_Waxing_Battle>."
-msgstr ""
+msgstr "바람 속성 마법사들이 전투 시 <slink=Air_Waxing_Battle> 상태를 얻습니다."
 
 #. Key: KeywordDefinition.NatureWaxesKeyword.DisplayName
 msgctxt "KeywordDefinition.NatureWaxesKeyword.DisplayName"
 msgid "Nature Leyline Waxes"
-msgstr "Nature Leyline Waxes"
+msgstr "자연의 보름달"
 
 #. Key: KeywordDefinition.NatureWaxesKeyword.Description
 msgctxt "KeywordDefinition.NatureWaxesKeyword.Description"
 msgid "Nature specialized Mages start battle with <slink=Nature_Waxing_Battle>."
-msgstr ""
+msgstr "자연 속성 마법사들이 전투 시 <slink=Nature_Waxing_Battle> 상태를 얻습니다."
 
 #. Key: KeywordDefinition.DarkWaxesKeyword.DisplayName
 msgctxt "KeywordDefinition.DarkWaxesKeyword.DisplayName"
 msgid "Dark Leyline Waxes"
-msgstr "Dark Leyline Waxes"
+msgstr "어둠의 보름달"
 
 #. Key: KeywordDefinition.DarkWaxesKeyword.Description
 msgctxt "KeywordDefinition.DarkWaxesKeyword.Description"
 msgid "Dark specialized Mages start battle with <slink=Dark_Waxing_Battle>."
-msgstr ""
+msgstr "어둠 속성 마법사들이 전투 시 <slink=Dark_Waxing_Battle> 상태를 얻습니다."
 
 #. Key: KeywordDefinition.LightningWaxesKeyword.DisplayName
 msgctxt "KeywordDefinition.LightningWaxesKeyword.DisplayName"
 msgid "Lightning Leyline Waxes"
-msgstr "Lightning Leyline Waxes"
+msgstr "번개의 보름달"
 
 #. Key: KeywordDefinition.LightningWaxesKeyword.Description
 msgctxt "KeywordDefinition.LightningWaxesKeyword.Description"
 msgid "Lightning specialized Mages start battle with <slink=Lightning_Waxing_Battle>."
-msgstr ""
+msgstr "번개 속성 마법사들이 전투 시 <slink=Lightning_Waxing_Battle> 상태를 얻습니다."
 
 #. Key: KeywordDefinition.FireWanesKeyword.DisplayName
 msgctxt "KeywordDefinition.FireWanesKeyword.DisplayName"
 msgid "Fire Leyline Wanes"
-msgstr "Fire Leyline Wanes"
+msgstr "불의 그믐달"
 
 #. Key: KeywordDefinition.FireWanesKeyword.Description
 msgctxt "KeywordDefinition.FireWanesKeyword.Description"
 msgid "Fire specialized Mages start battle with <slink=Fire_Waning_Battle>."
-msgstr ""
+msgstr "불 속성 마법사들이 전투 시 <slink=Fire_Waning_Battle> 상태를 얻습니다."
 
 #. Key: KeywordDefinition.EarthWanesKeyword.DisplayName
 msgctxt "KeywordDefinition.EarthWanesKeyword.DisplayName"
 msgid "Earth Leyline Wanes"
-msgstr "Earth Leyline Wanes"
+msgstr "대지의 그믐달"
 
 #. Key: KeywordDefinition.EarthWanesKeyword.Description
 msgctxt "KeywordDefinition.EarthWanesKeyword.Description"
 msgid "Earth specialized Mages start battle with <slink=Earth_Waning_Battle>."
-msgstr ""
+msgstr "대지 속성 마법사들이 전투 시 <slink=Earth_Waning_Battle> 상태를 얻습니다."
 
 #. Key: KeywordDefinition.WaterWanesKeyword.DisplayName
 msgctxt "KeywordDefinition.WaterWanesKeyword.DisplayName"
 msgid "Water Leyline Wanes"
-msgstr "Water Leyline Wanes"
+msgstr "물의 그믐달"
 
 #. Key: KeywordDefinition.WaterWanesKeyword.Description
 msgctxt "KeywordDefinition.WaterWanesKeyword.Description"
 msgid "Water specialized Mages start battle with <slink=Water_Waning_Battle>."
-msgstr ""
+msgstr "물 속성 마법사들이 전투 시 <slink=Water_Waning_Battle> 상태를 얻습니다."
 
 #. Key: KeywordDefinition.AirWanesKeyword.DisplayName
 msgctxt "KeywordDefinition.AirWanesKeyword.DisplayName"
 msgid "Air Leyline Wanes"
-msgstr "Air Leyline Wanes"
+msgstr "바람의 그믐달"
 
 #. Key: KeywordDefinition.AirWanesKeyword.Description
 msgctxt "KeywordDefinition.AirWanesKeyword.Description"
 msgid "Air specialized Mages start battle with <slink=Air_Waning_Battle>."
-msgstr ""
+msgstr "바람 속성 마법사들이 전투 시 <slink=Air_Waning_Battle> 상태를 얻습니다."
 
 #. Key: KeywordDefinition.NatureWanesKeyword.DisplayName
 msgctxt "KeywordDefinition.NatureWanesKeyword.DisplayName"
 msgid "Nature Leyline Wanes"
-msgstr "Nature Leyline Wanes"
+msgstr "자연의 그믐달"
 
 #. Key: KeywordDefinition.NatureWanesKeyword.Description
 msgctxt "KeywordDefinition.NatureWanesKeyword.Description"
 msgid "Nature specialized Mages start battle with <slink=Nature_Waning_Battle>."
-msgstr ""
+msgstr "자연 속성 마법사들이 전투 시 <slink=Nature_Waning_Battle> 상태를 얻습니다."
 
 #. Key: KeywordDefinition.DarkWanesKeyword.DisplayName
 msgctxt "KeywordDefinition.DarkWanesKeyword.DisplayName"
 msgid "Dark Leyline Wanes"
-msgstr "Dark Leyline Wanes"
+msgstr "어둠의 그믐달"
 
 #. Key: KeywordDefinition.DarkWanesKeyword.Description
 msgctxt "KeywordDefinition.DarkWanesKeyword.Description"
 msgid "Dark specialized Mages start battle with <slink=Dark_Waning_Battle>."
-msgstr ""
+msgstr "어둠 속성 마법사들이 전투 시 <slink=Dark_Waning_Battle> 상태를 얻습니다."
 
 #. Key: KeywordDefinition.LightningWanesKeyword.DisplayName
 msgctxt "KeywordDefinition.LightningWanesKeyword.DisplayName"
 msgid "Lightning Leyline Wanes"
-msgstr "Lightning Leyline Wanes"
+msgstr "번개의 그믐달"
 
 #. Key: KeywordDefinition.LightningWanesKeyword.Description
 msgctxt "KeywordDefinition.LightningWanesKeyword.Description"
 msgid "Lightning specialized Mages start battle with <slink=Lightning_Waning_Battle>."
-msgstr ""
+msgstr "번개 속성 마법사들이 전투 시 <slink=Lightning_Waning_Battle> 상태를 얻습니다."
 
 #. Key: KeywordDefinition.RavenCultBoonKeyword.DisplayName
 msgctxt "KeywordDefinition.RavenCultBoonKeyword.DisplayName"
 msgid "Hour of the Raven Cult"
-msgstr ""
+msgstr "레이븐 이교도의 시간"
 
 #. Key: KeywordDefinition.RavenCultBoonKeyword.Description
 msgctxt "KeywordDefinition.RavenCultBoonKeyword.Description"
 msgid "Raven Cultists gain <slink=CombatStat_Retaliation> equal to 10 times their wand tier when entering battle."
-msgstr ""
+msgstr "레이븐 이교도가 전투 시 지팡이 티어의 10배만큼 <slink=CombatStat_Retaliation>을 얻습니다."
 
 #. Key: KeywordDefinition.RavenCultBaneKeyword.DisplayName
 msgctxt "KeywordDefinition.RavenCultBaneKeyword.DisplayName"
 msgid "Bane of the Raven Cult"
-msgstr ""
+msgstr "레이븐 이교도의 불운"
 
 #. Key: KeywordDefinition.RavenCultBaneKeyword.Description
 msgctxt "KeywordDefinition.RavenCultBaneKeyword.Description"
 msgid "Raven Cultists are afflicted with <slink=BloodMagic> while in battle."
-msgstr "까마귀 예배주의자들은 <slink=BloodMagic> 전투 중에 괴로워한다."
+msgstr "레이븐 이교도가 전투 시 <slink=BloodMagic> 상태이상을 얻습니다."
 
 #. Key: KeywordDefinition.HumanBoonKeyword.DisplayName
 msgctxt "KeywordDefinition.HumanBoonKeyword.DisplayName"
 msgid "Hour of the Human"
-msgstr ""
+msgstr "인간의 시간"
 
 #. Key: KeywordDefinition.HumanBoonKeyword.Description
 msgctxt "KeywordDefinition.HumanBoonKeyword.Description"
 msgid "Humans gain <slink=Endurance> when they enter battle."
-msgstr "인간은 전투에 참여할 때 <slink=Endurance>(을)를 획득합니다."
+msgstr "인간 마법사가 전투 시 <slink=Endurance> 상태를 얻습니다."
 
 #. Key: KeywordDefinition.HumanBaneKeyword.DisplayName
 msgctxt "KeywordDefinition.HumanBaneKeyword.DisplayName"
 msgid "Bane of the Human"
-msgstr ""
+msgstr "인간의 불운"
 
 #. Key: KeywordDefinition.HumanBaneKeyword.Description
 msgctxt "KeywordDefinition.HumanBaneKeyword.Description"
 msgid "Humans are afflicted with <slink=Fragile> when they enter battle."
-msgstr "인간은 <slink=Fragile> 전투에 참여할 때 고난을 당한다."
+msgstr "인간 마법사가 전투 시 <slink=Fragile> 상태를 얻습니다."
 
 #. Key: KeywordDefinition.VivifiedBoonKeyword.DisplayName
 msgctxt "KeywordDefinition.VivifiedBoonKeyword.DisplayName"
 msgid "Hour of the Vivified"
-msgstr ""
+msgstr "비비파이드의 시간"
 
 #. Key: KeywordDefinition.VivifiedBoonKeyword.Description
 msgctxt "KeywordDefinition.VivifiedBoonKeyword.Description"
 msgid "Vivified gain <slink=Tough> when they enter battle."
-msgstr "비비파이드는 전투에 참여할 때 <slink=Tough>(을)를 획득합니다."
+msgstr "비비파이드 마법사가 전투 시 <slink=Tough> 상태를 얻습니다."
 
 #. Key: KeywordDefinition.VivifiedBaneKeyword.DisplayName
 msgctxt "KeywordDefinition.VivifiedBaneKeyword.DisplayName"
 msgid "Bane of the Vivified"
-msgstr ""
+msgstr "비비파이드의 불운"
 
 #. Key: KeywordDefinition.VivifiedBaneKeyword.Description
 msgctxt "KeywordDefinition.VivifiedBaneKeyword.Description"
 msgid "Vivified may only cast spells that deal no direct damage in battle.    "
-msgstr ""
+msgstr "비비파이드 마법사는 전투 시 직접 데미지가 없는 주문만 시전할 수 있습니다."
 
 #. Key: KeywordDefinition.WolfkinBoonKeyword.DisplayName
 msgctxt "KeywordDefinition.WolfkinBoonKeyword.DisplayName"
 msgid "Hour of the Wolfkin"
-msgstr ""
+msgstr "울프킨의 시간"
 
 #. Key: KeywordDefinition.WolfkinBoonKeyword.Description
 msgctxt "KeywordDefinition.WolfkinBoonKeyword.Description"
 msgid "Wolfkin have 150% <slink=CombatStat_DamageBonus> and <slink=CombatStat_CombatSpeed>."
-msgstr ""
+msgstr "울프킨 마법사가 전투 시 <slink=CombatStat_DamageBonus>과 <slink=CombatStat_CombatSpeed>가 150% 증가합니다."
 
 #. Key: KeywordDefinition.WolfkinBaneKeyword.DisplayName
 msgctxt "KeywordDefinition.WolfkinBaneKeyword.DisplayName"
 msgid "Bane of the Wolfkin"
-msgstr ""
+msgstr "울프킨의 불운"
 
 #. Key: KeywordDefinition.WolfkinBaneKeyword.Description
 msgctxt "KeywordDefinition.WolfkinBaneKeyword.Description"
 msgid "Wolfkin may only cast direct damage spells in battle."
-msgstr ""
+msgstr "울프킨 마법사는 전투 시 직접 데미지가 있는 주문만 시전할 수 있습니다."
 
 #. Key: KeywordDefinition.ShatteredBoonKeyword.DisplayName
 msgctxt "KeywordDefinition.ShatteredBoonKeyword.DisplayName"
 msgid "Hour of the Shattered"
-msgstr ""
+msgstr "섀터드의 시간"
 
 #. Key: KeywordDefinition.ShatteredBoonKeyword.Description
 msgctxt "KeywordDefinition.ShatteredBoonKeyword.Description"
 msgid "Shattered receive twice as much armor as normal when entering battle.    "
-msgstr ""
+msgstr "섀터드 마법사가 전투 시 기존의 두 배만큼 아머를 얻습니다."
 
 #. Key: KeywordDefinition.ShatteredBaneKeyword.DisplayName
 msgctxt "KeywordDefinition.ShatteredBaneKeyword.DisplayName"
 msgid "Bane of the Shattered"
-msgstr ""
+msgstr "섀터드의 불운"
 
 #. Key: KeywordDefinition.ShatteredBaneKeyword.Description
 msgctxt "KeywordDefinition.ShatteredBaneKeyword.Description"
 msgid "Shattered receive no armor when entering battle.   "
-msgstr ""
+msgstr "섀터드 마법사가 전투 시 아머를 얻지 못합니다."
 
 #. Key: KeywordDefinition.DeathlyVisitation.DisplayName
 msgctxt "KeywordDefinition.DeathlyVisitation.DisplayName"
 msgid "Corpse Infestation"
-msgstr ""
+msgstr "시체 감염"
 
 #. Key: KeywordDefinition.DeathlyVisitation.Description
 msgctxt "KeywordDefinition.DeathlyVisitation.Description"
 msgid "<slink=ReapersMushroom> spawn intermittenly near all variety of Graves in your school. "
-msgstr ""
+msgstr "모든 무덤 주변에 <slink=ReapersMushroom>이 피어납니다."
 
 #. Key: KeywordDefinition.CroaMigration.DisplayName
 msgctxt "KeywordDefinition.CroaMigration.DisplayName"
 msgid "Croa Migration"
-msgstr ""
+msgstr "크로아 이주"
 
 #. Key: KeywordDefinition.CroaMigration.Description
 msgctxt "KeywordDefinition.CroaMigration.Description"
 msgid "<slink=CroaNest> intermittently spawn near crops."
-msgstr ""
+msgstr "작물 주변에 <slink=CroaNest>가 나타납니다."
 
 #. Key: KeywordDefinition.Invasion.DisplayName
 msgctxt "KeywordDefinition.Invasion.DisplayName"
 msgid "Invasion"
-msgstr ""
+msgstr "침략"
 
 #. Key: KeywordDefinition.Invasion.Description
 msgctxt "KeywordDefinition.Invasion.Description"
 msgid "Monsters from the underschool have invaded your school, taking over one of the rooms. They will wreak havoc if not dealt with."
-msgstr ""
+msgstr "지하세계의 괴물들이 마법 학교를 침략해 방 하나를 점거했습니다. 처치하지 않으면 방이 파괴될 것입니다."
 
 #. Key: KeywordDefinition.TorchBoggarts.DisplayName
 msgctxt "KeywordDefinition.TorchBoggarts.DisplayName"
@@ -25024,7 +25024,7 @@ msgstr "폴터가이스트 - 횃불소등자"
 #. Key: KeywordDefinition.TorchBoggarts.Description
 msgctxt "KeywordDefinition.TorchBoggarts.Description"
 msgid "A <slink=PoltergeistLights> spawns in the vicinity of your school to attack your torches and braziers."
-msgstr ""
+msgstr "학교의 횃불과 화로를 파괴하는 <slink=PoltergeistLights>가 나타납니다."
 
 #. Key: KeywordDefinition.StoragePoltergeists.DisplayName
 msgctxt "KeywordDefinition.StoragePoltergeists.DisplayName"
@@ -25034,7 +25034,7 @@ msgstr "폴터가이스트 - 상자파괴자"
 #. Key: KeywordDefinition.StoragePoltergeists.Description
 msgctxt "KeywordDefinition.StoragePoltergeists.Description"
 msgid "A <slink=PoltergeistStorage> spawns in the vicinity of your school to attack your storage and dump your items everywhere."
-msgstr ""
+msgstr "학교의 상자를 파괴하고 아이템을 늘어놓는 <slink=PoltergeistStorage>가 나타납니다."
 
 #. Key: KeywordDefinition.FilthyAkanames.DisplayName
 msgctxt "KeywordDefinition.FilthyAkanames.DisplayName"
@@ -25044,7 +25044,7 @@ msgstr "폴터가이스트 - 진흙배회자"
 #. Key: KeywordDefinition.FilthyAkanames.Description
 msgctxt "KeywordDefinition.FilthyAkanames.Description"
 msgid "A <slink=PoltergeistMess> spawns in the vicinity of your school to create messes around your crafting stations."
-msgstr ""
+msgstr "학교를 더럽히는 <slink=PoltergeistMess>가 나타납니다."
 
 #. Key: KeywordDefinition.Poltergeist.DisplayName
 msgctxt "KeywordDefinition.Poltergeist.DisplayName"
@@ -25074,12 +25074,12 @@ msgstr "부서짐"
 #. Key: KeywordDefinition.Broken.Description
 msgctxt "KeywordDefinition.Broken.Description"
 msgid "Mages cannot use, Shrink, Move, or Disintegrate Broken furnishings. <slink=JobType_Repair> them fully in order to restore their functionalitiy."
-msgstr ""
+msgstr "부서진 가구는 사용하거나 축소시키거나 이동시키거나 분해할 수 없습니다. 가구를 다시 사용하려면 완전히 <slink=JobType_Repair>하세요."
 
 #. Key: KeywordDefinition.Unreachable.DisplayName
 msgctxt "KeywordDefinition.Unreachable.DisplayName"
 msgid "Unreachable"
-msgstr ""
+msgstr "도달 불가"
 
 #. Key: KeywordDefinition.Unreachable.Description
 msgctxt "KeywordDefinition.Unreachable.Description"
@@ -25090,11 +25090,16 @@ msgid ""
 "\n"
 "This may also be due to insufficient spell range. Mages get more range in spells for <slink=JobType_Construct>, <slink=JobType_Assemble>, and <slink=JobType_Haul> as they gain more skill."
 msgstr ""
+"일부 물체들에 도달할 수 없습니다.\n"
+"\n"
+"이는 구조물 블록으로 인해 접근이 막혀 있기 때문일 수 있습니다. <slink=PathingFilter>를 이용하면 접근 가능한 범위를 볼 수 있습니다.\n"
+"\n"
+"또는 마법 범위의 문제일 수도 있습니다. 마법사들의 스킬 레벨이 높을수록 더 넓은 범위에 <slink=JobType_Construct>, <slink=JobType_Assemble>, 또는 <slink=JobType_Haul> 작업을 수행할 수 있습니다."
 
 #. Key: KeywordDefinition.WeaverBirdHatched.DisplayName
 msgctxt "KeywordDefinition.WeaverBirdHatched.DisplayName"
 msgid "Hatched"
-msgstr ""
+msgstr "부화됨"
 
 #. Key: KeywordDefinition.WeaverBirdHatched.Description
 msgctxt "KeywordDefinition.WeaverBirdHatched.Description"
@@ -25105,11 +25110,16 @@ msgid ""
 "Incubator - Student with Fire Skill 4\n"
 "Nest Fluffer - Student with Air Skill 4"
 msgstr ""
+"베짜기새 둥지에는 베짜기새 알이 들어 있습니다. 이 알은 부화 의식을 통해 다 자란 베짜기새로 부화시켜야 합니다.\n"
+"\n"
+"부화 의식 참석자 조건:\n"
+"알을 품는 자 - 불꽃 마법 4레벨의 학생\n"
+"둥지를 돌보는 자 - 바람 마법 4레벨의 학생"
 
 #. Key: KeywordDefinition.CronebugHatched.DisplayName
 msgctxt "KeywordDefinition.CronebugHatched.DisplayName"
 msgid "Hatched"
-msgstr ""
+msgstr "부화됨"
 
 #. Key: KeywordDefinition.CronebugHatched.Description
 msgctxt "KeywordDefinition.CronebugHatched.Description"
@@ -25121,31 +25131,37 @@ msgid ""
 "Pen Cleaner - Student with Water Skill 3\n"
 "Shellcracker - Student with Earth Skill 4"
 msgstr ""
+"크론벌레 둥지에는 크론벌레 알이 들어 있습니다. 크론벌레 알은 부화 의식을 통해 다 자란 크론벌레로 부화시켜야 합니다.\n"
+"\n"
+"부화 의식 참석자 조건:\n"
+"잎사귀를 쌓는 자 - 자연 마법 3레벨의 학생\n"
+"우리를 치우는 자 - 물 마법 3레벨의 학생\n"
+"알껍질을 깨는 자 - 대지 마법 4레벨의 학생"
 
 #. Key: DungeonBiomeDefinition.Spine.DisplayName
 msgctxt "DungeonBiomeDefinition.Spine.DisplayName"
 msgid "The Spine"
-msgstr ""
+msgstr "지하세계 지맥"
 
 #. Key: DungeonBiomeDefinition.Spine.ExploreDesc
 msgctxt "DungeonBiomeDefinition.Spine.ExploreDesc"
 msgid "Delving deeper may have consequences!"
-msgstr ""
+msgstr "더 깊이 들어가면 어떤 일이 벌어질지 모릅니다!"
 
 #. Key: DungeonBiomeDefinition.Lava.DisplayName
 msgctxt "DungeonBiomeDefinition.Lava.DisplayName"
 msgid "Lava Mine"
-msgstr ""
+msgstr "용암 광산"
 
 #. Key: DungeonBiomeDefinition.Fungus.DisplayName
 msgctxt "DungeonBiomeDefinition.Fungus.DisplayName"
 msgid "Fungal Cavern"
-msgstr ""
+msgstr "버섯 동굴"
 
 #. Key: DungeonBiomeDefinition.Stone.DisplayName
 msgctxt "DungeonBiomeDefinition.Stone.DisplayName"
 msgid "Stone Ruins"
-msgstr ""
+msgstr "바위 유적"
 
 #. Key: GlobalEventDefinition.RainStormShort.EventPersistLog
 msgctxt "GlobalEventDefinition.RainStormShort.EventPersistLog"
@@ -25155,7 +25171,7 @@ msgstr "비가 내립니다."
 #. Key: GlobalEventDefinition.RainStormShort.EventStopLog
 msgctxt "GlobalEventDefinition.RainStormShort.EventStopLog"
 msgid "The Rain has ended."
-msgstr ""
+msgstr "비가 그쳤습니다."
 
 #. Key: GlobalEventDefinition.RainStormShort.EventLogHover
 msgctxt "GlobalEventDefinition.RainStormShort.EventLogHover"
@@ -25170,27 +25186,27 @@ msgstr "비가 옵니다."
 #. Key: GlobalEventDefinition.RainStormShort.DivinationText
 msgctxt "GlobalEventDefinition.RainStormShort.DivinationText"
 msgid "A driving rain."
-msgstr ""
+msgstr "세찬 비입니다."
 
 #. Key: GlobalEventDefinition.DireRain.EventPersistLog
 msgctxt "GlobalEventDefinition.DireRain.EventPersistLog"
 msgid "A Dire Rain falls."
-msgstr ""
+msgstr "소낙비가 내립니다."
 
 #. Key: GlobalEventDefinition.DireRain.EventStopLog
 msgctxt "GlobalEventDefinition.DireRain.EventStopLog"
 msgid "The Dire Rain has ended."
-msgstr ""
+msgstr "소낙비가 그쳤습니다."
 
 #. Key: GlobalEventDefinition.DireRain.EventLogHover
 msgctxt "GlobalEventDefinition.DireRain.EventLogHover"
 msgid "A strange Dire <slink=Rain> will damage and eventually destroy that which isn't covered by roofs, and Dire Rats will become aggressive."
-msgstr ""
+msgstr "이 기이한 <slink=Rain>는 지붕에 덮여 있지 않은 물체들을 파괴하고, 들쥐들을 사납게 만듭니다."
 
 #. Key: GlobalEventDefinition.DireRain.EventComingAlertText
 msgctxt "GlobalEventDefinition.DireRain.EventComingAlertText"
 msgid "Dire Rain incoming."
-msgstr ""
+msgstr "소낙비가 내립니다."
 
 #. Key: GlobalEventDefinition.DireRain.DivinationText
 msgctxt "GlobalEventDefinition.DireRain.DivinationText"
@@ -25200,22 +25216,22 @@ msgstr ""
 #. Key: GlobalEventDefinition.DireRainMediumLong.EventPersistLog
 msgctxt "GlobalEventDefinition.DireRainMediumLong.EventPersistLog"
 msgid "A Dire Rain falls."
-msgstr ""
+msgstr "소낙비가 내립니다."
 
 #. Key: GlobalEventDefinition.DireRainMediumLong.EventStopLog
 msgctxt "GlobalEventDefinition.DireRainMediumLong.EventStopLog"
 msgid "The Dire Rain has ended."
-msgstr ""
+msgstr "소낙비가 그쳤습니다."
 
 #. Key: GlobalEventDefinition.DireRainMediumLong.EventLogHover
 msgctxt "GlobalEventDefinition.DireRainMediumLong.EventLogHover"
 msgid "A strange Dire <slink=Rain> will damage and eventually destroy that which isn't covered by roofs, and Dire Rats will become aggressive."
-msgstr ""
+msgstr "이 기이한 <slink=Rain>는 지붕에 덮여 있지 않은 물체들을 파괴하고, 들쥐들을 사납게 만듭니다."
 
 #. Key: GlobalEventDefinition.DireRainMediumLong.EventComingAlertText
 msgctxt "GlobalEventDefinition.DireRainMediumLong.EventComingAlertText"
 msgid "Dire Rain incoming."
-msgstr ""
+msgstr "소낙비가 내립니다."
 
 #. Key: GlobalEventDefinition.DireRainMediumLong.DivinationText
 msgctxt "GlobalEventDefinition.DireRainMediumLong.DivinationText"
@@ -25225,22 +25241,22 @@ msgstr ""
 #. Key: GlobalEventDefinition.DireRainLong.EventPersistLog
 msgctxt "GlobalEventDefinition.DireRainLong.EventPersistLog"
 msgid "A Dire rain falls."
-msgstr ""
+msgstr "소낙비가 내립니다."
 
 #. Key: GlobalEventDefinition.DireRainLong.EventStopLog
 msgctxt "GlobalEventDefinition.DireRainLong.EventStopLog"
 msgid "The Dire Rain has ended."
-msgstr ""
+msgstr "소낙비가 그쳤습니다."
 
 #. Key: GlobalEventDefinition.DireRainLong.EventLogHover
 msgctxt "GlobalEventDefinition.DireRainLong.EventLogHover"
 msgid "A Dire <slink=Rain> will damage and eventually destroy that which isn't covered by roofs, and Dire Rats will become aggressive."
-msgstr ""
+msgstr "이 기이한 <slink=Rain>는 지붕에 덮여 있지 않은 물체들을 파괴하고, 들쥐들을 사납게 만듭니다."
 
 #. Key: GlobalEventDefinition.DireRainLong.EventComingAlertText
 msgctxt "GlobalEventDefinition.DireRainLong.EventComingAlertText"
 msgid "Dire rain incoming."
-msgstr ""
+msgstr "소낙비가 내립니다."
 
 #. Key: GlobalEventDefinition.DireRainLong.DivinationText
 msgctxt "GlobalEventDefinition.DireRainLong.DivinationText"
@@ -25250,22 +25266,22 @@ msgstr ""
 #. Key: GlobalEventDefinition.Wasting_Medium.EventDisplayName
 msgctxt "GlobalEventDefinition.Wasting_Medium.EventDisplayName"
 msgid "Wasting"
-msgstr ""
+msgstr "가뭄"
 
 #. Key: GlobalEventDefinition.Wasting_Medium.EventPersistLog
 msgctxt "GlobalEventDefinition.Wasting_Medium.EventPersistLog"
 msgid "A Wasting arises."
-msgstr ""
+msgstr "가뭄이 시작되었습니다."
 
 #. Key: GlobalEventDefinition.Wasting_Medium.EventStopLog
 msgctxt "GlobalEventDefinition.Wasting_Medium.EventStopLog"
 msgid "The Wasting has ended."
-msgstr ""
+msgstr "가뭄이 끝났습니다."
 
 #. Key: GlobalEventDefinition.Wasting_Medium.EventLogHover
 msgctxt "GlobalEventDefinition.Wasting_Medium.EventLogHover"
 msgid "All plants have stopped growing for the duration of the event."
-msgstr ""
+msgstr "모든 식물이 자라기를 멈춥니다."
 
 #. Key: GlobalEventDefinition.Wasting_Medium.DivinationText
 msgctxt "GlobalEventDefinition.Wasting_Medium.DivinationText"
@@ -25275,22 +25291,22 @@ msgstr ""
 #. Key: GlobalEventDefinition.HeatWave.EventDisplayName
 msgctxt "GlobalEventDefinition.HeatWave.EventDisplayName"
 msgid "Heat Wave"
-msgstr ""
+msgstr "폭염"
 
 #. Key: GlobalEventDefinition.HeatWave.TriggeredEventDisplayText
 msgctxt "GlobalEventDefinition.HeatWave.TriggeredEventDisplayText"
 msgid "Heat Waves have been unleashed!"
-msgstr ""
+msgstr "폭염이 시작되었습니다!"
 
 #. Key: GlobalEventDefinition.HeatWave.EventPersistLog
 msgctxt "GlobalEventDefinition.HeatWave.EventPersistLog"
 msgid "A Heat Wave simmers."
-msgstr ""
+msgstr "폭염이 왔습니다."
 
 #. Key: GlobalEventDefinition.HeatWave.EventStopLog
 msgctxt "GlobalEventDefinition.HeatWave.EventStopLog"
 msgid "The Heat Wave has ended."
-msgstr ""
+msgstr "폭염이 끝났습니다."
 
 #. Key: GlobalEventDefinition.HeatWave.EventLogHover
 msgctxt "GlobalEventDefinition.HeatWave.EventLogHover"
@@ -25300,6 +25316,10 @@ msgid ""
 "- Fire specialized Mages start battle with <slink=Fire_Waxing_Battle>, and Water specialized Mages start battle with <slink=Water_Waning_Battle>.\n"
 "- Enemies from the Lava Mines will show up in some above ground battles."
 msgstr ""
+"- 날씨가 더워져 <slink=PhoenixFlowerPlantCrop>이 더 많이 나타나고, 네 배 빠르게 자랍니다.\n"
+"- <slink=IceflowerCrop>은 새로 나타나지 않고, 이미 존재하는 얼음꽃은 자라지 않습니다.\n"
+"- 불 속성 마법사들은 전투 시 <slink=Fire_Waxing_Battle> 상태를 얻고, 물 속성 마법사들은 전투 시 <slink=Water_Waning_Battle> 상태이상을 얻습니다.\n"
+"- 용암 광산의 적들이 지상 전투에 나타납니다."
 
 #. Key: GlobalEventDefinition.HeatWave.DivinationText
 msgctxt "GlobalEventDefinition.HeatWave.DivinationText"
@@ -25309,22 +25329,22 @@ msgstr ""
 #. Key: GlobalEventDefinition.ColdSnap.EventDisplayName
 msgctxt "GlobalEventDefinition.ColdSnap.EventDisplayName"
 msgid "Cold Snap"
-msgstr ""
+msgstr "한파"
 
 #. Key: GlobalEventDefinition.ColdSnap.TriggeredEventDisplayText
 msgctxt "GlobalEventDefinition.ColdSnap.TriggeredEventDisplayText"
 msgid "Cold Snaps have been unleashed!"
-msgstr ""
+msgstr "한파가 시작되었습니다!"
 
 #. Key: GlobalEventDefinition.ColdSnap.EventPersistLog
 msgctxt "GlobalEventDefinition.ColdSnap.EventPersistLog"
 msgid "A Cold Snap chills."
-msgstr ""
+msgstr "한파가 왔습니다."
 
 #. Key: GlobalEventDefinition.ColdSnap.EventStopLog
 msgctxt "GlobalEventDefinition.ColdSnap.EventStopLog"
 msgid "The Cold Snap has ended."
-msgstr "콜드 스냅 종료되었습니다."
+msgstr "한파가 끝났습니다."
 
 #. Key: GlobalEventDefinition.ColdSnap.EventLogHover
 msgctxt "GlobalEventDefinition.ColdSnap.EventLogHover"
@@ -25334,6 +25354,10 @@ msgid ""
 "- Water specialized Mages start battle with <slink=Water_Waxing_Battle>, and Nature specialized Mages start battle with <slink=Nature_Waning_Battle>.\n"
 "- Enemies from the Stone Ruins will show up in some above ground battles."
 msgstr ""
+"- 날씨가 추워져 <slink=IceflowerCrop>이 더 많이 나타나고, 네 배 빠르게 자랍니다.\n"
+"- <slink=PhoenixFlowerPlantCrop>은 새로 나타나지 않고, 이미 존재하는 불사조의 입맞춤은 자라지 않습니다.\n"
+"- 물 속성 마법사들은 전투 시 <slink=Water_Waxing_Battle> 상태를 얻고, 자연 속성 마법사들은 전투 시 <slink=Nature_Waning_Battle> 상태이상을 얻습니다.\n"
+"- 바위 유적의 적들이 지상 전투에 나타납니다."
 
 #. Key: GlobalEventDefinition.ColdSnap.DivinationText
 msgctxt "GlobalEventDefinition.ColdSnap.DivinationText"
@@ -25343,17 +25367,17 @@ msgstr ""
 #. Key: GlobalEventDefinition.FungalBloom.EventDisplayName
 msgctxt "GlobalEventDefinition.FungalBloom.EventDisplayName"
 msgid "Fungal Bloom"
-msgstr "곰팡이 꽃"
+msgstr "곰팡이 만개"
 
 #. Key: GlobalEventDefinition.FungalBloom.EventPersistLog
 msgctxt "GlobalEventDefinition.FungalBloom.EventPersistLog"
 msgid "A Fungal Bloom emerges."
-msgstr "곰팡이 꽃이 피어납니다."
+msgstr "곰팡이가 만개합니다."
 
 #. Key: GlobalEventDefinition.FungalBloom.EventStopLog
 msgctxt "GlobalEventDefinition.FungalBloom.EventStopLog"
 msgid "The Fungal Bloom has ended."
-msgstr "곰팡이 블룸은 끝났다."
+msgstr "곰팡이 만개가 끝났습니다."
 
 #. Key: GlobalEventDefinition.FungalBloom.EventLogHover
 msgctxt "GlobalEventDefinition.FungalBloom.EventLogHover"
@@ -25362,26 +25386,29 @@ msgid ""
 "- Nature specialized Mages start battle with <slink=Nature_Waxing_Battle>, and Earth specialized Mages start battle with <slink=Earth_Waning_Battle>.\n"
 "- Enemies from the Fungal Caverns will show up in some above ground battles."
 msgstr ""
+"- 온통 버섯투성이입니다! <slink=ReapersMushroom>, <slink=FractalMold>, 그리고 <slink=VoidShroom>이 두 배 빨리 자랍니다.\n"
+"- 자연 속성 마법사들이 전투 시 <slink=Nature_Waxing_Battle> 상태를 얻고, 대지 속성 마법사들이 전투 시 <slink=Earth_Waning_Battle> 상태이상을 얻습니다.\n"
+"- 버섯 동굴에 나타나는 적들이 지상 전투에도 나타납니다."
 
 #. Key: GlobalEventDefinition.FungalBloom.DivinationText
 msgctxt "GlobalEventDefinition.FungalBloom.DivinationText"
 msgid "There are funguses among us."
-msgstr "우리 사이에는 곰팡이가 있습니다."
+msgstr ""
 
 #. Key: GlobalEventDefinition.HighStink.EventDisplayName
 msgctxt "GlobalEventDefinition.HighStink.EventDisplayName"
 msgid "High Stink"
-msgstr "높은 악취"
+msgstr "악취 만발"
 
 #. Key: GlobalEventDefinition.HighStink.EventPersistLog
 msgctxt "GlobalEventDefinition.HighStink.EventPersistLog"
 msgid "A High Stink arises."
-msgstr "높은 악취가 발생합니다."
+msgstr "악취가 만발합니다."
 
 #. Key: GlobalEventDefinition.HighStink.EventStopLog
 msgctxt "GlobalEventDefinition.HighStink.EventStopLog"
 msgid "The High Stink has ended."
-msgstr "높은 악취가 끝났다."
+msgstr "악취 만발이 끝났습니다."
 
 #. Key: GlobalEventDefinition.HighStink.EventLogHover
 msgctxt "GlobalEventDefinition.HighStink.EventLogHover"
@@ -25390,6 +25417,9 @@ msgid ""
 "- Air specialized Mages start battle with <slink=Air_Waxing_Battle>, and Lightning specialized Mages start battle with <slink=Lightning_Waning_Battle>.\n"
 "- Mages eating Gutberries or Gutberry Soup suffer an additional <slink=Mood> penalty."
 msgstr ""
+"- 내장딸기가 제철입니다! <slink=GutberryPlant>가 학교 근처에 기존보다 훨씬 높은 빈도로 나타납니다.\n"
+"- 바람 속성 마법사들이 전투 시 <slink=Air_Waxing_Battle> 상태를 얻고, 번개 속성 마법사들이 전투 시 <slink=Lightning_Waning_Battle> 상태이상을 얻습니다.\n"
+"- 내장딸기나 내장딸기 수프를 먹는 마법사들의 <slink=Mood>가 평소보다 더 감소합니다."
 
 #. Key: GlobalEventDefinition.HighStink.DivinationText
 msgctxt "GlobalEventDefinition.HighStink.DivinationText"
@@ -25399,22 +25429,22 @@ msgstr ""
 #. Key: GlobalEventDefinition.HorrorCulture.EventDisplayName
 msgctxt "GlobalEventDefinition.HorrorCulture.EventDisplayName"
 msgid "Horrorculture"
-msgstr ""
+msgstr "끔찍한 미생물"
 
 #. Key: GlobalEventDefinition.HorrorCulture.TriggeredEventDisplayText
 msgctxt "GlobalEventDefinition.HorrorCulture.TriggeredEventDisplayText"
 msgid "Horrorcultures have been unleashed!"
-msgstr ""
+msgstr "끔찍한 미생물이 나타났습니다!"
 
 #. Key: GlobalEventDefinition.HorrorCulture.EventPersistLog
 msgctxt "GlobalEventDefinition.HorrorCulture.EventPersistLog"
 msgid "A Horrorculture infects the soil."
-msgstr ""
+msgstr "끔찍한 미생물이 흙을 오염시킵니다."
 
 #. Key: GlobalEventDefinition.HorrorCulture.EventStopLog
 msgctxt "GlobalEventDefinition.HorrorCulture.EventStopLog"
 msgid "The Horrorculture has ended."
-msgstr ""
+msgstr "끔찍한 미생물의 창궐이 끝났습니다."
 
 #. Key: GlobalEventDefinition.HorrorCulture.EventLogHover
 msgctxt "GlobalEventDefinition.HorrorCulture.EventLogHover"
@@ -25422,6 +25452,8 @@ msgid ""
 "- Crop plants have a 50% chance to drop some form of offal rather than their normal crop for the duration of the event.\n"
 "- Dark specialized Mages start battle with <slink=Dark_Waxing_Battle>, and Air specialized Mages start battle with <slink=Air_Waning_Battle>."
 msgstr ""
+"- 식량 작물을 수확하면 50%의 확률로 식량 대신 다른 아이템이 나옵니다.\n"
+"- 어둠 속성 마법사들이 전투 시 <slink=Dark_Waxing_Battle> 상태를 얻고, 바람 속성 마법사들이 전투 시 <slink=Air_Waning_Battle> 상태이상을 얻습니다."
 
 #. Key: GlobalEventDefinition.HorrorCulture.DivinationText
 msgctxt "GlobalEventDefinition.HorrorCulture.DivinationText"
@@ -25431,22 +25463,22 @@ msgstr ""
 #. Key: GlobalEventDefinition.HorrorCulture2.EventDisplayName
 msgctxt "GlobalEventDefinition.HorrorCulture2.EventDisplayName"
 msgid "Horrorculture"
-msgstr ""
+msgstr "끔찍한 미생물"
 
 #. Key: GlobalEventDefinition.HorrorCulture2.TriggeredEventDisplayText
 msgctxt "GlobalEventDefinition.HorrorCulture2.TriggeredEventDisplayText"
 msgid "Horrorcultures have been unleashed!"
-msgstr ""
+msgstr "끔찍한 미생물이 나타났습니다!"
 
 #. Key: GlobalEventDefinition.HorrorCulture2.EventPersistLog
 msgctxt "GlobalEventDefinition.HorrorCulture2.EventPersistLog"
 msgid "A Horrorculture infects the soil."
-msgstr ""
+msgstr "끔찍한 미생물이 흙을 오염시킵니다."
 
 #. Key: GlobalEventDefinition.HorrorCulture2.EventStopLog
 msgctxt "GlobalEventDefinition.HorrorCulture2.EventStopLog"
 msgid "The Horrorculture has ended."
-msgstr ""
+msgstr "끔찍한 미생물의 창궐이 끝났습니다."
 
 #. Key: GlobalEventDefinition.HorrorCulture2.EventLogHover
 msgctxt "GlobalEventDefinition.HorrorCulture2.EventLogHover"
@@ -25454,6 +25486,8 @@ msgid ""
 "- Crop plants have a 50% chance to drop some form of offal rather than their normal crop for the duration of the event.\n"
 "- Dark specialized Mages start battle with <slink=Dark_Waxing_Battle>, and Air specialized Mages start battle with <slink=Air_Waning_Battle>."
 msgstr ""
+"- 식량 작물을 수확하면 50%의 확률로 식량 대신 다른 아이템이 나옵니다.\n"
+"- 어둠 속성 마법사들이 전투 시 <slink=Dark_Waxing_Battle> 상태를 얻고, 바람 속성 마법사들이 전투 시 <slink=Air_Waning_Battle> 상태이상을 얻습니다."
 
 #. Key: GlobalEventDefinition.HorrorCulture2.DivinationText
 msgctxt "GlobalEventDefinition.HorrorCulture2.DivinationText"
@@ -25463,17 +25497,17 @@ msgstr ""
 #. Key: GlobalEventDefinition.GoldenBerries.EventDisplayName
 msgctxt "GlobalEventDefinition.GoldenBerries.EventDisplayName"
 msgid "Golden Berries"
-msgstr ""
+msgstr "황금딸기"
 
 #. Key: GlobalEventDefinition.GoldenBerries.EventPersistLog
 msgctxt "GlobalEventDefinition.GoldenBerries.EventPersistLog"
 msgid "Golden Berries flourish."
-msgstr ""
+msgstr "황금딸기가 열립니다."
 
 #. Key: GlobalEventDefinition.GoldenBerries.EventStopLog
 msgctxt "GlobalEventDefinition.GoldenBerries.EventStopLog"
 msgid "Golden Berries have receded."
-msgstr ""
+msgstr "황금딸기의 철이 끝났습니다."
 
 #. Key: GlobalEventDefinition.GoldenBerries.EventLogHover
 msgctxt "GlobalEventDefinition.GoldenBerries.EventLogHover"
@@ -25482,6 +25516,9 @@ msgid ""
 "- Earth specialized Mages start battle with <slink=Earth_Waxing_Battle>, and Dark specialized Mages start battle with <slink=Dark_Waning_Battle>.\n"
 "- The <slink=Mood> penalty from eating Gutberries or Gutberry Soup is negated."
 msgstr ""
+"- <slink=GutberryPlant>를 수확하면 <slink=Honeydrop>을 추가로 얻을 수 있습니다.\n"
+"- 대지 속성 마법사들이 전투 시 <slink=Earth_Waxing_Battle> 상태를 얻고, 어둠 속성 마법사들이 전투 시 <slink=Dark_Waning_Battle> 상태이상을 얻습니다.\n"
+"- 내장딸기나 내장딸기 수프를 먹을 때 <slink=Mood>가 덜 낮아집니다."
 
 #. Key: GlobalEventDefinition.GoldenBerries.DivinationText
 msgctxt "GlobalEventDefinition.GoldenBerries.DivinationText"
@@ -25496,17 +25533,17 @@ msgstr "비가 내립니다."
 #. Key: GlobalEventDefinition.RainStormMediumLong.EventStopLog
 msgctxt "GlobalEventDefinition.RainStormMediumLong.EventStopLog"
 msgid "The Rain has ended."
-msgstr ""
+msgstr "비가 그쳤습니다."
 
 #. Key: GlobalEventDefinition.RainStormMediumLong.EventLogHover
 msgctxt "GlobalEventDefinition.RainStormMediumLong.EventLogHover"
 msgid "<slink=Rain> will damage and eventually destroy that which isn't covered by roofs."
-msgstr ""
+msgstr "<slink=Rain>는 지붕으로 덮여 있지 않은 물체를 파괴합니다."
 
 #. Key: GlobalEventDefinition.RainStormMediumLong.EventComingAlertText
 msgctxt "GlobalEventDefinition.RainStormMediumLong.EventComingAlertText"
 msgid "Rain incoming."
-msgstr ""
+msgstr "비가 옵니다."
 
 #. Key: GlobalEventDefinition.RainStormMediumLong.DivinationText
 msgctxt "GlobalEventDefinition.RainStormMediumLong.DivinationText"
@@ -25516,12 +25553,12 @@ msgstr ""
 #. Key: GlobalEventDefinition.LightningStorm.EventPersistLog
 msgctxt "GlobalEventDefinition.LightningStorm.EventPersistLog"
 msgid "A Thunderstorm rages."
-msgstr ""
+msgstr "번개폭풍이 옵니다."
 
 #. Key: GlobalEventDefinition.LightningStorm.EventStopLog
 msgctxt "GlobalEventDefinition.LightningStorm.EventStopLog"
 msgid "The Thunderstorm has ended."
-msgstr ""
+msgstr "번개폭풍이 끝났습니다."
 
 #. Key: GlobalEventDefinition.LightningStorm.EventLogHover
 msgctxt "GlobalEventDefinition.LightningStorm.EventLogHover"
@@ -25530,16 +25567,19 @@ msgid ""
 "- Lightning will destroy roofs not protected by a <slink=LightningRod>.\n"
 "- Lightning specialized Mages start battle with <slink=Lightning_Waxing_Battle>, and Fire specialized Mages start battle with <slink=Fire_Waning_Battle>."
 msgstr ""
+"- 맹렬한 <slink=Rain>가 지붕으로 덮여 있지 않은 물체들을 파괴합니다.\n"
+"- <slink=LightningRod>이 설치되지 않은 지역의 지붕이 번개로 인해 파괴됩니다.\n"
+"- 번개 속성 마법사들이 전투 시 <slink=Lightning_Waxing_Battle> 상태를 얻고, 불 속성 마법사들이 전투 시 <slink=Fire_Waning_Battle> 상태이상을 얻습니다."
 
 #. Key: GlobalEventDefinition.LightningStorm.EventComingAlertText
 msgctxt "GlobalEventDefinition.LightningStorm.EventComingAlertText"
 msgid "Thunderstorm incoming."
-msgstr ""
+msgstr "번개폭풍이 옵니다."
 
 #. Key: GlobalEventDefinition.LightningStorm.DivinationText
 msgctxt "GlobalEventDefinition.LightningStorm.DivinationText"
 msgid "A thunderstorm."
-msgstr ""
+msgstr "번개폭풍입니다."
 
 #. Key: GlobalEventDefinition.RainStormLong.EventPersistLog
 msgctxt "GlobalEventDefinition.RainStormLong.EventPersistLog"
@@ -25549,17 +25589,17 @@ msgstr "비가 내립니다."
 #. Key: GlobalEventDefinition.RainStormLong.EventStopLog
 msgctxt "GlobalEventDefinition.RainStormLong.EventStopLog"
 msgid "The Rain has ended."
-msgstr ""
+msgstr "비가 그쳤습니다."
 
 #. Key: GlobalEventDefinition.RainStormLong.EventLogHover
 msgctxt "GlobalEventDefinition.RainStormLong.EventLogHover"
 msgid "<slink=Rain> will damage and eventually destroy that which isn't covered by roofs."
-msgstr ""
+msgstr "<slink=Rain>는 지붕으로 덮여 있지 않은 물체를 파괴합니다."
 
 #. Key: GlobalEventDefinition.RainStormLong.EventComingAlertText
 msgctxt "GlobalEventDefinition.RainStormLong.EventComingAlertText"
 msgid "Rain incoming."
-msgstr ""
+msgstr "비가 옵니다."
 
 #. Key: GlobalEventDefinition.RainStormLong.DivinationText
 msgctxt "GlobalEventDefinition.RainStormLong.DivinationText"
@@ -25569,12 +25609,12 @@ msgstr "거센 비."
 #. Key: GlobalEventDefinition.LightningStormMediumLong.EventPersistLog
 msgctxt "GlobalEventDefinition.LightningStormMediumLong.EventPersistLog"
 msgid "A Thunderstorm rages."
-msgstr ""
+msgstr "번개폭풍이 옵니다."
 
 #. Key: GlobalEventDefinition.LightningStormMediumLong.EventStopLog
 msgctxt "GlobalEventDefinition.LightningStormMediumLong.EventStopLog"
 msgid "The Thunderstorm has ended."
-msgstr ""
+msgstr "번개폭풍이 끝났습니다."
 
 #. Key: GlobalEventDefinition.LightningStormMediumLong.EventLogHover
 msgctxt "GlobalEventDefinition.LightningStormMediumLong.EventLogHover"
@@ -25583,11 +25623,14 @@ msgid ""
 "- Lightning will damage roofs not protected by a <slink=LightningRod>.\n"
 "- Lightning specialized Mages start battle with <slink=Lightning_Waxing_Battle>, and Fire specialized Mages start battle with <slink=Fire_Waning_Battle>."
 msgstr ""
+"- 맹렬한 <slink=Rain>가 지붕으로 덮여 있지 않은 물체들을 파괴합니다.\n"
+"- <slink=LightningRod>이 설치되지 않은 지역의 지붕이 번개로 인해 파괴됩니다.\n"
+"- 번개 속성 마법사들이 전투 시 <slink=Lightning_Waxing_Battle> 상태를 얻고, 불 속성 마법사들이 전투 시 <slink=Fire_Waning_Battle> 상태이상을 얻습니다."
 
 #. Key: GlobalEventDefinition.LightningStormMediumLong.EventComingAlertText
 msgctxt "GlobalEventDefinition.LightningStormMediumLong.EventComingAlertText"
 msgid "Thunderstorm incoming."
-msgstr ""
+msgstr "번개폭풍이 옵니다."
 
 #. Key: GlobalEventDefinition.LightningStormMediumLong.DivinationText
 msgctxt "GlobalEventDefinition.LightningStormMediumLong.DivinationText"
@@ -25597,12 +25640,12 @@ msgstr ""
 #. Key: GlobalEventDefinition.LightningStormLong.EventPersistLog
 msgctxt "GlobalEventDefinition.LightningStormLong.EventPersistLog"
 msgid "A Thunderstorm rages."
-msgstr ""
+msgstr "번개폭풍이 옵니다."
 
 #. Key: GlobalEventDefinition.LightningStormLong.EventStopLog
 msgctxt "GlobalEventDefinition.LightningStormLong.EventStopLog"
 msgid "The Thunderstorm has ended."
-msgstr ""
+msgstr "번개폭풍이 끝났습니다."
 
 #. Key: GlobalEventDefinition.LightningStormLong.EventLogHover
 msgctxt "GlobalEventDefinition.LightningStormLong.EventLogHover"
@@ -25618,7 +25661,7 @@ msgstr ""
 #. Key: GlobalEventDefinition.LightningStormLong.EventComingAlertText
 msgctxt "GlobalEventDefinition.LightningStormLong.EventComingAlertText"
 msgid "Thunderstorm incoming."
-msgstr ""
+msgstr "번개폭풍이 옵니다."
 
 #. Key: GlobalEventDefinition.LightningStormLong.DivinationText
 msgctxt "GlobalEventDefinition.LightningStormLong.DivinationText"
@@ -25628,22 +25671,22 @@ msgstr ""
 #. Key: GlobalEventDefinition.Wasting_Short.EventDisplayName
 msgctxt "GlobalEventDefinition.Wasting_Short.EventDisplayName"
 msgid "Wasting"
-msgstr "낭비"
+msgstr "가뭄"
 
 #. Key: GlobalEventDefinition.Wasting_Short.EventPersistLog
 msgctxt "GlobalEventDefinition.Wasting_Short.EventPersistLog"
 msgid "A Wasting arises."
-msgstr "낭비가 발생한다."
+msgstr "가뭄이 시작되었습니다."
 
 #. Key: GlobalEventDefinition.Wasting_Short.EventStopLog
 msgctxt "GlobalEventDefinition.Wasting_Short.EventStopLog"
 msgid "The Wasting has ended."
-msgstr "낭비는 끝났다."
+msgstr "가뭄이 끝났습니다."
 
 #. Key: GlobalEventDefinition.Wasting_Short.EventLogHover
 msgctxt "GlobalEventDefinition.Wasting_Short.EventLogHover"
 msgid "All plants have stopped growing for the duration of the event."
-msgstr "모든 식물은 이벤트 기간 동안 성장을 멈췄습니다."
+msgstr "모든 식물이 자라기를 멈춥니다."
 
 #. Key: GlobalEventDefinition.Wasting_Short.DivinationText
 msgctxt "GlobalEventDefinition.Wasting_Short.DivinationText"
@@ -25653,22 +25696,22 @@ msgstr ""
 #. Key: GlobalEventDefinition.Wasting_Long.EventDisplayName
 msgctxt "GlobalEventDefinition.Wasting_Long.EventDisplayName"
 msgid "Wasting"
-msgstr ""
+msgstr "가뭄"
 
 #. Key: GlobalEventDefinition.Wasting_Long.EventPersistLog
 msgctxt "GlobalEventDefinition.Wasting_Long.EventPersistLog"
 msgid "A Wasting arises."
-msgstr ""
+msgstr "가뭄이 시작되었습니다."
 
 #. Key: GlobalEventDefinition.Wasting_Long.EventStopLog
 msgctxt "GlobalEventDefinition.Wasting_Long.EventStopLog"
 msgid "The Wasting has ended."
-msgstr ""
+msgstr "가뭄이 끝났습니다."
 
 #. Key: GlobalEventDefinition.Wasting_Long.EventLogHover
 msgctxt "GlobalEventDefinition.Wasting_Long.EventLogHover"
 msgid "All plants have stopped growing for the duration of the event."
-msgstr ""
+msgstr "모든 식물이 자라기를 멈춥니다."
 
 #. Key: GlobalEventDefinition.Wasting_Long.DivinationText
 msgctxt "GlobalEventDefinition.Wasting_Long.DivinationText"
@@ -26038,12 +26081,12 @@ msgstr "<slink=HumanBoonKeyword>"
 #. Key: GlobalEventDefinition.HumanBoonEvent.EventPersistLog
 msgctxt "GlobalEventDefinition.HumanBoonEvent.EventPersistLog"
 msgid "Humans perform better in battle."
-msgstr ""
+msgstr "인간 마법사들이 전투에서 더 강해집니다."
 
 #. Key: GlobalEventDefinition.HumanBoonEvent.EventStopLog
 msgctxt "GlobalEventDefinition.HumanBoonEvent.EventStopLog"
 msgid "Humans have returned to normal."
-msgstr "인간이 정상으로 돌아왔습니다."
+msgstr "인간 마법사의 힘이 기존대로 돌아왔습니다."
 
 #. Key: GlobalEventDefinition.HumanBoonEvent.EventLogHover
 msgctxt "GlobalEventDefinition.HumanBoonEvent.EventLogHover"
@@ -26058,12 +26101,12 @@ msgstr "<slink=HumanBaneKeyword>"
 #. Key: GlobalEventDefinition.HumanBaneEvent.EventPersistLog
 msgctxt "GlobalEventDefinition.HumanBaneEvent.EventPersistLog"
 msgid "Humans perform worse in battle."
-msgstr ""
+msgstr "인간 마법사들이 전투에서 더 약해집니다."
 
 #. Key: GlobalEventDefinition.HumanBaneEvent.EventStopLog
 msgctxt "GlobalEventDefinition.HumanBaneEvent.EventStopLog"
 msgid "Humans have returned to normal."
-msgstr "인간이 정상으로 돌아왔습니다."
+msgstr "인간 마법사의 힘이 기존대로 돌아왔습니다."
 
 #. Key: GlobalEventDefinition.HumanBaneEvent.EventLogHover
 msgctxt "GlobalEventDefinition.HumanBaneEvent.EventLogHover"
@@ -26078,12 +26121,12 @@ msgstr "<slink=RavenCultBoonKeyword>"
 #. Key: GlobalEventDefinition.RavenCultBoonEvent.EventPersistLog
 msgctxt "GlobalEventDefinition.RavenCultBoonEvent.EventPersistLog"
 msgid "Raven Cultists perform better in battle."
-msgstr ""
+msgstr "레이븐 이교도 마법사들이 전투에서 더 강해집니다."
 
 #. Key: GlobalEventDefinition.RavenCultBoonEvent.EventStopLog
 msgctxt "GlobalEventDefinition.RavenCultBoonEvent.EventStopLog"
 msgid "Raven Cultists have returned to normal."
-msgstr "레이븐 이교도가 정상으로 돌아왔습니다."
+msgstr "레이븐 이교도 마법사의 힘이 기존대로 돌아왔습니다."
 
 #. Key: GlobalEventDefinition.RavenCultBoonEvent.EventLogHover
 msgctxt "GlobalEventDefinition.RavenCultBoonEvent.EventLogHover"
@@ -26098,12 +26141,12 @@ msgstr "<slink=RavenCultBaneKeyword>"
 #. Key: GlobalEventDefinition.RavenCultBaneEvent.EventPersistLog
 msgctxt "GlobalEventDefinition.RavenCultBaneEvent.EventPersistLog"
 msgid "Raven Cultists perform worse in battle."
-msgstr ""
+msgstr "레이븐 이교도 마법사들이 전투에서 더 약해집니다."
 
 #. Key: GlobalEventDefinition.RavenCultBaneEvent.EventStopLog
 msgctxt "GlobalEventDefinition.RavenCultBaneEvent.EventStopLog"
 msgid "Raven Cultists have returned to normal."
-msgstr "레이븐 이교도가 정상으로 돌아왔습니다."
+msgstr "레이븐 이교도 마법사의 힘이 기존대로 돌아왔습니다."
 
 #. Key: GlobalEventDefinition.RavenCultBaneEvent.EventLogHover
 msgctxt "GlobalEventDefinition.RavenCultBaneEvent.EventLogHover"
@@ -26118,12 +26161,12 @@ msgstr "<slink=VivifiedBoonKeyword>"
 #. Key: GlobalEventDefinition.VivifiedBoonEvent.EventPersistLog
 msgctxt "GlobalEventDefinition.VivifiedBoonEvent.EventPersistLog"
 msgid "Vivified perform better in battle."
-msgstr ""
+msgstr "비비파이드 마법사들이 전투에서 더 강해집니다."
 
 #. Key: GlobalEventDefinition.VivifiedBoonEvent.EventStopLog
 msgctxt "GlobalEventDefinition.VivifiedBoonEvent.EventStopLog"
 msgid "Vivified have returned to normal."
-msgstr "비비파이드가 정상으로 돌아왔습니다."
+msgstr "비비파이드 마법사의 힘이 기존대로 돌아왔습니다."
 
 #. Key: GlobalEventDefinition.VivifiedBoonEvent.EventLogHover
 msgctxt "GlobalEventDefinition.VivifiedBoonEvent.EventLogHover"
@@ -26138,12 +26181,12 @@ msgstr "<slink=VivifiedBaneKeyword>"
 #. Key: GlobalEventDefinition.VivifiedBaneEvent.EventPersistLog
 msgctxt "GlobalEventDefinition.VivifiedBaneEvent.EventPersistLog"
 msgid "Vivified perform worse in battle."
-msgstr ""
+msgstr "비비파이드 마법사들이 전투에서 더 강해집니다."
 
 #. Key: GlobalEventDefinition.VivifiedBaneEvent.EventStopLog
 msgctxt "GlobalEventDefinition.VivifiedBaneEvent.EventStopLog"
 msgid "Vivified have returned to normal."
-msgstr "비비파이드가 정상으로 돌아왔습니다."
+msgstr "비비파이드 마법사의 힘이 기존대로 돌아왔습니다."
 
 #. Key: GlobalEventDefinition.VivifiedBaneEvent.EventLogHover
 msgctxt "GlobalEventDefinition.VivifiedBaneEvent.EventLogHover"
@@ -26158,12 +26201,12 @@ msgstr "<slink=WolfkinBoonKeyword>"
 #. Key: GlobalEventDefinition.WolfkinBoonEvent.EventPersistLog
 msgctxt "GlobalEventDefinition.WolfkinBoonEvent.EventPersistLog"
 msgid "Wolfkin perform better in battle."
-msgstr ""
+msgstr "울프킨 마법사들이 전투에서 더 강해집니다."
 
 #. Key: GlobalEventDefinition.WolfkinBoonEvent.EventStopLog
 msgctxt "GlobalEventDefinition.WolfkinBoonEvent.EventStopLog"
 msgid "Wolfkin have returned to normal."
-msgstr "울프킨이 정상으로 돌아왔습니다."
+msgstr "울프킨 마법사의 힘이 기존대로 돌아왔습니다."
 
 #. Key: GlobalEventDefinition.WolfkinBoonEvent.EventLogHover
 msgctxt "GlobalEventDefinition.WolfkinBoonEvent.EventLogHover"
@@ -26178,12 +26221,12 @@ msgstr "<slink=WolfkinBaneKeyword>"
 #. Key: GlobalEventDefinition.WolfkinBaneEvent.EventPersistLog
 msgctxt "GlobalEventDefinition.WolfkinBaneEvent.EventPersistLog"
 msgid "Wolfkin perform worse in battle."
-msgstr ""
+msgstr "울프킨 마법사들이 전투에서 더 강해집니다."
 
 #. Key: GlobalEventDefinition.WolfkinBaneEvent.EventStopLog
 msgctxt "GlobalEventDefinition.WolfkinBaneEvent.EventStopLog"
 msgid "Wolfkin have returned to normal."
-msgstr "울프킨이 정상으로 돌아왔습니다."
+msgstr "울프킨 마법사의 힘이 기존대로 돌아왔습니다."
 
 #. Key: GlobalEventDefinition.WolfkinBaneEvent.EventLogHover
 msgctxt "GlobalEventDefinition.WolfkinBaneEvent.EventLogHover"
@@ -26198,12 +26241,12 @@ msgstr "<slink=ShatteredBoonKeyword>"
 #. Key: GlobalEventDefinition.ShatteredBoonEvent.EventPersistLog
 msgctxt "GlobalEventDefinition.ShatteredBoonEvent.EventPersistLog"
 msgid "Shattered perform better in battle."
-msgstr ""
+msgstr "섀터드 마법사들이 전투에서 더 강해집니다."
 
 #. Key: GlobalEventDefinition.ShatteredBoonEvent.EventStopLog
 msgctxt "GlobalEventDefinition.ShatteredBoonEvent.EventStopLog"
 msgid "Shattered have returned to normal."
-msgstr "섀터드가 정상으로 돌아왔습니다."
+msgstr "섀터드 마법사의 힘이 기존대로 돌아왔습니다."
 
 #. Key: GlobalEventDefinition.ShatteredBoonEvent.EventLogHover
 msgctxt "GlobalEventDefinition.ShatteredBoonEvent.EventLogHover"
@@ -26218,12 +26261,12 @@ msgstr "<slink=ShatteredBaneKeyword>"
 #. Key: GlobalEventDefinition.ShatteredBaneEvent.EventPersistLog
 msgctxt "GlobalEventDefinition.ShatteredBaneEvent.EventPersistLog"
 msgid "Shattered perform worse in battle."
-msgstr ""
+msgstr "섀터드 마법사들이 전투에서 더 강해집니다."
 
 #. Key: GlobalEventDefinition.ShatteredBaneEvent.EventStopLog
 msgctxt "GlobalEventDefinition.ShatteredBaneEvent.EventStopLog"
 msgid "Shattered have returned to normal."
-msgstr "섀터드가 정상으로 돌아왔습니다."
+msgstr "섀터드 마법사의 힘이 기존대로 돌아왔습니다."
 
 #. Key: GlobalEventDefinition.ShatteredBaneEvent.EventLogHover
 msgctxt "GlobalEventDefinition.ShatteredBaneEvent.EventLogHover"
@@ -26238,12 +26281,12 @@ msgstr "<slink=FireWanesKeyword>"
 #. Key: GlobalEventDefinition.FireWanesEvent.EventPersistLog
 msgctxt "GlobalEventDefinition.FireWanesEvent.EventPersistLog"
 msgid "Fire Mages perform worse in battle."
-msgstr ""
+msgstr "불꽃 속성 마법사들이 전투에서 더 약해집니다."
 
 #. Key: GlobalEventDefinition.FireWanesEvent.EventStopLog
 msgctxt "GlobalEventDefinition.FireWanesEvent.EventStopLog"
 msgid "The Fire Leyline has returned to normal."
-msgstr "Fire Leyline이 정상으로 돌아왔습니다."
+msgstr "불꽃  속성 마법사의 힘이 기존대로 돌아왔습니다."
 
 #. Key: GlobalEventDefinition.FireWanesEvent.EventLogHover
 msgctxt "GlobalEventDefinition.FireWanesEvent.EventLogHover"
@@ -26258,12 +26301,12 @@ msgstr "<slink=FireWaxesKeyword>"
 #. Key: GlobalEventDefinition.FireWaxesEvent.EventPersistLog
 msgctxt "GlobalEventDefinition.FireWaxesEvent.EventPersistLog"
 msgid "Fire Mages perform better in battle."
-msgstr ""
+msgstr "불꽃 속성 마법사들이 전투에서 더 강해집니다."
 
 #. Key: GlobalEventDefinition.FireWaxesEvent.EventStopLog
 msgctxt "GlobalEventDefinition.FireWaxesEvent.EventStopLog"
 msgid "The Fire Leyline has returned to normal."
-msgstr "Fire Leyline이 정상으로 돌아왔습니다."
+msgstr "불꽃 속성 마법사의 힘이 기존대로 돌아왔습니다."
 
 #. Key: GlobalEventDefinition.FireWaxesEvent.EventLogHover
 msgctxt "GlobalEventDefinition.FireWaxesEvent.EventLogHover"
@@ -26278,12 +26321,12 @@ msgstr "<slink=WaterWanesKeyword>"
 #. Key: GlobalEventDefinition.WaterWanesEvent.EventPersistLog
 msgctxt "GlobalEventDefinition.WaterWanesEvent.EventPersistLog"
 msgid "Water Mages perform worse in battle."
-msgstr ""
+msgstr "물 속성 마법사들이 전투에서 더 약해집니다."
 
 #. Key: GlobalEventDefinition.WaterWanesEvent.EventStopLog
 msgctxt "GlobalEventDefinition.WaterWanesEvent.EventStopLog"
 msgid "The Water Leyline has returned to normal."
-msgstr "Water Leyline이 정상으로 돌아왔습니다."
+msgstr "물 속성 마법사의 힘이 기존대로 돌아왔습니다."
 
 #. Key: GlobalEventDefinition.WaterWanesEvent.EventLogHover
 msgctxt "GlobalEventDefinition.WaterWanesEvent.EventLogHover"
@@ -26298,12 +26341,12 @@ msgstr "<slink=WaterWaxesKeyword>"
 #. Key: GlobalEventDefinition.WaterWaxesEvent.EventPersistLog
 msgctxt "GlobalEventDefinition.WaterWaxesEvent.EventPersistLog"
 msgid "Water Mages perform better in battle."
-msgstr ""
+msgstr "물 속성 마법사들이 전투에서 더 강해집니다."
 
 #. Key: GlobalEventDefinition.WaterWaxesEvent.EventStopLog
 msgctxt "GlobalEventDefinition.WaterWaxesEvent.EventStopLog"
 msgid "The Water Leyline has returned to normal."
-msgstr "Water Leyline이 정상으로 돌아왔습니다."
+msgstr "물 속성 마법사의 힘이 기존대로 돌아왔습니다."
 
 #. Key: GlobalEventDefinition.WaterWaxesEvent.EventLogHover
 msgctxt "GlobalEventDefinition.WaterWaxesEvent.EventLogHover"
@@ -26318,12 +26361,12 @@ msgstr "<slink=EarthWanesKeyword>"
 #. Key: GlobalEventDefinition.EarthWanesEvent.EventPersistLog
 msgctxt "GlobalEventDefinition.EarthWanesEvent.EventPersistLog"
 msgid "Earth Mages perform worse in battle."
-msgstr ""
+msgstr "대지 속성 마법사들이 전투에서 더 약해집니다."
 
 #. Key: GlobalEventDefinition.EarthWanesEvent.EventStopLog
 msgctxt "GlobalEventDefinition.EarthWanesEvent.EventStopLog"
 msgid "The Earth Leyline has returned to normal."
-msgstr "Earth Leyline이 정상으로 돌아왔습니다."
+msgstr "대지 속성 마법사의 힘이 기존대로 돌아왔습니다."
 
 #. Key: GlobalEventDefinition.EarthWanesEvent.EventLogHover
 msgctxt "GlobalEventDefinition.EarthWanesEvent.EventLogHover"
@@ -26338,12 +26381,12 @@ msgstr "<slink=EarthWaxesKeyword>"
 #. Key: GlobalEventDefinition.EarthWaxesEvent.EventPersistLog
 msgctxt "GlobalEventDefinition.EarthWaxesEvent.EventPersistLog"
 msgid "Earth Mages perform better in battle."
-msgstr ""
+msgstr "대지 속성 마법사들이 전투에서 더 강해집니다."
 
 #. Key: GlobalEventDefinition.EarthWaxesEvent.EventStopLog
 msgctxt "GlobalEventDefinition.EarthWaxesEvent.EventStopLog"
 msgid "The Earth Leyline has returned to normal."
-msgstr "Earth Leyline이 정상으로 돌아왔습니다."
+msgstr "대지 속성 마법사의 힘이 기존대로 돌아왔습니다."
 
 #. Key: GlobalEventDefinition.EarthWaxesEvent.EventLogHover
 msgctxt "GlobalEventDefinition.EarthWaxesEvent.EventLogHover"
@@ -26358,12 +26401,12 @@ msgstr "<slink=DarkWanesKeyword>"
 #. Key: GlobalEventDefinition.DarkWanesEvent.EventPersistLog
 msgctxt "GlobalEventDefinition.DarkWanesEvent.EventPersistLog"
 msgid "Dark Mages perform worse in battle."
-msgstr ""
+msgstr "어둠 속성 마법사들이 전투에서 더 약해집니다."
 
 #. Key: GlobalEventDefinition.DarkWanesEvent.EventStopLog
 msgctxt "GlobalEventDefinition.DarkWanesEvent.EventStopLog"
 msgid "The Dark Leyline has returned to normal."
-msgstr "Dark Leyline이 정상으로 돌아왔습니다."
+msgstr "어둠 속성 마법사의 힘이 기존대로 돌아왔습니다."
 
 #. Key: GlobalEventDefinition.DarkWanesEvent.EventLogHover
 msgctxt "GlobalEventDefinition.DarkWanesEvent.EventLogHover"
@@ -26378,12 +26421,12 @@ msgstr "<slink=DarkWaxesKeyword>"
 #. Key: GlobalEventDefinition.DarkWaxesEvent.EventPersistLog
 msgctxt "GlobalEventDefinition.DarkWaxesEvent.EventPersistLog"
 msgid "Dark Mages perform better in battle."
-msgstr ""
+msgstr "어둠 속성 마법사들이 전투에서 더 강해집니다."
 
 #. Key: GlobalEventDefinition.DarkWaxesEvent.EventStopLog
 msgctxt "GlobalEventDefinition.DarkWaxesEvent.EventStopLog"
 msgid "The Dark Leyline has returned to normal."
-msgstr "Dark Leyline이 정상으로 돌아왔습니다."
+msgstr "어둠 속성 마법사의 힘이 기존대로 돌아왔습니다."
 
 #. Key: GlobalEventDefinition.DarkWaxesEvent.EventLogHover
 msgctxt "GlobalEventDefinition.DarkWaxesEvent.EventLogHover"
@@ -26398,12 +26441,12 @@ msgstr "<slink=NatureWanesKeyword>"
 #. Key: GlobalEventDefinition.NatureWanesEvent.EventPersistLog
 msgctxt "GlobalEventDefinition.NatureWanesEvent.EventPersistLog"
 msgid "Nature Mages perform worse in battle."
-msgstr ""
+msgstr "자연 속성 마법사들이 전투에서 더 약해집니다."
 
 #. Key: GlobalEventDefinition.NatureWanesEvent.EventStopLog
 msgctxt "GlobalEventDefinition.NatureWanesEvent.EventStopLog"
 msgid "The Nature Leyline has returned to normal."
-msgstr "Nature Leyline이 정상으로 돌아왔습니다."
+msgstr "자연 속성 마법사의 힘이 기존대로 돌아왔습니다."
 
 #. Key: GlobalEventDefinition.NatureWanesEvent.EventLogHover
 msgctxt "GlobalEventDefinition.NatureWanesEvent.EventLogHover"
@@ -26418,12 +26461,12 @@ msgstr "<slink=NatureWaxesKeyword>"
 #. Key: GlobalEventDefinition.NatureWaxesEvent.EventPersistLog
 msgctxt "GlobalEventDefinition.NatureWaxesEvent.EventPersistLog"
 msgid "Nature Mages perform better in battle."
-msgstr ""
+msgstr "자연 속성 마법사들이 전투에서 더 강해집니다."
 
 #. Key: GlobalEventDefinition.NatureWaxesEvent.EventStopLog
 msgctxt "GlobalEventDefinition.NatureWaxesEvent.EventStopLog"
 msgid "The Nature Leyline has returned to normal."
-msgstr "Nature Leyline이 정상으로 돌아왔습니다."
+msgstr "자연 속성 마법사의 힘이 기존대로 돌아왔습니다."
 
 #. Key: GlobalEventDefinition.NatureWaxesEvent.EventLogHover
 msgctxt "GlobalEventDefinition.NatureWaxesEvent.EventLogHover"
@@ -26438,12 +26481,12 @@ msgstr "<slink=AirWanesKeyword>"
 #. Key: GlobalEventDefinition.AirWanesEvent.EventPersistLog
 msgctxt "GlobalEventDefinition.AirWanesEvent.EventPersistLog"
 msgid "Air Mages perform worse in battle."
-msgstr ""
+msgstr "바람 속성 마법사들이 전투에서 더 약해집니다."
 
 #. Key: GlobalEventDefinition.AirWanesEvent.EventStopLog
 msgctxt "GlobalEventDefinition.AirWanesEvent.EventStopLog"
 msgid "The Air Leyline has returned to normal."
-msgstr "Air Leyline이 정상으로 돌아왔습니다."
+msgstr "바람 속성 마법사의 힘이 기존대로 돌아왔습니다."
 
 #. Key: GlobalEventDefinition.AirWanesEvent.EventLogHover
 msgctxt "GlobalEventDefinition.AirWanesEvent.EventLogHover"
@@ -26458,12 +26501,12 @@ msgstr "<slink=AirWaxesKeyword>"
 #. Key: GlobalEventDefinition.AirWaxesEvent.EventPersistLog
 msgctxt "GlobalEventDefinition.AirWaxesEvent.EventPersistLog"
 msgid "Air Mages perform better in battle."
-msgstr ""
+msgstr "바람 속성 마법사들이 전투에서 더 강해집니다."
 
 #. Key: GlobalEventDefinition.AirWaxesEvent.EventStopLog
 msgctxt "GlobalEventDefinition.AirWaxesEvent.EventStopLog"
 msgid "The Air Leyline has returned to normal."
-msgstr "Air Leyline이 정상으로 돌아왔습니다."
+msgstr "바람 속성 마법사의 힘이 기존대로 돌아왔습니다."
 
 #. Key: GlobalEventDefinition.AirWaxesEvent.EventLogHover
 msgctxt "GlobalEventDefinition.AirWaxesEvent.EventLogHover"
@@ -26478,12 +26521,12 @@ msgstr "<slink=LightningWanesKeyword>"
 #. Key: GlobalEventDefinition.LightningWanesEvent.EventPersistLog
 msgctxt "GlobalEventDefinition.LightningWanesEvent.EventPersistLog"
 msgid "Lightning Mages perform worse in battle."
-msgstr ""
+msgstr "번개 속성 마법사들이 전투에서 더 약해집니다."
 
 #. Key: GlobalEventDefinition.LightningWanesEvent.EventStopLog
 msgctxt "GlobalEventDefinition.LightningWanesEvent.EventStopLog"
 msgid "The Lightning Leyline has returned to normal."
-msgstr "Lightning Leyline이 정상으로 돌아왔습니다."
+msgstr "번개 속성 마법사의 힘이 기존대로 돌아왔습니다."
 
 #. Key: GlobalEventDefinition.LightningWanesEvent.EventLogHover
 msgctxt "GlobalEventDefinition.LightningWanesEvent.EventLogHover"
@@ -26498,12 +26541,12 @@ msgstr "<slink=LightningWaxesKeyword>"
 #. Key: GlobalEventDefinition.LightningWaxesEvent.EventPersistLog
 msgctxt "GlobalEventDefinition.LightningWaxesEvent.EventPersistLog"
 msgid "Lightning Mages perform better in battle."
-msgstr ""
+msgstr "번개 속성 마법사들이 전투에서 더 강해집니다."
 
 #. Key: GlobalEventDefinition.LightningWaxesEvent.EventStopLog
 msgctxt "GlobalEventDefinition.LightningWaxesEvent.EventStopLog"
 msgid "The Lightning Leyline has returned to normal."
-msgstr "Lightning Leyline이 정상으로 돌아왔습니다."
+msgstr "번개 속성 마법사의 힘이 기존대로 돌아왔습니다."
 
 #. Key: GlobalEventDefinition.LightningWaxesEvent.EventLogHover
 msgctxt "GlobalEventDefinition.LightningWaxesEvent.EventLogHover"
@@ -26513,22 +26556,22 @@ msgstr "<slink=LightningWaxesKeyword>"
 #. Key: GlobalEventDefinition.InvasionEvent_1.EventDisplayName
 msgctxt "GlobalEventDefinition.InvasionEvent_1.EventDisplayName"
 msgid "Malicious <slink=Invasion>"
-msgstr ""
+msgstr "사악한 <slink=Invasion>"
 
 #. Key: GlobalEventDefinition.InvasionEvent_1.TriggeredEventDisplayText
 msgctxt "GlobalEventDefinition.InvasionEvent_1.TriggeredEventDisplayText"
 msgid "Malicious Invasions have begun!"
-msgstr ""
+msgstr "사악한 침략이 시작되었습니다!"
 
 #. Key: GlobalEventDefinition.InvasionEvent_1.EventPersistLog
 msgctxt "GlobalEventDefinition.InvasionEvent_1.EventPersistLog"
 msgid "A Malicious Invasion lurks in your school."
-msgstr ""
+msgstr "사악한 세력이 학교를 침략합니다."
 
 #. Key: GlobalEventDefinition.InvasionEvent_1.EventStopLog
 msgctxt "GlobalEventDefinition.InvasionEvent_1.EventStopLog"
 msgid "The Malicious Invasion has passed."
-msgstr ""
+msgstr "사악한 침략이 끝났습니다."
 
 #. Key: GlobalEventDefinition.InvasionEvent_1.EventLogHover
 msgctxt "GlobalEventDefinition.InvasionEvent_1.EventLogHover"
@@ -26538,22 +26581,22 @@ msgstr "<slink=Invasion>"
 #. Key: GlobalEventDefinition.InvasionEvent_2.EventDisplayName
 msgctxt "GlobalEventDefinition.InvasionEvent_2.EventDisplayName"
 msgid "Animus <slink=Invasion>"
-msgstr ""
+msgstr "아니무스 <slink=Invasion>"
 
 #. Key: GlobalEventDefinition.InvasionEvent_2.TriggeredEventDisplayText
 msgctxt "GlobalEventDefinition.InvasionEvent_2.TriggeredEventDisplayText"
 msgid "Animus Invasions have begun!"
-msgstr ""
+msgstr "아니무스 침략이 시작되었습니다!"
 
 #. Key: GlobalEventDefinition.InvasionEvent_2.EventPersistLog
 msgctxt "GlobalEventDefinition.InvasionEvent_2.EventPersistLog"
 msgid "An Animus Invasion lurks in your school."
-msgstr ""
+msgstr "아니무스 세력이 학교를 침략합니다."
 
 #. Key: GlobalEventDefinition.InvasionEvent_2.EventStopLog
 msgctxt "GlobalEventDefinition.InvasionEvent_2.EventStopLog"
 msgid "The Animus Invasion has passed."
-msgstr ""
+msgstr "아니무스 침략이 끝났습니다."
 
 #. Key: GlobalEventDefinition.InvasionEvent_2.EventLogHover
 msgctxt "GlobalEventDefinition.InvasionEvent_2.EventLogHover"
@@ -26563,22 +26606,22 @@ msgstr "<slink=Invasion>"
 #. Key: GlobalEventDefinition.InvasionEvent_3.EventDisplayName
 msgctxt "GlobalEventDefinition.InvasionEvent_3.EventDisplayName"
 msgid "Rancorous <slink=Invasion>"
-msgstr ""
+msgstr "맹렬한 <slink=Invasion>"
 
 #. Key: GlobalEventDefinition.InvasionEvent_3.TriggeredEventDisplayText
 msgctxt "GlobalEventDefinition.InvasionEvent_3.TriggeredEventDisplayText"
 msgid "Rancorous Invasions have begun!"
-msgstr ""
+msgstr "맹렬한 침략이 시작되었습니다!"
 
 #. Key: GlobalEventDefinition.InvasionEvent_3.EventPersistLog
 msgctxt "GlobalEventDefinition.InvasionEvent_3.EventPersistLog"
 msgid "A Rancorous Invasion lurks in your school."
-msgstr ""
+msgstr "맹렬한 세력이 학교를 침략합니다."
 
 #. Key: GlobalEventDefinition.InvasionEvent_3.EventStopLog
 msgctxt "GlobalEventDefinition.InvasionEvent_3.EventStopLog"
 msgid "The Rancorous Invasion has passed."
-msgstr ""
+msgstr "맹렬한 침략이 끝났습니다."
 
 #. Key: GlobalEventDefinition.InvasionEvent_3.EventLogHover
 msgctxt "GlobalEventDefinition.InvasionEvent_3.EventLogHover"
@@ -26588,7 +26631,7 @@ msgstr "<slink=Invasion>"
 #. Key: GlobalEventStreamDefinition.Weather.DisplayName
 msgctxt "GlobalEventStreamDefinition.Weather.DisplayName"
 msgid "Weather"
-msgstr ""
+msgstr "날씨"
 
 #. Key: GlobalEventStreamDefinition.HauntingVisitors.DisplayName
 msgctxt "GlobalEventStreamDefinition.HauntingVisitors.DisplayName"
@@ -26598,12 +26641,12 @@ msgstr ""
 #. Key: GlobalEventStreamDefinition.Conditions.DisplayName
 msgctxt "GlobalEventStreamDefinition.Conditions.DisplayName"
 msgid "Conditions"
-msgstr ""
+msgstr "상태"
 
 #. Key: GlobalEventStreamDefinition.RoomBattles.DisplayName
 msgctxt "GlobalEventStreamDefinition.RoomBattles.DisplayName"
 msgid "Room Battles"
-msgstr ""
+msgstr "방 전투"
 
 #. Key: DungeonRoomDefinition.L1_Stone_Boss1.DisplayName
 msgctxt "DungeonRoomDefinition.L1_Stone_Boss1.DisplayName"
@@ -27753,7 +27796,7 @@ msgstr "So Fancy"
 #. Key: ResearchTechDefinition.AirIIIA.DisplayName
 msgctxt "ResearchTechDefinition.AirIIIA.DisplayName"
 msgid "Air It Out"
-msgstr "Air It Out"
+msgstr "바람It Out"
 
 #. Key: ResearchTechDefinition.AirIVA.DisplayName
 msgctxt "ResearchTechDefinition.AirIVA.DisplayName"
@@ -28008,7 +28051,7 @@ msgstr "Ultimate Water"
 #. Key: ResearchTechDefinition.AdvancedDarkI.DisplayName
 msgctxt "ResearchTechDefinition.AdvancedDarkI.DisplayName"
 msgid "Dark Arts"
-msgstr "Dark Arts"
+msgstr "어둠Arts"
 
 #. Key: ResearchTechDefinition.AdvancedDarkIIA.DisplayName
 msgctxt "ResearchTechDefinition.AdvancedDarkIIA.DisplayName"
@@ -32122,7 +32165,7 @@ msgstr ""
 #. Key: BadgeDefinition.SoloRecreator_1.DisplayName
 msgctxt "BadgeDefinition.SoloRecreator_1.DisplayName"
 msgid "Dancing On My Own - Bronze Trial"
-msgstr "Dancing On My Own - Bronze Trial"
+msgstr "Dancing On My Own - 동메달 과제"
 
 #. Key: BadgeDefinition.SoloRecreator_1.Description
 msgctxt "BadgeDefinition.SoloRecreator_1.Description"
@@ -32132,7 +32175,7 @@ msgstr ""
 #. Key: BadgeDefinition.SoloRecreator_2.DisplayName
 msgctxt "BadgeDefinition.SoloRecreator_2.DisplayName"
 msgid "Dancing On My Own - Silver Trial"
-msgstr "Dancing On My Own - Silver Trial"
+msgstr "Dancing On My Own - 은메달 과제"
 
 #. Key: BadgeDefinition.SoloRecreator_2.Description
 msgctxt "BadgeDefinition.SoloRecreator_2.Description"
@@ -32142,7 +32185,7 @@ msgstr ""
 #. Key: BadgeDefinition.SoloRecreator_3.DisplayName
 msgctxt "BadgeDefinition.SoloRecreator_3.DisplayName"
 msgid "Dancing On My Own - Gold Trial"
-msgstr "Dancing On My Own - Gold Trial"
+msgstr "Dancing On My Own - 금메달 과제"
 
 #. Key: BadgeDefinition.SoloRecreator_3.Description
 msgctxt "BadgeDefinition.SoloRecreator_3.Description"
@@ -32152,7 +32195,7 @@ msgstr ""
 #. Key: BadgeDefinition.SoloRecreator_4.DisplayName
 msgctxt "BadgeDefinition.SoloRecreator_4.DisplayName"
 msgid "Dancing On My Own - Platinum Trial"
-msgstr "Dancing On My Own - Platinum Trial"
+msgstr "Dancing On My Own - 플래티넘 메달 과제"
 
 #. Key: BadgeDefinition.SoloRecreator_4.Description
 msgctxt "BadgeDefinition.SoloRecreator_4.Description"
@@ -32162,7 +32205,7 @@ msgstr ""
 #. Key: BadgeDefinition.GroupRecreator_1.DisplayName
 msgctxt "BadgeDefinition.GroupRecreator_1.DisplayName"
 msgid "Dancing With Friends - Bronze Trial"
-msgstr "Dancing With Friends - Bronze Trial"
+msgstr "Dancing With Friends - 동메달 과제"
 
 #. Key: BadgeDefinition.GroupRecreator_1.Description
 msgctxt "BadgeDefinition.GroupRecreator_1.Description"
@@ -32172,7 +32215,7 @@ msgstr ""
 #. Key: BadgeDefinition.GroupRecreator_2.DisplayName
 msgctxt "BadgeDefinition.GroupRecreator_2.DisplayName"
 msgid "Dancing With Friends - Silver Trial"
-msgstr "Dancing With Friends - Silver Trial"
+msgstr "Dancing With Friends - 은메달 과제"
 
 #. Key: BadgeDefinition.GroupRecreator_2.Description
 msgctxt "BadgeDefinition.GroupRecreator_2.Description"
@@ -32182,7 +32225,7 @@ msgstr ""
 #. Key: BadgeDefinition.GroupRecreator_3.DisplayName
 msgctxt "BadgeDefinition.GroupRecreator_3.DisplayName"
 msgid "Dancing With Friends - Gold Trial"
-msgstr "Dancing With Friends - Gold Trial"
+msgstr "Dancing With Friends - 금메달 과제"
 
 #. Key: BadgeDefinition.GroupRecreator_3.Description
 msgctxt "BadgeDefinition.GroupRecreator_3.Description"
@@ -32192,7 +32235,7 @@ msgstr ""
 #. Key: BadgeDefinition.GroupRecreator_4.DisplayName
 msgctxt "BadgeDefinition.GroupRecreator_4.DisplayName"
 msgid "Dancing With Friends - Platinum Trial"
-msgstr "Dancing With Friends - Platinum Trial"
+msgstr "Dancing With Friends - 플래티넘 메달 과제"
 
 #. Key: BadgeDefinition.GroupRecreator_4.Description
 msgctxt "BadgeDefinition.GroupRecreator_4.Description"
@@ -32202,7 +32245,7 @@ msgstr ""
 #. Key: BadgeDefinition.SoloDiner_1.DisplayName
 msgctxt "BadgeDefinition.SoloDiner_1.DisplayName"
 msgid "Solo Diner - Bronze Trial"
-msgstr "Solo Diner - Bronze Trial"
+msgstr "Solo Diner - 동메달 과제"
 
 #. Key: BadgeDefinition.SoloDiner_1.Description
 msgctxt "BadgeDefinition.SoloDiner_1.Description"
@@ -32212,7 +32255,7 @@ msgstr ""
 #. Key: BadgeDefinition.SoloDiner_2.DisplayName
 msgctxt "BadgeDefinition.SoloDiner_2.DisplayName"
 msgid "Solo Diner - Silver Trial"
-msgstr "Solo Diner - Silver Trial"
+msgstr "Solo Diner - 은메달 과제"
 
 #. Key: BadgeDefinition.SoloDiner_2.Description
 msgctxt "BadgeDefinition.SoloDiner_2.Description"
@@ -32222,7 +32265,7 @@ msgstr ""
 #. Key: BadgeDefinition.SoloDiner_3.DisplayName
 msgctxt "BadgeDefinition.SoloDiner_3.DisplayName"
 msgid "Solo Diner - Gold Trial"
-msgstr "Solo Diner - Gold Trial"
+msgstr "Solo Diner - 금메달 과제"
 
 #. Key: BadgeDefinition.SoloDiner_3.Description
 msgctxt "BadgeDefinition.SoloDiner_3.Description"
@@ -32232,7 +32275,7 @@ msgstr ""
 #. Key: BadgeDefinition.SoloDiner_4.DisplayName
 msgctxt "BadgeDefinition.SoloDiner_4.DisplayName"
 msgid "Solo Diner - Platinum Trial"
-msgstr "Solo Diner - Platinum Trial"
+msgstr "Solo Diner - 플래티넘 메달 과제"
 
 #. Key: BadgeDefinition.SoloDiner_4.Description
 msgctxt "BadgeDefinition.SoloDiner_4.Description"
@@ -32242,7 +32285,7 @@ msgstr ""
 #. Key: BadgeDefinition.GroupDiner_1.DisplayName
 msgctxt "BadgeDefinition.GroupDiner_1.DisplayName"
 msgid "Group Diner - Bronze Trial"
-msgstr "Group Diner - Bronze Trial"
+msgstr "Group Diner - 동메달 과제"
 
 #. Key: BadgeDefinition.GroupDiner_1.Description
 msgctxt "BadgeDefinition.GroupDiner_1.Description"
@@ -32252,7 +32295,7 @@ msgstr ""
 #. Key: BadgeDefinition.GroupDiner_2.DisplayName
 msgctxt "BadgeDefinition.GroupDiner_2.DisplayName"
 msgid "Group Diner - Silver Trial"
-msgstr "Group Diner - Silver Trial"
+msgstr "Group Diner - 은메달 과제"
 
 #. Key: BadgeDefinition.GroupDiner_2.Description
 msgctxt "BadgeDefinition.GroupDiner_2.Description"
@@ -32262,7 +32305,7 @@ msgstr ""
 #. Key: BadgeDefinition.GroupDiner_3.DisplayName
 msgctxt "BadgeDefinition.GroupDiner_3.DisplayName"
 msgid "Group Diner - Gold Trial"
-msgstr "Group Diner - Gold Trial"
+msgstr "Group Diner - 금메달 과제"
 
 #. Key: BadgeDefinition.GroupDiner_3.Description
 msgctxt "BadgeDefinition.GroupDiner_3.Description"
@@ -32272,7 +32315,7 @@ msgstr ""
 #. Key: BadgeDefinition.GroupDiner_4.DisplayName
 msgctxt "BadgeDefinition.GroupDiner_4.DisplayName"
 msgid "Group Diner - Platinum Trial"
-msgstr "Group Diner - Platinum Trial"
+msgstr "Group Diner - 플래티넘 메달 과제"
 
 #. Key: BadgeDefinition.GroupDiner_4.Description
 msgctxt "BadgeDefinition.GroupDiner_4.Description"
@@ -32282,7 +32325,7 @@ msgstr ""
 #. Key: BadgeDefinition.MealGutberry_1.DisplayName
 msgctxt "BadgeDefinition.MealGutberry_1.DisplayName"
 msgid "Gutberry Eater - Bronze Trial"
-msgstr "내장딸기 Eater - Bronze Trial"
+msgstr "내장딸기 먹기 - 동메달 과제"
 
 #. Key: BadgeDefinition.MealGutberry_1.Description
 msgctxt "BadgeDefinition.MealGutberry_1.Description"
@@ -32292,7 +32335,7 @@ msgstr "<slink=Gutberry> 10개를 먹습니다."
 #. Key: BadgeDefinition.MealGutberrySoup_1.DisplayName
 msgctxt "BadgeDefinition.MealGutberrySoup_1.DisplayName"
 msgid "Gutberry Soup Eater - Bronze Trial"
-msgstr "내장딸기 수프 Eater - Bronze Trial"
+msgstr "내장딸기 수프 먹기 - 동메달 과제"
 
 #. Key: BadgeDefinition.MealGutberrySoup_1.Description
 msgctxt "BadgeDefinition.MealGutberrySoup_1.Description"
@@ -32302,7 +32345,7 @@ msgstr "<slink=GutberrySoup> 5개를 먹습니다."
 #. Key: BadgeDefinition.MealBitterGruel_1.DisplayName
 msgctxt "BadgeDefinition.MealBitterGruel_1.DisplayName"
 msgid "Bitter Gruel Eater - Bronze Trial"
-msgstr "씁쓸한 죽 Eater - Bronze Trial"
+msgstr "씁쓸한 죽 먹기 - 동메달 과제"
 
 #. Key: BadgeDefinition.MealBitterGruel_1.Description
 msgctxt "BadgeDefinition.MealBitterGruel_1.Description"
@@ -32312,17 +32355,17 @@ msgstr "<slink=BitterGruel> 5개를 먹습니다."
 #. Key: BadgeDefinition.MealHoneyedGruel_1.DisplayName
 msgctxt "BadgeDefinition.MealHoneyedGruel_1.DisplayName"
 msgid "Honeyed Gruel Eater - Bronze Trial"
-msgstr "달콤한 죽 Eater - Bronze Trial"
+msgstr "달콤한 죽 먹기 - 동메달 과제"
 
 #. Key: BadgeDefinition.MealHoneyedGruel_1.Description
 msgctxt "BadgeDefinition.MealHoneyedGruel_1.Description"
 msgid "Eat a <slink=HoneyedGruel>."
-msgstr ""
+msgstr "<slink=HoneyedGruel> 하나를 먹습니다."
 
 #. Key: BadgeDefinition.MealBitterGruel_2.DisplayName
 msgctxt "BadgeDefinition.MealBitterGruel_2.DisplayName"
 msgid "Bitter Gruel Eater - Silver Trial"
-msgstr "씁쓸한 죽 Eater - Silver Trial"
+msgstr "씁쓸한 죽 먹기 - 은메달 과제"
 
 #. Key: BadgeDefinition.MealBitterGruel_2.Description
 msgctxt "BadgeDefinition.MealBitterGruel_2.Description"
@@ -32332,7 +32375,7 @@ msgstr "<slink=BitterGruel> 15개를 먹습니다."
 #. Key: BadgeDefinition.MealHoneyedGruel_2.DisplayName
 msgctxt "BadgeDefinition.MealHoneyedGruel_2.DisplayName"
 msgid "Honeyed Gruel Eater - Silver Trial"
-msgstr "달콤한 죽 Eater - Silver Trial"
+msgstr "달콤한 죽 먹기 - 은메달 과제"
 
 #. Key: BadgeDefinition.MealHoneyedGruel_2.Description
 msgctxt "BadgeDefinition.MealHoneyedGruel_2.Description"
@@ -32342,7 +32385,7 @@ msgstr "<slink=HoneyedGruel> 10개를 먹습니다."
 #. Key: BadgeDefinition.MealBitterStirFry_2.DisplayName
 msgctxt "BadgeDefinition.MealBitterStirFry_2.DisplayName"
 msgid "Bitter Stir-Fry Eater - Silver Trial"
-msgstr "씁쓸한 볶음 Eater - Silver Trial"
+msgstr "씁쓸한 볶음 먹기 - 은메달 과제"
 
 #. Key: BadgeDefinition.MealBitterStirFry_2.Description
 msgctxt "BadgeDefinition.MealBitterStirFry_2.Description"
@@ -32352,17 +32395,17 @@ msgstr "<slink=BitterStirFry> 5개를 먹습니다."
 #. Key: BadgeDefinition.MealHoneyedStirFry_2.DisplayName
 msgctxt "BadgeDefinition.MealHoneyedStirFry_2.DisplayName"
 msgid "Honeyed Stir-Fry Eater - Silver Trial"
-msgstr "달콤한 볶음 Eater - Silver Trial"
+msgstr "달콤한 볶음 먹기 - 은메달 과제"
 
 #. Key: BadgeDefinition.MealHoneyedStirFry_2.Description
 msgctxt "BadgeDefinition.MealHoneyedStirFry_2.Description"
 msgid "Eat a <slink=HoneyedStirFry>."
-msgstr ""
+msgstr "<slink=HoneyedStirFry> 하나를 먹습니다."
 
 #. Key: BadgeDefinition.MealLeafyGreens_3.DisplayName
 msgctxt "BadgeDefinition.MealLeafyGreens_3.DisplayName"
 msgid "Leafy Greens Eater - Gold Trial"
-msgstr "초록 잎사귀 Eater - Gold Trial"
+msgstr "초록 잎사귀 먹기 - 금메달 과제"
 
 #. Key: BadgeDefinition.MealLeafyGreens_3.Description
 msgctxt "BadgeDefinition.MealLeafyGreens_3.Description"
@@ -32372,7 +32415,7 @@ msgstr "<slink=LeafyGreens> 10개를 먹습니다."
 #. Key: BadgeDefinition.MealBloodyScraps_3.DisplayName
 msgctxt "BadgeDefinition.MealBloodyScraps_3.DisplayName"
 msgid "Bloody Scraps Eater - Gold Trial"
-msgstr "피투성이 찌꺼기 Eater - Gold Trial"
+msgstr "피투성이 찌꺼기 먹기 - 금메달 과제"
 
 #. Key: BadgeDefinition.MealBloodyScraps_3.Description
 msgctxt "BadgeDefinition.MealBloodyScraps_3.Description"
@@ -32382,7 +32425,7 @@ msgstr "<slink=BloodyScraps> 10개를 먹습니다."
 #. Key: BadgeDefinition.MealBouncingBread_3.DisplayName
 msgctxt "BadgeDefinition.MealBouncingBread_3.DisplayName"
 msgid "Bouncing Bread Eater - Gold Trial"
-msgstr "통통한 빵 Eater - Gold Trial"
+msgstr "통통한 빵 먹기 - 금메달 과제"
 
 #. Key: BadgeDefinition.MealBouncingBread_3.Description
 msgctxt "BadgeDefinition.MealBouncingBread_3.Description"
@@ -32392,7 +32435,7 @@ msgstr "<slink=BouncingBread> 10개를 먹습니다."
 #. Key: BadgeDefinition.MealRockCaramel_3.DisplayName
 msgctxt "BadgeDefinition.MealRockCaramel_3.DisplayName"
 msgid "Rock Caramel Eater - Gold Trial"
-msgstr "돌 캐러멜 Eater - Gold Trial"
+msgstr "돌 캐러멜 먹기 - 금메달 과제"
 
 #. Key: BadgeDefinition.MealRockCaramel_3.Description
 msgctxt "BadgeDefinition.MealRockCaramel_3.Description"
@@ -32402,7 +32445,7 @@ msgstr "<slink=RockCaramel> 10개를 먹습니다."
 #. Key: BadgeDefinition.MealCaromCroutonSalad_4.DisplayName
 msgctxt "BadgeDefinition.MealCaromCroutonSalad_4.DisplayName"
 msgid "Carom-Crouton Salad Eater - Platinum Trial"
-msgstr "벌레 샐러드 Eater - Platinum Trial"
+msgstr "벌레 샐러드 먹기 - 플래티넘 메달 과제"
 
 #. Key: BadgeDefinition.MealCaromCroutonSalad_4.Description
 msgctxt "BadgeDefinition.MealCaromCroutonSalad_4.Description"
@@ -32412,7 +32455,7 @@ msgstr "<slink=CaromCroutonSalad> 15개를 먹습니다."
 #. Key: BadgeDefinition.MealHardtack_4.DisplayName
 msgctxt "BadgeDefinition.MealHardtack_4.DisplayName"
 msgid "Hardtack Eater - Platinum Trial"
-msgstr "건빵 Eater - Platinum Trial"
+msgstr "건빵 먹기 - 플래티넘 메달 과제"
 
 #. Key: BadgeDefinition.MealHardtack_4.Description
 msgctxt "BadgeDefinition.MealHardtack_4.Description"
@@ -32422,7 +32465,7 @@ msgstr "<slink=Hardtack> 15개를 먹습니다."
 #. Key: BadgeDefinition.MealMeatAndVeggies_4.DisplayName
 msgctxt "BadgeDefinition.MealMeatAndVeggies_4.DisplayName"
 msgid "Meat and Veggies Eater - Platinum Trial"
-msgstr "고기와 야채 Eater - Platinum Trial"
+msgstr "고기와 야채 먹기 - 플래티넘 메달 과제"
 
 #. Key: BadgeDefinition.MealMeatAndVeggies_4.Description
 msgctxt "BadgeDefinition.MealMeatAndVeggies_4.Description"
@@ -32432,7 +32475,7 @@ msgstr "<slink=MeatAndVeggies> 15개를 먹습니다."
 #. Key: BadgeDefinition.MealSweetmeat_4.DisplayName
 msgctxt "BadgeDefinition.MealSweetmeat_4.DisplayName"
 msgid "Sweetmeat Eater - Platinum Trial"
-msgstr "사탕고기 Eater - Platinum Trial"
+msgstr "사탕고기 먹기 - 플래티넘 메달 과제"
 
 #. Key: BadgeDefinition.MealSweetmeat_4.Description
 msgctxt "BadgeDefinition.MealSweetmeat_4.Description"
@@ -32442,7 +32485,7 @@ msgstr "<slink=Sweetmeat> 15개를 먹습니다."
 #. Key: BadgeDefinition.HeartRecreation_1.DisplayName
 msgctxt "BadgeDefinition.HeartRecreation_1.DisplayName"
 msgid "Dancing Queen - Bronze Trial"
-msgstr "Dancing Queen - Bronze Trial"
+msgstr "댄싱 퀸 - 동메달 과제"
 
 #. Key: BadgeDefinition.HeartRecreation_1.Description
 msgctxt "BadgeDefinition.HeartRecreation_1.Description"
@@ -32452,7 +32495,7 @@ msgstr "춤을 30번 춥니다."
 #. Key: BadgeDefinition.HeartRecreation_2.DisplayName
 msgctxt "BadgeDefinition.HeartRecreation_2.DisplayName"
 msgid "Dancing Queen - Silver Trial"
-msgstr "Dancing Queen - Silver Trial"
+msgstr "댄싱 퀸 - 은메달 과제"
 
 #. Key: BadgeDefinition.HeartRecreation_2.Description
 msgctxt "BadgeDefinition.HeartRecreation_2.Description"
@@ -32462,7 +32505,7 @@ msgstr ""
 #. Key: BadgeDefinition.HeartRecreation_3.DisplayName
 msgctxt "BadgeDefinition.HeartRecreation_3.DisplayName"
 msgid "Dancing Queen - Gold Trial"
-msgstr "Dancing Queen - Gold Trial"
+msgstr "댄싱 퀸 - 금메달 과제"
 
 #. Key: BadgeDefinition.HeartRecreation_3.Description
 msgctxt "BadgeDefinition.HeartRecreation_3.Description"
@@ -32472,7 +32515,7 @@ msgstr ""
 #. Key: BadgeDefinition.HeartRecreation_4.DisplayName
 msgctxt "BadgeDefinition.HeartRecreation_4.DisplayName"
 msgid "Dancing Queen - Platinum Trial"
-msgstr "Dancing Queen - Platinum Trial"
+msgstr "댄싱 퀸 - 플래티넘 메달 과제"
 
 #. Key: BadgeDefinition.HeartRecreation_4.Description
 msgctxt "BadgeDefinition.HeartRecreation_4.Description"
@@ -32482,7 +32525,7 @@ msgstr ""
 #. Key: BadgeDefinition.CafeteriaDiner_1.DisplayName
 msgctxt "BadgeDefinition.CafeteriaDiner_1.DisplayName"
 msgid "Mess Hall Diner - Bronze Trial"
-msgstr "Mess Hall Diner - Bronze Trial"
+msgstr "Mess Hall Diner - 동메달 과제"
 
 #. Key: BadgeDefinition.CafeteriaDiner_1.Description
 msgctxt "BadgeDefinition.CafeteriaDiner_1.Description"
@@ -32492,7 +32535,7 @@ msgstr ""
 #. Key: BadgeDefinition.CommonRoomDiner_3.DisplayName
 msgctxt "BadgeDefinition.CommonRoomDiner_3.DisplayName"
 msgid "Common Room Diner - Gold Trial"
-msgstr "Common Room Diner - Gold Trial"
+msgstr "Common Room Diner - 금메달 과제"
 
 #. Key: BadgeDefinition.CommonRoomDiner_3.Description
 msgctxt "BadgeDefinition.CommonRoomDiner_3.Description"
@@ -32502,7 +32545,7 @@ msgstr ""
 #. Key: BadgeDefinition.HouseCommonsDiner_4.DisplayName
 msgctxt "BadgeDefinition.HouseCommonsDiner_4.DisplayName"
 msgid "House Commons Diner - Platinum Trial"
-msgstr "House Commons Diner - Platinum Trial"
+msgstr "House Commons Diner - 플래티넘 메달 과제"
 
 #. Key: BadgeDefinition.HouseCommonsDiner_4.Description
 msgctxt "BadgeDefinition.HouseCommonsDiner_4.Description"
@@ -32512,7 +32555,7 @@ msgstr ""
 #. Key: BadgeDefinition.AustereSleeper_1.DisplayName
 msgctxt "BadgeDefinition.AustereSleeper_1.DisplayName"
 msgid "Austere Bedroom Sleeper - Bronze Trial"
-msgstr "Austere Bedroom Sleeper - Bronze Trial"
+msgstr "Austere Bedroom Sleeper - 동메달 과제"
 
 #. Key: BadgeDefinition.AustereSleeper_1.Description
 msgctxt "BadgeDefinition.AustereSleeper_1.Description"
@@ -32522,7 +32565,7 @@ msgstr ""
 #. Key: BadgeDefinition.DormitorySleeper_2.DisplayName
 msgctxt "BadgeDefinition.DormitorySleeper_2.DisplayName"
 msgid "Dormitory Sleeper  - Silver Trial"
-msgstr "Dormitory Sleeper  - Silver Trial"
+msgstr "Dormitory Sleeper  - 은메달 과제"
 
 #. Key: BadgeDefinition.DormitorySleeper_2.Description
 msgctxt "BadgeDefinition.DormitorySleeper_2.Description"
@@ -32532,7 +32575,7 @@ msgstr ""
 #. Key: BadgeDefinition.CommonRoomSleeper_3.DisplayName
 msgctxt "BadgeDefinition.CommonRoomSleeper_3.DisplayName"
 msgid "Common Room Sleeper  - Gold Trial"
-msgstr "Common Room Sleeper  - Gold Trial"
+msgstr "Common Room Sleeper  - 금메달 과제"
 
 #. Key: BadgeDefinition.CommonRoomSleeper_3.Description
 msgctxt "BadgeDefinition.CommonRoomSleeper_3.Description"
@@ -32542,7 +32585,7 @@ msgstr ""
 #. Key: BadgeDefinition.HouseCommonSleeper_4.DisplayName
 msgctxt "BadgeDefinition.HouseCommonSleeper_4.DisplayName"
 msgid "House Commons Sleeper  - Platinum Trial"
-msgstr "House Commons Sleeper  - Platinum Trial"
+msgstr "House Commons Sleeper  - 플래티넘 메달 과제"
 
 #. Key: BadgeDefinition.HouseCommonSleeper_4.Description
 msgctxt "BadgeDefinition.HouseCommonSleeper_4.Description"
@@ -32552,7 +32595,7 @@ msgstr ""
 #. Key: BadgeDefinition.FullRitualist_1.DisplayName
 msgctxt "BadgeDefinition.FullRitualist_1.DisplayName"
 msgid "Full Ritualist - Silver Trial"
-msgstr "Full Ritualist - Silver Trial"
+msgstr "Full Ritualist - 은메달 과제"
 
 #. Key: BadgeDefinition.FullRitualist_1.Description
 msgctxt "BadgeDefinition.FullRitualist_1.Description"
@@ -32562,7 +32605,7 @@ msgstr ""
 #. Key: BadgeDefinition.RestedRitualist_1.DisplayName
 msgctxt "BadgeDefinition.RestedRitualist_1.DisplayName"
 msgid "Rested Ritualist - Silver Trial"
-msgstr "Rested Ritualist - Silver Trial"
+msgstr "Rested Ritualist - 은메달 과제"
 
 #. Key: BadgeDefinition.RestedRitualist_1.Description
 msgctxt "BadgeDefinition.RestedRitualist_1.Description"
@@ -32572,7 +32615,7 @@ msgstr ""
 #. Key: BadgeDefinition.GroupLearner_1.DisplayName
 msgctxt "BadgeDefinition.GroupLearner_1.DisplayName"
 msgid "Group Learner - Bronze Trial"
-msgstr "Group Learner - Bronze Trial"
+msgstr "Group Learner - 동메달 과제"
 
 #. Key: BadgeDefinition.GroupLearner_1.Description
 msgctxt "BadgeDefinition.GroupLearner_1.Description"
@@ -32582,7 +32625,7 @@ msgstr ""
 #. Key: BadgeDefinition.GroupLearner_2.DisplayName
 msgctxt "BadgeDefinition.GroupLearner_2.DisplayName"
 msgid "Group Learner - Silver Trial"
-msgstr "Group Learner - Silver Trial"
+msgstr "Group Learner - 은메달 과제"
 
 #. Key: BadgeDefinition.GroupLearner_2.Description
 msgctxt "BadgeDefinition.GroupLearner_2.Description"
@@ -32592,7 +32635,7 @@ msgstr ""
 #. Key: BadgeDefinition.SoloLearner_1.DisplayName
 msgctxt "BadgeDefinition.SoloLearner_1.DisplayName"
 msgid "Solo Learner - Bronze Trial"
-msgstr "Solo Learner - Bronze Trial"
+msgstr "Solo Learner - 동메달 과제"
 
 #. Key: BadgeDefinition.SoloLearner_1.Description
 msgctxt "BadgeDefinition.SoloLearner_1.Description"
@@ -32602,7 +32645,7 @@ msgstr ""
 #. Key: BadgeDefinition.SoloLearner_2.DisplayName
 msgctxt "BadgeDefinition.SoloLearner_2.DisplayName"
 msgid "Solo Learner - Silver Trial"
-msgstr "Solo Learner - Silver Trial"
+msgstr "Solo Learner - 은메달 과제"
 
 #. Key: BadgeDefinition.SoloLearner_2.Description
 msgctxt "BadgeDefinition.SoloLearner_2.Description"
@@ -32612,7 +32655,7 @@ msgstr ""
 #. Key: BadgeDefinition.SoloLearner_3_Fire.DisplayName
 msgctxt "BadgeDefinition.SoloLearner_3_Fire.DisplayName"
 msgid "Solo Learner (Fire) - Gold Trial"
-msgstr "Solo Learner (Fire) - Gold Trial"
+msgstr "Solo Learner (Fire) - 금메달 과제"
 
 #. Key: BadgeDefinition.SoloLearner_3_Fire.Description
 msgctxt "BadgeDefinition.SoloLearner_3_Fire.Description"
@@ -32622,7 +32665,7 @@ msgstr ""
 #. Key: BadgeDefinition.SoloLearner_4_Fire.DisplayName
 msgctxt "BadgeDefinition.SoloLearner_4_Fire.DisplayName"
 msgid "Solo Learner (Fire) - Platinum Trial"
-msgstr "Solo Learner (Fire) - Platinum Trial"
+msgstr "Solo Learner (Fire) - 플래티넘 메달 과제"
 
 #. Key: BadgeDefinition.SoloLearner_4_Fire.Description
 msgctxt "BadgeDefinition.SoloLearner_4_Fire.Description"
@@ -32632,7 +32675,7 @@ msgstr ""
 #. Key: BadgeDefinition.SoloLearner_3_Water.DisplayName
 msgctxt "BadgeDefinition.SoloLearner_3_Water.DisplayName"
 msgid "Solo Learner (Water) - Gold Trial"
-msgstr "Solo Learner (Water) - Gold Trial"
+msgstr "Solo Learner (Water) - 금메달 과제"
 
 #. Key: BadgeDefinition.SoloLearner_3_Water.Description
 msgctxt "BadgeDefinition.SoloLearner_3_Water.Description"
@@ -32642,7 +32685,7 @@ msgstr ""
 #. Key: BadgeDefinition.SoloLearner_4_Water.DisplayName
 msgctxt "BadgeDefinition.SoloLearner_4_Water.DisplayName"
 msgid "Solo Learner (Water) - Platinum Trial"
-msgstr "Solo Learner (Water) - Platinum Trial"
+msgstr "Solo Learner (Water) - 플래티넘 메달 과제"
 
 #. Key: BadgeDefinition.SoloLearner_4_Water.Description
 msgctxt "BadgeDefinition.SoloLearner_4_Water.Description"
@@ -32652,7 +32695,7 @@ msgstr ""
 #. Key: BadgeDefinition.SoloLearner_3_Earth.DisplayName
 msgctxt "BadgeDefinition.SoloLearner_3_Earth.DisplayName"
 msgid "Solo Learner (Earth) - Gold Trial"
-msgstr "Solo Learner (Earth) - Gold Trial"
+msgstr "Solo Learner (Earth) - 금메달 과제"
 
 #. Key: BadgeDefinition.SoloLearner_3_Earth.Description
 msgctxt "BadgeDefinition.SoloLearner_3_Earth.Description"
@@ -32662,7 +32705,7 @@ msgstr ""
 #. Key: BadgeDefinition.SoloLearner_4_Earth.DisplayName
 msgctxt "BadgeDefinition.SoloLearner_4_Earth.DisplayName"
 msgid "Solo Learner (Earth) - Platinum Trial"
-msgstr "Solo Learner (Earth) - Platinum Trial"
+msgstr "Solo Learner (Earth) - 플래티넘 메달 과제"
 
 #. Key: BadgeDefinition.SoloLearner_4_Earth.Description
 msgctxt "BadgeDefinition.SoloLearner_4_Earth.Description"
@@ -32672,7 +32715,7 @@ msgstr ""
 #. Key: BadgeDefinition.SoloLearner_3_Air.DisplayName
 msgctxt "BadgeDefinition.SoloLearner_3_Air.DisplayName"
 msgid "Solo Learner (Air) - Gold Trial"
-msgstr "Solo Learner (Air) - Gold Trial"
+msgstr "Solo Learner (Air) - 금메달 과제"
 
 #. Key: BadgeDefinition.SoloLearner_3_Air.Description
 msgctxt "BadgeDefinition.SoloLearner_3_Air.Description"
@@ -32682,7 +32725,7 @@ msgstr ""
 #. Key: BadgeDefinition.SoloLearner_4_Air.DisplayName
 msgctxt "BadgeDefinition.SoloLearner_4_Air.DisplayName"
 msgid "Solo Learner (Air) - Platinum Trial"
-msgstr "Solo Learner (Air) - Platinum Trial"
+msgstr "Solo Learner (Air) - 플래티넘 메달 과제"
 
 #. Key: BadgeDefinition.SoloLearner_4_Air.Description
 msgctxt "BadgeDefinition.SoloLearner_4_Air.Description"
@@ -32692,7 +32735,7 @@ msgstr ""
 #. Key: BadgeDefinition.SoloLearner_3_Nature.DisplayName
 msgctxt "BadgeDefinition.SoloLearner_3_Nature.DisplayName"
 msgid "Solo Learner (Nature) - Gold Trial"
-msgstr "Solo Learner (Nature) - Gold Trial"
+msgstr "Solo Learner (Nature) - 금메달 과제"
 
 #. Key: BadgeDefinition.SoloLearner_3_Nature.Description
 msgctxt "BadgeDefinition.SoloLearner_3_Nature.Description"
@@ -32702,7 +32745,7 @@ msgstr ""
 #. Key: BadgeDefinition.SoloLearner_4_Nature.DisplayName
 msgctxt "BadgeDefinition.SoloLearner_4_Nature.DisplayName"
 msgid "Solo Learner (Nature) - Platinum Trial"
-msgstr "Solo Learner (Nature) - Platinum Trial"
+msgstr "Solo Learner (Nature) - 플래티넘 메달 과제"
 
 #. Key: BadgeDefinition.SoloLearner_4_Nature.Description
 msgctxt "BadgeDefinition.SoloLearner_4_Nature.Description"
@@ -32712,7 +32755,7 @@ msgstr ""
 #. Key: BadgeDefinition.SoloLearner_3_Dark.DisplayName
 msgctxt "BadgeDefinition.SoloLearner_3_Dark.DisplayName"
 msgid "Solo Learner (Dark) - Gold Trial"
-msgstr "Solo Learner (Dark) - Gold Trial"
+msgstr "Solo Learner (Dark) - 금메달 과제"
 
 #. Key: BadgeDefinition.SoloLearner_3_Dark.Description
 msgctxt "BadgeDefinition.SoloLearner_3_Dark.Description"
@@ -32722,7 +32765,7 @@ msgstr ""
 #. Key: BadgeDefinition.SoloLearner_4_Dark.DisplayName
 msgctxt "BadgeDefinition.SoloLearner_4_Dark.DisplayName"
 msgid "Solo Learner (Dark) - Platinum Trial"
-msgstr "Solo Learner (Dark) - Platinum Trial"
+msgstr "Solo Learner (Dark) - 플래티넘 메달 과제"
 
 #. Key: BadgeDefinition.SoloLearner_4_Dark.Description
 msgctxt "BadgeDefinition.SoloLearner_4_Dark.Description"
@@ -32732,7 +32775,7 @@ msgstr ""
 #. Key: BadgeDefinition.SoloLearner_3_Lightning.DisplayName
 msgctxt "BadgeDefinition.SoloLearner_3_Lightning.DisplayName"
 msgid "Solo Learner (Lightning) - Gold Trial"
-msgstr "Solo Learner (Lightning) - Gold Trial"
+msgstr "Solo Learner (Lightning) - 금메달 과제"
 
 #. Key: BadgeDefinition.SoloLearner_3_Lightning.Description
 msgctxt "BadgeDefinition.SoloLearner_3_Lightning.Description"
@@ -32742,7 +32785,7 @@ msgstr ""
 #. Key: BadgeDefinition.SoloLearner_4_Lightning.DisplayName
 msgctxt "BadgeDefinition.SoloLearner_4_Lightning.DisplayName"
 msgid "Solo Learner (Lightning) - Platinum Trial"
-msgstr "Solo Learner (Lightning) - Platinum Trial"
+msgstr "Solo Learner (Lightning) - 플래티넘 메달 과제"
 
 #. Key: BadgeDefinition.SoloLearner_4_Lightning.Description
 msgctxt "BadgeDefinition.SoloLearner_4_Lightning.Description"
@@ -32752,7 +32795,7 @@ msgstr ""
 #. Key: BadgeDefinition.BlissfulLearner_1.DisplayName
 msgctxt "BadgeDefinition.BlissfulLearner_1.DisplayName"
 msgid "Blissful Learner - Bronze Trial"
-msgstr "Blissful Learner - Bronze Trial"
+msgstr "Blissful Learner - 동메달 과제"
 
 #. Key: BadgeDefinition.BlissfulLearner_1.Description
 msgctxt "BadgeDefinition.BlissfulLearner_1.Description"
@@ -32762,7 +32805,7 @@ msgstr ""
 #. Key: BadgeDefinition.BlissfulLearner_2.DisplayName
 msgctxt "BadgeDefinition.BlissfulLearner_2.DisplayName"
 msgid "Blissful Learner - Silver Trial"
-msgstr "Blissful Learner - Silver Trial"
+msgstr "Blissful Learner - 은메달 과제"
 
 #. Key: BadgeDefinition.BlissfulLearner_2.Description
 msgctxt "BadgeDefinition.BlissfulLearner_2.Description"
@@ -32772,7 +32815,7 @@ msgstr ""
 #. Key: BadgeDefinition.BlissfulLearner_3_Fire.DisplayName
 msgctxt "BadgeDefinition.BlissfulLearner_3_Fire.DisplayName"
 msgid "Blissful Learner (Fire) - Gold Trial"
-msgstr "Blissful Learner (Fire) - Gold Trial"
+msgstr "Blissful Learner (Fire) - 금메달 과제"
 
 #. Key: BadgeDefinition.BlissfulLearner_3_Fire.Description
 msgctxt "BadgeDefinition.BlissfulLearner_3_Fire.Description"
@@ -32782,7 +32825,7 @@ msgstr ""
 #. Key: BadgeDefinition.BlissfulLearner_4_Fire.DisplayName
 msgctxt "BadgeDefinition.BlissfulLearner_4_Fire.DisplayName"
 msgid "Blissful Learner (Fire) - Platinum Trial"
-msgstr "Blissful Learner (Fire) - Platinum Trial"
+msgstr "Blissful Learner (Fire) - 플래티넘 메달 과제"
 
 #. Key: BadgeDefinition.BlissfulLearner_4_Fire.Description
 msgctxt "BadgeDefinition.BlissfulLearner_4_Fire.Description"
@@ -32792,7 +32835,7 @@ msgstr ""
 #. Key: BadgeDefinition.BlissfulLearner_3_Water.DisplayName
 msgctxt "BadgeDefinition.BlissfulLearner_3_Water.DisplayName"
 msgid "Blissful Learner (Water) - Gold Trial"
-msgstr "Blissful Learner (Water) - Gold Trial"
+msgstr "Blissful Learner (Water) - 금메달 과제"
 
 #. Key: BadgeDefinition.BlissfulLearner_3_Water.Description
 msgctxt "BadgeDefinition.BlissfulLearner_3_Water.Description"
@@ -32802,7 +32845,7 @@ msgstr ""
 #. Key: BadgeDefinition.BlissfulLearner_4_Water.DisplayName
 msgctxt "BadgeDefinition.BlissfulLearner_4_Water.DisplayName"
 msgid "Blissful Learner (Water) - Platinum Trial"
-msgstr "Blissful Learner (Water) - Platinum Trial"
+msgstr "Blissful Learner (Water) - 플래티넘 메달 과제"
 
 #. Key: BadgeDefinition.BlissfulLearner_4_Water.Description
 msgctxt "BadgeDefinition.BlissfulLearner_4_Water.Description"
@@ -32812,7 +32855,7 @@ msgstr ""
 #. Key: BadgeDefinition.BlissfulLearner_3_Earth.DisplayName
 msgctxt "BadgeDefinition.BlissfulLearner_3_Earth.DisplayName"
 msgid "Blissful Learner (Earth) - Gold Trial"
-msgstr "Blissful Learner (Earth) - Gold Trial"
+msgstr "Blissful Learner (Earth) - 금메달 과제"
 
 #. Key: BadgeDefinition.BlissfulLearner_3_Earth.Description
 msgctxt "BadgeDefinition.BlissfulLearner_3_Earth.Description"
@@ -32822,7 +32865,7 @@ msgstr ""
 #. Key: BadgeDefinition.BlissfulLearner_4_Earth.DisplayName
 msgctxt "BadgeDefinition.BlissfulLearner_4_Earth.DisplayName"
 msgid "Blissful Learner (Earth) - Platinum Trial"
-msgstr "Blissful Learner (Earth) - Platinum Trial"
+msgstr "Blissful Learner (Earth) - 플래티넘 메달 과제"
 
 #. Key: BadgeDefinition.BlissfulLearner_4_Earth.Description
 msgctxt "BadgeDefinition.BlissfulLearner_4_Earth.Description"
@@ -32832,7 +32875,7 @@ msgstr ""
 #. Key: BadgeDefinition.BlissfulLearner_3_Air.DisplayName
 msgctxt "BadgeDefinition.BlissfulLearner_3_Air.DisplayName"
 msgid "Blissful Learner (Air) - Gold Trial"
-msgstr "Blissful Learner (Air) - Gold Trial"
+msgstr "Blissful Learner (Air) - 금메달 과제"
 
 #. Key: BadgeDefinition.BlissfulLearner_3_Air.Description
 msgctxt "BadgeDefinition.BlissfulLearner_3_Air.Description"
@@ -32842,7 +32885,7 @@ msgstr ""
 #. Key: BadgeDefinition.BlissfulLearner_4_Air.DisplayName
 msgctxt "BadgeDefinition.BlissfulLearner_4_Air.DisplayName"
 msgid "Blissful Learner (Air) - Platinum Trial"
-msgstr "Blissful Learner (Air) - Platinum Trial"
+msgstr "Blissful Learner (Air) - 플래티넘 메달 과제"
 
 #. Key: BadgeDefinition.BlissfulLearner_4_Air.Description
 msgctxt "BadgeDefinition.BlissfulLearner_4_Air.Description"
@@ -32852,7 +32895,7 @@ msgstr ""
 #. Key: BadgeDefinition.BlissfulLearner_3_Nature.DisplayName
 msgctxt "BadgeDefinition.BlissfulLearner_3_Nature.DisplayName"
 msgid "Blissful Learner (Nature) - Gold Trial"
-msgstr "Blissful Learner (Nature) - Gold Trial"
+msgstr "Blissful Learner (Nature) - 금메달 과제"
 
 #. Key: BadgeDefinition.BlissfulLearner_3_Nature.Description
 msgctxt "BadgeDefinition.BlissfulLearner_3_Nature.Description"
@@ -32862,7 +32905,7 @@ msgstr ""
 #. Key: BadgeDefinition.BlissfulLearner_4_Nature.DisplayName
 msgctxt "BadgeDefinition.BlissfulLearner_4_Nature.DisplayName"
 msgid "Blissful Learner (Nature) - Platinum Trial"
-msgstr "Blissful Learner (Nature) - Platinum Trial"
+msgstr "Blissful Learner (Nature) - 플래티넘 메달 과제"
 
 #. Key: BadgeDefinition.BlissfulLearner_4_Nature.Description
 msgctxt "BadgeDefinition.BlissfulLearner_4_Nature.Description"
@@ -32872,7 +32915,7 @@ msgstr ""
 #. Key: BadgeDefinition.BlissfulLearner_3_Dark.DisplayName
 msgctxt "BadgeDefinition.BlissfulLearner_3_Dark.DisplayName"
 msgid "Blissful Learner (Dark) - Gold Trial"
-msgstr "Blissful Learner (Dark) - Gold Trial"
+msgstr "Blissful Learner (Dark) - 금메달 과제"
 
 #. Key: BadgeDefinition.BlissfulLearner_3_Dark.Description
 msgctxt "BadgeDefinition.BlissfulLearner_3_Dark.Description"
@@ -32882,7 +32925,7 @@ msgstr ""
 #. Key: BadgeDefinition.BlissfulLearner_4_Dark.DisplayName
 msgctxt "BadgeDefinition.BlissfulLearner_4_Dark.DisplayName"
 msgid "Blissful Learner (Dark) - Platinum Trial"
-msgstr "Blissful Learner (Dark) - Platinum Trial"
+msgstr "Blissful Learner (Dark) - 플래티넘 메달 과제"
 
 #. Key: BadgeDefinition.BlissfulLearner_4_Dark.Description
 msgctxt "BadgeDefinition.BlissfulLearner_4_Dark.Description"
@@ -32892,7 +32935,7 @@ msgstr ""
 #. Key: BadgeDefinition.BlissfulLearner_3_Lightning.DisplayName
 msgctxt "BadgeDefinition.BlissfulLearner_3_Lightning.DisplayName"
 msgid "Blissful Learner (Lightning) - Gold Trial"
-msgstr "Blissful Learner (Lightning) - Gold Trial"
+msgstr "Blissful Learner (Lightning) - 금메달 과제"
 
 #. Key: BadgeDefinition.BlissfulLearner_3_Lightning.Description
 msgctxt "BadgeDefinition.BlissfulLearner_3_Lightning.Description"
@@ -32902,7 +32945,7 @@ msgstr ""
 #. Key: BadgeDefinition.BlissfulLearner_4_Lightning.DisplayName
 msgctxt "BadgeDefinition.BlissfulLearner_4_Lightning.DisplayName"
 msgid "Blissful Learner (Lightning) - Platinum Trial"
-msgstr "Blissful Learner (Lightning) - Platinum Trial"
+msgstr "Blissful Learner (Lightning) - 플래티넘 메달 과제"
 
 #. Key: BadgeDefinition.BlissfulLearner_4_Lightning.Description
 msgctxt "BadgeDefinition.BlissfulLearner_4_Lightning.Description"
@@ -32912,7 +32955,7 @@ msgstr ""
 #. Key: BadgeDefinition.EagerToLearn_1.DisplayName
 msgctxt "BadgeDefinition.EagerToLearn_1.DisplayName"
 msgid "Eager To Learn - Bronze Trial"
-msgstr "Eager To Learn - Bronze Trial"
+msgstr "Eager To Learn - 동메달 과제"
 
 #. Key: BadgeDefinition.EagerToLearn_1.Description
 msgctxt "BadgeDefinition.EagerToLearn_1.Description"
@@ -32922,7 +32965,7 @@ msgstr ""
 #. Key: BadgeDefinition.EagerToLearn_2.DisplayName
 msgctxt "BadgeDefinition.EagerToLearn_2.DisplayName"
 msgid "Eager To Learn - Silver Trial"
-msgstr "Eager To Learn - Silver Trial"
+msgstr "Eager To Learn - 은메달 과제"
 
 #. Key: BadgeDefinition.EagerToLearn_2.Description
 msgctxt "BadgeDefinition.EagerToLearn_2.Description"
@@ -32932,7 +32975,7 @@ msgstr ""
 #. Key: BadgeDefinition.AnticipationLearn_1.DisplayName
 msgctxt "BadgeDefinition.AnticipationLearn_1.DisplayName"
 msgid "Anticipatory Learning - Bronze Trial"
-msgstr "Anticipatory Learning - Bronze Trial"
+msgstr "Anticipatory Learning - 동메달 과제"
 
 #. Key: BadgeDefinition.AnticipationLearn_1.Description
 msgctxt "BadgeDefinition.AnticipationLearn_1.Description"
@@ -32942,7 +32985,7 @@ msgstr ""
 #. Key: BadgeDefinition.AnticipationLearn_2.DisplayName
 msgctxt "BadgeDefinition.AnticipationLearn_2.DisplayName"
 msgid "Anticipatory Learning - Silver Trial"
-msgstr "Anticipatory Learning - Silver Trial"
+msgstr "Anticipatory Learning - 은메달 과제"
 
 #. Key: BadgeDefinition.AnticipationLearn_2.Description
 msgctxt "BadgeDefinition.AnticipationLearn_2.Description"
@@ -32952,7 +32995,7 @@ msgstr ""
 #. Key: BadgeDefinition.FullLearn_1.DisplayName
 msgctxt "BadgeDefinition.FullLearn_1.DisplayName"
 msgid "Full Learning - Bronze Trial"
-msgstr "Full Learning - Bronze Trial"
+msgstr "Full Learning - 동메달 과제"
 
 #. Key: BadgeDefinition.FullLearn_1.Description
 msgctxt "BadgeDefinition.FullLearn_1.Description"
@@ -32962,7 +33005,7 @@ msgstr ""
 #. Key: BadgeDefinition.FullLearn_2.DisplayName
 msgctxt "BadgeDefinition.FullLearn_2.DisplayName"
 msgid "Full Learning - Silver Trial"
-msgstr "Full Learning - Silver Trial"
+msgstr "Full Learning - 은메달 과제"
 
 #. Key: BadgeDefinition.FullLearn_2.Description
 msgctxt "BadgeDefinition.FullLearn_2.Description"
@@ -32972,7 +33015,7 @@ msgstr ""
 #. Key: BadgeDefinition.RestedLearn_1.DisplayName
 msgctxt "BadgeDefinition.RestedLearn_1.DisplayName"
 msgid "Rested Learning - Bronze Trial"
-msgstr "Rested Learning - Bronze Trial"
+msgstr "Rested Learning - 동메달 과제"
 
 #. Key: BadgeDefinition.RestedLearn_1.Description
 msgctxt "BadgeDefinition.RestedLearn_1.Description"
@@ -32982,7 +33025,7 @@ msgstr ""
 #. Key: BadgeDefinition.RestedLearn_2.DisplayName
 msgctxt "BadgeDefinition.RestedLearn_2.DisplayName"
 msgid "Rested Learning - Silver Trial"
-msgstr "Rested Learning - Silver Trial"
+msgstr "Rested Learning - 은메달 과제"
 
 #. Key: BadgeDefinition.RestedLearn_2.Description
 msgctxt "BadgeDefinition.RestedLearn_2.Description"
@@ -32992,7 +33035,7 @@ msgstr ""
 #. Key: BadgeDefinition.RitualParticipant_2a.DisplayName
 msgctxt "BadgeDefinition.RitualParticipant_2a.DisplayName"
 msgid "Ritual Participant - Silver Trial"
-msgstr "Ritual Participant - Silver Trial"
+msgstr "Ritual Participant - 은메달 과제"
 
 #. Key: BadgeDefinition.RitualParticipant_2a.Description
 msgctxt "BadgeDefinition.RitualParticipant_2a.Description"
@@ -33002,7 +33045,7 @@ msgstr ""
 #. Key: BadgeDefinition.BossSoloist_2.DisplayName
 msgctxt "BadgeDefinition.BossSoloist_2.DisplayName"
 msgid "Boss Soloist - Silver Trial"
-msgstr "Boss Soloist - Silver Trial"
+msgstr "Boss Soloist - 은메달 과제"
 
 #. Key: BadgeDefinition.BossSoloist_2.Description
 msgctxt "BadgeDefinition.BossSoloist_2.Description"
@@ -33012,7 +33055,7 @@ msgstr ""
 #. Key: BadgeDefinition.Conqueror_1.DisplayName
 msgctxt "BadgeDefinition.Conqueror_1.DisplayName"
 msgid "Conqueror - Bronze Trial"
-msgstr "Conqueror - Bronze Trial"
+msgstr "Conqueror - 동메달 과제"
 
 #. Key: BadgeDefinition.Conqueror_1.Description
 msgctxt "BadgeDefinition.Conqueror_1.Description"
@@ -33022,7 +33065,7 @@ msgstr ""
 #. Key: BadgeDefinition.EnemySoloist_1.DisplayName
 msgctxt "BadgeDefinition.EnemySoloist_1.DisplayName"
 msgid "Enemy Soloist - Bronze Trial"
-msgstr "Enemy Soloist - Bronze Trial"
+msgstr "Enemy Soloist - 동메달 과제"
 
 #. Key: BadgeDefinition.EnemySoloist_1.Description
 msgctxt "BadgeDefinition.EnemySoloist_1.Description"
@@ -33032,7 +33075,7 @@ msgstr ""
 #. Key: BadgeDefinition.EnemySoloist_2.DisplayName
 msgctxt "BadgeDefinition.EnemySoloist_2.DisplayName"
 msgid "Enemy Soloist - Silver Trial"
-msgstr "Enemy Soloist - Silver Trial"
+msgstr "Enemy Soloist - 은메달 과제"
 
 #. Key: BadgeDefinition.EnemySoloist_2.Description
 msgctxt "BadgeDefinition.EnemySoloist_2.Description"
@@ -33042,7 +33085,7 @@ msgstr ""
 #. Key: BadgeDefinition.EnemySoloist_3.DisplayName
 msgctxt "BadgeDefinition.EnemySoloist_3.DisplayName"
 msgid "Enemy Soloist - Gold Trial"
-msgstr "Enemy Soloist - Gold Trial"
+msgstr "Enemy Soloist - 금메달 과제"
 
 #. Key: BadgeDefinition.EnemySoloist_3.Description
 msgctxt "BadgeDefinition.EnemySoloist_3.Description"
@@ -33052,7 +33095,7 @@ msgstr ""
 #. Key: BadgeDefinition.EnemySoloist_4.DisplayName
 msgctxt "BadgeDefinition.EnemySoloist_4.DisplayName"
 msgid "Enemy Soloist - Platinum Trial"
-msgstr "Enemy Soloist - Platinum Trial"
+msgstr "Enemy Soloist - 플래티넘 메달 과제"
 
 #. Key: BadgeDefinition.EnemySoloist_4.Description
 msgctxt "BadgeDefinition.EnemySoloist_4.Description"
@@ -33062,7 +33105,7 @@ msgstr ""
 #. Key: BadgeDefinition.DefensiveDuelist_1.DisplayName
 msgctxt "BadgeDefinition.DefensiveDuelist_1.DisplayName"
 msgid "Defensive Duelist - Bronze Trial"
-msgstr "Defensive Duelist - Bronze Trial"
+msgstr "Defensive Duelist - 동메달 과제"
 
 #. Key: BadgeDefinition.DefensiveDuelist_1.Description
 msgctxt "BadgeDefinition.DefensiveDuelist_1.Description"
@@ -33072,7 +33115,7 @@ msgstr ""
 #. Key: BadgeDefinition.DefensiveDuelist_2.DisplayName
 msgctxt "BadgeDefinition.DefensiveDuelist_2.DisplayName"
 msgid "Defensive Duelist - Silver Trial"
-msgstr "Defensive Duelist - Silver Trial"
+msgstr "Defensive Duelist - 은메달 과제"
 
 #. Key: BadgeDefinition.DefensiveDuelist_2.Description
 msgctxt "BadgeDefinition.DefensiveDuelist_2.Description"
@@ -33082,7 +33125,7 @@ msgstr ""
 #. Key: BadgeDefinition.DefensiveDuelist_3.DisplayName
 msgctxt "BadgeDefinition.DefensiveDuelist_3.DisplayName"
 msgid "Defensive Duelist - Gold Trial"
-msgstr "Defensive Duelist - Gold Trial"
+msgstr "Defensive Duelist - 금메달 과제"
 
 #. Key: BadgeDefinition.DefensiveDuelist_3.Description
 msgctxt "BadgeDefinition.DefensiveDuelist_3.Description"
@@ -33092,7 +33135,7 @@ msgstr ""
 #. Key: BadgeDefinition.DefensiveDuelist_4.DisplayName
 msgctxt "BadgeDefinition.DefensiveDuelist_4.DisplayName"
 msgid "Defensive Duelist - Platinum Trial"
-msgstr "Defensive Duelist - Platinum Trial"
+msgstr "Defensive Duelist - 플래티넘 메달 과제"
 
 #. Key: BadgeDefinition.DefensiveDuelist_4.Description
 msgctxt "BadgeDefinition.DefensiveDuelist_4.Description"
@@ -33102,7 +33145,7 @@ msgstr ""
 #. Key: BadgeDefinition.PotionPurist_1.DisplayName
 msgctxt "BadgeDefinition.PotionPurist_1.DisplayName"
 msgid "Potion Purist - Bronze Trial"
-msgstr "Potion Purist - Bronze Trial"
+msgstr "Potion Purist - 동메달 과제"
 
 #. Key: BadgeDefinition.PotionPurist_1.Description
 msgctxt "BadgeDefinition.PotionPurist_1.Description"
@@ -33112,7 +33155,7 @@ msgstr ""
 #. Key: BadgeDefinition.PotionPurist_2.DisplayName
 msgctxt "BadgeDefinition.PotionPurist_2.DisplayName"
 msgid "Potion Purist - Silver Trial"
-msgstr "Potion Purist - Silver Trial"
+msgstr "Potion Purist - 은메달 과제"
 
 #. Key: BadgeDefinition.PotionPurist_2.Description
 msgctxt "BadgeDefinition.PotionPurist_2.Description"
@@ -33122,7 +33165,7 @@ msgstr ""
 #. Key: BadgeDefinition.PotionPurist_3.DisplayName
 msgctxt "BadgeDefinition.PotionPurist_3.DisplayName"
 msgid "Potion Purist - Gold Trial"
-msgstr "Potion Purist - Gold Trial"
+msgstr "Potion Purist - 금메달 과제"
 
 #. Key: BadgeDefinition.PotionPurist_3.Description
 msgctxt "BadgeDefinition.PotionPurist_3.Description"
@@ -33132,7 +33175,7 @@ msgstr ""
 #. Key: BadgeDefinition.PotionPurist_4.DisplayName
 msgctxt "BadgeDefinition.PotionPurist_4.DisplayName"
 msgid "Potion Purist - Platinum Trial"
-msgstr "Potion Purist - Platinum Trial"
+msgstr "Potion Purist - 플래티넘 메달 과제"
 
 #. Key: BadgeDefinition.PotionPurist_4.Description
 msgctxt "BadgeDefinition.PotionPurist_4.Description"
@@ -33142,7 +33185,7 @@ msgstr ""
 #. Key: BadgeDefinition.Champion_1.DisplayName
 msgctxt "BadgeDefinition.Champion_1.DisplayName"
 msgid "Champion - Bronze Trial"
-msgstr "Champion - Bronze Trial"
+msgstr "Champion - 동메달 과제"
 
 #. Key: BadgeDefinition.Champion_1.Description
 msgctxt "BadgeDefinition.Champion_1.Description"
@@ -33152,7 +33195,7 @@ msgstr ""
 #. Key: BadgeDefinition.Champion_2.DisplayName
 msgctxt "BadgeDefinition.Champion_2.DisplayName"
 msgid "Champion - Silver Trial"
-msgstr "Champion - Silver Trial"
+msgstr "Champion - 은메달 과제"
 
 #. Key: BadgeDefinition.Champion_2.Description
 msgctxt "BadgeDefinition.Champion_2.Description"
@@ -33162,7 +33205,7 @@ msgstr ""
 #. Key: BadgeDefinition.Champion_3.DisplayName
 msgctxt "BadgeDefinition.Champion_3.DisplayName"
 msgid "Champion - Gold Trial"
-msgstr "Champion - Gold Trial"
+msgstr "Champion - 금메달 과제"
 
 #. Key: BadgeDefinition.Champion_3.Description
 msgctxt "BadgeDefinition.Champion_3.Description"
@@ -33172,7 +33215,7 @@ msgstr ""
 #. Key: BadgeDefinition.Champion_4.DisplayName
 msgctxt "BadgeDefinition.Champion_4.DisplayName"
 msgid "Champion - Platinum Trial"
-msgstr "Champion - Platinum Trial"
+msgstr "Champion - 플래티넘 메달 과제"
 
 #. Key: BadgeDefinition.Champion_4.Description
 msgctxt "BadgeDefinition.Champion_4.Description"
@@ -33182,7 +33225,7 @@ msgstr ""
 #. Key: BadgeDefinition.Reaper_1.DisplayName
 msgctxt "BadgeDefinition.Reaper_1.DisplayName"
 msgid "Reaper - Bronze Trial"
-msgstr "Reaper - Bronze Trial"
+msgstr "Reaper - 동메달 과제"
 
 #. Key: BadgeDefinition.Reaper_1.Description
 msgctxt "BadgeDefinition.Reaper_1.Description"
@@ -33192,7 +33235,7 @@ msgstr ""
 #. Key: BadgeDefinition.Reaper_2.DisplayName
 msgctxt "BadgeDefinition.Reaper_2.DisplayName"
 msgid "Reaper - Silver Trial"
-msgstr "Reaper - Silver Trial"
+msgstr "Reaper - 은메달 과제"
 
 #. Key: BadgeDefinition.Reaper_2.Description
 msgctxt "BadgeDefinition.Reaper_2.Description"
@@ -33202,7 +33245,7 @@ msgstr ""
 #. Key: BadgeDefinition.Reaper_3.DisplayName
 msgctxt "BadgeDefinition.Reaper_3.DisplayName"
 msgid "Reaper - Gold Trial"
-msgstr "Reaper - Gold Trial"
+msgstr "Reaper - 금메달 과제"
 
 #. Key: BadgeDefinition.Reaper_3.Description
 msgctxt "BadgeDefinition.Reaper_3.Description"
@@ -33212,7 +33255,7 @@ msgstr ""
 #. Key: BadgeDefinition.Reaper_4.DisplayName
 msgctxt "BadgeDefinition.Reaper_4.DisplayName"
 msgid "Reaper - Platinum Trial"
-msgstr "Reaper - Platinum Trial"
+msgstr "Reaper - 플래티넘 메달 과제"
 
 #. Key: BadgeDefinition.Reaper_4.Description
 msgctxt "BadgeDefinition.Reaper_4.Description"
@@ -33222,7 +33265,7 @@ msgstr "4개의 두개골 전투 중에 3명의 적에게 살해 타격을 가�
 #. Key: BadgeDefinition.BlissSeeker_1.DisplayName
 msgctxt "BadgeDefinition.BlissSeeker_1.DisplayName"
 msgid "Bliss Seeker - Bronze Trial"
-msgstr "Bliss Seeker - Bronze Trial"
+msgstr "Bliss Seeker - 동메달 과제"
 
 #. Key: BadgeDefinition.BlissSeeker_1.Description
 msgctxt "BadgeDefinition.BlissSeeker_1.Description"
@@ -33232,7 +33275,7 @@ msgstr ""
 #. Key: BadgeDefinition.BlissSeeker_2.DisplayName
 msgctxt "BadgeDefinition.BlissSeeker_2.DisplayName"
 msgid "Bliss Seeker - Silver Trial"
-msgstr "Bliss Seeker - Silver Trial"
+msgstr "Bliss Seeker - 은메달 과제"
 
 #. Key: BadgeDefinition.BlissSeeker_2.Description
 msgctxt "BadgeDefinition.BlissSeeker_2.Description"
@@ -33242,7 +33285,7 @@ msgstr ""
 #. Key: BadgeDefinition.BlissSeeker_3.DisplayName
 msgctxt "BadgeDefinition.BlissSeeker_3.DisplayName"
 msgid "Bliss Seeker - Gold Trial"
-msgstr "Bliss Seeker - Gold Trial"
+msgstr "Bliss Seeker - 금메달 과제"
 
 #. Key: BadgeDefinition.BlissSeeker_3.Description
 msgctxt "BadgeDefinition.BlissSeeker_3.Description"
@@ -33252,7 +33295,7 @@ msgstr ""
 #. Key: BadgeDefinition.BlissSeeker_4.DisplayName
 msgctxt "BadgeDefinition.BlissSeeker_4.DisplayName"
 msgid "Bliss Seeker - Platinum Trial"
-msgstr "Bliss Seeker - Platinum Trial"
+msgstr "Bliss Seeker - 플래티넘 메달 과제"
 
 #. Key: BadgeDefinition.BlissSeeker_4.Description
 msgctxt "BadgeDefinition.BlissSeeker_4.Description"
@@ -33262,7 +33305,7 @@ msgstr ""
 #. Key: BadgeDefinition.RecreationFocuser_1.DisplayName
 msgctxt "BadgeDefinition.RecreationFocuser_1.DisplayName"
 msgid "Dancing Machine - Bronze Trial"
-msgstr "Dancing Machine - Bronze Trial"
+msgstr "Dancing Machine - 동메달 과제"
 
 #. Key: BadgeDefinition.RecreationFocuser_1.Description
 msgctxt "BadgeDefinition.RecreationFocuser_1.Description"
@@ -33272,7 +33315,7 @@ msgstr ""
 #. Key: BadgeDefinition.RecreationFocuser_2.DisplayName
 msgctxt "BadgeDefinition.RecreationFocuser_2.DisplayName"
 msgid "Dancing Machine - Silver Trial"
-msgstr "Dancing Machine - Silver Trial"
+msgstr "Dancing Machine - 은메달 과제"
 
 #. Key: BadgeDefinition.RecreationFocuser_2.Description
 msgctxt "BadgeDefinition.RecreationFocuser_2.Description"
@@ -33282,7 +33325,7 @@ msgstr ""
 #. Key: BadgeDefinition.RecreationFocuser_3.DisplayName
 msgctxt "BadgeDefinition.RecreationFocuser_3.DisplayName"
 msgid "Dancing Machine - Gold Trial"
-msgstr "Dancing Machine - Gold Trial"
+msgstr "Dancing Machine - 금메달 과제"
 
 #. Key: BadgeDefinition.RecreationFocuser_3.Description
 msgctxt "BadgeDefinition.RecreationFocuser_3.Description"
@@ -33292,7 +33335,7 @@ msgstr ""
 #. Key: BadgeDefinition.RecreationFocuser_4.DisplayName
 msgctxt "BadgeDefinition.RecreationFocuser_4.DisplayName"
 msgid "Dancing Machine - Platinum Trial"
-msgstr "Dancing Machine - Platinum Trial"
+msgstr "Dancing Machine - 플래티넘 메달 과제"
 
 #. Key: BadgeDefinition.RecreationFocuser_4.Description
 msgctxt "BadgeDefinition.RecreationFocuser_4.Description"
@@ -33302,7 +33345,7 @@ msgstr ""
 #. Key: BadgeDefinition.SleepFocuser_1.DisplayName
 msgctxt "BadgeDefinition.SleepFocuser_1.DisplayName"
 msgid "Sleep Focuser - Bronze Trial"
-msgstr "Sleep Focuser - Bronze Trial"
+msgstr "Sleep Focuser - 동메달 과제"
 
 #. Key: BadgeDefinition.SleepFocuser_1.Description
 msgctxt "BadgeDefinition.SleepFocuser_1.Description"
@@ -33312,7 +33355,7 @@ msgstr ""
 #. Key: BadgeDefinition.SleepFocuser_2.DisplayName
 msgctxt "BadgeDefinition.SleepFocuser_2.DisplayName"
 msgid "Sleep Focuser - Silver Trial"
-msgstr "Sleep Focuser - Silver Trial"
+msgstr "Sleep Focuser - 은메달 과제"
 
 #. Key: BadgeDefinition.SleepFocuser_2.Description
 msgctxt "BadgeDefinition.SleepFocuser_2.Description"
@@ -33322,7 +33365,7 @@ msgstr ""
 #. Key: BadgeDefinition.SleepFocuser_3.DisplayName
 msgctxt "BadgeDefinition.SleepFocuser_3.DisplayName"
 msgid "Sleep Focuser - Gold Trial"
-msgstr "Sleep Focuser - Gold Trial"
+msgstr "Sleep Focuser - 금메달 과제"
 
 #. Key: BadgeDefinition.SleepFocuser_3.Description
 msgctxt "BadgeDefinition.SleepFocuser_3.Description"
@@ -33332,7 +33375,7 @@ msgstr ""
 #. Key: BadgeDefinition.SleepFocuser_4.DisplayName
 msgctxt "BadgeDefinition.SleepFocuser_4.DisplayName"
 msgid "Sleep Focuser - Platinum Trial"
-msgstr "Sleep Focuser - Platinum Trial"
+msgstr "Sleep Focuser - 플래티넘 메달 과제"
 
 #. Key: BadgeDefinition.SleepFocuser_4.Description
 msgctxt "BadgeDefinition.SleepFocuser_4.Description"
@@ -33342,7 +33385,7 @@ msgstr ""
 #. Key: BadgeDefinition.FoodFocuser_1.DisplayName
 msgctxt "BadgeDefinition.FoodFocuser_1.DisplayName"
 msgid "Food Focuser - Bronze Trial"
-msgstr "Food Focuser - Bronze Trial"
+msgstr "Food Focuser - 동메달 과제"
 
 #. Key: BadgeDefinition.FoodFocuser_1.Description
 msgctxt "BadgeDefinition.FoodFocuser_1.Description"
@@ -33352,7 +33395,7 @@ msgstr ""
 #. Key: BadgeDefinition.FoodFocuser_2.DisplayName
 msgctxt "BadgeDefinition.FoodFocuser_2.DisplayName"
 msgid "Food Focuser - Silver Trial"
-msgstr "Food Focuser - Silver Trial"
+msgstr "Food Focuser - 은메달 과제"
 
 #. Key: BadgeDefinition.FoodFocuser_2.Description
 msgctxt "BadgeDefinition.FoodFocuser_2.Description"
@@ -33362,7 +33405,7 @@ msgstr ""
 #. Key: BadgeDefinition.FoodFocuser_3.DisplayName
 msgctxt "BadgeDefinition.FoodFocuser_3.DisplayName"
 msgid "Food Focuser - Gold Trial"
-msgstr "Food Focuser - Gold Trial"
+msgstr "Food Focuser - 금메달 과제"
 
 #. Key: BadgeDefinition.FoodFocuser_3.Description
 msgctxt "BadgeDefinition.FoodFocuser_3.Description"
@@ -33372,7 +33415,7 @@ msgstr ""
 #. Key: BadgeDefinition.FoodFocuser_4.DisplayName
 msgctxt "BadgeDefinition.FoodFocuser_4.DisplayName"
 msgid "Food Focuser - Platinum Trial"
-msgstr "Food Focuser - Platinum Trial"
+msgstr "Food Focuser - 플래티넘 메달 과제"
 
 #. Key: BadgeDefinition.FoodFocuser_4.Description
 msgctxt "BadgeDefinition.FoodFocuser_4.Description"
@@ -33382,7 +33425,7 @@ msgstr ""
 #. Key: BadgeDefinition.RestedFighter_1.DisplayName
 msgctxt "BadgeDefinition.RestedFighter_1.DisplayName"
 msgid "Rested Fighter - Bronze Trial"
-msgstr "Rested Fighter - Bronze Trial"
+msgstr "Rested Fighter - 동메달 과제"
 
 #. Key: BadgeDefinition.RestedFighter_1.Description
 msgctxt "BadgeDefinition.RestedFighter_1.Description"
@@ -33392,7 +33435,7 @@ msgstr ""
 #. Key: BadgeDefinition.RestedFighter_2.DisplayName
 msgctxt "BadgeDefinition.RestedFighter_2.DisplayName"
 msgid "Rested Fighter - Silver Trial"
-msgstr "Rested Fighter - Silver Trial"
+msgstr "Rested Fighter - 은메달 과제"
 
 #. Key: BadgeDefinition.RestedFighter_2.Description
 msgctxt "BadgeDefinition.RestedFighter_2.Description"
@@ -33402,7 +33445,7 @@ msgstr ""
 #. Key: BadgeDefinition.RestedFighter_3.DisplayName
 msgctxt "BadgeDefinition.RestedFighter_3.DisplayName"
 msgid "Rested Fighter - Gold Trial"
-msgstr "Rested Fighter - Gold Trial"
+msgstr "Rested Fighter - 금메달 과제"
 
 #. Key: BadgeDefinition.RestedFighter_3.Description
 msgctxt "BadgeDefinition.RestedFighter_3.Description"
@@ -33412,7 +33455,7 @@ msgstr ""
 #. Key: BadgeDefinition.RestedFighter_4.DisplayName
 msgctxt "BadgeDefinition.RestedFighter_4.DisplayName"
 msgid "Rested Fighter - Platinum Trial"
-msgstr "Rested Fighter - Platinum Trial"
+msgstr "Rested Fighter - 플래티넘 메달 과제"
 
 #. Key: BadgeDefinition.RestedFighter_4.Description
 msgctxt "BadgeDefinition.RestedFighter_4.Description"
@@ -33422,7 +33465,7 @@ msgstr ""
 #. Key: BadgeDefinition.FullFighter_1.DisplayName
 msgctxt "BadgeDefinition.FullFighter_1.DisplayName"
 msgid "Full Fighter - Bronze Trial"
-msgstr "Full Fighter - Bronze Trial"
+msgstr "Full Fighter - 동메달 과제"
 
 #. Key: BadgeDefinition.FullFighter_1.Description
 msgctxt "BadgeDefinition.FullFighter_1.Description"
@@ -33432,7 +33475,7 @@ msgstr ""
 #. Key: BadgeDefinition.FullFighter_2.DisplayName
 msgctxt "BadgeDefinition.FullFighter_2.DisplayName"
 msgid "Full Fighter - Silver Trial"
-msgstr "Full Fighter - Silver Trial"
+msgstr "Full Fighter - 은메달 과제"
 
 #. Key: BadgeDefinition.FullFighter_2.Description
 msgctxt "BadgeDefinition.FullFighter_2.Description"
@@ -33442,7 +33485,7 @@ msgstr ""
 #. Key: BadgeDefinition.FullFighter_3.DisplayName
 msgctxt "BadgeDefinition.FullFighter_3.DisplayName"
 msgid "Full Fighter - Gold Trial"
-msgstr "Full Fighter - Gold Trial"
+msgstr "Full Fighter - 금메달 과제"
 
 #. Key: BadgeDefinition.FullFighter_3.Description
 msgctxt "BadgeDefinition.FullFighter_3.Description"
@@ -33452,7 +33495,7 @@ msgstr ""
 #. Key: BadgeDefinition.FullFighter_4.DisplayName
 msgctxt "BadgeDefinition.FullFighter_4.DisplayName"
 msgid "Full Fighter - Platinum Trial"
-msgstr "Full Fighter - Platinum Trial"
+msgstr "Full Fighter - 플래티넘 메달 과제"
 
 #. Key: BadgeDefinition.FullFighter_4.Description
 msgctxt "BadgeDefinition.FullFighter_4.Description"
@@ -33462,7 +33505,7 @@ msgstr ""
 #. Key: BadgeDefinition.GoodDay_1.DisplayName
 msgctxt "BadgeDefinition.GoodDay_1.DisplayName"
 msgid "Great Day - Bronze Trial"
-msgstr "Great Day - Bronze Trial"
+msgstr "Great Day - 동메달 과제"
 
 #. Key: BadgeDefinition.GoodDay_1.Description
 msgctxt "BadgeDefinition.GoodDay_1.Description"
@@ -33472,7 +33515,7 @@ msgstr ""
 #. Key: BadgeDefinition.GoodDay_2.DisplayName
 msgctxt "BadgeDefinition.GoodDay_2.DisplayName"
 msgid "Great Day - Silver Trial"
-msgstr "Great Day - Silver Trial"
+msgstr "Great Day - 은메달 과제"
 
 #. Key: BadgeDefinition.GoodDay_2.Description
 msgctxt "BadgeDefinition.GoodDay_2.Description"
@@ -33482,7 +33525,7 @@ msgstr ""
 #. Key: BadgeDefinition.GoodDay_3.DisplayName
 msgctxt "BadgeDefinition.GoodDay_3.DisplayName"
 msgid "Great Day - Gold Trial"
-msgstr "Great Day - Gold Trial"
+msgstr "Great Day - 금메달 과제"
 
 #. Key: BadgeDefinition.GoodDay_3.Description
 msgctxt "BadgeDefinition.GoodDay_3.Description"
@@ -33492,7 +33535,7 @@ msgstr ""
 #. Key: BadgeDefinition.Cleaner_1.DisplayName
 msgctxt "BadgeDefinition.Cleaner_1.DisplayName"
 msgid "Neatnik - Bronze Trial"
-msgstr "Neatnik - Bronze Trial"
+msgstr "Neatnik - 동메달 과제"
 
 #. Key: BadgeDefinition.Cleaner_1.Description
 msgctxt "BadgeDefinition.Cleaner_1.Description"
@@ -33502,7 +33545,7 @@ msgstr ""
 #. Key: BadgeDefinition.Cleaner_2.DisplayName
 msgctxt "BadgeDefinition.Cleaner_2.DisplayName"
 msgid "Neatnik - Silver Trial"
-msgstr "Neatnik - Silver Trial"
+msgstr "Neatnik - 은메달 과제"
 
 #. Key: BadgeDefinition.Cleaner_2.Description
 msgctxt "BadgeDefinition.Cleaner_2.Description"
@@ -33512,7 +33555,7 @@ msgstr ""
 #. Key: BadgeDefinition.Cleaner_3.DisplayName
 msgctxt "BadgeDefinition.Cleaner_3.DisplayName"
 msgid "Neatnik - Gold Trial"
-msgstr "Neatnik - Gold Trial"
+msgstr "Neatnik - 금메달 과제"
 
 #. Key: BadgeDefinition.Cleaner_3.Description
 msgctxt "BadgeDefinition.Cleaner_3.Description"
@@ -33522,7 +33565,7 @@ msgstr ""
 #. Key: BadgeDefinition.Cleaner_4.DisplayName
 msgctxt "BadgeDefinition.Cleaner_4.DisplayName"
 msgid "Neatnik - Platinum Trial"
-msgstr "Neatnik - Platinum Trial"
+msgstr "Neatnik - 플래티넘 메달 과제"
 
 #. Key: BadgeDefinition.Cleaner_4.Description
 msgctxt "BadgeDefinition.Cleaner_4.Description"
@@ -33532,7 +33575,7 @@ msgstr ""
 #. Key: BadgeDefinition.CreatureComforter_1.DisplayName
 msgctxt "BadgeDefinition.CreatureComforter_1.DisplayName"
 msgid "Creature Comforter - Bronze Trial"
-msgstr "Creature Comforter - Bronze Trial"
+msgstr "Creature Comforter - 동메달 과제"
 
 #. Key: BadgeDefinition.CreatureComforter_1.Description
 msgctxt "BadgeDefinition.CreatureComforter_1.Description"
@@ -33542,7 +33585,7 @@ msgstr ""
 #. Key: BadgeDefinition.CreatureComforter_2.DisplayName
 msgctxt "BadgeDefinition.CreatureComforter_2.DisplayName"
 msgid "Creature Comforter - Silver Trial"
-msgstr "Creature Comforter - Silver Trial"
+msgstr "Creature Comforter - 은메달 과제"
 
 #. Key: BadgeDefinition.CreatureComforter_2.Description
 msgctxt "BadgeDefinition.CreatureComforter_2.Description"
@@ -33552,7 +33595,7 @@ msgstr ""
 #. Key: BadgeDefinition.CreatureComforter_3.DisplayName
 msgctxt "BadgeDefinition.CreatureComforter_3.DisplayName"
 msgid "Creature Comforter - Gold Trial"
-msgstr "Creature Comforter - Gold Trial"
+msgstr "Creature Comforter - 금메달 과제"
 
 #. Key: BadgeDefinition.CreatureComforter_3.Description
 msgctxt "BadgeDefinition.CreatureComforter_3.Description"
@@ -33562,7 +33605,7 @@ msgstr ""
 #. Key: BadgeDefinition.CreatureComforter_4.DisplayName
 msgctxt "BadgeDefinition.CreatureComforter_4.DisplayName"
 msgid "Creature Comforter - Platinum Trial"
-msgstr "Creature Comforter - Platinum Trial"
+msgstr "Creature Comforter - 플래티넘 메달 과제"
 
 #. Key: BadgeDefinition.CreatureComforter_4.Description
 msgctxt "BadgeDefinition.CreatureComforter_4.Description"
@@ -33572,7 +33615,7 @@ msgstr ""
 #. Key: BadgeDefinition.Charger_1.DisplayName
 msgctxt "BadgeDefinition.Charger_1.DisplayName"
 msgid "Charger - Bronze Trial"
-msgstr "Charger - Bronze Trial"
+msgstr "Charger - 동메달 과제"
 
 #. Key: BadgeDefinition.Charger_1.Description
 msgctxt "BadgeDefinition.Charger_1.Description"
@@ -33582,7 +33625,7 @@ msgstr ""
 #. Key: BadgeDefinition.Charger_2.DisplayName
 msgctxt "BadgeDefinition.Charger_2.DisplayName"
 msgid "Charger - Silver Trial"
-msgstr "Charger - Silver Trial"
+msgstr "Charger - 은메달 과제"
 
 #. Key: BadgeDefinition.Charger_2.Description
 msgctxt "BadgeDefinition.Charger_2.Description"
@@ -33592,7 +33635,7 @@ msgstr ""
 #. Key: BadgeDefinition.Charger_3.DisplayName
 msgctxt "BadgeDefinition.Charger_3.DisplayName"
 msgid "Charger - Gold Trial"
-msgstr "Charger - Gold Trial"
+msgstr "Charger - 금메달 과제"
 
 #. Key: BadgeDefinition.Charger_3.Description
 msgctxt "BadgeDefinition.Charger_3.Description"
@@ -33602,7 +33645,7 @@ msgstr ""
 #. Key: BadgeDefinition.Charger_4.DisplayName
 msgctxt "BadgeDefinition.Charger_4.DisplayName"
 msgid "Charger - Platinum Trial"
-msgstr "Charger - Platinum Trial"
+msgstr "Charger - 플래티넘 메달 과제"
 
 #. Key: BadgeDefinition.Charger_4.Description
 msgctxt "BadgeDefinition.Charger_4.Description"
@@ -33612,7 +33655,7 @@ msgstr ""
 #. Key: BadgeDefinition.Destroyer_1.DisplayName
 msgctxt "BadgeDefinition.Destroyer_1.DisplayName"
 msgid "Pyromania - Bronze Trial"
-msgstr "Pyromania - Bronze Trial"
+msgstr "Pyromania - 동메달 과제"
 
 #. Key: BadgeDefinition.Destroyer_1.Description
 msgctxt "BadgeDefinition.Destroyer_1.Description"
@@ -33622,7 +33665,7 @@ msgstr "물체 3개를 파괴합니다."
 #. Key: BadgeDefinition.Destroyer_2.DisplayName
 msgctxt "BadgeDefinition.Destroyer_2.DisplayName"
 msgid "Pyromania - Silver Trial"
-msgstr "Pyromania - Silver Trial"
+msgstr "Pyromania - 은메달 과제"
 
 #. Key: BadgeDefinition.Destroyer_2.Description
 msgctxt "BadgeDefinition.Destroyer_2.Description"
@@ -33632,7 +33675,7 @@ msgstr "물체 15개를 파괴합니다."
 #. Key: BadgeDefinition.Destroyer_3.DisplayName
 msgctxt "BadgeDefinition.Destroyer_3.DisplayName"
 msgid "Pyromania - Gold Trial"
-msgstr "Pyromania - Gold Trial"
+msgstr "Pyromania - 금메달 과제"
 
 #. Key: BadgeDefinition.Destroyer_3.Description
 msgctxt "BadgeDefinition.Destroyer_3.Description"
@@ -33642,7 +33685,7 @@ msgstr "물체 40개를 파괴합니다."
 #. Key: BadgeDefinition.Destroyer_4.DisplayName
 msgctxt "BadgeDefinition.Destroyer_4.DisplayName"
 msgid "Pyromania - Platinum Trial"
-msgstr "Pyromania - Platinum Trial"
+msgstr "Pyromania - 플래티넘 메달 과제"
 
 #. Key: BadgeDefinition.Destroyer_4.Description
 msgctxt "BadgeDefinition.Destroyer_4.Description"
