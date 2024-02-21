@@ -9,7 +9,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.4.2\n"
+"X-Generator: Poedit 2.4.2\n"
 
 #. Key: Archetype.CroaNest.DescriptionConfig.0.DisplayName
 msgctxt "Archetype.CroaNest.DescriptionConfig.0.DisplayName"
@@ -644,12 +644,12 @@ msgstr "공격 대기 중"
 #. Key: Archetype.Psycrow.DescriptionConfig.0.DisplayName
 msgctxt "Archetype.Psycrow.DescriptionConfig.0.DisplayName"
 msgid "Burrower Larva"
-msgstr "버로워 애벌레는"
+msgstr "버로워 라바"
 
 #. Key: Archetype.Psycrow.DescriptionConfig.0.Description
 msgctxt "Archetype.Psycrow.DescriptionConfig.0.Description"
 msgid "A Fire Underlord. Spits fire at its foes, sometimes while protecting itself from harm."
-msgstr "A Fire Underlord. 적에게 불을 뱉고 때로는 해를 입지 않도록 보호합니다."
+msgstr "불꽃 속성의 지하군주입니다. 적에게 불을 뱉고, 때로는 피해를 방어하며 숨습니다."
 
 #. Key: Archetype.Psycrow.DescriptionConfig.0.FlavorText
 msgctxt "Archetype.Psycrow.DescriptionConfig.0.FlavorText"
@@ -12261,22 +12261,22 @@ msgstr "수리"
 #. Key: Archetype.Helper_PickupSpell.Configs.0-638169753642673635.DisplayName
 msgctxt "Archetype.Helper_PickupSpell.Configs.0-638169753642673635.DisplayName"
 msgid "Pick Up"
-msgstr ""
+msgstr "줍기"
 
 #. Key: Archetype.Helper_PickupSpell.Configs.0-638169753642673635.Description
 msgctxt "Archetype.Helper_PickupSpell.Configs.0-638169753642673635.Description"
 msgid "Pick Up"
-msgstr ""
+msgstr "줍기"
 
 #. Key: Archetype.Helper_PutdownSpell.Configs.0-638182820160321233.DisplayName
 msgctxt "Archetype.Helper_PutdownSpell.Configs.0-638182820160321233.DisplayName"
 msgid "Pick Up"
-msgstr ""
+msgstr "줍기"
 
 #. Key: Archetype.Helper_PutdownSpell.Configs.0-638182820160321233.Description
 msgctxt "Archetype.Helper_PutdownSpell.Configs.0-638182820160321233.Description"
 msgid "Pick Up"
-msgstr ""
+msgstr "줍기"
 
 #. Key: Archetype.Vine_AttackSpell_Entity.DescriptionConfig.0.DisplayName
 msgctxt "Archetype.Vine_AttackSpell_Entity.DescriptionConfig.0.DisplayName"
@@ -12291,57 +12291,57 @@ msgstr "덩굴 채찍"
 #. Key: Archetype.MinesCreature_03_Cast.Configs.0-638357415802519146.DisplayName
 msgctxt "Archetype.MinesCreature_03_Cast.Configs.0-638357415802519146.DisplayName"
 msgid "Push"
-msgstr ""
+msgstr "밀기"
 
 #. Key: Archetype.Fire_EmberGolem_Entity.DescriptionConfig.0.DisplayName
 msgctxt "Archetype.Fire_EmberGolem_Entity.DescriptionConfig.0.DisplayName"
 msgid "Flare"
-msgstr ""
+msgstr "플레어"
 
 #. Key: Archetype.Fire_EmberGolem_Entity.DescriptionConfig.0.Description
 msgctxt "Archetype.Fire_EmberGolem_Entity.DescriptionConfig.0.Description"
 msgid "Flare"
-msgstr ""
+msgstr "플레어"
 
 #. Key: Archetype.AirFly_AttackSpell_Cast.DescriptionConfig.0.DisplayName
 msgctxt "Archetype.AirFly_AttackSpell_Cast.DescriptionConfig.0.DisplayName"
 msgid "Flap"
-msgstr ""
+msgstr "플랩"
 
 #. Key: Archetype.TombsCreature_01_Projectile.Configs.0-638357415802669238.DisplayName
 msgctxt "Archetype.TombsCreature_01_Projectile.Configs.0-638357415802669238.DisplayName"
 msgid "Spray"
-msgstr ""
+msgstr "뿌리기"
 
 #. Key: Archetype.TombsCreature_01_Projectile.Configs.0-638357415802669238.Description
 msgctxt "Archetype.TombsCreature_01_Projectile.Configs.0-638357415802669238.Description"
 msgid "Spray"
-msgstr ""
+msgstr "뿌리기"
 
 #. Key: Archetype.Lightning_LightningDog_Entity.DescriptionConfig.0.DisplayName
 msgctxt "Archetype.Lightning_LightningDog_Entity.DescriptionConfig.0.DisplayName"
 msgid "Shine"
-msgstr ""
+msgstr "빛내기"
 
 #. Key: Archetype.Lightning_LightningDog_Entity.DescriptionConfig.0.Description
 msgctxt "Archetype.Lightning_LightningDog_Entity.DescriptionConfig.0.Description"
 msgid "Shine"
-msgstr ""
+msgstr "빛내기"
 
 #. Key: Archetype.HallowedOne_AttackSpell.Configs.0-638169753642872972.DisplayName
 msgctxt "Archetype.HallowedOne_AttackSpell.Configs.0-638169753642872972.DisplayName"
 msgid "Wave"
-msgstr ""
+msgstr "웨이브"
 
 #. Key: Archetype.HallowedOne_AttackSpell.Configs.0-638169753642872972.Description
 msgctxt "Archetype.HallowedOne_AttackSpell.Configs.0-638169753642872972.Description"
 msgid "Wave"
-msgstr ""
+msgstr "웨이브"
 
 #. Key: Archetype.Potion_Rejuvenate.Configs.0-638270141975322835.DisplayName
 msgctxt "Archetype.Potion_Rejuvenate.Configs.0-638270141975322835.DisplayName"
 msgid "Rejuvenate"
-msgstr ""
+msgstr "체력 회복"
 
 #. Key: Archetype.Snaptrap_Spell.DescriptionConfig.0.DisplayName
 msgctxt "Archetype.Snaptrap_Spell.DescriptionConfig.0.DisplayName"
@@ -12376,12 +12376,12 @@ msgstr ""
 #. Key: Archetype.ScarecroaSpell.Configs.0-638345097736142391.DisplayName
 msgctxt "Archetype.ScarecroaSpell.Configs.0-638345097736142391.DisplayName"
 msgid "Scarecroa"
-msgstr ""
+msgstr "크로아비"
 
 #. Key: SpellConfig.Air_Dualstrike1_Config.DisplayName
 msgctxt "SpellConfig.Air_Dualstrike1_Config.DisplayName"
 msgid "Multistrike I"
-msgstr ""
+msgstr "다중 공격 I"
 
 #. Key: SpellConfig.Air_Dualstrike1_Config.Description
 msgctxt "SpellConfig.Air_Dualstrike1_Config.Description"
@@ -12391,17 +12391,17 @@ msgstr "하나의 적을 두 번 공격합니다."
 #. Key: SpellConfig.Air_ShieldOfWind1_Config.DisplayName
 msgctxt "SpellConfig.Air_ShieldOfWind1_Config.DisplayName"
 msgid "Shield of Wind I"
-msgstr ""
+msgstr "바람 방패 I"
 
 #. Key: SpellConfig.Air_ShieldOfWind1_Config.Description
 msgctxt "SpellConfig.Air_ShieldOfWind1_Config.Description"
 msgid "Adds <slink=Shield> 1 to the targeted ally."
-msgstr ""
+msgstr "대상 아군에게 <slink=Shield> 1을 부여합니다."
 
 #. Key: SpellConfig.Air_Dualstrike2_Config.DisplayName
 msgctxt "SpellConfig.Air_Dualstrike2_Config.DisplayName"
 msgid "Multistrike II"
-msgstr ""
+msgstr "다중 공격 II"
 
 #. Key: SpellConfig.Air_Dualstrike2_Config.Description
 msgctxt "SpellConfig.Air_Dualstrike2_Config.Description"
@@ -12411,52 +12411,52 @@ msgstr "하나의 적을 세 번 공격합니다."
 #. Key: SpellConfig.Air_Haste1_Config.DisplayName
 msgctxt "SpellConfig.Air_Haste1_Config.DisplayName"
 msgid "Haste I"
-msgstr ""
+msgstr "가속 I"
 
 #. Key: SpellConfig.Air_Haste1_Config.Description
 msgctxt "SpellConfig.Air_Haste1_Config.Description"
 msgid "Adds <slink=Character_Fast> to an ally for 2 rounds."
-msgstr ""
+msgstr "아군 하나에게 <slink=Character_Fast> 상태를 2라운드 동안 부여합니다."
 
 #. Key: SpellConfig.Air_ShieldOfWind2_Config.DisplayName
 msgctxt "SpellConfig.Air_ShieldOfWind2_Config.DisplayName"
 msgid "Shield of Wind II"
-msgstr ""
+msgstr "바람 방패 II"
 
 #. Key: SpellConfig.Air_ShieldOfWind2_Config.Description
 msgctxt "SpellConfig.Air_ShieldOfWind2_Config.Description"
 msgid "Adds <slink=Shield> 1 to allies in the targeted row."
-msgstr ""
+msgstr "대상 열의 모든 아군에게 <slink=Shield> 1을 부여합니다."
 
 #. Key: SpellConfig.Air_Haste2_Config.DisplayName
 msgctxt "SpellConfig.Air_Haste2_Config.DisplayName"
 msgid "Haste II"
-msgstr ""
+msgstr "가속 II"
 
 #. Key: SpellConfig.Air_Haste2_Config.Description
 msgctxt "SpellConfig.Air_Haste2_Config.Description"
 msgid "Adds <slink=Character_Fast> to allies in the targeted row for 2 rounds."
-msgstr ""
+msgstr "대상 열의 모든 아군에게 <slink=Character_Fast> 상태를 2라운드 동안 부여합니다."
 
 #. Key: SpellConfig.Air_ShieldOfWind3_Config.DisplayName
 msgctxt "SpellConfig.Air_ShieldOfWind3_Config.DisplayName"
 msgid "Shield of Wind III"
-msgstr ""
+msgstr "바람 방패 III"
 
 #. Key: SpellConfig.Air_ShieldOfWind3_Config.Description
 msgctxt "SpellConfig.Air_ShieldOfWind3_Config.Description"
 msgid "Adds <slink=Shield> 1 to all allies."
-msgstr ""
+msgstr "모든 아군에게 <slink=Shield> 1을 부여합니다."
 
 #. Key: SpellConfig.Air_WhirlwindStrike_Config.DisplayName
 msgctxt "SpellConfig.Air_WhirlwindStrike_Config.DisplayName"
 msgid "Whirlwind Strike"
-msgstr ""
+msgstr "회오리 공격"
 
 #. Key: SpellConfig.Air_WhirlwindStrike_Config.Description
 msgctxt "SpellConfig.Air_WhirlwindStrike_Config.Description"
 msgid "Attacks an enemy ten times."
-msgstr ""
+msgstr "적 하나를 열 번 공격합니다."
 
 #. Key: SpellConfig.Dark_TentacleLash1_Config.DisplayName
 msgctxt "SpellConfig.Dark_TentacleLash1_Config.DisplayName"
@@ -12466,17 +12466,17 @@ msgstr "촉수 채찍 I"
 #. Key: SpellConfig.Dark_TentacleLash1_Config.Description
 msgctxt "SpellConfig.Dark_TentacleLash1_Config.Description"
 msgid "Attacks an enemy. Deals +20 damage when attacking from <slink=Dark_ShadowCloak>."
-msgstr ""
+msgstr "적 하나를 공격합니다. <slink=Dark_ShadowCloak> 상태에서 공격 시 +20 데미지를 가합니다."
 
 #. Key: SpellConfig.Dark_ShadowCloak1_Config.DisplayName
 msgctxt "SpellConfig.Dark_ShadowCloak1_Config.DisplayName"
 msgid "Shadow Cloak I"
-msgstr ""
+msgstr "그림자 망토 I"
 
 #. Key: SpellConfig.Dark_ShadowCloak1_Config.Description
 msgctxt "SpellConfig.Dark_ShadowCloak1_Config.Description"
 msgid "Adds <slink=Dark_ShadowCloak> to an allied position for 2 rounds."
-msgstr ""
+msgstr "아군 위치 하나에 <slink=Dark_ShadowCloak> 상태를 2라운드 동안 부여합니다."
 
 #. Key: SpellConfig.Dark_TentacleLash2_Config.DisplayName
 msgctxt "SpellConfig.Dark_TentacleLash2_Config.DisplayName"
@@ -12486,12 +12486,12 @@ msgstr "촉수 채찍 II"
 #. Key: SpellConfig.Dark_TentacleLash2_Config.Description
 msgctxt "SpellConfig.Dark_TentacleLash2_Config.Description"
 msgid "Attacks an enemy. Deals +40 damage when attacking from <slink=Dark_ShadowCloak>."
-msgstr ""
+msgstr "적 하나를 공격합니다. <slink=Dark_ShadowCloak> 상태에서 공격 시 +40 데미지를 가합니다."
 
 #. Key: SpellConfig.Dark_Miasma1_Config.DisplayName
 msgctxt "SpellConfig.Dark_Miasma1_Config.DisplayName"
 msgid "Miasma I"
-msgstr ""
+msgstr "경련 I"
 
 #. Key: SpellConfig.Dark_Miasma1_Config.Description
 msgctxt "SpellConfig.Dark_Miasma1_Config.Description"
@@ -12501,17 +12501,17 @@ msgstr "모든 적을 공격합니다."
 #. Key: SpellConfig.Dark_ShadowCloak2_Config.DisplayName
 msgctxt "SpellConfig.Dark_ShadowCloak2_Config.DisplayName"
 msgid "Shadow Cloak II"
-msgstr ""
+msgstr "그림자 망토 II"
 
 #. Key: SpellConfig.Dark_ShadowCloak2_Config.Description
 msgctxt "SpellConfig.Dark_ShadowCloak2_Config.Description"
 msgid "Adds <slink=Dark_ShadowCloak> to an allied position for 3 rounds."
-msgstr ""
+msgstr "아군 위치 하나에 <slink=Dark_ShadowCloak> 상태를 3라운드 동안 부여합니다."
 
 #. Key: SpellConfig.Dark_Miasma2_Config.DisplayName
 msgctxt "SpellConfig.Dark_Miasma2_Config.DisplayName"
 msgid "Miasma II"
-msgstr ""
+msgstr "경련 II"
 
 #. Key: SpellConfig.Dark_Miasma2_Config.Description
 msgctxt "SpellConfig.Dark_Miasma2_Config.Description"
@@ -12526,22 +12526,22 @@ msgstr "촉수 채찍 III"
 #. Key: SpellConfig.Dark_TentacleLash3_Config.Description
 msgctxt "SpellConfig.Dark_TentacleLash3_Config.Description"
 msgid "Attacks an enemy. Deals +60 damage when attacking from <slink=Dark_ShadowCloak>."
-msgstr ""
+msgstr "적 하나를 공격합니다. <slink=Dark_ShadowCloak> 상태에서 공격 시 +60 데미지를 가합니다."
 
 #. Key: SpellConfig.Dark_Oblivion_Config.DisplayName
 msgctxt "SpellConfig.Dark_Oblivion_Config.DisplayName"
 msgid "Oblivion"
-msgstr ""
+msgstr "망각"
 
 #. Key: SpellConfig.Dark_Oblivion_Config.Description
 msgctxt "SpellConfig.Dark_Oblivion_Config.Description"
 msgid "Attacks all enemies. Deals triple damage when attacking from <slink=Dark_ShadowCloak>."
-msgstr ""
+msgstr "모든 적을 동시에 공격합니다. <slink=Dark_ShadowCloak> 상태에서 공격 시 세 배의 데미지를 가합니다."
 
 #. Key: SpellConfig.Dark_Miasma3_Config.DisplayName
 msgctxt "SpellConfig.Dark_Miasma3_Config.DisplayName"
 msgid "Miasma III"
-msgstr ""
+msgstr "경련 III"
 
 #. Key: SpellConfig.Dark_Miasma3_Config.Description
 msgctxt "SpellConfig.Dark_Miasma3_Config.Description"
@@ -12551,157 +12551,157 @@ msgstr "모든 적을 공격합니다."
 #. Key: SpellConfig.Earth_Smash1_Config.DisplayName
 msgctxt "SpellConfig.Earth_Smash1_Config.DisplayName"
 msgid "Smash I"
-msgstr ""
+msgstr "바위던지기 I"
 
 #. Key: SpellConfig.Earth_Smash1_Config.Description
 msgctxt "SpellConfig.Earth_Smash1_Config.Description"
 msgid "Attacks an enemy. Deals +10 damage when at full <slink=HP>."
-msgstr ""
+msgstr "적 하나를 공격합니다. <slink=HP>가 다 차 있을 때 +10 데미지를 가합니다."
 
 #. Key: SpellConfig.Earth_EarthArmor1_Config.DisplayName
 msgctxt "SpellConfig.Earth_EarthArmor1_Config.DisplayName"
 msgid "Earth Armor I"
-msgstr ""
+msgstr "대지 갑옷 I"
 
 #. Key: SpellConfig.Earth_EarthArmor1_Config.Description
 msgctxt "SpellConfig.Earth_EarthArmor1_Config.Description"
 msgid "Adds 60 <slink=TempHP> and <slink=Taunt> 2 to the caster."
-msgstr ""
+msgstr "자신에게 60 <slink=TempHP>와 <slink=Taunt> 2를 부여합니다."
 
 #. Key: SpellConfig.Earth_Smash2_Config.DisplayName
 msgctxt "SpellConfig.Earth_Smash2_Config.DisplayName"
 msgid "Smash II"
-msgstr ""
+msgstr "바위던지기 II"
 
 #. Key: SpellConfig.Earth_Smash2_Config.Description
 msgctxt "SpellConfig.Earth_Smash2_Config.Description"
 msgid "Attacks an enemy. Deals +20 damage when at full <slink=HP>."
-msgstr ""
+msgstr "적 하나를 공격합니다. <slink=HP>가 다 차 있을 때 +20 데미지를 가합니다."
 
 #. Key: SpellConfig.Earth_EarthArmor2_Config.DisplayName
 msgctxt "SpellConfig.Earth_EarthArmor2_Config.DisplayName"
 msgid "Earth Armor II"
-msgstr ""
+msgstr "대지 갑옷 II"
 
 #. Key: SpellConfig.Earth_EarthArmor2_Config.Description
 msgctxt "SpellConfig.Earth_EarthArmor2_Config.Description"
 msgid "Adds 120 <slink=TempHP> and <slink=Taunt> 3 to the caster."
-msgstr ""
+msgstr "자신에게 120 <slink=TempHP>와 <slink=Taunt> 3을 부여합니다."
 
 #. Key: SpellConfig.Earth_Quake1_Config.DisplayName
 msgctxt "SpellConfig.Earth_Quake1_Config.DisplayName"
 msgid "Quake I"
-msgstr ""
+msgstr "지진 I"
 
 #. Key: SpellConfig.Earth_Quake1_Config.Description
 msgctxt "SpellConfig.Earth_Quake1_Config.Description"
 msgid "Attacks the frontmost row of enemies. Deals +30 damage when at full <slink=HP>."
-msgstr ""
+msgstr "전열의 모든 적을 공격합니다. <slink=HP>가 다 차 있을 때 +30 데미지를 가합니다."
 
 #. Key: SpellConfig.Earth_Smash3_Config.DisplayName
 msgctxt "SpellConfig.Earth_Smash3_Config.DisplayName"
 msgid "Smash III"
-msgstr ""
+msgstr "바위던지기 III"
 
 #. Key: SpellConfig.Earth_Smash3_Config.Description
 msgctxt "SpellConfig.Earth_Smash3_Config.Description"
 msgid "Attacks an enemy. Deals +40 damage when at full <slink=HP>."
-msgstr ""
+msgstr "적 하나를 공격합니다. <slink=HP>가 다 차 있을 때 +40 데미지를 가합니다."
 
 #. Key: SpellConfig.Earth_Quake2_Config.DisplayName
 msgctxt "SpellConfig.Earth_Quake2_Config.DisplayName"
 msgid "Quake II"
-msgstr ""
+msgstr "지진 II"
 
 #. Key: SpellConfig.Earth_Quake2_Config.Description
 msgctxt "SpellConfig.Earth_Quake2_Config.Description"
 msgid "Attacks the frontmost row of enemies. Deals +60 damage when at full <slink=HP>."
-msgstr ""
+msgstr "전열의 모든 적을 공격합니다. <slink=HP>가 다 차 있을 때 +60 데미지를 가합니다."
 
 #. Key: SpellConfig.Earth_Stonecage_Config.DisplayName
 msgctxt "SpellConfig.Earth_Stonecage_Config.DisplayName"
 msgid "Stonecage"
-msgstr ""
+msgstr "돌감옥"
 
 #. Key: SpellConfig.Earth_Stonecage_Config.Description
 msgctxt "SpellConfig.Earth_Stonecage_Config.Description"
 msgid "Attacks an enemy. Adds 50 <slink=TempHP> and <slink=Taunt> 3 to the caster."
-msgstr ""
+msgstr "적 하나를 공격합니다. 자신에게 50 <slink=TempHP>와 <slink=Taunt> 3을 부여합니다."
 
 #. Key: SpellConfig.Fire_Fireball1_Config.DisplayName
 msgctxt "SpellConfig.Fire_Fireball1_Config.DisplayName"
 msgid "Fireball I"
-msgstr ""
+msgstr "화염구 I"
 
 #. Key: SpellConfig.Fire_Fireball1_Config.Description
 msgctxt "SpellConfig.Fire_Fireball1_Config.Description"
 msgid "Attacks an enemy. 50% <slink=CriticalHit> chance."
-msgstr ""
+msgstr "적 하나를 공격합니다. 50%의 <slink=CriticalHit> 확률이 있습니다."
 
 #. Key: SpellConfig.Fire_Vengeance1_Config.DisplayName
 msgctxt "SpellConfig.Fire_Vengeance1_Config.DisplayName"
 msgid "Vengeance I"
-msgstr ""
+msgstr "복수 I"
 
 #. Key: SpellConfig.Fire_Vengeance1_Config.Description
 msgctxt "SpellConfig.Fire_Vengeance1_Config.Description"
 msgid "Adds <slink=Retaliate> 15 to allies in the targeted row."
-msgstr ""
+msgstr "대상 열의 모든 아군에게 <slink=Retaliate> 15를 부여합니다."
 
 #. Key: SpellConfig.Fire_Fireball2_Config.DisplayName
 msgctxt "SpellConfig.Fire_Fireball2_Config.DisplayName"
 msgid "Fireball II"
-msgstr ""
+msgstr "화염구 II"
 
 #. Key: SpellConfig.Fire_Fireball2_Config.Description
 msgctxt "SpellConfig.Fire_Fireball2_Config.Description"
 msgid "Attacks an enemy. 50% <slink=CriticalHit> chance."
-msgstr ""
+msgstr "적 하나를 공격합니다. 50%의 <slink=CriticalHit> 확률이 있습니다."
 
 #. Key: SpellConfig.Fire_FlameLash1_Config.DisplayName
 msgctxt "SpellConfig.Fire_FlameLash1_Config.DisplayName"
 msgid "Flame Lash I"
-msgstr ""
+msgstr "불꽃 채찍 I"
 
 #. Key: SpellConfig.Fire_FlameLash1_Config.Description
 msgctxt "SpellConfig.Fire_FlameLash1_Config.Description"
 msgid "Attacks an enemy. Spends half of the caster's mana and deals twice that much damage."
-msgstr ""
+msgstr "적 하나를 공격합니다. 자신의 마나 절반을 소모해 그 두 배의 데미지를 입힙니다."
 
 #. Key: SpellConfig.Fire_Fireball3_Config.DisplayName
 msgctxt "SpellConfig.Fire_Fireball3_Config.DisplayName"
 msgid "Fireball III"
-msgstr ""
+msgstr "화염구 III"
 
 #. Key: SpellConfig.Fire_Fireball3_Config.Description
 msgctxt "SpellConfig.Fire_Fireball3_Config.Description"
 msgid "Attacks an enemy. 50% <slink=CriticalHit> chance."
-msgstr ""
+msgstr "적 하나를 공격합니다. 50%의 <slink=CriticalHit> 확률이 있습니다."
 
 #. Key: SpellConfig.Fire_Vengeance2_Config.DisplayName
 msgctxt "SpellConfig.Fire_Vengeance2_Config.DisplayName"
 msgid "Vengeance II"
-msgstr ""
+msgstr "복수 I"
 
 #. Key: SpellConfig.Fire_Vengeance2_Config.Description
 msgctxt "SpellConfig.Fire_Vengeance2_Config.Description"
 msgid "Adds <slink=Retaliate> 30 to allies in the targeted row."
-msgstr ""
+msgstr "대상 열의 모든 아군에게 <slink=Retaliate> 30을 부여합니다."
 
 #. Key: SpellConfig.Fire_FlameLash2_Config.DisplayName
 msgctxt "SpellConfig.Fire_FlameLash2_Config.DisplayName"
 msgid "Flame Lash II"
-msgstr ""
+msgstr "불꽃 채찍 II"
 
 #. Key: SpellConfig.Fire_FlameLash2_Config.Description
 msgctxt "SpellConfig.Fire_FlameLash2_Config.Description"
 msgid "Attacks an enemy. Spends half of the caster's mana and deals triple that much damage."
-msgstr ""
+msgstr "적 하나를 공격합니다. 자신의 마나 절반을 소모해 그 두 배의 데미지를 입힙니다."
 
 #. Key: SpellConfig.Fire_Inferno_Config.DisplayName
 msgctxt "SpellConfig.Fire_Inferno_Config.DisplayName"
 msgid "Inferno"
-msgstr ""
+msgstr "지옥불"
 
 #. Key: SpellConfig.Fire_Inferno_Config.Description
 msgctxt "SpellConfig.Fire_Inferno_Config.Description"
@@ -12711,82 +12711,82 @@ msgstr "모든 적을 공격합니다."
 #. Key: SpellConfig.Lightning_Bolt1_Config.DisplayName
 msgctxt "SpellConfig.Lightning_Bolt1_Config.DisplayName"
 msgid "Bolt I"
-msgstr ""
+msgstr "전기충격 I"
 
 #. Key: SpellConfig.Lightning_Bolt1_Config.Description
 msgctxt "SpellConfig.Lightning_Bolt1_Config.Description"
 msgid "Attacks any target."
-msgstr ""
+msgstr "아무 적 하나를 공격합니다."
 
 #. Key: SpellConfig.Lightning_Recharge1_Config.DisplayName
 msgctxt "SpellConfig.Lightning_Recharge1_Config.DisplayName"
 msgid "Recharge I"
-msgstr ""
+msgstr "재충전 I"
 
 #. Key: SpellConfig.Lightning_Recharge1_Config.Description
 msgctxt "SpellConfig.Lightning_Recharge1_Config.Description"
 msgid "An ally regains 30 <slink=Mana> and gains 30 <slink=CombatStat_CombatSpeed>."
-msgstr ""
+msgstr "아군 하나에게 30 <slink=Mana>와 30 <slink=CombatStat_CombatSpeed>를 부여합니다."
 
 #. Key: SpellConfig.Lightning_Bolt2_Config.DisplayName
 msgctxt "SpellConfig.Lightning_Bolt2_Config.DisplayName"
 msgid "Bolt II"
-msgstr ""
+msgstr "전기충격 II"
 
 #. Key: SpellConfig.Lightning_Bolt2_Config.Description
 msgctxt "SpellConfig.Lightning_Bolt2_Config.Description"
 msgid "Attacks any target."
-msgstr ""
+msgstr "아무 적 하나를 공격합니다."
 
 #. Key: SpellConfig.Lightning_Stunstrike1_Config.DisplayName
 msgctxt "SpellConfig.Lightning_Stunstrike1_Config.DisplayName"
 msgid "Slowing Strike I"
-msgstr ""
+msgstr "마비 공격 I"
 
 #. Key: SpellConfig.Lightning_Stunstrike1_Config.Description
 msgctxt "SpellConfig.Lightning_Stunstrike1_Config.Description"
 msgid "Attacks and adds <slink=Lightning_Stunned> to any target for 2 rounds."
-msgstr ""
+msgstr "적 하나를 공격하고 2라운드 동안 <slink=Lightning_Stunned> 상태로 만듭니다."
 
 #. Key: SpellConfig.Lightning_Bolt3_Config.DisplayName
 msgctxt "SpellConfig.Lightning_Bolt3_Config.DisplayName"
 msgid "Bolt III"
-msgstr ""
+msgstr "전기충격 III"
 
 #. Key: SpellConfig.Lightning_Bolt3_Config.Description
 msgctxt "SpellConfig.Lightning_Bolt3_Config.Description"
 msgid "Attacks any target."
-msgstr ""
+msgstr "아무 적 하나를 공격합니다."
 
 #. Key: SpellConfig.Lightning_Recharge2_Config.DisplayName
 msgctxt "SpellConfig.Lightning_Recharge2_Config.DisplayName"
 msgid "Recharge II"
-msgstr ""
+msgstr "재충전 II"
 
 #. Key: SpellConfig.Lightning_Recharge2_Config.Description
 msgctxt "SpellConfig.Lightning_Recharge2_Config.Description"
 msgid "An ally regains 60 <slink=Mana> and gains 60 <slink=CombatStat_CombatSpeed>."
-msgstr ""
+msgstr "아군 하나에게 60 <slink=Mana>와 60 <slink=CombatStat_CombatSpeed>를 부여합니다."
 
 #. Key: SpellConfig.Lightning_Stunstrike2_Config.DisplayName
 msgctxt "SpellConfig.Lightning_Stunstrike2_Config.DisplayName"
 msgid "Slowing Strike II"
-msgstr ""
+msgstr "마비 공격 II"
 
 #. Key: SpellConfig.Lightning_Stunstrike2_Config.Description
 msgctxt "SpellConfig.Lightning_Stunstrike2_Config.Description"
 msgid "Attacks and adds <slink=Lightning_Stunned> to any target for 2 rounds."
-msgstr ""
+msgstr "적 하나를 공격하고 2라운드 동안 <slink=Lightning_Stunned> 상태로 만듭니다."
 
 #. Key: SpellConfig.Lightning_Storm_Config.DisplayName
 msgctxt "SpellConfig.Lightning_Storm_Config.DisplayName"
 msgid "Call the Storm"
-msgstr ""
+msgstr "폭풍 소환"
 
 #. Key: SpellConfig.Lightning_Storm_Config.Description
 msgctxt "SpellConfig.Lightning_Storm_Config.Description"
 msgid "Attack a target, then <slink=Chain> 4 times."
-msgstr ""
+msgstr "적 하나를 공격하고 4번 <slink=Chain>합니다."
 
 #. Key: SpellConfig.Nature_Growth1_Config.DisplayName
 msgctxt "SpellConfig.Nature_Growth1_Config.DisplayName"
@@ -12796,17 +12796,17 @@ msgstr "성장 I"
 #. Key: SpellConfig.Nature_Growth1_Config.Description
 msgctxt "SpellConfig.Nature_Growth1_Config.Description"
 msgid "Attacks and applies <slink=Nature_Thorns> to the targeted position for 2 rounds."
-msgstr ""
+msgstr "적 하나를 공격하고 해당 위치에 2라운드 동안 <slink=Nature_Thorns> 상태를 부여합니다."
 
 #. Key: SpellConfig.Nature_SurgingStrength1_Config.DisplayName
 msgctxt "SpellConfig.Nature_SurgingStrength1_Config.DisplayName"
 msgid "Surging Strength I"
-msgstr ""
+msgstr "솟아오르는 힘 I"
 
 #. Key: SpellConfig.Nature_SurgingStrength1_Config.Description
 msgctxt "SpellConfig.Nature_SurgingStrength1_Config.Description"
 msgid "Adds 10 <slink=CombatStat_DamageBonus> to allies in the targeted row for 2 rounds."
-msgstr ""
+msgstr "대상 열의 모든 아군에게 2라운드 동안 10 <slink=CombatStat_DamageBonus>을 부여합니다."
 
 #. Key: SpellConfig.Nature_Growth2_Config.DisplayName
 msgctxt "SpellConfig.Nature_Growth2_Config.DisplayName"
@@ -12816,17 +12816,17 @@ msgstr "성장 II"
 #. Key: SpellConfig.Nature_Growth2_Config.Description
 msgctxt "SpellConfig.Nature_Growth2_Config.Description"
 msgid "Attacks and applies <slink=Nature_Thorns> to the targeted position for 3 rounds."
-msgstr ""
+msgstr "적 하나를 공격하고 해당 위치에 3라운드 동안 <slink=Nature_Thorns> 상태를 부여합니다."
 
 #. Key: SpellConfig.Nature_SurgingStrength2_Config.DisplayName
 msgctxt "SpellConfig.Nature_SurgingStrength2_Config.DisplayName"
 msgid "Surging Strength II"
-msgstr ""
+msgstr "솟아오르는 힘 II"
 
 #. Key: SpellConfig.Nature_SurgingStrength2_Config.Description
 msgctxt "SpellConfig.Nature_SurgingStrength2_Config.Description"
 msgid "Adds 20 <slink=CombatStat_DamageBonus> to allies in the targeted row for 2 rounds."
-msgstr ""
+msgstr "대상 열의 모든 아군에게 2라운드 동안 20 <slink=CombatStat_DamageBonus>을 부여합니다."
 
 #. Key: SpellConfig.Nature_VineLash1_Config.DisplayName
 msgctxt "SpellConfig.Nature_VineLash1_Config.DisplayName"
@@ -12836,17 +12836,17 @@ msgstr "덩굴 채찍 I"
 #. Key: SpellConfig.Nature_VineLash1_Config.Description
 msgctxt "SpellConfig.Nature_VineLash1_Config.Description"
 msgid "Attack an enemy and the enemy behind them, then swap their positions."
-msgstr ""
+msgstr "적 하나와 그 뒤의 적을 공격하고, 둘의 자리를 바꿉니다."
 
 #. Key: SpellConfig.Nature_SurgingStrength3_Config.DisplayName
 msgctxt "SpellConfig.Nature_SurgingStrength3_Config.DisplayName"
 msgid "Surging Strength III"
-msgstr ""
+msgstr "솟아오르는 힘 III"
 
 #. Key: SpellConfig.Nature_SurgingStrength3_Config.Description
 msgctxt "SpellConfig.Nature_SurgingStrength3_Config.Description"
 msgid "Adds 30 <slink=CombatStat_DamageBonus> to allies in the targeted row."
-msgstr ""
+msgstr "대상 열의 모든 아군에게 30 <slink=CombatStat_DamageBonus>을 부여합니다."
 
 #. Key: SpellConfig.Nature_VineLash2_Config.DisplayName
 msgctxt "SpellConfig.Nature_VineLash2_Config.DisplayName"
@@ -12856,192 +12856,192 @@ msgstr "덩굴 채찍 II"
 #. Key: SpellConfig.Nature_VineLash2_Config.Description
 msgctxt "SpellConfig.Nature_VineLash2_Config.Description"
 msgid "Attack an enemy and the enemy behind them, then swap their positions."
-msgstr ""
+msgstr "적 하나와 그 뒤의 적을 공격하고, 둘의 자리를 바꿉니다."
 
 #. Key: SpellConfig.Nature_MightyGrowth_Config.DisplayName
 msgctxt "SpellConfig.Nature_MightyGrowth_Config.DisplayName"
 msgid "Mighty Growth"
-msgstr ""
+msgstr "강력한 성장"
 
 #. Key: SpellConfig.Nature_MightyGrowth_Config.Description
 msgctxt "SpellConfig.Nature_MightyGrowth_Config.Description"
 msgid "Attacks a target. Deals +15 damage per spell this Mage has cast this battle."
-msgstr ""
+msgstr "적 하나를 공격합니다. 이 마법사가 이번 전투에서 시전한 주문 수만큼 +15 데미지를 가합니다."
 
 #. Key: SpellConfig.Water_Torrent1_Config.DisplayName
 msgctxt "SpellConfig.Water_Torrent1_Config.DisplayName"
 msgid "Torrent I"
-msgstr ""
+msgstr "소용돌이 I"
 
 #. Key: SpellConfig.Water_Torrent1_Config.Description
 msgctxt "SpellConfig.Water_Torrent1_Config.Description"
 msgid "Attacks an enemy. Deals +10 damage when attacking from the back row."
-msgstr ""
+msgstr "적 하나를 공격합니다. 후열에서 시전하면 +10 데미지를 가합니다."
 
 #. Key: SpellConfig.Water_Soak1_Config.DisplayName
 msgctxt "SpellConfig.Water_Soak1_Config.DisplayName"
 msgid "Soak I"
-msgstr ""
+msgstr "쏟아붓기 I"
 
 #. Key: SpellConfig.Water_Soak1_Config.Description
 msgctxt "SpellConfig.Water_Soak1_Config.Description"
 msgid "Attacks an enemy and lowers their <slink=CombatStat_DamageBonus> and <slink=CombatStat_CombatSpeed> by 7."
-msgstr ""
+msgstr "적 하나를 공격하고 적의 <slink=CombatStat_DamageBonus>과 <slink=CombatStat_CombatSpeed>를 7 낮춥니다."
 
 #. Key: SpellConfig.Water_Torrent2_Config.DisplayName
 msgctxt "SpellConfig.Water_Torrent2_Config.DisplayName"
 msgid "Torrent II"
-msgstr ""
+msgstr "소용돌이 II"
 
 #. Key: SpellConfig.Water_Torrent2_Config.Description
 msgctxt "SpellConfig.Water_Torrent2_Config.Description"
 msgid "Attacks an enemy. Deals +20 damage when attacking from the back row."
-msgstr ""
+msgstr "적 하나를 공격합니다. 후열에서 시전하면 +20 데미지를 가합니다."
 
 #. Key: SpellConfig.Water_ConsecratingDrops1_Config.DisplayName
 msgctxt "SpellConfig.Water_ConsecratingDrops1_Config.DisplayName"
 msgid "Consecrating Drops I"
-msgstr ""
+msgstr "성수 I"
 
 #. Key: SpellConfig.Water_ConsecratingDrops1_Config.Description
 msgctxt "SpellConfig.Water_ConsecratingDrops1_Config.Description"
 msgid "Adds 30 <slink=TempHP> to allies in the the targeted row and removes Sadness, Fearful, and Restless."
-msgstr ""
+msgstr "대상 열의 모든 아군에게 30 <slink=TempHP>를 부여하고 모든 슬픔, 공포, 지침 상태를 없앱니다."
 
 #. Key: SpellConfig.Water_Soak2_Config.DisplayName
 msgctxt "SpellConfig.Water_Soak2_Config.DisplayName"
 msgid "Soak II"
-msgstr ""
+msgstr "쏟아붓기 II"
 
 #. Key: SpellConfig.Water_Soak2_Config.Description
 msgctxt "SpellConfig.Water_Soak2_Config.Description"
 msgid "Attacks an enemy and lowers their <slink=CombatStat_DamageBonus> and <slink=CombatStat_CombatSpeed> by 15."
-msgstr ""
+msgstr "적 하나를 공격하고 적의 <slink=CombatStat_DamageBonus>과 <slink=CombatStat_CombatSpeed>를 15 낮춥니다."
 
 #. Key: SpellConfig.Water_ConsecratingDrops2_Config.DisplayName
 msgctxt "SpellConfig.Water_ConsecratingDrops2_Config.DisplayName"
 msgid "Consecrating Drops II"
-msgstr ""
+msgstr "성수 II"
 
 #. Key: SpellConfig.Water_ConsecratingDrops2_Config.Description
 msgctxt "SpellConfig.Water_ConsecratingDrops2_Config.Description"
 msgid "Adds 30 <slink=TempHP> to all allies and removes Sadness, Fearful, and Restless."
-msgstr ""
+msgstr "모든 아군에게 30 <slink=TempHP>를 부여하고 모든 슬픔, 공포, 지침 상태를 없앱니다."
 
 #. Key: SpellConfig.Water_Soak3_Config.DisplayName
 msgctxt "SpellConfig.Water_Soak3_Config.DisplayName"
 msgid "Soak III"
-msgstr ""
+msgstr "쏟아붓기 III"
 
 #. Key: SpellConfig.Water_Soak3_Config.Description
 msgctxt "SpellConfig.Water_Soak3_Config.Description"
 msgid "Attacks an enemy and lowers their <slink=CombatStat_DamageBonus> and <slink=CombatStat_CombatSpeed> by 30."
-msgstr ""
+msgstr "적 하나를 공격하고 적의 <slink=CombatStat_DamageBonus>과 <slink=CombatStat_CombatSpeed>를 30 낮춥니다."
 
 #. Key: SpellConfig.Water_Tsunami_Config.DisplayName
 msgctxt "SpellConfig.Water_Tsunami_Config.DisplayName"
 msgid "Tsunami"
-msgstr ""
+msgstr "쓰나미"
 
 #. Key: SpellConfig.Water_Tsunami_Config.Description
 msgctxt "SpellConfig.Water_Tsunami_Config.Description"
 msgid "Attacks all enemies for 50 damage, and heals all allies for the total damage dealt."
-msgstr ""
+msgstr "모든 적에게 50 데미지를 가하고, 총 데미지 양만큼 모든 아군을 치유합니다."
 
 #. Key: SpellConfig.ManaSpell1.DisplayName
 msgctxt "SpellConfig.ManaSpell1.DisplayName"
 msgid "Small Mana"
-msgstr ""
+msgstr "작은 마나"
 
 #. Key: SpellConfig.ManaSpell2.DisplayName
 msgctxt "SpellConfig.ManaSpell2.DisplayName"
 msgid "Potion of Recharging"
-msgstr "회복 물약"
+msgstr "충전의 물약"
 
 #. Key: SpellConfig.ManaSpell3.DisplayName
 msgctxt "SpellConfig.ManaSpell3.DisplayName"
 msgid "Greater Potion of Recharging"
-msgstr ""
+msgstr "고급 충전의 물약"
 
 #. Key: SpellConfig.HPSpell1.DisplayName
 msgctxt "SpellConfig.HPSpell1.DisplayName"
 msgid "Potion of Rejuvenation"
-msgstr ""
+msgstr "회춘의 물약"
 
 #. Key: SpellConfig.HPSpell2.DisplayName
 msgctxt "SpellConfig.HPSpell2.DisplayName"
 msgid "Potion of Greater Rejuvenation"
-msgstr ""
+msgstr "고급 회춘의 물약"
 
 #. Key: SpellConfig.UntangleSpell.DisplayName
 msgctxt "SpellConfig.UntangleSpell.DisplayName"
 msgid "Untangle"
-msgstr ""
+msgstr "덩굴 풀기"
 
 #. Key: SpellConfig.RevivalSpell.DisplayName
 msgctxt "SpellConfig.RevivalSpell.DisplayName"
 msgid "Revival Flask"
-msgstr ""
+msgstr "부활 물약"
 
 #. Key: SpellConfig.StrengthSpell.DisplayName
 msgctxt "SpellConfig.StrengthSpell.DisplayName"
 msgid "Potion of Strength"
-msgstr ""
+msgstr "힘의 물약"
 
 #. Key: SpellConfig.RetaliateSpell.DisplayName
 msgctxt "SpellConfig.RetaliateSpell.DisplayName"
 msgid "Potion of Retaliation"
-msgstr ""
+msgstr "복수의 물약"
 
 #. Key: SpellConfig.HasteSpell.DisplayName
 msgctxt "SpellConfig.HasteSpell.DisplayName"
 msgid "Hastening Potion"
-msgstr ""
+msgstr "속도의 물약"
 
 #. Key: SpellConfig.EarthArmorSpell.DisplayName
 msgctxt "SpellConfig.EarthArmorSpell.DisplayName"
 msgid "Earth Guardian's Potion"
-msgstr ""
+msgstr "대지 수호자의 물약"
 
 #. Key: SpellConfig.StunAttack.DisplayName
 msgctxt "SpellConfig.StunAttack.DisplayName"
 msgid "Lightning in a Bottle"
-msgstr ""
+msgstr "병에 든 번개"
 
 #. Key: SpellConfig.MiasmaAttack.DisplayName
 msgctxt "SpellConfig.MiasmaAttack.DisplayName"
 msgid "Miasma Flask"
-msgstr ""
+msgstr "경련 물약"
 
 #. Key: SpellConfig.DragonfireAttack.DisplayName
 msgctxt "SpellConfig.DragonfireAttack.DisplayName"
 msgid "Dragonfire Flask"
-msgstr ""
+msgstr "용의 숨결 물약"
 
 #. Key: SpellConfig.BraverySpell.DisplayName
 msgctxt "SpellConfig.BraverySpell.DisplayName"
 msgid "Bravery Potion"
-msgstr ""
+msgstr "용기의 물약"
 
 #. Key: SpellConfig.CheerfulnessSpell.DisplayName
 msgctxt "SpellConfig.CheerfulnessSpell.DisplayName"
 msgid "Cheerfulness Potion"
-msgstr ""
+msgstr "행복의 물약"
 
 #. Key: SpellConfig.CalmingSpell.DisplayName
 msgctxt "SpellConfig.CalmingSpell.DisplayName"
 msgid "Calming Potion"
-msgstr ""
+msgstr "진정 물약"
 
 #. Key: SpellConfig.Rain_Drip_Config.DisplayName
 msgctxt "SpellConfig.Rain_Drip_Config.DisplayName"
 msgid "Dripping Water"
-msgstr ""
+msgstr "물 샘"
 
 #. Key: SpellConfig.Rain_Drip_Config.Description
 msgctxt "SpellConfig.Rain_Drip_Config.Description"
 msgid "Water dripping through the ceiling"
-msgstr ""
+msgstr "물이 천장에서 새고 있음"
 
 #. Key: SpellConfig.RampageSpell-021.DisplayName
 msgctxt "SpellConfig.RampageSpell-021.DisplayName"
@@ -13051,27 +13051,27 @@ msgstr "폭주"
 #. Key: SpellConfig.RampageSpell-021.Description
 msgctxt "SpellConfig.RampageSpell-021.Description"
 msgid "Mage on a Rampage destroying furniture."
-msgstr ""
+msgstr "폭주 중인 마법사가 가구를 파괴하고 있습니다."
 
 #. Key: SpellConfig.Wild-011.DisplayName
 msgctxt "SpellConfig.Wild-011.DisplayName"
 msgid "Plague"
-msgstr ""
+msgstr "역병"
 
 #. Key: SpellConfig.Wild-011.Description
 msgctxt "SpellConfig.Wild-011.Description"
 msgid "Applies <slink=Plague>."
-msgstr ""
+msgstr "<slink=Plague> 상태를 적용합니다."
 
 #. Key: SpellConfig.Wild-012.DisplayName
 msgctxt "SpellConfig.Wild-012.DisplayName"
 msgid "Bind"
-msgstr ""
+msgstr "묶기"
 
 #. Key: SpellConfig.Wild-012.Description
 msgctxt "SpellConfig.Wild-012.Description"
 msgid "Target is bound by vines."
-msgstr ""
+msgstr "덩굴에 묶여 있습니다."
 
 #. Key: SpellConfig.Wild-013.DisplayName
 msgctxt "SpellConfig.Wild-013.DisplayName"
@@ -13226,12 +13226,12 @@ msgstr ""
 #. Key: SpellConfig.Wild-028.DisplayName
 msgctxt "SpellConfig.Wild-028.DisplayName"
 msgid "Scares"
-msgstr ""
+msgstr "놀래키기"
 
 #. Key: SpellConfig.Wild-028.Description
 msgctxt "SpellConfig.Wild-028.Description"
 msgid "Scarecroa spell"
-msgstr ""
+msgstr "크로아비 주문"
 
 #. Key: SpellConfig.Lightning_Storm.DisplayName
 msgctxt "SpellConfig.Lightning_Storm.DisplayName"
@@ -13596,17 +13596,17 @@ msgstr "벨처"
 #. Key: CharacterStatusConfig.Enemy_Droplet.DisplayName
 msgctxt "CharacterStatusConfig.Enemy_Droplet.DisplayName"
 msgid "Droplet"
-msgstr ""
+msgstr "드로플렛"
 
 #. Key: CharacterStatusConfig.Enemy_FurryMite.DisplayName
 msgctxt "CharacterStatusConfig.Enemy_FurryMite.DisplayName"
 msgid "Furry Mite"
-msgstr "모피 진드기"
+msgstr "퍼리 마이트"
 
 #. Key: CharacterStatusConfig.Enemy_Batkin.DisplayName
 msgctxt "CharacterStatusConfig.Enemy_Batkin.DisplayName"
 msgid "Batkin"
-msgstr ""
+msgstr "배트킨"
 
 #. Key: CharacterStatusConfig.Enemy_EmberGolem.DisplayName
 msgctxt "CharacterStatusConfig.Enemy_EmberGolem.DisplayName"
@@ -13616,97 +13616,97 @@ msgstr "엠버 골렘"
 #. Key: CharacterStatusConfig.Enemy_Wraith.DisplayName
 msgctxt "CharacterStatusConfig.Enemy_Wraith.DisplayName"
 msgid "Wraith"
-msgstr ""
+msgstr "레이스"
 
 #. Key: CharacterStatusConfig.Enemy_LanternKeeper.DisplayName
 msgctxt "CharacterStatusConfig.Enemy_LanternKeeper.DisplayName"
 msgid "Lantern Keeper"
-msgstr ""
+msgstr "랜턴 키퍼"
 
 #. Key: CharacterStatusConfig.Enemy_Strigoi.DisplayName
 msgctxt "CharacterStatusConfig.Enemy_Strigoi.DisplayName"
 msgid "Strigoi"
-msgstr ""
+msgstr "스트리고이"
 
 #. Key: CharacterStatusConfig.Enemy_Fernling.DisplayName
 msgctxt "CharacterStatusConfig.Enemy_Fernling.DisplayName"
 msgid "Fernling"
-msgstr ""
+msgstr "펀링"
 
 #. Key: CharacterStatusConfig.Enemy_Boulderjaw.DisplayName
 msgctxt "CharacterStatusConfig.Enemy_Boulderjaw.DisplayName"
 msgid "Boulderjaw"
-msgstr ""
+msgstr "볼더조"
 
 #. Key: CharacterStatusConfig.Enemy_HallowedOne.DisplayName
 msgctxt "CharacterStatusConfig.Enemy_HallowedOne.DisplayName"
 msgid "Hallowed One"
-msgstr ""
+msgstr "할로우드 원"
 
 #. Key: CharacterStatusConfig.Enemy_Hellmaw.DisplayName
 msgctxt "CharacterStatusConfig.Enemy_Hellmaw.DisplayName"
 msgid "Hellmaw"
-msgstr ""
+msgstr "헬모"
 
 #. Key: CharacterStatusConfig.Enemy_Scythe.DisplayName
 msgctxt "CharacterStatusConfig.Enemy_Scythe.DisplayName"
 msgid "Scythe"
-msgstr ""
+msgstr "사이드"
 
 #. Key: CharacterStatusConfig.Enemy_BurrowerLarva.DisplayName
 msgctxt "CharacterStatusConfig.Enemy_BurrowerLarva.DisplayName"
 msgid "Burrower Larva"
-msgstr ""
+msgstr "버로워 라바"
 
 #. Key: CharacterStatusConfig.Enemy_BurrowerMoth.DisplayName
 msgctxt "CharacterStatusConfig.Enemy_BurrowerMoth.DisplayName"
 msgid "Burrower Moth"
-msgstr ""
+msgstr "버로워 모스"
 
 #. Key: CharacterStatusConfig.Enemy_BurrowerSpitter.DisplayName
 msgctxt "CharacterStatusConfig.Enemy_BurrowerSpitter.DisplayName"
 msgid "Burrower Spitter"
-msgstr ""
+msgstr "버로워 스피터"
 
 #. Key: CharacterStatusConfig.Enemy_ThrallMage.DisplayName
 msgctxt "CharacterStatusConfig.Enemy_ThrallMage.DisplayName"
 msgid "Thrall Mage"
-msgstr ""
+msgstr "스랄 메이지"
 
 #. Key: CharacterStatusConfig.Enemy_DarkTentacle.DisplayName
 msgctxt "CharacterStatusConfig.Enemy_DarkTentacle.DisplayName"
 msgid "Dark Tentacle"
-msgstr ""
+msgstr "다크 텐타클"
 
 #. Key: CharacterStatusConfig.Enemy_FieryTentacle.DisplayName
 msgctxt "CharacterStatusConfig.Enemy_FieryTentacle.DisplayName"
 msgid "Fiery Tentacle"
-msgstr ""
+msgstr "파이어리 텐타클"
 
 #. Key: CharacterStatusConfig.Enemy_WateryTentacle.DisplayName
 msgctxt "CharacterStatusConfig.Enemy_WateryTentacle.DisplayName"
 msgid "Watery Tentacle"
-msgstr ""
+msgstr "워터리 텐타클"
 
 #. Key: CharacterStatusConfig.Enemy_SporeTentacle.DisplayName
 msgctxt "CharacterStatusConfig.Enemy_SporeTentacle.DisplayName"
 msgid "Spore Tentacle"
-msgstr "포자 촉수"
+msgstr "스포어 텐타클"
 
 #. Key: CharacterStatusConfig.Enemy_CracklingTentacle.DisplayName
 msgctxt "CharacterStatusConfig.Enemy_CracklingTentacle.DisplayName"
 msgid "Crackling Tentacle"
-msgstr ""
+msgstr "크래클링 텐타클"
 
 #. Key: CharacterStatusConfig.Enemy_StonyTentacle.DisplayName
 msgctxt "CharacterStatusConfig.Enemy_StonyTentacle.DisplayName"
 msgid "Stony Tentacle"
-msgstr ""
+msgstr "스토니 텐타클"
 
 #. Key: CharacterStatusConfig.Enemy_ZephyrTentacle.DisplayName
 msgctxt "CharacterStatusConfig.Enemy_ZephyrTentacle.DisplayName"
 msgid "Zephyr Tentacle"
-msgstr ""
+msgstr "제퍼 텐타클"
 
 #. Key: CharacterStatusConfig.Enemy_Sadness_Debuff_1.DisplayName
 msgctxt "CharacterStatusConfig.Enemy_Sadness_Debuff_1.DisplayName"
@@ -23757,6 +23757,16 @@ msgid ""
 "Set Task Type Priorities on the Tasks UI.\n"
 "Set Task Priorities on the selected object (the numbers 1-5) or with the Task Pri tool. "
 msgstr ""
+"작업은 마법사와 누더기들이 게임 내에서 수행하는 행동입니다. 작업 순서는 다음 규칙에 따라 정해집니다:\n"
+"\n"
+"1. 작업 우선순위 - 우선순위에 따라 어떤 작업을 먼저 수행할지 결정합니다.\n"
+"\n"
+"2. 개별 작업 우선순위 - 두 작업의 우선순위가 같다면, 개별 작업의 우선순위가 높은 쪽을 수행합니다.\n"
+"\n"
+"3. 개별 작업 우선순위도 같다면, 작업 우선순위 UI에 출력되는 순서대로 작업을 수행합니다.\n"
+"\n"
+"작업 우선순위 UI에서 우선순위를 지정할 수 있습니다.\n"
+"개별 작업 우선순위 툴을 사용하거나, 대상을 선택하여 개별 작업 우선순위를 선택할 수 있습니다(판넬 하단의 1-5를 사용). "
 
 #. Key: KeywordDefinition.Task Type.DisplayName
 msgctxt "KeywordDefinition.Task Type.DisplayName"
@@ -23766,7 +23776,7 @@ msgstr "작업 타입"
 #. Key: KeywordDefinition.Task Type.Description
 msgctxt "KeywordDefinition.Task Type.Description"
 msgid "Tasks Types are categories of Tasks that Mages, Ghosts, and Helpers perform. These categories can be prioritized at the Tasks UI."
-msgstr ""
+msgstr "작업 타입은 캐릭터들이 수행하는 작업의 종류입니다. 작업 우선순위 UI에서 우선순위를 지정할 수 있습니다."
 
 #. Key: KeywordDefinition.SchoolScore.DisplayName
 msgctxt "KeywordDefinition.SchoolScore.DisplayName"
@@ -23776,7 +23786,7 @@ msgstr "M.A.G.E 점수"
 #. Key: KeywordDefinition.SchoolScore.Description
 msgctxt "KeywordDefinition.SchoolScore.Description"
 msgid "Magic, Architecture, Growth, Exploration. Represents the overall progress of your school."
-msgstr ""
+msgstr "마법(Magic), 건축(Architecture), 성장(Growth), 탐험(Exploration). 학교의 성장 척도를 점수로 나타냅니다."
 
 #. Key: KeywordDefinition.WandTier.DisplayName
 msgctxt "KeywordDefinition.WandTier.DisplayName"
@@ -23786,7 +23796,7 @@ msgstr "지팡이 티어"
 #. Key: KeywordDefinition.WandTier.Description
 msgctxt "KeywordDefinition.WandTier.Description"
 msgid "A wand's tier dictates the max skill a wielder can attain. Research new wands to access higher tiers."
-msgstr ""
+msgstr "지팡이 티어는 지팡이의 주인의 최대 스킬 레벨을 결정합니다. 마법 연구를 통해 더 높은 티어의 지팡이를 제작할 수 있습니다."
 
 #. Key: KeywordDefinition.PathingFilter.DisplayName
 msgctxt "KeywordDefinition.PathingFilter.DisplayName"
@@ -23806,7 +23816,7 @@ msgstr "조명 뷰"
 #. Key: KeywordDefinition.LightingFilter.Description
 msgctxt "KeywordDefinition.LightingFilter.Description"
 msgid "The Lighting View shows the amount of light in each room."
-msgstr ""
+msgstr "조명 뷰는 각 방의 조명 수준을 나타냅니다."
 
 #. Key: KeywordDefinition.MinuteUnits.DisplayName
 msgctxt "KeywordDefinition.MinuteUnits.DisplayName"
@@ -23826,7 +23836,7 @@ msgstr "안개"
 #. Key: KeywordDefinition.Fog.Description
 msgctxt "KeywordDefinition.Fog.Description"
 msgid "A deadly miasma from the depths of the dungeon. Each night, the Fog advances to consume the school. Performing a ritual to clear the <slink=ManaFont> will force the fog to retreat."
-msgstr ""
+msgstr "사악한 안개는 매일 저녁 학교로 가까워져 옵니다. <slink=ManaFont>에서 안개 추방 의식을 치르면 몰아낼 수 있습니다."
 
 #. Key: KeywordDefinition.Rain.DisplayName
 msgctxt "KeywordDefinition.Rain.DisplayName"
@@ -23836,7 +23846,7 @@ msgstr "빗물"
 #. Key: KeywordDefinition.Rain.Description
 msgctxt "KeywordDefinition.Rain.Description"
 msgid "Storms that occur from time to time. Objects that are exposed to the elements will take Durability damage and characters will get <slink=Wet>. Rain will seep through Floors, but is blocked by Roofs."
-msgstr ""
+msgstr "이 세계에는 때때로 폭풍우가 몰아칩니다. 비를 맞은 아이템과 가구는 데미지를 입고, 비를 맞은 마법사는 <slink=Wet> 상태를 얻습니다. 비는 지붕으로 막지 않으면 바닥을 뚫고 새어나갑니다."
 
 #. Key: KeywordDefinition.Durability.DisplayName
 msgctxt "KeywordDefinition.Durability.DisplayName"
@@ -23846,7 +23856,7 @@ msgstr "내구도"
 #. Key: KeywordDefinition.Durability.Description
 msgctxt "KeywordDefinition.Durability.Description"
 msgid "The condition of a furnishing or item. Furnishings with zero Durability must be fully repaired in order to be used. Other items are destroyed when they have zero Durability."
-msgstr ""
+msgstr "가구나 아이템에는 내구도가 있습니다. 내구도가 0이 된 가구는 완전히 수리되기 전에는 제 역할을 하지 못합니다. 내구도가 0이 된 아이템은 파괴됩니다."
 
 #. Key: KeywordDefinition.Underschool.DisplayName
 msgctxt "KeywordDefinition.Underschool.DisplayName"
@@ -23856,17 +23866,17 @@ msgstr "지하세계"
 #. Key: KeywordDefinition.Underschool.Description
 msgctxt "KeywordDefinition.Underschool.Description"
 msgid "A dangerous, mysterious realm underneath the school to explore, where one can find <slink=Underlords>."
-msgstr ""
+msgstr "학교 아래에는 위험하고 신비로운 지하세계가 도사리고 있습니다. <slink=Underlords>들을 마주칠지도 모릅니다."
 
 #. Key: KeywordDefinition.Underlords.DisplayName
 msgctxt "KeywordDefinition.Underlords.DisplayName"
 msgid "Underlords"
-msgstr "언더로드"
+msgstr "지하군주"
 
 #. Key: KeywordDefinition.Underlords.Description
 msgctxt "KeywordDefinition.Underlords.Description"
 msgid "Powerful enemies in the Underschool that guard larger quantities of <slink=BookOfDreadPage>."
-msgstr ""
+msgstr "지하군주들은 지하 세계의 강력한 군주들로, 물리치면 대량의 <slink=BookOfDreadPage>를 보상으로 줍니다."
 
 #. Key: KeywordDefinition.Research.DisplayName
 msgctxt "KeywordDefinition.Research.DisplayName"
@@ -23876,7 +23886,7 @@ msgstr "연구"
 #. Key: KeywordDefinition.Research.Description
 msgctxt "KeywordDefinition.Research.Description"
 msgid "Investigate reagents to discover new furniture and crafting recipes."
-msgstr ""
+msgstr "마법 연구는 새로운 제작법과 가구를 해금시킵니다."
 
 #. Key: KeywordDefinition.students.DisplayName
 msgctxt "KeywordDefinition.students.DisplayName"
@@ -23886,7 +23896,7 @@ msgstr "학생"
 #. Key: KeywordDefinition.students.Description
 msgctxt "KeywordDefinition.students.Description"
 msgid "The lifeblood of your school. Teach them how to use magic and keep them safe from harm."
-msgstr ""
+msgstr "학생은 마법 학교의 생명입니다. 마법을 가르치고 위험에서 보호하세요."
 
 #. Key: KeywordDefinition.storage.DisplayName
 msgctxt "KeywordDefinition.storage.DisplayName"
@@ -23896,7 +23906,7 @@ msgstr "저장소"
 #. Key: KeywordDefinition.storage.Description
 msgctxt "KeywordDefinition.storage.Description"
 msgid "Storage furniture holds loose objects to keep rooms tidy."
-msgstr ""
+msgstr "아이템을 저장하기 위한 곳입니다."
 
 #. Key: KeywordDefinition.reagents.DisplayName
 msgctxt "KeywordDefinition.reagents.DisplayName"
@@ -23906,7 +23916,7 @@ msgstr "마법 재료"
 #. Key: KeywordDefinition.reagents.Description
 msgctxt "KeywordDefinition.reagents.Description"
 msgid "Useful objects for magical crafting."
-msgstr ""
+msgstr "마법 제작에 유용한 재료들입니다."
 
 #. Key: KeywordDefinition.walls_alert.DisplayName
 msgctxt "KeywordDefinition.walls_alert.DisplayName"
@@ -23916,7 +23926,7 @@ msgstr "벽"
 #. Key: KeywordDefinition.walls_alert.Description
 msgctxt "KeywordDefinition.walls_alert.Description"
 msgid "Place some Walls and start building your school."
-msgstr ""
+msgstr "벽을 배치하면 학교를 건설할 수 있습니다."
 
 #. Key: KeywordDefinition.doors_hallways_alert.DisplayName
 msgctxt "KeywordDefinition.doors_hallways_alert.DisplayName"
@@ -23926,7 +23936,7 @@ msgstr "문과 복도"
 #. Key: KeywordDefinition.doors_hallways_alert.Description
 msgctxt "KeywordDefinition.doors_hallways_alert.Description"
 msgid "Place some Doors or Hallways to allow passage through walls."
-msgstr ""
+msgstr "벽을 지나다니려면 문이나 복도가 필요합니다."
 
 #. Key: KeywordDefinition.materials.DisplayName
 msgctxt "KeywordDefinition.materials.DisplayName"
@@ -23946,7 +23956,7 @@ msgstr "식사"
 #. Key: KeywordDefinition.meal.Description
 msgctxt "KeywordDefinition.meal.Description"
 msgid "Meals are used keep your characters fed. Be sure to always have some on hand."
-msgstr ""
+msgstr "식사는 마법사들이 배고픔을 채우는 데 필요합니다. 식량이 떨어지지 않게 주의하세요."
 
 #. Key: KeywordDefinition.break.DisplayName
 msgctxt "KeywordDefinition.break.DisplayName"
@@ -23956,7 +23966,7 @@ msgstr "정신착란"
 #. Key: KeywordDefinition.break.Description
 msgctxt "KeywordDefinition.break.Description"
 msgid "A Mage may Break and act out severely if they have low Conviction. Mages suffer a <slink=MajorInjury> after Breaking."
-msgstr ""
+msgstr "마법사의 만족도가 낮아지면 정신착란을 일으킬 수 있습니다. 정신착란을 일으킨 마법사는 <slink=MajorInjury> 상태에 빠집니다."
 
 #. Key: KeywordDefinition.Skill_Pyromancy.DisplayName
 msgctxt "KeywordDefinition.Skill_Pyromancy.DisplayName"
@@ -24084,72 +24094,72 @@ msgstr "최고 우선순위"
 #. Key: KeywordDefinition.Priority_Top.Description
 msgctxt "KeywordDefinition.Priority_Top.Description"
 msgid "This job will be prioritized over Top and lower priority jobs. Characters will still choose to Eat or Sleep if it is <color=#FF0000>Critical</color>, but won't wake up to do these jobs."
-msgstr ""
+msgstr "이 작업은 최고 우선순위를 가지며, 높은 우선순위나 중간 우선순위 작업보다 우선됩니다. 이 작업을 수행하는 캐릭터는 <color=#FF0000>긴급한</color> 상태일 때만 먹거나 잘 것입니다. 마법사들은 이 작업을 수행하기 위해 잠에서 깨지 않습니다."
 
 #. Key: KeywordDefinition.Priority_High.DisplayName
 msgctxt "KeywordDefinition.Priority_High.DisplayName"
 msgid "High Priority"
-msgstr ""
+msgstr "높은 우선순위"
 
 #. Key: KeywordDefinition.Priority_High.Description
 msgctxt "KeywordDefinition.Priority_High.Description"
 msgid "This job will be prioritized over Medium and lower priority jobs. Characters will still choose to Eat or Sleep if it is <color=#FFFF00>Urgent</color>, but won't wake up to do these jobs."
-msgstr ""
+msgstr "이 작업은 높은 우선순위를 가지며, 중간이나 낮은 우선순위 작업보다 우선됩니다. 이 작업을 수행하는 캐릭터는 <color=#FF0000>위급한</color> 상태일 때만 먹거나 잘 것입니다. 마법사들은 이 작업을 수행하기 위해 잠에서 깨지 않습니다."
 
 #. Key: KeywordDefinition.Priority_Med.DisplayName
 msgctxt "KeywordDefinition.Priority_Med.DisplayName"
 msgid "Medium Priority"
-msgstr ""
+msgstr "중간 우선순위"
 
 #. Key: KeywordDefinition.Priority_Med.Description
 msgctxt "KeywordDefinition.Priority_Med.Description"
 msgid "The default priority of jobs."
-msgstr ""
+msgstr "기본 우선순위입니다."
 
 #. Key: KeywordDefinition.Priority_Low.DisplayName
 msgctxt "KeywordDefinition.Priority_Low.DisplayName"
 msgid "Low Priority"
-msgstr ""
+msgstr "낮은 우선순위"
 
 #. Key: KeywordDefinition.Priority_Low.Description
 msgctxt "KeywordDefinition.Priority_Low.Description"
 msgid "This job will still be performed as a last resort, after all other jobs are done."
-msgstr "이 작업은 다른 모든 작업이 완료된 후에도 최후의 수단으로 수행됩니다."
+msgstr "이 작업은 모든 작업이 완료된 후에 따로 할 일이 없을 때에만 수행됩니다."
 
 #. Key: KeywordDefinition.Priority_Never.DisplayName
 msgctxt "KeywordDefinition.Priority_Never.DisplayName"
 msgid "Will Not Do"
-msgstr ""
+msgstr "금지"
 
 #. Key: KeywordDefinition.Priority_Never.Description
 msgctxt "KeywordDefinition.Priority_Never.Description"
 msgid "The job will never be performed."
-msgstr ""
+msgstr "이 작업은 절대 진행되지 않습니다."
 
 #. Key: KeywordDefinition.NeedLevel_Critical.DisplayName
 msgctxt "KeywordDefinition.NeedLevel_Critical.DisplayName"
 msgid "Critical"
-msgstr ""
+msgstr "긴급"
 
 #. Key: KeywordDefinition.NeedLevel_Critical.Description
 msgctxt "KeywordDefinition.NeedLevel_Critical.Description"
 msgid "This need is causing severe Sanity decrease."
-msgstr ""
+msgstr "이 욕구가 충족되지 않아서 만족도가 심각하게 떨어졌습니다."
 
 #. Key: KeywordDefinition.NeedLevel_Warning.DisplayName
 msgctxt "KeywordDefinition.NeedLevel_Warning.DisplayName"
 msgid "Warning"
-msgstr ""
+msgstr "위험"
 
 #. Key: KeywordDefinition.NeedLevel_Warning.Description
 msgctxt "KeywordDefinition.NeedLevel_Warning.Description"
 msgid "This need is causing Sanity decrease."
-msgstr ""
+msgstr "이 욕구가 충족되지 않아서 만족도가 떨어졌습니다."
 
 #. Key: KeywordDefinition.NeedLevel_Normal.DisplayName
 msgctxt "KeywordDefinition.NeedLevel_Normal.DisplayName"
 msgid "Normal"
-msgstr ""
+msgstr "보통"
 
 #. Key: KeywordDefinition.NeedLevel_Normal.Description
 msgctxt "KeywordDefinition.NeedLevel_Normal.Description"
@@ -24159,42 +24169,42 @@ msgstr ""
 #. Key: KeywordDefinition.NeedLevel_Positive.DisplayName
 msgctxt "KeywordDefinition.NeedLevel_Positive.DisplayName"
 msgid "Positive"
-msgstr ""
+msgstr "긍정적"
 
 #. Key: KeywordDefinition.NeedLevel_Positive.Description
 msgctxt "KeywordDefinition.NeedLevel_Positive.Description"
 msgid "This need is well served and increasing Sanity."
-msgstr ""
+msgstr "이 욕구가 잘 충족되어서 만족도가 올라갔습니다."
 
 #. Key: KeywordDefinition.NeedLevel_VeryPositive.DisplayName
 msgctxt "KeywordDefinition.NeedLevel_VeryPositive.DisplayName"
 msgid "Very Positive"
-msgstr ""
+msgstr "매우 긍정적"
 
 #. Key: KeywordDefinition.NeedLevel_VeryPositive.Description
 msgctxt "KeywordDefinition.NeedLevel_VeryPositive.Description"
 msgid "This need is extremely well served and dramatically increasing Sanity."
-msgstr ""
+msgstr "이 욕구가 아주 잘 충족되어서 만족도가 크게 올라갔습니다."
 
 #. Key: KeywordDefinition.NeedLevelSatisfyRule_MustSatisfy.DisplayName
 msgctxt "KeywordDefinition.NeedLevelSatisfyRule_MustSatisfy.DisplayName"
 msgid "Must Satisfy"
-msgstr ""
+msgstr "충족되어야 함"
 
 #. Key: KeywordDefinition.NeedLevelSatisfyRule_MustSatisfy.Description
 msgctxt "KeywordDefinition.NeedLevelSatisfyRule_MustSatisfy.Description"
 msgid "Will ignore priority and schedule to satisfy this need."
-msgstr ""
+msgstr "우선순위를 무시하고 이 욕구를 충족시키기 위해 행동할 것입니다."
 
 #. Key: KeywordDefinition.NeedLevelSatisfyRule_NeverSatisfy.DisplayName
 msgctxt "KeywordDefinition.NeedLevelSatisfyRule_NeverSatisfy.DisplayName"
 msgid "Never Satisfy"
-msgstr "절대 만족하지 않음"
+msgstr "충족 금지"
 
 #. Key: KeywordDefinition.NeedLevelSatisfyRule_NeverSatisfy.Description
 msgctxt "KeywordDefinition.NeedLevelSatisfyRule_NeverSatisfy.Description"
 msgid "Will not satisfy this need."
-msgstr ""
+msgstr "이 욕구를 충족하지 않을 것입니다."
 
 #. Key: KeywordDefinition.NeedLevelSatisfyRule_SatisfyDungeonParty.DisplayName
 msgctxt "KeywordDefinition.NeedLevelSatisfyRule_SatisfyDungeonParty.DisplayName"
@@ -24244,7 +24254,7 @@ msgstr "HP"
 #. Key: KeywordDefinition.HP.Description
 msgctxt "KeywordDefinition.HP.Description"
 msgid "If a Mage loses all of their Health Points in battle, they will suffer a <slink=MajorInjury> and be knocked out. Mages can sometimes gain more max HP via earning certain Badges. HP recovers in a <slink=HospitalBed> or by drinking a Health Potion."
-msgstr ""
+msgstr "마법사가 전투에서 HP를 모두 잃으면, <slink=MajorInjury> 상태를 얻고 기절합니다. 특정 메달은 최대 HP를 높여 주기도 합니다. HP는 <slink=HospitalBed>에서 회복하거나 체력 회복 물약을 마셔서 회복할 수 있습니다."
 
 #. Key: KeywordDefinition.TempHP.DisplayName
 msgctxt "KeywordDefinition.TempHP.DisplayName"
@@ -24254,7 +24264,7 @@ msgstr "아머"
 #. Key: KeywordDefinition.TempHP.Description
 msgctxt "KeywordDefinition.TempHP.Description"
 msgid "Armor grants a pool of temporary HP that is depleted before the Mage's main HP pool."
-msgstr ""
+msgstr "아머는 마법사의 HP가 깎이는 것을 방어해 주는 임시 HP입니다."
 
 #. Key: KeywordDefinition.Shield.DisplayName
 msgctxt "KeywordDefinition.Shield.DisplayName"
@@ -24264,17 +24274,17 @@ msgstr "막음"
 #. Key: KeywordDefinition.Shield.Description
 msgctxt "KeywordDefinition.Shield.Description"
 msgid "A Shield prevents all damage from the next time a Mage is attacked in battle."
-msgstr ""
+msgstr "실드는 다음 공격 한 번을 완전히 막아 줍니다."
 
 #. Key: KeywordDefinition.Taunt.DisplayName
 msgctxt "KeywordDefinition.Taunt.DisplayName"
 msgid "Taunt"
-msgstr ""
+msgstr "도발"
 
 #. Key: KeywordDefinition.Taunt.Description
 msgctxt "KeywordDefinition.Taunt.Description"
 msgid "A Taunt makes it so that the next time an enemy can target a Mage with an attack on their turn, they will."
-msgstr "도발은 다음 번에 적이 차례에 공격을 가해 마법사를 목표로 삼을 수 있도록 합니다."
+msgstr "도발은 다음 차례에 공격하는 적이 이 마법사를 목표로 하도록 합니다."
 
 #. Key: KeywordDefinition.Mana.DisplayName
 msgctxt "KeywordDefinition.Mana.DisplayName"
@@ -24284,7 +24294,7 @@ msgstr "마나"
 #. Key: KeywordDefinition.Mana.Description
 msgctxt "KeywordDefinition.Mana.Description"
 msgid "Mana is a character's magical energy that is spent when casting a spell. Restore mana at a Mana Lantern, at the Mana Font, or by sleeping. Mages can sometimes gain more max Mana via earning certain Badges."
-msgstr ""
+msgstr "마나는 마법사가 마법을 시전할 때 쓰이는 마법의 힘입니다. 마나 등불이나 마나 우물에 접촉하거나, 수면함으로서 마나를 회복할 수 있습니다. 특정 메달은 최대 마나를 높여 주기도 합니다."
 
 #. Key: KeywordDefinition.SkillPassion.DisplayName
 msgctxt "KeywordDefinition.SkillPassion.DisplayName"
@@ -24294,7 +24304,7 @@ msgstr "재능"
 #. Key: KeywordDefinition.SkillPassion.Description
 msgctxt "KeywordDefinition.SkillPassion.Description"
 msgid "Having a Gift grants extra starting Skill levels and makes higher Skill levels faster to obtain."
-msgstr ""
+msgstr "재능있는 마법사는 시작 스킬 레벨이 높으며, 배우는 속도도 빠릅니다."
 
 #. Key: KeywordDefinition.Quilted.DisplayName
 msgctxt "KeywordDefinition.Quilted.DisplayName"
@@ -24304,12 +24314,12 @@ msgstr "누더기"
 #. Key: KeywordDefinition.Quilted.Description
 msgctxt "KeywordDefinition.Quilted.Description"
 msgid "Helpful creatures stitched together from pieces of the dead. Created by Mages using <slink=JobType_Quilting> to perform tasks."
-msgstr ""
+msgstr "시체 조각으로부터 만들어진 유용한 생명체들입니다. 청소, 운반 등 다양한 작업을 수행할 수 있습니다. <slink=JobType_Quilting>을 통해 만들 수 있습니다."
 
 #. Key: KeywordDefinition.CombatStat_DamageBonus.DisplayName
 msgctxt "KeywordDefinition.CombatStat_DamageBonus.DisplayName"
 msgid "Power"
-msgstr ""
+msgstr "마력"
 
 #. Key: KeywordDefinition.CombatStat_DamageBonus.Description
 msgctxt "KeywordDefinition.CombatStat_DamageBonus.Description"
@@ -24324,17 +24334,17 @@ msgstr "속도"
 #. Key: KeywordDefinition.CombatStat_CombatSpeed.Description
 msgctxt "KeywordDefinition.CombatStat_CombatSpeed.Description"
 msgid "Speed determines combat order. A higher Speed stat will allow a Mage to act earlier each round of a battle."
-msgstr ""
+msgstr "속도는 전투 순서를 결정합니다. 높은 속도를 가진 마법사가 전투에서 더 일찍 행동합니다."
 
 #. Key: KeywordDefinition.CriticalHit.DisplayName
 msgctxt "KeywordDefinition.CriticalHit.DisplayName"
 msgid "Critical Hit"
-msgstr ""
+msgstr "치명타"
 
 #. Key: KeywordDefinition.CriticalHit.Description
 msgctxt "KeywordDefinition.CriticalHit.Description"
 msgid "A spell that deals a Critical Hit will deal double damage."
-msgstr ""
+msgstr "치명타가 발생하면 데미지가 두 배가 됩니다."
 
 #. Key: KeywordDefinition.Dead.DisplayName
 msgctxt "KeywordDefinition.Dead.DisplayName"
@@ -24344,17 +24354,17 @@ msgstr "죽음"
 #. Key: KeywordDefinition.Dead.Description
 msgctxt "KeywordDefinition.Dead.Description"
 msgid "This Mage has died and needs to be buried in a <slink=Grave>."
-msgstr ""
+msgstr "이 마법사는 죽었습니다. <slink=Grave>에 묻어야 합니다."
 
 #. Key: KeywordDefinition.Buried.DisplayName
 msgctxt "KeywordDefinition.Buried.DisplayName"
 msgid "Buried"
-msgstr "묻기"
+msgstr "묻힘"
 
 #. Key: KeywordDefinition.Buried.Description
 msgctxt "KeywordDefinition.Buried.Description"
 msgid "This Mage has been buried and needs a <slink=Funeral> at their <slink=Grave>."
-msgstr ""
+msgstr "이 마법사는 무덤에 묻혔습니다. <slink=Grave>에서 <slink=Funeral>을 치러야 합니다."
 
 #. Key: KeywordDefinition.CombatStat_DodgeChance.DisplayName
 msgctxt "KeywordDefinition.CombatStat_DodgeChance.DisplayName"
@@ -24364,27 +24374,27 @@ msgstr "회피"
 #. Key: KeywordDefinition.CombatStat_DodgeChance.Description
 msgctxt "KeywordDefinition.CombatStat_DodgeChance.Description"
 msgid "Dodge percent represents a Mage's odds to dodge incoming attacks."
-msgstr ""
+msgstr "회피 확률에 따라 적의 공격을 피할 수 있습니다."
 
 #. Key: KeywordDefinition.CombatStat_Retaliation.DisplayName
 msgctxt "KeywordDefinition.CombatStat_Retaliation.DisplayName"
 msgid "Retaliation"
-msgstr "마나 회복"
+msgstr "보복"
 
 #. Key: KeywordDefinition.CombatStat_Retaliation.Description
 msgctxt "KeywordDefinition.CombatStat_Retaliation.Description"
 msgid "When attacked, a Mage with Retaliate will damage the attacker."
-msgstr ""
+msgstr "공격당하면 보복 수치에 따라 공격한 적에게 데미지를 가합니다."
 
 #. Key: KeywordDefinition.Refining_Beast.DisplayName
 msgctxt "KeywordDefinition.Refining_Beast.DisplayName"
 msgid "Refining Beast"
-msgstr ""
+msgstr "제련 괴물"
 
 #. Key: KeywordDefinition.Refining_Beast.Description
 msgctxt "KeywordDefinition.Refining_Beast.Description"
 msgid "A creature that serves wizards by transforming reagents. They may need to be hatched, and may require food, affection, or other magical care to do so."
-msgstr ""
+msgstr "자원을 새로운 재료로 바꿈으로서 마법사를 돕는 생물들입니다. 알에서 부화시켜야 할 때도 있습니다. 학생들이 먹이와 관심을 주고 돌봐 주어야 합니다."
 
 #. Key: KeywordDefinition.Nightmares.DisplayName
 msgctxt "KeywordDefinition.Nightmares.DisplayName"
@@ -24394,7 +24404,7 @@ msgstr "악몽"
 #. Key: KeywordDefinition.Nightmares.Description
 msgctxt "KeywordDefinition.Nightmares.Description"
 msgid "Magical Nightmares are dangerous, causing <slink=MajorInjury> and sometimes more dangerous effects to the student and others."
-msgstr "마법의 악몽은 위험하고 <slink=MajorInjury> 때로는 학생과 다른 사람들에게 더 위험한 영향을 미칩니다."
+msgstr "마법사의 악몽은 위험합니다. 마법사들에게 <slink=MajorInjury> 상태를 부여하거나 더 위험한 효과를 일으킵니다."
 
 #. Key: KeywordDefinition.LesserWand.DisplayName
 msgctxt "KeywordDefinition.LesserWand.DisplayName"
@@ -24404,27 +24414,27 @@ msgstr "지팡이"
 #. Key: KeywordDefinition.LesserWand.Description
 msgctxt "KeywordDefinition.LesserWand.Description"
 msgid "Used by wizards to cast spells. Permanently binds to its destined student."
-msgstr ""
+msgstr "마법사들이 주문을 시전하기 위해 필요합니다. 주인에게 영원히 귀속됩니다."
 
 #. Key: KeywordDefinition.Filth.DisplayName
 msgctxt "KeywordDefinition.Filth.DisplayName"
 msgid "Filth"
-msgstr ""
+msgstr "쓰레기"
 
 #. Key: KeywordDefinition.Filth.Description
 msgctxt "KeywordDefinition.Filth.Description"
 msgid "Disgusting fluids and debris created by cooking, crafting, and some creatures. <slink=JobType_Clean> to remove."
-msgstr ""
+msgstr "요리나 제작, 다른 활동으로 인해 생겨난 역겨운 흔적입니다. <slink=JobType_Clean>를 통해 치울 수 있습니다."
 
 #. Key: KeywordDefinition.Clutter.DisplayName
 msgctxt "KeywordDefinition.Clutter.DisplayName"
 msgid "Clutter"
-msgstr "쓰레기"
+msgstr "잡동사니"
 
 #. Key: KeywordDefinition.Clutter.Description
 msgctxt "KeywordDefinition.Clutter.Description"
 msgid "Items left about on the floor. Build storage and <slink=JobType_Haul> the items away."
-msgstr ""
+msgstr "바닥에 널브러진 아이템들입니다. 저장소를 짓고 <slink=JobType_Haul>을 통해 아이템을 저장하세요."
 
 #. Key: KeywordDefinition.Shop_Construction.DisplayName
 msgctxt "KeywordDefinition.Shop_Construction.DisplayName"
@@ -24434,7 +24444,7 @@ msgstr "건설"
 #. Key: KeywordDefinition.Shop_Construction.Description
 msgctxt "KeywordDefinition.Shop_Construction.Description"
 msgid "Blocks to build your school."
-msgstr ""
+msgstr "학교를 건설하기 위한 블록들입니다."
 
 #. Key: KeywordDefinition.Shop_Furniture.DisplayName
 msgctxt "KeywordDefinition.Shop_Furniture.DisplayName"
@@ -24444,27 +24454,27 @@ msgstr "가구"
 #. Key: KeywordDefinition.Shop_Furniture.Description
 msgctxt "KeywordDefinition.Shop_Furniture.Description"
 msgid "Miscellaneous indoor furniture."
-msgstr ""
+msgstr "다양한 가구입니다."
 
 #. Key: KeywordDefinition.Shop_Crafting.DisplayName
 msgctxt "KeywordDefinition.Shop_Crafting.DisplayName"
 msgid "Crafting"
-msgstr "제작 중"
+msgstr "제작"
 
 #. Key: KeywordDefinition.Shop_Crafting.Description
 msgctxt "KeywordDefinition.Shop_Crafting.Description"
 msgid "Furniture used for crafting and refining."
-msgstr "가구는 제작과 refining에 쓰입니다."
+msgstr "제작에 쓰이는 시설입니다."
 
 #. Key: KeywordDefinition.Shop_Teaching.DisplayName
 msgctxt "KeywordDefinition.Shop_Teaching.DisplayName"
 msgid "Teaching"
-msgstr ""
+msgstr "교육"
 
 #. Key: KeywordDefinition.Shop_Teaching.Description
 msgctxt "KeywordDefinition.Shop_Teaching.Description"
 msgid "Furniture for classrooms."
-msgstr ""
+msgstr "교육을 위한 시설입니다."
 
 #. Key: KeywordDefinition.Shop_Lighting.DisplayName
 msgctxt "KeywordDefinition.Shop_Lighting.DisplayName"
@@ -24474,17 +24484,17 @@ msgstr "조명"
 #. Key: KeywordDefinition.Shop_Lighting.Description
 msgctxt "KeywordDefinition.Shop_Lighting.Description"
 msgid "Lights and windows."
-msgstr ""
+msgstr "조명과 창문입니다."
 
 #. Key: KeywordDefinition.Shop_Storage.DisplayName
 msgctxt "KeywordDefinition.Shop_Storage.DisplayName"
 msgid "Storage"
-msgstr ""
+msgstr "저장소"
 
 #. Key: KeywordDefinition.Shop_Storage.Description
 msgctxt "KeywordDefinition.Shop_Storage.Description"
 msgid "Storage for loose objects in your school."
-msgstr ""
+msgstr "아이템을 저장하기 위한 곳입니다."
 
 #. Key: KeywordDefinition.Shop_Garden.DisplayName
 msgctxt "KeywordDefinition.Shop_Garden.DisplayName"
@@ -24494,7 +24504,7 @@ msgstr "정원"
 #. Key: KeywordDefinition.Shop_Garden.Description
 msgctxt "KeywordDefinition.Shop_Garden.Description"
 msgid "Furniture meant to go outdoors."
-msgstr ""
+msgstr "야외에 놓는 시설입니다."
 
 #. Key: KeywordDefinition.Shop_Recreation.DisplayName
 msgctxt "KeywordDefinition.Shop_Recreation.DisplayName"
@@ -24504,7 +24514,7 @@ msgstr "휴식"
 #. Key: KeywordDefinition.Shop_Recreation.Description
 msgctxt "KeywordDefinition.Shop_Recreation.Description"
 msgid "Relaxation options to raise the <slink=Mood> of your Mages."
-msgstr ""
+msgstr "<slink=Mood>를 올리기 위한 휴식 시설입니다."
 
 #. Key: KeywordDefinition.Shop_Decorations.DisplayName
 msgctxt "KeywordDefinition.Shop_Decorations.DisplayName"
@@ -24514,17 +24524,17 @@ msgstr "장식"
 #. Key: KeywordDefinition.Shop_Decorations.Description
 msgctxt "KeywordDefinition.Shop_Decorations.Description"
 msgid "Finery that increases the <slink=Luxury> of your school."
-msgstr ""
+msgstr "<slink=Luxury>을 올리기 위한 장식물입니다."
 
 #. Key: KeywordDefinition.Shop_Shrinks.DisplayName
 msgctxt "KeywordDefinition.Shop_Shrinks.DisplayName"
 msgid "Shrinks"
-msgstr "축소"
+msgstr "축소물"
 
 #. Key: KeywordDefinition.Shop_Shrinks.Description
 msgctxt "KeywordDefinition.Shop_Shrinks.Description"
 msgid "Furniture made miniature by Air magic."
-msgstr ""
+msgstr "바람 마법으로 소형화된 가구들입니다."
 
 #. Key: KeywordDefinition.CombatSpells.DisplayName
 msgctxt "KeywordDefinition.CombatSpells.DisplayName"
@@ -24534,87 +24544,87 @@ msgstr "전투 주문"
 #. Key: KeywordDefinition.CombatSpells.Description
 msgctxt "KeywordDefinition.CombatSpells.Description"
 msgid "Spells used by Mages to defend themselves in battles. Each Skill has multiple Combat Spells to unlock which become more powerful as the Mage gains Skill."
-msgstr ""
+msgstr "마법사들이 전투에서 사용하는 주문입니다. 마법사들의 스킬 레벨이 올라갈수록 더 다양하고 강력한 전투 주문을 사용할 수 있습니다."
 
 #. Key: KeywordDefinition.Grave.DisplayName
 msgctxt "KeywordDefinition.Grave.DisplayName"
 msgid "Grave"
-msgstr ""
+msgstr "무덤"
 
 #. Key: KeywordDefinition.Grave.Description
 msgctxt "KeywordDefinition.Grave.Description"
 msgid "Dead Mages can be laid to rest in a Grave. Holding a Funeral at some Graves merely allows the Mage within to rest in peace, while others will allow a particular type of <slink=Spirit> to arrive to help your school each night. All Graves will also grow a <slink=HallowlilyPlant> after a Funeral is held there."
-msgstr ""
+msgstr "죽은 마법사들은 무덤에서 영원한 휴식을 취합니다. 무덤에서 장례식을 치르면 무덤의 종류에 따라 <slink=Spirit>이 나타나 마법사들을 도와 주기도 합니다. 장례식이 치러진 모든 무덤에서는 <slink=HallowlilyPlant>이 자랍니다."
 
 #. Key: KeywordDefinition.Ghost.DisplayName
 msgctxt "KeywordDefinition.Ghost.DisplayName"
 msgid "Ghost"
-msgstr ""
+msgstr "유령"
 
 #. Key: KeywordDefinition.Ghost.Description
 msgctxt "KeywordDefinition.Ghost.Description"
 msgid "A Ghost is a permanent apparition that exists at all times, as long as its Grave is not covered by the <slink=Fog>. Ghosts act as Staff for your school."
-msgstr ""
+msgstr "유령은 무덤이 <slink=Fog>에 덮이지 않은 이상 언제나 존재합니다. 그들은 학교의 교사로서 근무할 수 있습니다."
 
 #. Key: KeywordDefinition.Spirit.DisplayName
 msgctxt "KeywordDefinition.Spirit.DisplayName"
 msgid "Spirit"
-msgstr "정신"
+msgstr "영혼"
 
 #. Key: KeywordDefinition.Spirit.Description
 msgctxt "KeywordDefinition.Spirit.Description"
 msgid "A Spirit is a temporary apparition that appears for a short while at night, as long as its Grave is not covered by the <slink=Fog>. Spirits have different purposes depending on the Grave in which their body was interred."
-msgstr ""
+msgstr "영혼은 무덤이 <slink=Fog>에 덮이지 않은 상태에서는 밤마다 나타납니다. 무덤의 종류에 따라 각기 다른 역할을 합니다."
 
 #. Key: KeywordDefinition.SpectralCreature.DisplayName
 msgctxt "KeywordDefinition.SpectralCreature.DisplayName"
 msgid "Spectral Creature"
-msgstr ""
+msgstr "유령 생명체"
 
 #. Key: KeywordDefinition.SpectralCreature.Description
 msgctxt "KeywordDefinition.SpectralCreature.Description"
 msgid "Spectral Creatures appear at night from wild animal corpses. They can be dispelled by a <slink=Snaptrap>."
-msgstr ""
+msgstr "유령 생명체는 야생 동물의 시체에서 밤마다 나타납니다. <slink=Snaptrap>을 통해 쫓아낼 수 있습니다."
 
 #. Key: KeywordDefinition.Funeral.DisplayName
 msgctxt "KeywordDefinition.Funeral.DisplayName"
 msgid "Funeral"
-msgstr ""
+msgstr "장례식"
 
 #. Key: KeywordDefinition.Funeral.Description
 msgctxt "KeywordDefinition.Funeral.Description"
 msgid "Holding a <slink=Funeral> for a deceased Mages allows them to rest in peace. A <slink=HallowlilyPlant> grows on their Grave and can be harvested. Additionally, fancier Graves will occasionally allow a <slink=Spirit> to appear and assist your school."
-msgstr ""
+msgstr "<slink=Funeral>을 치르면 죽은 마법사가 영면에 들 수 있습니다. 장례식이 치러진 무덤에서는 <slink=HallowlilyPlant>이 자랍니다. 고급 무덤에서는 <slink=Spirit>이 나타나 마법사들을 돕습니다."
 
 #. Key: KeywordDefinition.MagicalStability.DisplayName
 msgctxt "KeywordDefinition.MagicalStability.DisplayName"
 msgid "Magical Stability"
-msgstr ""
+msgstr "마법적 안정성"
 
 #. Key: KeywordDefinition.MagicalStability.Description
 msgctxt "KeywordDefinition.MagicalStability.Description"
 msgid "Mages with high magical potential have lower magical stability, giving them permanently lowered <slink=Mood>. They'll need many sources of positive Conviction like Recreation or fancier eating, dining, and sleeping quarters."
-msgstr ""
+msgstr "좋은 마법 재능을 가진 마법사들은 마법적 안정성이 낮아 <slink=Mood>가 낮습니다. 휴식이나 좋은 식사, 좋은 침실이나 식당을 통해 만족도를 높여 주어야 합니다."
 
 #. Key: KeywordDefinition.Stun.DisplayName
 msgctxt "KeywordDefinition.Stun.DisplayName"
 msgid "Stun"
-msgstr ""
+msgstr "스턴"
 
 #. Key: KeywordDefinition.Stun.Description
 msgctxt "KeywordDefinition.Stun.Description"
 msgid "Stunned Mages have their <slink=CombatStat_CombatSpeed> severely lowered."
-msgstr ""
+msgstr "스턴 상태의 마법사는 <slink=CombatStat_CombatSpeed>가 크게 낮아집니다."
 
 #. Key: KeywordDefinition.DeathSave.DisplayName
 msgctxt "KeywordDefinition.DeathSave.DisplayName"
 msgid "Death Save"
-msgstr ""
+msgstr "소생 횟수"
 
 #. Key: KeywordDefinition.DeathSave.Description
 msgctxt "KeywordDefinition.DeathSave.Description"
 msgid "A Death Save prevents Mages from dying when suffering a <slink=MajorInjury>. Earning <slink=Medallions> grants +1 Max Death Save."
-msgstr ""
+msgstr "소생 횟수는 <slink=MajorInjury> 상태의 마법사가 죽는 것을 막아 줍니다. <slink=Medallions> 하나마다 소생 횟수가 +1 추가됩니다."
 
 #. Key: KeywordDefinition.MajorInjury.DisplayName
 msgctxt "KeywordDefinition.MajorInjury.DisplayName"
@@ -24624,37 +24634,37 @@ msgstr "트라우마"
 #. Key: KeywordDefinition.MajorInjury.Description
 msgctxt "KeywordDefinition.MajorInjury.Description"
 msgid "A long-lasting limitation incurred when a Mage reaches 0 <slink=HP> or has a <slink=break>. If a Mage recieves a <slink=MajorInjury> and has no Death Saves, they die."
-msgstr ""
+msgstr "마법사가 0<slink=HP>가 되거나 <slink=break>을 겪을 때 받는 장기적인 상태이상입니다. 마법사가 <slink=MajorInjury> 상태가 되었을 때 소생 횟수가 남아 있지 않다면 죽습니다."
 
 #. Key: KeywordDefinition.Retaliate.DisplayName
 msgctxt "KeywordDefinition.Retaliate.DisplayName"
 msgid "Retaliate"
-msgstr "마나 회복"
+msgstr "보복"
 
 #. Key: KeywordDefinition.Retaliate.Description
 msgctxt "KeywordDefinition.Retaliate.Description"
 msgid "When attacked, a Mage with Retaliate will damage the attacker."
-msgstr ""
+msgstr "공격당하면 보복 수치에 따라 공격한 적에게 데미지를 가합니다."
 
 #. Key: KeywordDefinition.Cover.DisplayName
 msgctxt "KeywordDefinition.Cover.DisplayName"
 msgid "Cover"
-msgstr ""
+msgstr "장막"
 
 #. Key: KeywordDefinition.Cover.Description
 msgctxt "KeywordDefinition.Cover.Description"
 msgid "When attacked, a Mage with Cover has a chance to dodge the attack."
-msgstr ""
+msgstr "공격당했을 때 회피할 확률이 올라갑니다."
 
 #. Key: KeywordDefinition.Chain.DisplayName
 msgctxt "KeywordDefinition.Chain.DisplayName"
 msgid "Chain"
-msgstr ""
+msgstr "연쇄"
 
 #. Key: KeywordDefinition.Chain.Description
 msgctxt "KeywordDefinition.Chain.Description"
 msgid "Spells with Chain will jump to attack another enemy for the same amount of damage. Spells with Chain also cannot be dodged."
-msgstr ""
+msgstr "연쇄가 붙은 공격은 동일 데미지로 다른 적을 연속 타격합니다. 연쇄가 붙은 공격은 회피할 수 없습니다."
 
 #. Key: KeywordDefinition.Dodge.DisplayName
 msgctxt "KeywordDefinition.Dodge.DisplayName"
@@ -24664,7 +24674,7 @@ msgstr "회피"
 #. Key: KeywordDefinition.Dodge.Description
 msgctxt "KeywordDefinition.Dodge.Description"
 msgid "Dodge percent represents a Mage's odds to dodge incoming attacks."
-msgstr ""
+msgstr "회피 확률에 따라 적의 공격을 피할 수 있습니다."
 
 #. Key: KeywordDefinition.Luxury.DisplayName
 msgctxt "KeywordDefinition.Luxury.DisplayName"
@@ -24674,47 +24684,47 @@ msgstr "화려함"
 #. Key: KeywordDefinition.Luxury.Description
 msgctxt "KeywordDefinition.Luxury.Description"
 msgid "Fancy decorative objects grant Luxury to a Room, while unsightly things like filth will remove Luxury. Some roomtypes require high Luxury to be created."
-msgstr ""
+msgstr "화려한 장식품은 방에 화려함을 더해주고, 보기 싫은 물건들은 화려함을 낮춥니다. 일부 방 타입은 특정 값 이상의 화려함을 요구합니다."
 
 #. Key: KeywordDefinition.Badges.DisplayName
 msgctxt "KeywordDefinition.Badges.DisplayName"
 msgid "Medallions"
-msgstr "Medallions"
+msgstr "메달"
 
 #. Key: KeywordDefinition.Badges.Description
 msgctxt "KeywordDefinition.Badges.Description"
 msgid "Students can complete Trials to earn Medallions that represent the inner growth of a Student. Each Medallion unlocks additional power for a Student."
-msgstr ""
+msgstr "학생들은 과제를 완수하고 메달을 받을 수 있습니다. 이는 학생들의 내면의 성장을 뜻합니다. 각 메달은 학생들에게 추가적인 능력을 부여합니다."
 
 #. Key: KeywordDefinition.Trials.DisplayName
 msgctxt "KeywordDefinition.Trials.DisplayName"
 msgid "Trials"
-msgstr ""
+msgstr "과제"
 
 #. Key: KeywordDefinition.Trials.Description
 msgctxt "KeywordDefinition.Trials.Description"
 msgid "Students can complete Trials to earn <slink=Medallions> that represent the inner growth of a Student. Each Medallion unlocks additional power for a Student."
-msgstr ""
+msgstr "학생들은 과제를 완수하고 <slink=Medallions>을 받을 수 있습니다. 이는 학생들의 내면의 성장을 뜻합니다. 각 메달은 학생들에게 추가적인 능력을 부여합니다."
 
 #. Key: KeywordDefinition.Disapparated.DisplayName
 msgctxt "KeywordDefinition.Disapparated.DisplayName"
 msgid "Disapparated"
-msgstr ""
+msgstr "사라짐"
 
 #. Key: KeywordDefinition.Disapparated.Description
 msgctxt "KeywordDefinition.Disapparated.Description"
 msgid "<slink=FounderGrave> is covered by Fog or shrunken. Place the Grave in the world or Repel the Fog to re-apparate the Founder."
-msgstr ""
+msgstr "<slink=FounderGrave>이 안개에 뒤덮혔거나 축소되어 있습니다. 무덤에서 안개를 몰아내거나 무덤을 땅 위에 배치하여 창립자를 다시 불러내세요."
 
 #. Key: KeywordDefinition.Center.DisplayName
 msgctxt "KeywordDefinition.Center.DisplayName"
 msgid "Center"
-msgstr ""
+msgstr "중심"
 
 #. Key: KeywordDefinition.Center.Description
 msgctxt "KeywordDefinition.Center.Description"
 msgid "Centers represent a Mage's inner self as it relates to their magic."
-msgstr "센터는 마법과 관련된 마법의 내면을 나타냅니다."
+msgstr "중심은 마법사의 내면의 중심을 뜻합니다."
 
 #. Key: KeywordDefinition.CursedCanvases.DisplayName
 msgctxt "KeywordDefinition.CursedCanvases.DisplayName"
@@ -25783,12 +25793,12 @@ msgstr "횃불소등자가 풀려났습니다!"
 #. Key: GlobalEventDefinition.TestGhost1.EventPersistLog
 msgctxt "GlobalEventDefinition.TestGhost1.EventPersistLog"
 msgid "A Torch Snuffer wanders the halls."
-msgstr "횃불소등자가 홀을 배회합니다."
+msgstr "횃불소등자가 학교를 배회합니다."
 
 #. Key: GlobalEventDefinition.TestGhost1.EventStopLog
 msgctxt "GlobalEventDefinition.TestGhost1.EventStopLog"
 msgid "The Torch Snuffer has left."
-msgstr "횃불소등자는 떠났습니다."
+msgstr "횃불소등자가 떠났습니다."
 
 #. Key: GlobalEventDefinition.TestGhost1.EventLogHover
 msgctxt "GlobalEventDefinition.TestGhost1.EventLogHover"
@@ -25808,12 +25818,12 @@ msgstr "강한 횃불소등자가 풀려났습니다!"
 #. Key: GlobalEventDefinition.TestGhost1_Tier2.EventPersistLog
 msgctxt "GlobalEventDefinition.TestGhost1_Tier2.EventPersistLog"
 msgid "A Torch Snuffer wanders the halls."
-msgstr "횃불소등자가 홀을 배회합니다."
+msgstr "횃불소등자가 학교를 배회합니다."
 
 #. Key: GlobalEventDefinition.TestGhost1_Tier2.EventStopLog
 msgctxt "GlobalEventDefinition.TestGhost1_Tier2.EventStopLog"
 msgid "The Torch Snuffer has left."
-msgstr "횃불소등자는 떠났습니다."
+msgstr "횃불소등자가 떠났습니다."
 
 #. Key: GlobalEventDefinition.TestGhost1_Tier2.EventLogHover
 msgctxt "GlobalEventDefinition.TestGhost1_Tier2.EventLogHover"
@@ -25833,12 +25843,12 @@ msgstr "매우 강한 횃불소등자가 풀려났습니다!"
 #. Key: GlobalEventDefinition.TestGhost1_Tier3.EventPersistLog
 msgctxt "GlobalEventDefinition.TestGhost1_Tier3.EventPersistLog"
 msgid "A Torch Snuffer wanders the halls."
-msgstr "횃불소등자가 홀을 배회합니다."
+msgstr "횃불소등자가 학교를 배회합니다."
 
 #. Key: GlobalEventDefinition.TestGhost1_Tier3.EventStopLog
 msgctxt "GlobalEventDefinition.TestGhost1_Tier3.EventStopLog"
 msgid "The Torch Snuffer has left."
-msgstr "횃불소등자는 떠났습니다."
+msgstr "횃불소등자가 떠났습니다."
 
 #. Key: GlobalEventDefinition.TestGhost1_Tier3.EventLogHover
 msgctxt "GlobalEventDefinition.TestGhost1_Tier3.EventLogHover"
@@ -25858,12 +25868,12 @@ msgstr "상자파괴자가 풀려났습니다!"
 #. Key: GlobalEventDefinition.TestGhost2.EventPersistLog
 msgctxt "GlobalEventDefinition.TestGhost2.EventPersistLog"
 msgid "A Chest Smasher wanders the halls."
-msgstr "상자파괴자가 홀을 배회합니다."
+msgstr "상자파괴자가 학교를 배회합니다."
 
 #. Key: GlobalEventDefinition.TestGhost2.EventStopLog
 msgctxt "GlobalEventDefinition.TestGhost2.EventStopLog"
 msgid "The Chest Smasher has left."
-msgstr "상자파괴자는 떠났습니다."
+msgstr "상자파괴자가 떠났습니다."
 
 #. Key: GlobalEventDefinition.TestGhost2.EventLogHover
 msgctxt "GlobalEventDefinition.TestGhost2.EventLogHover"
@@ -25883,12 +25893,12 @@ msgstr "강한 상자파괴자가 풀려났습니다!"
 #. Key: GlobalEventDefinition.TestGhost2_Tier2.EventPersistLog
 msgctxt "GlobalEventDefinition.TestGhost2_Tier2.EventPersistLog"
 msgid "A Chest Smasher wanders the halls."
-msgstr "상자파괴자가 홀을 배회합니다."
+msgstr "상자파괴자가 학교를 배회합니다."
 
 #. Key: GlobalEventDefinition.TestGhost2_Tier2.EventStopLog
 msgctxt "GlobalEventDefinition.TestGhost2_Tier2.EventStopLog"
 msgid "The Chest Smasher has left."
-msgstr "상자파괴자는 떠났습니다."
+msgstr "상자파괴자가 떠났습니다."
 
 #. Key: GlobalEventDefinition.TestGhost2_Tier2.EventLogHover
 msgctxt "GlobalEventDefinition.TestGhost2_Tier2.EventLogHover"
@@ -25908,12 +25918,12 @@ msgstr "매우 강한 상자파괴자가 풀려났습니다!"
 #. Key: GlobalEventDefinition.TestGhost2_Tier3.EventPersistLog
 msgctxt "GlobalEventDefinition.TestGhost2_Tier3.EventPersistLog"
 msgid "A Chest Smasher wanders the halls."
-msgstr "상자파괴자가 홀을 배회합니다."
+msgstr "상자파괴자가 학교를 배회합니다."
 
 #. Key: GlobalEventDefinition.TestGhost2_Tier3.EventStopLog
 msgctxt "GlobalEventDefinition.TestGhost2_Tier3.EventStopLog"
 msgid "The Chest Smasher has left."
-msgstr "상자파괴자는 떠났습니다."
+msgstr "상자파괴자가 떠났습니다."
 
 #. Key: GlobalEventDefinition.TestGhost2_Tier3.EventLogHover
 msgctxt "GlobalEventDefinition.TestGhost2_Tier3.EventLogHover"
@@ -25933,12 +25943,12 @@ msgstr "진흙배회자가 풀려났습니다!"
 #. Key: GlobalEventDefinition.TestGhost3.EventPersistLog
 msgctxt "GlobalEventDefinition.TestGhost3.EventPersistLog"
 msgid "A Messy Meddler wanders the halls."
-msgstr "진흙배회자가 홀을 배회합니다."
+msgstr "진흙배회자가 학교를 배회합니다."
 
 #. Key: GlobalEventDefinition.TestGhost3.EventStopLog
 msgctxt "GlobalEventDefinition.TestGhost3.EventStopLog"
 msgid "The Messy Meddler has left."
-msgstr "진흙배회자는 떠났습니다."
+msgstr "진흙배회자가 떠났습니다."
 
 #. Key: GlobalEventDefinition.TestGhost3.EventLogHover
 msgctxt "GlobalEventDefinition.TestGhost3.EventLogHover"
@@ -25958,12 +25968,12 @@ msgstr "강한 진흙배회자가 풀려났습니다!"
 #. Key: GlobalEventDefinition.TestGhost3_Tier2.EventPersistLog
 msgctxt "GlobalEventDefinition.TestGhost3_Tier2.EventPersistLog"
 msgid "A Messy Meddler wanders the halls."
-msgstr "진흙배회자가 홀을 배회합니다."
+msgstr "진흙배회자가 학교를 배회합니다."
 
 #. Key: GlobalEventDefinition.TestGhost3_Tier2.EventStopLog
 msgctxt "GlobalEventDefinition.TestGhost3_Tier2.EventStopLog"
 msgid "The Messy Meddler has left."
-msgstr "진흙배회자는 떠났습니다."
+msgstr "진흙배회자가 떠났습니다."
 
 #. Key: GlobalEventDefinition.TestGhost3_Tier2.EventLogHover
 msgctxt "GlobalEventDefinition.TestGhost3_Tier2.EventLogHover"
@@ -25983,12 +25993,12 @@ msgstr "매우 강한 진흙배회자가 풀려났습니다!"
 #. Key: GlobalEventDefinition.TestGhost3_Tier3.EventPersistLog
 msgctxt "GlobalEventDefinition.TestGhost3_Tier3.EventPersistLog"
 msgid "A Messy Meddler wanders the halls."
-msgstr "진흙배회자가 홀을 배회합니다."
+msgstr "진흙배회자가 학교를 배회합니다."
 
 #. Key: GlobalEventDefinition.TestGhost3_Tier3.EventStopLog
 msgctxt "GlobalEventDefinition.TestGhost3_Tier3.EventStopLog"
 msgid "The Messy Meddler has left."
-msgstr "진흙배회자는 떠났습니다."
+msgstr "진흙배회자가 떠났습니다."
 
 #. Key: GlobalEventDefinition.TestGhost3_Tier3.EventLogHover
 msgctxt "GlobalEventDefinition.TestGhost3_Tier3.EventLogHover"
@@ -26748,77 +26758,77 @@ msgstr "회춘의 물약"
 #. Key: RecipeDefinition.ManaPotionRecipe.DisplayName
 msgctxt "RecipeDefinition.ManaPotionRecipe.DisplayName"
 msgid "Potion of Recharging"
-msgstr ""
+msgstr "충전의 물약"
 
 #. Key: RecipeDefinition.BraveryPotionRecipe.DisplayName
 msgctxt "RecipeDefinition.BraveryPotionRecipe.DisplayName"
 msgid "Bravery Potion"
-msgstr "용감한 물약"
+msgstr "용기의 물약"
 
 #. Key: RecipeDefinition.RevivalPotionRecipe.DisplayName
 msgctxt "RecipeDefinition.RevivalPotionRecipe.DisplayName"
 msgid "Revival Flask"
-msgstr "리바이벌 플라스크"
+msgstr "부활 물약"
 
 #. Key: RecipeDefinition.StunFlaskRecipe.DisplayName
 msgctxt "RecipeDefinition.StunFlaskRecipe.DisplayName"
 msgid "Lightning in a Bottle"
-msgstr "병 속의 번개"
+msgstr "병에 든 번개"
 
 #. Key: RecipeDefinition.MiasmaFlaskRecipe.DisplayName
 msgctxt "RecipeDefinition.MiasmaFlaskRecipe.DisplayName"
 msgid "Miasma Flask"
-msgstr "경련 플라스크"
+msgstr "경련 물약"
 
 #. Key: RecipeDefinition.GreaterHealthPotionRecipe.DisplayName
 msgctxt "RecipeDefinition.GreaterHealthPotionRecipe.DisplayName"
 msgid "Potion of Greater Rejuvenation"
-msgstr ""
+msgstr "고급 회춘의 물약"
 
 #. Key: RecipeDefinition.GreaterManaPotionRecipe.DisplayName
 msgctxt "RecipeDefinition.GreaterManaPotionRecipe.DisplayName"
 msgid "Potion of Greater Recharging"
-msgstr "더 큰 재충전의 물약"
+msgstr "고급 충전의 물약"
 
 #. Key: RecipeDefinition.CalmingPotionRecipe.DisplayName
 msgctxt "RecipeDefinition.CalmingPotionRecipe.DisplayName"
 msgid "Calming Potion"
-msgstr ""
+msgstr "진정 물약"
 
 #. Key: RecipeDefinition.DragonfireFlaskRecipe.DisplayName
 msgctxt "RecipeDefinition.DragonfireFlaskRecipe.DisplayName"
 msgid "Dragonfire Flask"
-msgstr "드래곤 파이어 플라스크"
+msgstr "용의 숨결 물약"
 
 #. Key: RecipeDefinition.EnshroudingPotionRecipe.DisplayName
 msgctxt "RecipeDefinition.EnshroudingPotionRecipe.DisplayName"
 msgid "Enshrouding Flask"
-msgstr ""
+msgstr "장막 물약"
 
 #. Key: RecipeDefinition.PotionOfStrengthRecipe.DisplayName
 msgctxt "RecipeDefinition.PotionOfStrengthRecipe.DisplayName"
 msgid "Potion of Strength"
-msgstr ""
+msgstr "힘의 물약"
 
 #. Key: RecipeDefinition.HastePotionRecipe.DisplayName
 msgctxt "RecipeDefinition.HastePotionRecipe.DisplayName"
 msgid "Hastening Potion"
-msgstr ""
+msgstr "속도의 물약"
 
 #. Key: RecipeDefinition.PotionOfRetaliationRecipe.DisplayName
 msgctxt "RecipeDefinition.PotionOfRetaliationRecipe.DisplayName"
 msgid "Potion of Retaliation"
-msgstr ""
+msgstr "복수의 물약"
 
 #. Key: RecipeDefinition.EarthArmorPotionRecipe.DisplayName
 msgctxt "RecipeDefinition.EarthArmorPotionRecipe.DisplayName"
 msgid "Earth Guardian's Potion"
-msgstr ""
+msgstr "대지 수호자의 물약"
 
 #. Key: RecipeDefinition.CheerfulnessPotionRecipe.DisplayName
 msgctxt "RecipeDefinition.CheerfulnessPotionRecipe.DisplayName"
 msgid "Cheerfulness Potion"
-msgstr ""
+msgstr "행복의 물약"
 
 #. Key: RecipeDefinition.StationDebugAlchemy1.DisplayName
 msgctxt "RecipeDefinition.StationDebugAlchemy1.DisplayName"
@@ -26833,7 +26843,7 @@ msgstr "Debug Alchemy 2"
 #. Key: RecipeDefinition.UntanglingPotionRecipe.DisplayName
 msgctxt "RecipeDefinition.UntanglingPotionRecipe.DisplayName"
 msgid "Untangling Potion"
-msgstr ""
+msgstr "속박 해제 물약"
 
 #. Key: RecipeDefinition.Fire_1_Recipe.DisplayName
 msgctxt "RecipeDefinition.Fire_1_Recipe.DisplayName"
@@ -27028,22 +27038,22 @@ msgstr "재활용된 누더기 광부"
 #. Key: RecipeDefinition.QuiltedFertilizerRecipe.DisplayName
 msgctxt "RecipeDefinition.QuiltedFertilizerRecipe.DisplayName"
 msgid "Quilted Fertilizer"
-msgstr ""
+msgstr "누더기 정원사"
 
 #. Key: RecipeDefinition.RecycledFertilizerRecipe.DisplayName
 msgctxt "RecipeDefinition.RecycledFertilizerRecipe.DisplayName"
 msgid "Recycled Quilted Fertilizer"
-msgstr ""
+msgstr "재활용된 누더기 정원사"
 
 #. Key: RecipeDefinition.QuiltedHarvesterRecipe.DisplayName
 msgctxt "RecipeDefinition.QuiltedHarvesterRecipe.DisplayName"
 msgid "Quilted Harvester"
-msgstr ""
+msgstr "누더기 수확꾼"
 
 #. Key: RecipeDefinition.RecycledGardenerRecipe.DisplayName
 msgctxt "RecipeDefinition.RecycledGardenerRecipe.DisplayName"
 msgid "Recycled Quilted Harvester"
-msgstr ""
+msgstr "재활용된 누더기 수확꾼"
 
 #. Key: RecipeDefinition.SpindleDebugQuilting1.DisplayName
 msgctxt "RecipeDefinition.SpindleDebugQuilting1.DisplayName"
@@ -28221,11 +28231,13 @@ msgid ""
 "Hunt wild creatures for resources.\n"
 "Can do Task: Staff"
 msgstr ""
+"야생 동물을 사냥해 자원을 얻습니다.\n"
+"작업 가능: 교사"
 
 #. Key: JobTypeDefinition.JobType_Healing.DisplayName
 msgctxt "JobTypeDefinition.JobType_Healing.DisplayName"
 msgid "Aid"
-msgstr ""
+msgstr "치료"
 
 #. Key: JobTypeDefinition.JobType_Healing.Description
 msgctxt "JobTypeDefinition.JobType_Healing.Description"
@@ -28233,6 +28245,8 @@ msgid ""
 "Remove dangerous statuses from characters and administer potions.\n"
 "Can do Task: Staff"
 msgstr ""
+"상태 이상을 제거하고 물약을 처방합니다.\n"
+"작업 가능: 교사"
 
 #. Key: JobTypeDefinition.JobType_Dining.DisplayName
 msgctxt "JobTypeDefinition.JobType_Dining.DisplayName"
@@ -28242,7 +28256,7 @@ msgstr "식사 중"
 #. Key: JobTypeDefinition.JobType_Dining.Description
 msgctxt "JobTypeDefinition.JobType_Dining.Description"
 msgid "Time to eat"
-msgstr ""
+msgstr "식사 시간"
 
 #. Key: JobTypeDefinition.JobType_Gearmaking.DisplayName
 msgctxt "JobTypeDefinition.JobType_Gearmaking.DisplayName"
@@ -28308,7 +28322,7 @@ msgstr "재고 채우기"
 #. Key: JobTypeDefinition.JobType_RestockInventory.Description
 msgctxt "JobTypeDefinition.JobType_RestockInventory.Description"
 msgid "Restock inventory."
-msgstr ""
+msgstr "재고 채우기"
 
 #. Key: JobTypeDefinition.JobType_OpenBlockers.DisplayName
 msgctxt "JobTypeDefinition.JobType_OpenBlockers.DisplayName"
@@ -28318,17 +28332,17 @@ msgstr "탐험"
 #. Key: JobTypeDefinition.JobType_OpenBlockers.Description
 msgctxt "JobTypeDefinition.JobType_OpenBlockers.Description"
 msgid "Explore dungeons and fight battles."
-msgstr ""
+msgstr "던전을 탐험하고 전투합니다."
 
 #. Key: JobTypeDefinition.JobType_Alarm.DisplayName
 msgctxt "JobTypeDefinition.JobType_Alarm.DisplayName"
 msgid "Alarm"
-msgstr ""
+msgstr "알람"
 
 #. Key: JobTypeDefinition.JobType_Alarm.Description
 msgctxt "JobTypeDefinition.JobType_Alarm.Description"
 msgid "Respond to alarms."
-msgstr ""
+msgstr "알람을 확인합니다."
 
 #. Key: JobTypeDefinition.JobType_Danger.DisplayName
 msgctxt "JobTypeDefinition.JobType_Danger.DisplayName"
@@ -28343,7 +28357,7 @@ msgstr ""
 #. Key: JobTypeDefinition.JobType_Teach.DisplayName
 msgctxt "JobTypeDefinition.JobType_Teach.DisplayName"
 msgid "Teach"
-msgstr ""
+msgstr "교육"
 
 #. Key: JobTypeDefinition.JobType_Teach.Description
 msgctxt "JobTypeDefinition.JobType_Teach.Description"
@@ -28351,11 +28365,13 @@ msgid ""
 "Teach students during scheduled classes. Teaching effectiveness is determined by the character's skill in the discipline.\n"
 "Can do Task: Staff"
 msgstr ""
+"학생을 가르칩니다. 교육 효율은 교사의 스킬 레벨에 따라 변화합니다.\n"
+"작업 가능: 교사"
 
 #. Key: JobTypeDefinition.JobType_Learn.DisplayName
 msgctxt "JobTypeDefinition.JobType_Learn.DisplayName"
 msgid "Learn"
-msgstr ""
+msgstr "학습"
 
 #. Key: JobTypeDefinition.JobType_Learn.Description
 msgctxt "JobTypeDefinition.JobType_Learn.Description"
@@ -28363,6 +28379,8 @@ msgid ""
 "Attend classes to learn magic.\n"
 "Can do Task: Students"
 msgstr ""
+"마법을 배우기 위해 수업을 듣습니다.\n"
+"작업 가능: 학생"
 
 #. Key: JobTypeDefinition.JobType_Eat.DisplayName
 msgctxt "JobTypeDefinition.JobType_Eat.DisplayName"
@@ -28372,7 +28390,7 @@ msgstr "식사"
 #. Key: JobTypeDefinition.JobType_Eat.Description
 msgctxt "JobTypeDefinition.JobType_Eat.Description"
 msgid "Eat food to recover <slink=Hunger>."
-msgstr ""
+msgstr "<slink=Hunger> 회복을 위해 음식을 먹습니다."
 
 #. Key: JobTypeDefinition.JobType_BedRest.DisplayName
 msgctxt "JobTypeDefinition.JobType_BedRest.DisplayName"
@@ -28382,7 +28400,7 @@ msgstr "체력 회복"
 #. Key: JobTypeDefinition.JobType_BedRest.Description
 msgctxt "JobTypeDefinition.JobType_BedRest.Description"
 msgid "Rest in a <slink=HospitalBed> to recover lost <slink=HP>."
-msgstr ""
+msgstr "<slink=HP> 회복을 위해 <slink=HospitalBed>에서 쉽니다."
 
 #. Key: JobTypeDefinition.JobType_Sleep.DisplayName
 msgctxt "JobTypeDefinition.JobType_Sleep.DisplayName"
@@ -28392,7 +28410,7 @@ msgstr "수면"
 #. Key: JobTypeDefinition.JobType_Sleep.Description
 msgctxt "JobTypeDefinition.JobType_Sleep.Description"
 msgid "Sleep to recover <slink=Sleep>."
-msgstr ""
+msgstr "<slink=Sleep> 욕구 충족을 위해 잡니다."
 
 #. Key: JobTypeDefinition.JobType_Cook.DisplayName
 msgctxt "JobTypeDefinition.JobType_Cook.DisplayName"
@@ -28405,6 +28423,8 @@ msgid ""
 "Prepare food using cooking stations.\n"
 "Can do Task: Staff"
 msgstr ""
+"요리 시설을 통해 음식을 만듭니다.\n"
+"작업 가능: 교사"
 
 #. Key: JobTypeDefinition.JobType_Construct.DisplayName
 msgctxt "JobTypeDefinition.JobType_Construct.DisplayName"
@@ -28417,6 +28437,8 @@ msgid ""
 "Build new floors, walls, supports, and stairs.\n"
 "Can do Task: Staff"
 msgstr ""
+"새 바닥, 벽, 계단과 기둥을 만듭니다.\n"
+"작업 가능: 교사"
 
 #. Key: JobTypeDefinition.JobType_Mining.DisplayName
 msgctxt "JobTypeDefinition.JobType_Mining.DisplayName"
@@ -28429,6 +28451,8 @@ msgid ""
 "Harvest stone and other resources from the earth.\n"
 "Can do Task: Staff, Quilted"
 msgstr ""
+"돌과 광물을 대지에서 캐냅니다.\n"
+"작업 가능: 교사, 누더기"
 
 #. Key: JobTypeDefinition.JobType_Assemble.DisplayName
 msgctxt "JobTypeDefinition.JobType_Assemble.DisplayName"
@@ -28441,6 +28465,8 @@ msgid ""
 "Create and move furniture for the school.\n"
 "Can do Task: Staff"
 msgstr ""
+"가구를 생성하고 움직입니다.\n"
+"작업 가능: 교사"
 
 #. Key: JobTypeDefinition.JobType_Repair.DisplayName
 msgctxt "JobTypeDefinition.JobType_Repair.DisplayName"
@@ -28453,6 +28479,8 @@ msgid ""
 "Restore Durability to damaged furnishings.\n"
 "Can do Task: Staff, Students, Quilted"
 msgstr ""
+"망가진 가구를 수리합니다.\n"
+"작업 가능: 교사, 학생, 누더기"
 
 #. Key: JobTypeDefinition.JobType_Harvest.DisplayName
 msgctxt "JobTypeDefinition.JobType_Harvest.DisplayName"
@@ -28471,7 +28499,7 @@ msgstr ""
 #. Key: JobTypeDefinition.JobType_Tend.DisplayName
 msgctxt "JobTypeDefinition.JobType_Tend.DisplayName"
 msgid "Tend"
-msgstr ""
+msgstr "경작"
 
 #. Key: JobTypeDefinition.JobType_Tend.Description
 msgctxt "JobTypeDefinition.JobType_Tend.Description"
@@ -28485,14 +28513,16 @@ msgstr ""
 #. Key: JobTypeDefinition.JobType_Uproot.DisplayName
 msgctxt "JobTypeDefinition.JobType_Uproot.DisplayName"
 msgid "Destroy"
-msgstr "뽑기"
+msgstr "제초"
 
 #. Key: JobTypeDefinition.JobType_Uproot.Description
 msgctxt "JobTypeDefinition.JobType_Uproot.Description"
 msgid ""
 "Destroy plants that are in the way. Does not provide any Reagents.\n"
 "Can do Task: Staff, Students"
-msgstr "방해가 되는 식물을 뽑으세요.  교사, 학생"
+msgstr ""
+"방해가 되는 식물을 뽑습니다. \n"
+"작업 가능: 교사, 학생"
 
 #. Key: JobTypeDefinition.JobType_Chop.DisplayName
 msgctxt "JobTypeDefinition.JobType_Chop.DisplayName"
@@ -28505,11 +28535,13 @@ msgid ""
 "Chop down trees for Reagents.\n"
 "Can do Task: Staff, Quilted"
 msgstr ""
+"나무를 벌목해서 자원을 얻습니다.\n"
+"작업 가능: 교사, 누더기"
 
 #. Key: JobTypeDefinition.JobType_Shaping.DisplayName
 msgctxt "JobTypeDefinition.JobType_Shaping.DisplayName"
 msgid "Shape"
-msgstr ""
+msgstr "제련"
 
 #. Key: JobTypeDefinition.JobType_Shaping.Description
 msgctxt "JobTypeDefinition.JobType_Shaping.Description"
@@ -28517,6 +28549,8 @@ msgid ""
 "Combine Reagents into advanced Reagents.\n"
 "Can do Task: Staff"
 msgstr ""
+"자원을 조합해 고급 재료로 바꿉니다.\n"
+"작업 가능: 교사"
 
 #. Key: JobTypeDefinition.JobType_Alchemy.DisplayName
 msgctxt "JobTypeDefinition.JobType_Alchemy.DisplayName"
@@ -28529,11 +28563,13 @@ msgid ""
 "Brew helpful potions.\n"
 "Can do Task: Staff"
 msgstr ""
+"물약을 만듭니다.\n"
+"작업 가능: 교사"
 
 #. Key: JobTypeDefinition.JobType_Quilting.DisplayName
 msgctxt "JobTypeDefinition.JobType_Quilting.DisplayName"
 msgid "Quilt"
-msgstr ""
+msgstr "누더기 제작"
 
 #. Key: JobTypeDefinition.JobType_Quilting.Description
 msgctxt "JobTypeDefinition.JobType_Quilting.Description"
@@ -28541,6 +28577,8 @@ msgid ""
 "Create undead helpers.\n"
 "Can do Task: Staff"
 msgstr ""
+"시체에서 누더기를 만듭니다.\n"
+"작업 가능: 교사"
 
 #. Key: JobTypeDefinition.JobType_Clean.DisplayName
 msgctxt "JobTypeDefinition.JobType_Clean.DisplayName"
@@ -28553,11 +28591,13 @@ msgid ""
 "Get rid of messy crafting byproducts in the school.\n"
 "Can do Task: Staff, Students, Quilted"
 msgstr ""
+"작업 과정에서 나온 더러운 쓰레기를 치웁니다.\n"
+"작업 가능: 교사, 학생, 누더기"
 
 #. Key: JobTypeDefinition.JobType_Haul.DisplayName
 msgctxt "JobTypeDefinition.JobType_Haul.DisplayName"
 msgid "Haul"
-msgstr ""
+msgstr "운반"
 
 #. Key: JobTypeDefinition.JobType_Haul.Description
 msgctxt "JobTypeDefinition.JobType_Haul.Description"
@@ -28565,6 +28605,8 @@ msgid ""
 "Move items by carrying or teleporting them.\n"
 "Can do Task: Staff, Students, Quilted"
 msgstr ""
+"아이템을 운반하거나 텔레포트시킵니다.\n"
+"작업 가능: 교사, 학생, 누더기"
 
 #. Key: JobTypeDefinition.JobType_Research.DisplayName
 msgctxt "JobTypeDefinition.JobType_Research.DisplayName"
@@ -28577,11 +28619,13 @@ msgid ""
 "Investigate the secrets of magic to unlock new furnishings and recipes.\n"
 "Can do Task: Staff"
 msgstr ""
+"미지의 마법을 연구하여 새 제작법과 가구를 해금시킵니다.\n"
+"작업 가능: 교사"
 
 #. Key: JobTypeDefinition.JobType_RefineryCare.DisplayName
 msgctxt "JobTypeDefinition.JobType_RefineryCare.DisplayName"
 msgid "Beast Care"
-msgstr "짐승 돌보기"
+msgstr "괴물 돌보기"
 
 #. Key: JobTypeDefinition.JobType_RefineryCare.Description
 msgctxt "JobTypeDefinition.JobType_RefineryCare.Description"
@@ -28589,6 +28633,8 @@ msgid ""
 "Keep your refining beasts happy and working well.\n"
 "Can do Task: Students"
 msgstr ""
+"제련 괴물들을 돌봅니다.\n"
+"작업 가능: 학생"
 
 #. Key: JobTypeDefinition.JobType_Charge.DisplayName
 msgctxt "JobTypeDefinition.JobType_Charge.DisplayName"
@@ -28601,11 +28647,13 @@ msgid ""
 "Refill the charge in a <slink=ManaLantern>.    \n"
 "Can do Task: Staff, Students"
 msgstr ""
+"<slink=ManaLantern>을 충전합니다.\n"
+"작업 가능: 교사, 학생"
 
 #. Key: JobTypeDefinition.JobType_FuneralSpeaker.DisplayName
 msgctxt "JobTypeDefinition.JobType_FuneralSpeaker.DisplayName"
 msgid "Funeral Speaker"
-msgstr ""
+msgstr "장례식 추도인"
 
 #. Key: JobTypeDefinition.JobType_FuneralSpeaker.Description
 msgctxt "JobTypeDefinition.JobType_FuneralSpeaker.Description"
@@ -28613,11 +28661,13 @@ msgid ""
 "Speak at a funeral.\n"
 "Can do Task: Staff"
 msgstr ""
+"장례식에서 추도사를 읊습니다.\n"
+"작업 가능: 교사"
 
 #. Key: JobTypeDefinition.JobType_FuneralMourner.DisplayName
 msgctxt "JobTypeDefinition.JobType_FuneralMourner.DisplayName"
 msgid "Mourn"
-msgstr ""
+msgstr "장례식 참석자"
 
 #. Key: JobTypeDefinition.JobType_FuneralMourner.Description
 msgctxt "JobTypeDefinition.JobType_FuneralMourner.Description"
@@ -28625,6 +28675,8 @@ msgid ""
 "Attend a funeral.\n"
 "Can do Task: Staff, Students"
 msgstr ""
+"장례식에 참석합니다.\n"
+"작업 가능: 교사, 학생"
 
 #. Key: JobTypeDefinition.JobType_Recreation.DisplayName
 msgctxt "JobTypeDefinition.JobType_Recreation.DisplayName"
@@ -28634,7 +28686,7 @@ msgstr "휴식"
 #. Key: JobTypeDefinition.JobType_Recreation.Description
 msgctxt "JobTypeDefinition.JobType_Recreation.Description"
 msgid "Relax at Recreation furnishings."
-msgstr ""
+msgstr "휴게 시설에서 휴식합니다."
 
 #. Key: JobTypeDefinition.JobType_EndOfJobTypes.DisplayName
 msgctxt "JobTypeDefinition.JobType_EndOfJobTypes.DisplayName"
@@ -28654,7 +28706,7 @@ msgstr "던전 비용"
 #. Key: JobTypeDefinition.JobType_DungeonCost.Description
 msgctxt "JobTypeDefinition.JobType_DungeonCost.Description"
 msgid "Pay cost to enter the dungeon."
-msgstr ""
+msgstr "던전에 입장하기 위한 비용을 치릅니다."
 
 #. Key: JobTypeDefinition.JobType_CollectPotions.DisplayName
 msgctxt "JobTypeDefinition.JobType_CollectPotions.DisplayName"
@@ -28664,7 +28716,7 @@ msgstr "물약 가져가기"
 #. Key: JobTypeDefinition.JobType_CollectPotions.Description
 msgctxt "JobTypeDefinition.JobType_CollectPotions.Description"
 msgid "Gather potions to use in the dungeon."
-msgstr ""
+msgstr "던전에서 사용할 물약을 가져갑니다."
 
 #. Key: JobTypeDefinition.JobType_ExploreDoor.DisplayName
 msgctxt "JobTypeDefinition.JobType_ExploreDoor.DisplayName"
@@ -28674,7 +28726,7 @@ msgstr "던전 탐험"
 #. Key: JobTypeDefinition.JobType_ExploreDoor.Description
 msgctxt "JobTypeDefinition.JobType_ExploreDoor.Description"
 msgid "Enter the dungeon."
-msgstr ""
+msgstr "던전에 입장합니다."
 
 #. Key: JobTypeDefinition.JobType_EnterBattle.DisplayName
 msgctxt "JobTypeDefinition.JobType_EnterBattle.DisplayName"
@@ -28684,7 +28736,7 @@ msgstr "전투 참여"
 #. Key: JobTypeDefinition.JobType_EnterBattle.Description
 msgctxt "JobTypeDefinition.JobType_EnterBattle.Description"
 msgid "Prepare to fight your next foe."
-msgstr "다음 적과 싸울 준비를하십시오."
+msgstr "다음 적과 싸울 준비를 합니다."
 
 #. Key: JobTypeDefinition.JobType_ExitDungeon.DisplayName
 msgctxt "JobTypeDefinition.JobType_ExitDungeon.DisplayName"
@@ -28694,7 +28746,7 @@ msgstr "던전 나가기"
 #. Key: JobTypeDefinition.JobType_ExitDungeon.Description
 msgctxt "JobTypeDefinition.JobType_ExitDungeon.Description"
 msgid "Leave the dungeon."
-msgstr ""
+msgstr "던전을 나갑니다."
 
 #. Key: JobTypeDefinition.JobType_PostAdult.DisplayName
 msgctxt "JobTypeDefinition.JobType_PostAdult.DisplayName"
@@ -28739,7 +28791,7 @@ msgstr "의식 수행"
 #. Key: JobTypeDefinition.JobType_Ward.DisplayName
 msgctxt "JobTypeDefinition.JobType_Ward.DisplayName"
 msgid "Ward"
-msgstr ""
+msgstr "순찰"
 
 #. Key: JobTypeDefinition.JobType_Ward.Description
 msgctxt "JobTypeDefinition.JobType_Ward.Description"
@@ -28747,11 +28799,13 @@ msgid ""
 "Protective magic used to reset a <slink=DungeonRespawnTimer>. Can also enable a <slink=Scarecroa> or a <slink=FogLantern> to function.\n"
 "Can do Task: Staff, Students"
 msgstr ""
+"<slink=DungeonRespawnTimer>를 충전하기 위해 사용되는 보호 마법입니다. <slink=Scarecroa>나 <slink=FogLantern>을 충전하는 데에도 쓰입니다.\n"
+"작업 가능: 교사, 학생"
 
 #. Key: JobTypeDefinition.JobType_Painting.DisplayName
 msgctxt "JobTypeDefinition.JobType_Painting.DisplayName"
 msgid "Paint"
-msgstr ""
+msgstr "그림"
 
 #. Key: JobTypeDefinition.JobType_Painting.Description
 msgctxt "JobTypeDefinition.JobType_Painting.Description"
@@ -28759,6 +28813,8 @@ msgid ""
 "Create paintings.\n"
 "Can do Task: Staff"
 msgstr ""
+"그림을 그립니다.\n"
+"작업 가능: 교사"
 
 #. Key: JobTypeDefinition.JobType_Carving.DisplayName
 msgctxt "JobTypeDefinition.JobType_Carving.DisplayName"
@@ -28777,7 +28833,7 @@ msgstr ""
 #. Key: JobTypeDefinition.JobType_Scrivening.DisplayName
 msgctxt "JobTypeDefinition.JobType_Scrivening.DisplayName"
 msgid "Scriven"
-msgstr ""
+msgstr "두루마리 제작"
 
 #. Key: JobTypeDefinition.JobType_Scrivening.Description
 msgctxt "JobTypeDefinition.JobType_Scrivening.Description"
@@ -28801,7 +28857,7 @@ msgstr "배고픔"
 #. Key: NeedsDefinition.Hunger.Description
 msgctxt "NeedsDefinition.Hunger.Description"
 msgid "How hungry a Mage is. Eating a <slink=meal> will relieve Hunger."
-msgstr ""
+msgstr "마법사의 배고픈 정도입니다. <slink=meal>를 먹어서 채울 수 있습니다."
 
 #. Key: NeedsDefinition.Sleep.DisplayName
 msgctxt "NeedsDefinition.Sleep.DisplayName"
@@ -28811,7 +28867,7 @@ msgstr "수면"
 #. Key: NeedsDefinition.Sleep.Description
 msgctxt "NeedsDefinition.Sleep.Description"
 msgid "How tired a Mage is. A good night's sleep will restore Sleep."
-msgstr ""
+msgstr "마법사가 피곤한 정도입니다. 충분히 수면을 취하면 채울 수 있습니다."
 
 #. Key: NeedsDefinition.Recreation.DisplayName
 msgctxt "NeedsDefinition.Recreation.DisplayName"
@@ -28821,7 +28877,7 @@ msgstr "휴식"
 #. Key: NeedsDefinition.Recreation.Description
 msgctxt "NeedsDefinition.Recreation.Description"
 msgid "Everyone needs time away from class and work. During scheduled Recreation times, they will seek out opportunities to satisfy this need."
-msgstr ""
+msgstr "누구에게나 휴식은 필요합니다. 스케줄에 휴식 시간을 지정하면 적절한 휴게 공간에서 휴식을 취할 것입니다."
 
 #. Key: NeedsDefinition.Learning.DisplayName
 msgctxt "NeedsDefinition.Learning.DisplayName"
@@ -28831,7 +28887,7 @@ msgstr "학습"
 #. Key: NeedsDefinition.Learning.Description
 msgctxt "NeedsDefinition.Learning.Description"
 msgid "Students are here to achieve! Learning is only satisfied by gaining a Skill level or earning <slink=Medallions>."
-msgstr ""
+msgstr "학생들은 배우고자 하는 욕구가 있습니다. 스킬 레벨을 얻거나 <slink=Medallions>을 얻으면 충족됩니다."
 
 #. Key: NeedsDefinition.Mana.DisplayName
 msgctxt "NeedsDefinition.Mana.DisplayName"
@@ -28846,22 +28902,22 @@ msgstr ""
 #. Key: NeedsDefinition.Feeding.DisplayName
 msgctxt "NeedsDefinition.Feeding.DisplayName"
 msgid "Feeding"
-msgstr "먹이 주기"
+msgstr "먹이"
 
 #. Key: NeedsDefinition.Feeding.Description
 msgctxt "NeedsDefinition.Feeding.Description"
 msgid "Needs to be fed <slink=Slop> on a regular basis. Feeding level affects refining speed, ranging from 0% to 200%."
-msgstr ""
+msgstr "제련 괴물은 정기적으로 <slink=Slop>을 먹여야 합니다. 먹이 욕구는 제련 속도에 영향을 미칩니다. (0%~200%)"
 
 #. Key: NeedsDefinition.Affection.DisplayName
 msgctxt "NeedsDefinition.Affection.DisplayName"
 msgid "Affection"
-msgstr ""
+msgstr "관심"
 
 #. Key: NeedsDefinition.Affection.Description
 msgctxt "NeedsDefinition.Affection.Description"
 msgid "Needs to be pet regularly. Affection level affects refining speed, ranging from 20% to 200%."
-msgstr "Needs to be pet regularly. 애정 수준은 20%에서 200%에 배열하는 정제 속도에 영향을 미칩니다."
+msgstr "제련 괴물은 주기적으로 돌봐 주어야 합니다. 관심 욕구는 제련 속도에 영향을 미칩니다. (20%~200%)"
 
 #. Key: NeedsDefinition.Mood.DisplayName
 msgctxt "NeedsDefinition.Mood.DisplayName"
@@ -28871,7 +28927,7 @@ msgstr "만족도"
 #. Key: NeedsDefinition.Mood.Description
 msgctxt "NeedsDefinition.Mood.Description"
 msgid "A Mage's mental state. Low Conviction risks the Mage having a <slink=break>."
-msgstr ""
+msgstr "마법사의 정신 상태입니다. 만족도가 낮아지면 <slink=break>을 일으킬 수 있습니다."
 
 #. Key: GameDifficultyDefinition.Default.DisplayName
 msgctxt "GameDifficultyDefinition.Default.DisplayName"
