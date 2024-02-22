@@ -5529,7 +5529,7 @@ msgstr "수족관"
 #. Key: Archetype.Aquarium.DescriptionConfig.0.Description
 msgctxt "Archetype.Aquarium.DescriptionConfig.0.Description"
 msgid "Adds <slink=Luxury>. Required to make a Hydrolaboratory."
-msgstr "<slink=Luxury>를 추가합니다. 수력 실험실을 만드는 데 필요합니다."
+msgstr "<slink=Luxury>를 추가합니다. 유체 실험실를 만드는 데 필요합니다."
 
 #. Key: Archetype.Aquarium.DescriptionConfig.0.FlavorText
 msgctxt "Archetype.Aquarium.DescriptionConfig.0.FlavorText"
@@ -15206,97 +15206,97 @@ msgstr "고급 교사 식당에 있음"
 #. Key: CharacterStatusConfig.InSalleaManger.Description
 msgctxt "CharacterStatusConfig.InSalleaManger.Description"
 msgid "Currently in a Salle a Manger."
-msgstr ""
+msgstr "고급 교사 식당에 있습니다."
 
 #. Key: CharacterStatusConfig.Eat_SalleaManger.DisplayName
 msgctxt "CharacterStatusConfig.Eat_SalleaManger.DisplayName"
 msgid "Ate in a Salle a Manger"
-msgstr ""
+msgstr "고급 교사 식당에서 식사함"
 
 #. Key: CharacterStatusConfig.Eat_SalleaManger.Description
 msgctxt "CharacterStatusConfig.Eat_SalleaManger.Description"
 msgid "Ate a meal in a Salle a Manger."
-msgstr "Salle a Manger에서 식사를 먹었다."
+msgstr "고급 교사 식당에서 식사했습니다."
 
 #. Key: CharacterStatusConfig.Eat_SalleaManger.LogEntry
 msgctxt "CharacterStatusConfig.Eat_SalleaManger.LogEntry"
 msgid "{0} is {1}"
-msgstr "{0} is {1}"
+msgstr "{0}: {1}"
 
 #. Key: CharacterStatusConfig.Eat_CommonBedroom.DisplayName
 msgctxt "CharacterStatusConfig.Eat_CommonBedroom.DisplayName"
 msgid "Ate in a Common Room"
-msgstr ""
+msgstr "학생회관에서 식사함"
 
 #. Key: CharacterStatusConfig.Eat_CommonBedroom.Description
 msgctxt "CharacterStatusConfig.Eat_CommonBedroom.Description"
 msgid "Ate a meal in a Common Room."
-msgstr ""
+msgstr "학생회관에서 식사했습니다."
 
 #. Key: CharacterStatusConfig.Eat_CommonBedroom.LogEntry
 msgctxt "CharacterStatusConfig.Eat_CommonBedroom.LogEntry"
 msgid "{0} is {1}"
-msgstr "{0} is {1}"
+msgstr "{0}: {1}"
 
 #. Key: CharacterStatusConfig.Eat_HouseCommons.DisplayName
 msgctxt "CharacterStatusConfig.Eat_HouseCommons.DisplayName"
 msgid "Ate in House Commons"
-msgstr ""
+msgstr "고급 학생회관에서 식사함"
 
 #. Key: CharacterStatusConfig.Eat_HouseCommons.Description
 msgctxt "CharacterStatusConfig.Eat_HouseCommons.Description"
 msgid "Ate a meal in a House Commons."
-msgstr ""
+msgstr "고급 학생회관에서 식사했습니다."
 
 #. Key: CharacterStatusConfig.Eat_HouseCommons.LogEntry
 msgctxt "CharacterStatusConfig.Eat_HouseCommons.LogEntry"
 msgid "{0} is {1}"
-msgstr "{0} is {1}"
+msgstr "{0}: {1}"
 
 #. Key: CharacterStatusConfig.Recreate_CommonBedroom.DisplayName
 msgctxt "CharacterStatusConfig.Recreate_CommonBedroom.DisplayName"
 msgid "Recreated in a Common Room"
-msgstr ""
+msgstr "학생회관에서 휴식함"
 
 #. Key: CharacterStatusConfig.Recreate_CommonBedroom.Description
 msgctxt "CharacterStatusConfig.Recreate_CommonBedroom.Description"
 msgid "Enjoyed recreating in a Common Room."
-msgstr ""
+msgstr "학생회관에서 휴식을 즐겼습니다."
 
 #. Key: CharacterStatusConfig.Recreate_CommonBedroom.LogEntry
 msgctxt "CharacterStatusConfig.Recreate_CommonBedroom.LogEntry"
 msgid "{0} is {1}"
-msgstr "{0} is {1}"
+msgstr "{0}: {1}"
 
 #. Key: CharacterStatusConfig.Recreate_HouseCommons.DisplayName
 msgctxt "CharacterStatusConfig.Recreate_HouseCommons.DisplayName"
 msgid "Recreated in House Commons"
-msgstr ""
+msgstr "고급 학생회관에서 휴식함"
 
 #. Key: CharacterStatusConfig.Recreate_HouseCommons.Description
 msgctxt "CharacterStatusConfig.Recreate_HouseCommons.Description"
 msgid "Enjoyed recreating in a House Commons."
-msgstr ""
+msgstr "고급 학생회관에서 휴식을 즐겼습니다."
 
 #. Key: CharacterStatusConfig.Recreate_HouseCommons.LogEntry
 msgctxt "CharacterStatusConfig.Recreate_HouseCommons.LogEntry"
 msgid "{0} is {1}"
-msgstr "{0} is {1}"
+msgstr "{0}: {1}"
 
 #. Key: CharacterStatusConfig.Eat_NoDiningRoom.DisplayName
 msgctxt "CharacterStatusConfig.Eat_NoDiningRoom.DisplayName"
 msgid "Ate Outside of a Dining Area"
-msgstr ""
+msgstr "식당 밖에서 먹음"
 
 #. Key: CharacterStatusConfig.Eat_NoDiningRoom.Description
 msgctxt "CharacterStatusConfig.Eat_NoDiningRoom.Description"
 msgid "Didn't like eating in a room that wasn't dedicated to eating."
-msgstr ""
+msgstr "식사 공간이 아닌 곳에서 식사해서 기분이 안 좋습니다."
 
 #. Key: CharacterStatusConfig.Eat_NoDiningRoom.LogEntry
 msgctxt "CharacterStatusConfig.Eat_NoDiningRoom.LogEntry"
 msgid "{0} is {1}"
-msgstr "{0} is {1}"
+msgstr "{0}: {1}"
 
 #. Key: CharacterStatusConfig.Eating.DisplayName
 msgctxt "CharacterStatusConfig.Eating.DisplayName"
@@ -15311,12 +15311,12 @@ msgstr "먹는 중"
 #. Key: CharacterStatusConfig.Teaching.DisplayName
 msgctxt "CharacterStatusConfig.Teaching.DisplayName"
 msgid "Teaching"
-msgstr ""
+msgstr "수업 중"
 
 #. Key: CharacterStatusConfig.Teaching.Description
 msgctxt "CharacterStatusConfig.Teaching.Description"
 msgid "Teaching"
-msgstr ""
+msgstr "수업 중"
 
 #. Key: CharacterStatusConfig.InRecRoom.DisplayName
 msgctxt "CharacterStatusConfig.InRecRoom.DisplayName"
@@ -15331,7 +15331,7 @@ msgstr ""
 #. Key: CharacterStatusConfig.InClassroom.DisplayName
 msgctxt "CharacterStatusConfig.InClassroom.DisplayName"
 msgid "In Basic Classroom"
-msgstr ""
+msgstr "기본 교실에 있음"
 
 #. Key: CharacterStatusConfig.InClassroom.Description
 msgctxt "CharacterStatusConfig.InClassroom.Description"
@@ -29460,7 +29460,7 @@ msgstr "식탁"
 #. Key: RoomTypeDefinition.WaterClassroom.DisplayName
 msgctxt "RoomTypeDefinition.WaterClassroom.DisplayName"
 msgid "Hydrolaboratory"
-msgstr "물 마법 연구소"
+msgstr "유체 실험실"
 
 #. Key: RoomTypeDefinition.WaterClassroom.Effects.0-638169128389298705
 msgctxt "RoomTypeDefinition.WaterClassroom.Effects.0-638169128389298705"
@@ -31789,7 +31789,7 @@ msgstr "제작에 대해 알아보기"
 #. Key: TutorialDefinition.Crafting.Listing
 msgctxt "TutorialDefinition.Crafting.Listing"
 msgid "Crafting"
-msgstr "제작 중"
+msgstr "제작"
 
 #. Key: TutorialDefinition.Crafting.FeedHover
 msgctxt "TutorialDefinition.Crafting.FeedHover"
@@ -31799,7 +31799,7 @@ msgstr "제작에 대해 알아보려면 클릭하세요"
 #. Key: TutorialDefinition.Crafting.Title
 msgctxt "TutorialDefinition.Crafting.Title"
 msgid "Crafting"
-msgstr "제작 중"
+msgstr "제작"
 
 #. Key: TutorialDefinition.Crafting.Flavor
 msgctxt "TutorialDefinition.Crafting.Flavor"
@@ -32490,7 +32490,7 @@ msgstr "댄싱 퀸 - 동메달 과제"
 #. Key: BadgeDefinition.HeartRecreation_1.Description
 msgctxt "BadgeDefinition.HeartRecreation_1.Description"
 msgid "Dance 30 times."
-msgstr "춤을 30번 춥니다."
+msgstr "춤을 30번 추세요."
 
 #. Key: BadgeDefinition.HeartRecreation_2.DisplayName
 msgctxt "BadgeDefinition.HeartRecreation_2.DisplayName"
@@ -32500,7 +32500,7 @@ msgstr "댄싱 퀸 - 은메달 과제"
 #. Key: BadgeDefinition.HeartRecreation_2.Description
 msgctxt "BadgeDefinition.HeartRecreation_2.Description"
 msgid "Dance in any Recreation Room 35 times."
-msgstr ""
+msgstr "휴게 시설에서 춤을 35번 추세요."
 
 #. Key: BadgeDefinition.HeartRecreation_3.DisplayName
 msgctxt "BadgeDefinition.HeartRecreation_3.DisplayName"
@@ -32510,7 +32510,7 @@ msgstr "댄싱 퀸 - 금메달 과제"
 #. Key: BadgeDefinition.HeartRecreation_3.Description
 msgctxt "BadgeDefinition.HeartRecreation_3.Description"
 msgid "Dance in a Common Room or House Commons 40 times."
-msgstr ""
+msgstr "학생회관이나 고급 학생회관에서 40번 춤을 추세요."
 
 #. Key: BadgeDefinition.HeartRecreation_4.DisplayName
 msgctxt "BadgeDefinition.HeartRecreation_4.DisplayName"
@@ -32520,7 +32520,7 @@ msgstr "댄싱 퀸 - 플래티넘 메달 과제"
 #. Key: BadgeDefinition.HeartRecreation_4.Description
 msgctxt "BadgeDefinition.HeartRecreation_4.Description"
 msgid "Dance in a House Commons 50 times."
-msgstr ""
+msgstr "고급 학생회관에서 50번 춤을 추세요."
 
 #. Key: BadgeDefinition.CafeteriaDiner_1.DisplayName
 msgctxt "BadgeDefinition.CafeteriaDiner_1.DisplayName"
@@ -32530,7 +32530,7 @@ msgstr "Mess Hall Diner - 동메달 과제"
 #. Key: BadgeDefinition.CafeteriaDiner_1.Description
 msgctxt "BadgeDefinition.CafeteriaDiner_1.Description"
 msgid "Eat in a Mess Hall, Common Room, or House Commons 10 times."
-msgstr ""
+msgstr "학생 식당, 학생회관 또는 고급 학생회관에서 10번 식사하세요."
 
 #. Key: BadgeDefinition.CommonRoomDiner_3.DisplayName
 msgctxt "BadgeDefinition.CommonRoomDiner_3.DisplayName"
@@ -32540,7 +32540,7 @@ msgstr "Common Room Diner - 금메달 과제"
 #. Key: BadgeDefinition.CommonRoomDiner_3.Description
 msgctxt "BadgeDefinition.CommonRoomDiner_3.Description"
 msgid "Eat in a Common Room or House Commons 30 times."
-msgstr ""
+msgstr "학생회관이나 고급 학생회관에서 30번 식사하세요."
 
 #. Key: BadgeDefinition.HouseCommonsDiner_4.DisplayName
 msgctxt "BadgeDefinition.HouseCommonsDiner_4.DisplayName"
@@ -32550,7 +32550,7 @@ msgstr "House Commons Diner - 플래티넘 메달 과제"
 #. Key: BadgeDefinition.HouseCommonsDiner_4.Description
 msgctxt "BadgeDefinition.HouseCommonsDiner_4.Description"
 msgid "Eat in a House Commons 50 times."
-msgstr ""
+msgstr "고급 학생회관에서 50번 식사하세요."
 
 #. Key: BadgeDefinition.AustereSleeper_1.DisplayName
 msgctxt "BadgeDefinition.AustereSleeper_1.DisplayName"
@@ -32680,7 +32680,7 @@ msgstr "Solo Learner (Water) - 금메달 과제"
 #. Key: BadgeDefinition.SoloLearner_3_Water.Description
 msgctxt "BadgeDefinition.SoloLearner_3_Water.Description"
 msgid "Cast at a <slink=WaterClassStation> 75 times in an Advanced Classroom or Hydrolaboratory with no other Students present."
-msgstr "다른 학생이 없는 고급 교실이나 물 연구실에서 <slink=WaterClassStation>에 마법을 75번 시전하세요."
+msgstr "다른 학생이 없는 고급 교실이나 유체 실험실에서 <slink=WaterClassStation>에 마법을 75번 시전하세요."
 
 #. Key: BadgeDefinition.SoloLearner_4_Water.DisplayName
 msgctxt "BadgeDefinition.SoloLearner_4_Water.DisplayName"
@@ -32690,7 +32690,7 @@ msgstr "Solo Learner (Water) - 플래티넘 메달 과제"
 #. Key: BadgeDefinition.SoloLearner_4_Water.Description
 msgctxt "BadgeDefinition.SoloLearner_4_Water.Description"
 msgid "Cast at a <slink=WaterClassStation> 100 times in a Hydrolaboratory with no other Students present."
-msgstr "다른 학생이 없는 물 연구실에서 <slink=WaterClassStation>에 마법을 100번 시전하세요."
+msgstr "다른 학생이 없는 유체 실험실에서 <slink=WaterClassStation>에 마법을 100번 시전하세요."
 
 #. Key: BadgeDefinition.SoloLearner_3_Earth.DisplayName
 msgctxt "BadgeDefinition.SoloLearner_3_Earth.DisplayName"
@@ -32700,7 +32700,7 @@ msgstr "Solo Learner (Earth) - 금메달 과제"
 #. Key: BadgeDefinition.SoloLearner_3_Earth.Description
 msgctxt "BadgeDefinition.SoloLearner_3_Earth.Description"
 msgid "Cast at a <slink=GeomancyClassStation> 75 times in an Advanced Classroom or Geomancer's Hall with no other Students present."
-msgstr ""
+msgstr "다른 학생이 없는 고급 교실이나 대지술사의 회관에서 <slink=GeomancyClassStation>에 마법을 75번 시전하세요."
 
 #. Key: BadgeDefinition.SoloLearner_4_Earth.DisplayName
 msgctxt "BadgeDefinition.SoloLearner_4_Earth.DisplayName"
@@ -32710,7 +32710,7 @@ msgstr "Solo Learner (Earth) - 플래티넘 메달 과제"
 #. Key: BadgeDefinition.SoloLearner_4_Earth.Description
 msgctxt "BadgeDefinition.SoloLearner_4_Earth.Description"
 msgid "Cast at a <slink=GeomancyClassStation> 100 times in a Geomancer's Hall with no other Students present."
-msgstr ""
+msgstr "다른 학생이 없는 대지술사의 회관에서 <slink=GeomancyClassStation>에 마법을 100번 시전하세요."
 
 #. Key: BadgeDefinition.SoloLearner_3_Air.DisplayName
 msgctxt "BadgeDefinition.SoloLearner_3_Air.DisplayName"
@@ -32720,7 +32720,7 @@ msgstr "Solo Learner (Air) - 금메달 과제"
 #. Key: BadgeDefinition.SoloLearner_3_Air.Description
 msgctxt "BadgeDefinition.SoloLearner_3_Air.Description"
 msgid "Cast at a <slink=ManipulationClassStation> 75 times in an Advanced Classroom or Windy Pinnacle with no other Students present."
-msgstr ""
+msgstr "다른 학생이 없는 고급 교실이나 폭풍의 첨탑에서 <slink=ManipulationClassStation>에 마법을 75번 시전하세요."
 
 #. Key: BadgeDefinition.SoloLearner_4_Air.DisplayName
 msgctxt "BadgeDefinition.SoloLearner_4_Air.DisplayName"
@@ -32730,7 +32730,7 @@ msgstr "Solo Learner (Air) - 플래티넘 메달 과제"
 #. Key: BadgeDefinition.SoloLearner_4_Air.Description
 msgctxt "BadgeDefinition.SoloLearner_4_Air.Description"
 msgid "Cast at a <slink=ManipulationClassStation> 100 times in a Windy Pinnacle with no other Students present."
-msgstr ""
+msgstr "다른 학생이 없는 폭풍의 첨탑에서 <slink=ManipulationClassStation>에 마법을 100번 시전하세요."
 
 #. Key: BadgeDefinition.SoloLearner_3_Nature.DisplayName
 msgctxt "BadgeDefinition.SoloLearner_3_Nature.DisplayName"
@@ -32740,7 +32740,7 @@ msgstr "Solo Learner (Nature) - 금메달 과제"
 #. Key: BadgeDefinition.SoloLearner_3_Nature.Description
 msgctxt "BadgeDefinition.SoloLearner_3_Nature.Description"
 msgid "Cast at a <slink=ViturgyClassStation> 75 times in an Advanced Classroom or Arboretum with no other Students present."
-msgstr ""
+msgstr "다른 학생이 없는 고급 교실이나 수목원에서 <slink=ViturgyClassStation>에 마법을 75번 시전하세요."
 
 #. Key: BadgeDefinition.SoloLearner_4_Nature.DisplayName
 msgctxt "BadgeDefinition.SoloLearner_4_Nature.DisplayName"
@@ -32750,7 +32750,7 @@ msgstr "Solo Learner (Nature) - 플래티넘 메달 과제"
 #. Key: BadgeDefinition.SoloLearner_4_Nature.Description
 msgctxt "BadgeDefinition.SoloLearner_4_Nature.Description"
 msgid "Cast at a <slink=ViturgyClassStation> 100 times in an Arboretum with no other Students present."
-msgstr ""
+msgstr "다른 학생이 없는 수목원에서 <slink=ViturgyClassStation>에 마법을 100번 시전하세요."
 
 #. Key: BadgeDefinition.SoloLearner_3_Dark.DisplayName
 msgctxt "BadgeDefinition.SoloLearner_3_Dark.DisplayName"
