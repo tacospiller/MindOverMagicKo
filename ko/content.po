@@ -8078,7 +8078,7 @@ msgstr "빨간 화로"
 #. Key: Archetype.FloorTorch.DescriptionConfig.0.Description
 msgctxt "Archetype.FloorTorch.DescriptionConfig.0.Description"
 msgid "A floor torch. Adds Light."
-msgstr "바닥 조명입니다. 조명을 추가합니다."
+msgstr "바닥 조명입니다. 빛을 밝혀 줍니다."
 
 #. Key: Archetype.FloorTorch.DescriptionConfig.0.FlavorText
 msgctxt "Archetype.FloorTorch.DescriptionConfig.0.FlavorText"
@@ -8093,7 +8093,7 @@ msgstr "파란 화로"
 #. Key: Archetype.FloorTorchBlue.DescriptionConfig.0.Description
 msgctxt "Archetype.FloorTorchBlue.DescriptionConfig.0.Description"
 msgid "A floor torch. Adds Light."
-msgstr "바닥 조명입니다. 조명을 추가합니다."
+msgstr "바닥 조명입니다. 빛을 밝혀 줍니다."
 
 #. Key: Archetype.FloorTorchBlue.DescriptionConfig.0.FlavorText
 msgctxt "Archetype.FloorTorchBlue.DescriptionConfig.0.FlavorText"
@@ -8108,7 +8108,7 @@ msgstr "초록 화로"
 #. Key: Archetype.FloorTorchGreen.DescriptionConfig.0.Description
 msgctxt "Archetype.FloorTorchGreen.DescriptionConfig.0.Description"
 msgid "A floor torch. Adds Light."
-msgstr "바닥 조명입니다. 조명을 추가합니다."
+msgstr "바닥 조명입니다. 빛을 밝혀 줍니다."
 
 #. Key: Archetype.FloorTorchGreen.DescriptionConfig.0.FlavorText
 msgctxt "Archetype.FloorTorchGreen.DescriptionConfig.0.FlavorText"
@@ -8123,7 +8123,7 @@ msgstr "빨간 횃불"
 #. Key: Archetype.WallTorch.DescriptionConfig.0.Description
 msgctxt "Archetype.WallTorch.DescriptionConfig.0.Description"
 msgid "A wall-mounted torch. Adds Light, but removes Luxury."
-msgstr "벽에 거치하는 횃불입니다. 조명을 추가하지만 화려함을 감소시킵니다."
+msgstr "벽에 거치하는 횃불입니다. 빛을 밝혀 주지만 화려함을 감소시킵니다."
 
 #. Key: Archetype.WallTorch.DescriptionConfig.0.FlavorText
 msgctxt "Archetype.WallTorch.DescriptionConfig.0.FlavorText"
@@ -8138,7 +8138,7 @@ msgstr "파란 횃불"
 #. Key: Archetype.WallTorchBlue.DescriptionConfig.0.Description
 msgctxt "Archetype.WallTorchBlue.DescriptionConfig.0.Description"
 msgid "A wall-mounted torch. Adds Light, but removes Luxury."
-msgstr "벽에 거치하는 횃불입니다. 조명을 추가하지만 화려함을 감소시킵니다."
+msgstr "벽에 거치하는 횃불입니다. 빛을 밝혀 주지만 화려함을 감소시킵니다."
 
 #. Key: Archetype.WallTorchBlue.DescriptionConfig.0.FlavorText
 msgctxt "Archetype.WallTorchBlue.DescriptionConfig.0.FlavorText"
@@ -8153,7 +8153,7 @@ msgstr "초록 횃불"
 #. Key: Archetype.WallTorchGreen.DescriptionConfig.0.Description
 msgctxt "Archetype.WallTorchGreen.DescriptionConfig.0.Description"
 msgid "A wall-mounted torch. Adds Light, but removes Luxury."
-msgstr "벽에 거치하는 횃불입니다. 조명을 추가하지만 화려함을 감소시킵니다."
+msgstr "벽에 거치하는 횃불입니다. 빛을 밝혀 주지만 화려함을 감소시킵니다."
 
 #. Key: Archetype.WallTorchGreen.DescriptionConfig.0.FlavorText
 msgctxt "Archetype.WallTorchGreen.DescriptionConfig.0.FlavorText"
@@ -8168,7 +8168,7 @@ msgstr "촛대"
 #. Key: Archetype.Candelabra.DescriptionConfig.0.Description
 msgctxt "Archetype.Candelabra.DescriptionConfig.0.Description"
 msgid "Adds <slink=Luxury> and Light."
-msgstr "<slink=Luxury>과 조명을 증가시킵니다."
+msgstr "<slink=Luxury>을 올려 주고 빛을 밝힙니다."
 
 #. Key: Archetype.Candelabra.DescriptionConfig.0.FlavorText
 msgctxt "Archetype.Candelabra.DescriptionConfig.0.FlavorText"
@@ -8183,7 +8183,7 @@ msgstr "장엄한 촛대"
 #. Key: Archetype.BigCandelabra.DescriptionConfig.0.Description
 msgctxt "Archetype.BigCandelabra.DescriptionConfig.0.Description"
 msgid "Adds <slink=Luxury> and Light."
-msgstr "<slink=Luxury>과 조명을 증가시킵니다."
+msgstr "<slink=Luxury>을 올려 주고 빛을 밝힙니다."
 
 #. Key: Archetype.BigCandelabra.DescriptionConfig.0.FlavorText
 msgctxt "Archetype.BigCandelabra.DescriptionConfig.0.FlavorText"
@@ -8198,7 +8198,7 @@ msgstr "촛대"
 #. Key: Archetype.NewCandelabra.DescriptionConfig.0.Description
 msgctxt "Archetype.NewCandelabra.DescriptionConfig.0.Description"
 msgid "Adds <slink=Luxury> and Light."
-msgstr "<slink=Luxury>과 조명을 증가시킵니다."
+msgstr "<slink=Luxury>을 올려 주고 빛을 밝힙니다."
 
 #. Key: Archetype.NewCandelabra.DescriptionConfig.0.FlavorText
 msgctxt "Archetype.NewCandelabra.DescriptionConfig.0.FlavorText"
@@ -17316,172 +17316,172 @@ msgstr "{0}: {1}"
 #. Key: CharacterStatusConfig.CelebratoryHiring.DisplayName
 msgctxt "CharacterStatusConfig.CelebratoryHiring.DisplayName"
 msgid "Celebratory"
-msgstr ""
+msgstr "참석"
 
 #. Key: CharacterStatusConfig.CelebratoryHiring.Description
 msgctxt "CharacterStatusConfig.CelebratoryHiring.Description"
 msgid "Excited that they got to attend a Hiring ceremony."
-msgstr "그들이 채용 행사에 참석하게 된 것에 흥분했습니다."
+msgstr "교사 임용식에 참석하게 되어 기쁩니다."
 
 #. Key: CharacterStatusConfig.CelebratoryHiring.MultiLogEntry
 msgctxt "CharacterStatusConfig.CelebratoryHiring.MultiLogEntry"
 msgid "{0} is feeling {1}"
-msgstr ""
+msgstr "{0}: {1}"
 
 #. Key: CharacterStatusConfig.LeftOutHiring.DisplayName
 msgctxt "CharacterStatusConfig.LeftOutHiring.DisplayName"
 msgid "Left Out"
-msgstr "왼쪽"
+msgstr "미참석"
 
 #. Key: CharacterStatusConfig.LeftOutHiring.Description
 msgctxt "CharacterStatusConfig.LeftOutHiring.Description"
 msgid "Upset that they did not get to attend a Hiring ceremony."
-msgstr "그들이 채용 행사에 참석하지 못해서 화가 났다."
+msgstr "교사 임용식에 참여하지 못해 슬픕니다."
 
 #. Key: CharacterStatusConfig.LeftOutHiring.MultiLogEntry
 msgctxt "CharacterStatusConfig.LeftOutHiring.MultiLogEntry"
 msgid "{0} is feeling {1}"
-msgstr "{0}님이 {1}을(를) 느끼고 있습니다."
+msgstr "{0}: {1}"
 
 #. Key: CharacterStatusConfig.Bittersweet.DisplayName
 msgctxt "CharacterStatusConfig.Bittersweet.DisplayName"
 msgid "Bittersweet Feelings"
-msgstr ""
+msgstr "애틋한 감정"
 
 #. Key: CharacterStatusConfig.Bittersweet.Description
 msgctxt "CharacterStatusConfig.Bittersweet.Description"
 msgid "Attended a going-away Ritual, and going through some complicated emotions."
-msgstr "외출 의식에 참석하고, 몇 가지 복잡한 감정을 겪고있다."
+msgstr "최근 학교 구성원이 학교를 떠나 복잡한 마음입니다."
 
 #. Key: CharacterStatusConfig.Bittersweet.MultiLogEntry
 msgctxt "CharacterStatusConfig.Bittersweet.MultiLogEntry"
 msgid "{0} is feeling {1}"
-msgstr "{0}님이 {1}을(를) 느끼고 있습니다."
+msgstr "{0}: {1}"
 
 #. Key: CharacterStatusConfig.StudentExpelled.DisplayName
 msgctxt "CharacterStatusConfig.StudentExpelled.DisplayName"
 msgid "Let Down"
-msgstr "내려놓기"
+msgstr "실망"
 
 #. Key: CharacterStatusConfig.StudentExpelled.Description
 msgctxt "CharacterStatusConfig.StudentExpelled.Description"
 msgid "Disappointed that a student was expelled."
-msgstr "한 학생이 퇴학당했다는 사실에 실망했다."
+msgstr "학생이 퇴학당해 실망했습니다."
 
 #. Key: CharacterStatusConfig.StudentExpelled.MultiLogEntry
 msgctxt "CharacterStatusConfig.StudentExpelled.MultiLogEntry"
 msgid "{0} is upset about a {1}"
-msgstr "{0}님이 {1}에 대해 화가 났습니다."
+msgstr "{0}: {1}"
 
 #. Key: CharacterStatusConfig.ShackFuneralCatharsislehex.DisplayName
 msgctxt "CharacterStatusConfig.ShackFuneralCatharsislehex.DisplayName"
 msgid "Catharsis"
-msgstr "카타르시스"
+msgstr "애도심"
 
 #. Key: CharacterStatusConfig.FuneralCatharsis.Description
 msgctxt "CharacterStatusConfig.FuneralCatharsis.Description"
 msgid "Feeling in touch with their school community after attending a <slink=Funeral>."
-msgstr ""
+msgstr "<slink=Funeral>에 참석하고 나서 학교에 소속감을 느낍니다."
 
 #. Key: CharacterStatusConfig.FuneralCatharsis.FlavorText
 msgctxt "CharacterStatusConfig.FuneralCatharsis.FlavorText"
 msgid "A bittersweet farewell among friends."
-msgstr "친구들 사이에 달콤한 작별 인사."
+msgstr ""
 
 #. Key: CharacterStatusConfig.FuneralCatharsis.LogEntry
 msgctxt "CharacterStatusConfig.FuneralCatharsis.LogEntry"
 msgid "{0} is experiencing {1}"
-msgstr "{0}에서 {1}을(를) 경험하고 있습니다."
+msgstr "{0}: {1}"
 
 #. Key: CharacterStatusConfig.FuneralCatharsis.LogEntryEnd
 msgctxt "CharacterStatusConfig.FuneralCatharsis.LogEntryEnd"
 msgid "{0} no longer is experiencing {1}"
-msgstr "{0}에서 더 이상 {1}을(를) 경험하지 않습니다."
+msgstr "{0}: {1} 상태에서 벗어남"
 
 #. Key: CharacterStatusConfig.SpectralRatNearby.DisplayName
 msgctxt "CharacterStatusConfig.SpectralRatNearby.DisplayName"
 msgid "Saw A Spectral Creature"
-msgstr ""
+msgstr "유령 동물을 봄"
 
 #. Key: CharacterStatusConfig.SpectralRatNearby.Description
 msgctxt "CharacterStatusConfig.SpectralRatNearby.Description"
 msgid "Saw a scary creature in the school."
-msgstr "학교에서 무서운 생물을 보았다."
+msgstr "무서운 생물을 보았습니다."
 
 #. Key: CharacterStatusConfig.SpectralRatNearby.FlavorText
 msgctxt "CharacterStatusConfig.SpectralRatNearby.FlavorText"
 msgid "A lurker in the night."
-msgstr "밤에 숨어있는 사람."
+msgstr ""
 
 #. Key: CharacterStatusConfig.SpectralRatNearby.LogEntry
 msgctxt "CharacterStatusConfig.SpectralRatNearby.LogEntry"
 msgid "{0} {1}"
-msgstr "{0} {1}"
+msgstr "{0}: {1}"
 
 #. Key: CharacterStatusConfig.SpectralRatNearby.LogEntryEnd
 msgctxt "CharacterStatusConfig.SpectralRatNearby.LogEntryEnd"
 msgid "{0} no longer cares that they {1}"
-msgstr "{0}은(는) {1}에 대해 더 이상 신경 쓰지 않습니다."
+msgstr "{0}: {1} 상태에서 벗어남"
 
 #. Key: CharacterStatusConfig.GremlinNearby.DisplayName
 msgctxt "CharacterStatusConfig.GremlinNearby.DisplayName"
 msgid "Saw A Gremlin"
-msgstr "그렘린을 보았다"
+msgstr "그렘린을 봄"
 
 #. Key: CharacterStatusConfig.GremlinNearby.Description
 msgctxt "CharacterStatusConfig.GremlinNearby.Description"
 msgid "Saw a scary creature in the school."
-msgstr "학교에서 무서운 생물을 보았다."
+msgstr "무서운 생물을 보았습니다."
 
 #. Key: CharacterStatusConfig.GremlinNearby.FlavorText
 msgctxt "CharacterStatusConfig.GremlinNearby.FlavorText"
 msgid "A lurker in the night."
-msgstr "밤에 숨어있는 사람."
+msgstr ""
 
 #. Key: CharacterStatusConfig.GremlinNearby.LogEntry
 msgctxt "CharacterStatusConfig.GremlinNearby.LogEntry"
 msgid "{0} {1}"
-msgstr "{0} {1}"
+msgstr "{0}: {1}"
 
 #. Key: CharacterStatusConfig.GremlinNearby.LogEntryEnd
 msgctxt "CharacterStatusConfig.GremlinNearby.LogEntryEnd"
 msgid "{0} no longer cares that they {1}"
-msgstr "{0}은(는) {1}에 대해 더 이상 신경 쓰지 않습니다."
+msgstr "{0}: {1} 상태에서 벗어남"
 
 #. Key: CharacterStatusConfig.OozeNearby.DisplayName
 msgctxt "CharacterStatusConfig.OozeNearby.DisplayName"
 msgid "Saw an Ooze"
-msgstr "우즈를 보았다"
+msgstr "점액질을 봄"
 
 #. Key: CharacterStatusConfig.OozeNearby.Description
 msgctxt "CharacterStatusConfig.OozeNearby.Description"
 msgid "Saw a scary creature in the school."
-msgstr "학교에서 무서운 생물을 보았다."
+msgstr "무서운 생물을 보았습니다."
 
 #. Key: CharacterStatusConfig.OozeNearby.FlavorText
 msgctxt "CharacterStatusConfig.OozeNearby.FlavorText"
 msgid "A squelching, horrid thing."
-msgstr "시끄럽고 끔찍한 일."
+msgstr ""
 
 #. Key: CharacterStatusConfig.OozeNearby.LogEntry
 msgctxt "CharacterStatusConfig.OozeNearby.LogEntry"
 msgid "{0} {1}"
-msgstr "{0} {1}"
+msgstr "{0}: {1}"
 
 #. Key: CharacterStatusConfig.OozeNearby.LogEntryEnd
 msgctxt "CharacterStatusConfig.OozeNearby.LogEntryEnd"
 msgid "{0} no longer cares that they {1}"
-msgstr "{0}은(는) {1}에 대해 더 이상 신경 쓰지 않습니다."
+msgstr "{0}: {1} 상태에서 벗어남"
 
 #. Key: CharacterStatusConfig.CorpseNearby.DisplayName
 msgctxt "CharacterStatusConfig.CorpseNearby.DisplayName"
 msgid "Saw A Corpse"
-msgstr "시체를 보았다"
+msgstr "시체를 봄"
 
 #. Key: CharacterStatusConfig.CorpseNearby.Description
 msgctxt "CharacterStatusConfig.CorpseNearby.Description"
 msgid "Horrified by seeing a dead body."
-msgstr "죽은 시체를 보며 충격을 받았다."
+msgstr "사람의 시체를 목격해 충격받았습니다."
 
 #. Key: CharacterStatusConfig.CorpseNearby.FlavorText
 msgctxt "CharacterStatusConfig.CorpseNearby.FlavorText"
@@ -17491,12 +17491,12 @@ msgstr ""
 #. Key: CharacterStatusConfig.CorpseNearby.LogEntry
 msgctxt "CharacterStatusConfig.CorpseNearby.LogEntry"
 msgid "{0} {1}"
-msgstr "{0} {1}"
+msgstr "{0}: {1}"
 
 #. Key: CharacterStatusConfig.CorpseNearby.LogEntryEnd
 msgctxt "CharacterStatusConfig.CorpseNearby.LogEntryEnd"
 msgid "{0} no longer cares that they {1}"
-msgstr ""
+msgstr "{0}: {1} 상태에서 벗어남"
 
 #. Key: CharacterStatusConfig.CorpseNearby.MultiLogEntry
 msgctxt "CharacterStatusConfig.CorpseNearby.MultiLogEntry"
@@ -17506,37 +17506,37 @@ msgstr "{0}: {1}"
 #. Key: CharacterStatusConfig.CarriedACorpse.DisplayName
 msgctxt "CharacterStatusConfig.CarriedACorpse.DisplayName"
 msgid "Carried A Corpse"
-msgstr "시체를 운반하다"
+msgstr "시체를 운반함"
 
 #. Key: CharacterStatusConfig.CarriedACorpse.Description
 msgctxt "CharacterStatusConfig.CarriedACorpse.Description"
 msgid "Horrified by carrying a dead body."
-msgstr "시체를 운반하는 것에 충격을 받았다."
+msgstr "사람의 시체에 손을 대서 충격받았습니다."
 
 #. Key: CharacterStatusConfig.CarriedACorpse.FlavorText
 msgctxt "CharacterStatusConfig.CarriedACorpse.FlavorText"
 msgid "Life, so fragile."
-msgstr "생명, 너무 연약해."
+msgstr ""
 
 #. Key: CharacterStatusConfig.CarriedACorpse.LogEntry
 msgctxt "CharacterStatusConfig.CarriedACorpse.LogEntry"
 msgid "{0} {1}"
-msgstr "{0} {1}"
+msgstr "{0}: {1}"
 
 #. Key: CharacterStatusConfig.CarriedACorpse.LogEntryEnd
 msgctxt "CharacterStatusConfig.CarriedACorpse.LogEntryEnd"
 msgid "{0} no longer cares that they {1}"
-msgstr "{0}은(는) {1}에 대해 더 이상 신경 쓰지 않습니다."
+msgstr "{0}: {1} 상태에서 벗어남"
 
 #. Key: CharacterStatusConfig.RecentlyReacted.DisplayName
 msgctxt "CharacterStatusConfig.RecentlyReacted.DisplayName"
 msgid "Recently Reacted"
-msgstr "최근 반응"
+msgstr "위험에 반응함"
 
 #. Key: CharacterStatusConfig.RecentlyReacted.Description
 msgctxt "CharacterStatusConfig.RecentlyReacted.Description"
 msgid "Recently Reacted to danger and is immune to it for a short time."
-msgstr "최근에 위험에 반응했고 짧은 시간 동안 면역이됩니다."
+msgstr "최근에 주변 환경으로 인해 만족도에 영향을 받아, 짧은 시간 동안 무감해졌습니다."
 
 #. Key: CharacterStatusConfig.DebugMaxNegativeSpirit.DisplayName
 msgctxt "CharacterStatusConfig.DebugMaxNegativeSpirit.DisplayName"
@@ -17571,22 +17571,22 @@ msgstr "Debug Large Negative Spirit"
 #. Key: CharacterStatusConfig.DebugNegativeSpirit.LogEntry
 msgctxt "CharacterStatusConfig.DebugNegativeSpirit.LogEntry"
 msgid "{0} has {1}"
-msgstr ""
+msgstr "{0}: {1} 상태"
 
 #. Key: CharacterStatusConfig.DebugNegativeSpirit.LogEntryEnd
 msgctxt "CharacterStatusConfig.DebugNegativeSpirit.LogEntryEnd"
 msgid "{0} no longer has {1}"
-msgstr ""
+msgstr "{0}: {1} 상태에서 벗어남"
 
 #. Key: CharacterStatusConfig.Poisoned.DisplayName
 msgctxt "CharacterStatusConfig.Poisoned.DisplayName"
 msgid "Sporeshroom Rash"
-msgstr ""
+msgstr "포자버섯 알레르기"
 
 #. Key: CharacterStatusConfig.Poisoned.Description
 msgctxt "CharacterStatusConfig.Poisoned.Description"
 msgid "Irritated by a long-lasting rash from a Sporeshroom. Lowers Conviction."
-msgstr ""
+msgstr "포자버섯의 포자에 알레르기를 일으켜 피부 발진이 생겼습니다. 만족도가 낮아집니다."
 
 #. Key: CharacterStatusConfig.Poisoned.FlavorText
 msgctxt "CharacterStatusConfig.Poisoned.FlavorText"
@@ -17596,12 +17596,12 @@ msgstr ""
 #. Key: CharacterStatusConfig.Poisoned.LogEntry
 msgctxt "CharacterStatusConfig.Poisoned.LogEntry"
 msgid "{0} is afflicted by {1}"
-msgstr ""
+msgstr "{0}: {1}"
 
 #. Key: CharacterStatusConfig.Poisoned.LogEntryEnd
 msgctxt "CharacterStatusConfig.Poisoned.LogEntryEnd"
 msgid "{0} is no longer afflicted by {1}"
-msgstr ""
+msgstr "{0}: {1} 상태에서 벗어남"
 
 #. Key: CharacterStatusConfig.Poisoned.MultiLogEntry
 msgctxt "CharacterStatusConfig.Poisoned.MultiLogEntry"
@@ -17611,7 +17611,7 @@ msgstr "{0}: {1}"
 #. Key: CharacterStatusConfig.PoisonImmunity.DisplayName
 msgctxt "CharacterStatusConfig.PoisonImmunity.DisplayName"
 msgid "Poison Immunity"
-msgstr ""
+msgstr "독 면역"
 
 #. Key: CharacterStatusConfig.PoisonImmunity.Description
 msgctxt "CharacterStatusConfig.PoisonImmunity.Description"
@@ -17626,22 +17626,22 @@ msgstr ""
 #. Key: CharacterStatusConfig.PoisonImmunity.LogEntry
 msgctxt "CharacterStatusConfig.PoisonImmunity.LogEntry"
 msgid "{0} has {1}"
-msgstr ""
+msgstr "{0}: {1} 상태"
 
 #. Key: CharacterStatusConfig.PoisonImmunity.LogEntryEnd
 msgctxt "CharacterStatusConfig.PoisonImmunity.LogEntryEnd"
 msgid "{0} no longer has {1}"
-msgstr ""
+msgstr "{0}: {1} 상태에서 벗어남"
 
 #. Key: CharacterStatusConfig.BoundImmunity.DisplayName
 msgctxt "CharacterStatusConfig.BoundImmunity.DisplayName"
 msgid "Bound Immunity"
-msgstr ""
+msgstr "포획 면역"
 
 #. Key: CharacterStatusConfig.BoundImmunity.Description
 msgctxt "CharacterStatusConfig.BoundImmunity.Description"
 msgid "Temporarily immune to the effects of binding."
-msgstr "일시적으로 binding 효과에 면역됩니다."
+msgstr "일시적으로 포획 효과에 면역됩니다."
 
 #. Key: CharacterStatusConfig.BoundImmunity.FlavorText
 msgctxt "CharacterStatusConfig.BoundImmunity.FlavorText"
@@ -17651,37 +17651,37 @@ msgstr ""
 #. Key: CharacterStatusConfig.BoundImmunity.LogEntry
 msgctxt "CharacterStatusConfig.BoundImmunity.LogEntry"
 msgid "{0} has {1}"
-msgstr ""
+msgstr "{0}: {1} 상태"
 
 #. Key: CharacterStatusConfig.BoundImmunity.LogEntryEnd
 msgctxt "CharacterStatusConfig.BoundImmunity.LogEntryEnd"
 msgid "{0} no longer has {1}"
-msgstr ""
+msgstr "{0}: {1} 상태에서 벗어남"
 
 #. Key: CharacterStatusConfig.Ethereal.DisplayName
 msgctxt "CharacterStatusConfig.Ethereal.DisplayName"
 msgid "Ethereal"
-msgstr ""
+msgstr "영혼 상태"
 
 #. Key: CharacterStatusConfig.Ethereal.Description
 msgctxt "CharacterStatusConfig.Ethereal.Description"
 msgid "Not affected by the physical world."
-msgstr ""
+msgstr "이승 세계의 영향을 받지 않습니다."
 
 #. Key: CharacterStatusConfig.Undead.DisplayName
 msgctxt "CharacterStatusConfig.Undead.DisplayName"
 msgid "Undead"
-msgstr ""
+msgstr "언데드"
 
 #. Key: CharacterStatusConfig.Undead.Description
 msgctxt "CharacterStatusConfig.Undead.Description"
 msgid "Neither alive nor dead."
-msgstr ""
+msgstr "살아 있지도 죽어 있지도 않습니다."
 
 #. Key: CharacterStatusConfig.Plant.DisplayName
 msgctxt "CharacterStatusConfig.Plant.DisplayName"
 msgid "Plant"
-msgstr "심기"
+msgstr "식물"
 
 #. Key: CharacterStatusConfig.Plant.Description
 msgctxt "CharacterStatusConfig.Plant.Description"
@@ -17691,12 +17691,12 @@ msgstr ""
 #. Key: CharacterStatusConfig.OtherSide.DisplayName
 msgctxt "CharacterStatusConfig.OtherSide.DisplayName"
 msgid "Saw the Other Side"
-msgstr ""
+msgstr "저편을 봄"
 
 #. Key: CharacterStatusConfig.OtherSide.Description
 msgctxt "CharacterStatusConfig.OtherSide.Description"
 msgid "Returned from the dead."
-msgstr ""
+msgstr "죽음에서 돌아왔습니다."
 
 #. Key: CharacterStatusConfig.TookDamage.DisplayName
 msgctxt "CharacterStatusConfig.TookDamage.DisplayName"
@@ -17736,7 +17736,7 @@ msgstr "교사"
 #. Key: CharacterStatusConfig.IsStaff.Description
 msgctxt "CharacterStatusConfig.IsStaff.Description"
 msgid "A Staff member in your school."
-msgstr ""
+msgstr "학교의 교사입니다."
 
 #. Key: CharacterStatusConfig.IsStudent.DisplayName
 msgctxt "CharacterStatusConfig.IsStudent.DisplayName"
@@ -17746,7 +17746,7 @@ msgstr "학생"
 #. Key: CharacterStatusConfig.IsStudent.Description
 msgctxt "CharacterStatusConfig.IsStudent.Description"
 msgid "A student in your school."
-msgstr ""
+msgstr "학교의 학생입니다."
 
 #. Key: CharacterStatusConfig.IsQuilted.DisplayName
 msgctxt "CharacterStatusConfig.IsQuilted.DisplayName"
@@ -17756,17 +17756,17 @@ msgstr "누더기"
 #. Key: CharacterStatusConfig.IsQuilted.Description
 msgctxt "CharacterStatusConfig.IsQuilted.Description"
 msgid "A quilted in your school."
-msgstr ""
+msgstr "학교의 누더기입니다."
 
 #. Key: CharacterStatusConfig.NewStudent.DisplayName
 msgctxt "CharacterStatusConfig.NewStudent.DisplayName"
 msgid "New Student"
-msgstr "새 학생"
+msgstr "신입생"
 
 #. Key: CharacterStatusConfig.NewStudent.Description
 msgctxt "CharacterStatusConfig.NewStudent.Description"
 msgid "New to the school, and grateful to be here."
-msgstr ""
+msgstr "새로 학교에 입학해 기쁩니다."
 
 #. Key: CharacterStatusConfig.NewStudent.FlavorText
 msgctxt "CharacterStatusConfig.NewStudent.FlavorText"
@@ -17776,12 +17776,12 @@ msgstr ""
 #. Key: CharacterStatusConfig.RecentStudent.DisplayName
 msgctxt "CharacterStatusConfig.RecentStudent.DisplayName"
 msgid "Recently Arrived Student"
-msgstr ""
+msgstr "최근 입학"
 
 #. Key: CharacterStatusConfig.RecentStudent.Description
 msgctxt "CharacterStatusConfig.RecentStudent.Description"
 msgid "Still somewhat new to the school, and still somewhat happy to be here."
-msgstr ""
+msgstr "비교적 최근에 입학해 여전히 기쁜 상태입니다."
 
 #. Key: CharacterStatusConfig.RecentStudent.FlavorText
 msgctxt "CharacterStatusConfig.RecentStudent.FlavorText"
@@ -17791,12 +17791,12 @@ msgstr ""
 #. Key: CharacterStatusConfig.NewHire.DisplayName
 msgctxt "CharacterStatusConfig.NewHire.DisplayName"
 msgid "New Hire"
-msgstr ""
+msgstr "신입 교사"
 
 #. Key: CharacterStatusConfig.NewHire.Description
 msgctxt "CharacterStatusConfig.NewHire.Description"
 msgid "Newly promoted to Staff and excited to get to work."
-msgstr ""
+msgstr "새 교사로 임용돼 의욕이 충만합니다."
 
 #. Key: CharacterStatusConfig.NewHire.FlavorText
 msgctxt "CharacterStatusConfig.NewHire.FlavorText"
@@ -17806,12 +17806,12 @@ msgstr ""
 #. Key: CharacterStatusConfig.Expectations_None.DisplayName
 msgctxt "CharacterStatusConfig.Expectations_None.DisplayName"
 msgid "Highly Stable"
-msgstr ""
+msgstr "매우 안정적"
 
 #. Key: CharacterStatusConfig.Expectations_None.Description
 msgctxt "CharacterStatusConfig.Expectations_None.Description"
 msgid "Extremely high <slink=MagicalStability>."
-msgstr ""
+msgstr "<slink=MagicalStability>이 매우 높습니다."
 
 #. Key: CharacterStatusConfig.Expectations_None.FlavorText
 msgctxt "CharacterStatusConfig.Expectations_None.FlavorText"
@@ -17821,12 +17821,12 @@ msgstr ""
 #. Key: CharacterStatusConfig.Expectations_VeryLow.DisplayName
 msgctxt "CharacterStatusConfig.Expectations_VeryLow.DisplayName"
 msgid "Stable"
-msgstr ""
+msgstr "안정적"
 
 #. Key: CharacterStatusConfig.Expectations_VeryLow.Description
 msgctxt "CharacterStatusConfig.Expectations_VeryLow.Description"
 msgid "Has full <slink=MagicalStability>."
-msgstr ""
+msgstr "<slink=MagicalStability>이 높습니다."
 
 #. Key: CharacterStatusConfig.Expectations_VeryLow.FlavorText
 msgctxt "CharacterStatusConfig.Expectations_VeryLow.FlavorText"
@@ -17836,12 +17836,12 @@ msgstr ""
 #. Key: CharacterStatusConfig.Expectations_Low.DisplayName
 msgctxt "CharacterStatusConfig.Expectations_Low.DisplayName"
 msgid "Somewhat Unstable"
-msgstr ""
+msgstr "약간 불안정"
 
 #. Key: CharacterStatusConfig.Expectations_Low.Description
 msgctxt "CharacterStatusConfig.Expectations_Low.Description"
 msgid "Reasonable <slink=MagicalStability>."
-msgstr ""
+msgstr "<slink=MagicalStability>이 보통입니다."
 
 #. Key: CharacterStatusConfig.Expectations_Low.FlavorText
 msgctxt "CharacterStatusConfig.Expectations_Low.FlavorText"
@@ -17851,12 +17851,12 @@ msgstr ""
 #. Key: CharacterStatusConfig.RescuedL1.DisplayName
 msgctxt "CharacterStatusConfig.RescuedL1.DisplayName"
 msgid "Gratitude"
-msgstr ""
+msgstr "감사함"
 
 #. Key: CharacterStatusConfig.RescuedL1.Description
 msgctxt "CharacterStatusConfig.RescuedL1.Description"
 msgid "Grateful for rescue from the Underschool."
-msgstr ""
+msgstr "지하세계에서 구출되어 감사한 마음입니다."
 
 #. Key: CharacterStatusConfig.RescuedL1.FlavorText
 msgctxt "CharacterStatusConfig.RescuedL1.FlavorText"
@@ -17866,12 +17866,12 @@ msgstr ""
 #. Key: CharacterStatusConfig.Expectations_Basic.DisplayName
 msgctxt "CharacterStatusConfig.Expectations_Basic.DisplayName"
 msgid "Unstable"
-msgstr ""
+msgstr "불안정"
 
 #. Key: CharacterStatusConfig.Expectations_Basic.Description
 msgctxt "CharacterStatusConfig.Expectations_Basic.Description"
 msgid "Somewhat low <slink=MagicalStability>."
-msgstr ""
+msgstr "<slink=MagicalStability>이 약간 낮습니다."
 
 #. Key: CharacterStatusConfig.Expectations_Basic.FlavorText
 msgctxt "CharacterStatusConfig.Expectations_Basic.FlavorText"
@@ -17881,12 +17881,12 @@ msgstr ""
 #. Key: CharacterStatusConfig.Expectations_Moderate.DisplayName
 msgctxt "CharacterStatusConfig.Expectations_Moderate.DisplayName"
 msgid "Volatile"
-msgstr ""
+msgstr "취약함"
 
 #. Key: CharacterStatusConfig.Expectations_Moderate.Description
 msgctxt "CharacterStatusConfig.Expectations_Moderate.Description"
 msgid "Low <slink=MagicalStability>."
-msgstr ""
+msgstr "<slink=MagicalStability>이 낮습니다."
 
 #. Key: CharacterStatusConfig.Expectations_Moderate.FlavorText
 msgctxt "CharacterStatusConfig.Expectations_Moderate.FlavorText"
@@ -17911,12 +17911,12 @@ msgstr ""
 #. Key: CharacterStatusConfig.Expectations_High.DisplayName
 msgctxt "CharacterStatusConfig.Expectations_High.DisplayName"
 msgid "Very Volatile"
-msgstr ""
+msgstr "매우 취약함"
 
 #. Key: CharacterStatusConfig.Expectations_High.Description
 msgctxt "CharacterStatusConfig.Expectations_High.Description"
 msgid "Very low <slink=MagicalStability>."
-msgstr ""
+msgstr "<slink=MagicalStability>이 매우 낮습니다."
 
 #. Key: CharacterStatusConfig.Expectations_High.FlavorText
 msgctxt "CharacterStatusConfig.Expectations_High.FlavorText"
@@ -17926,12 +17926,12 @@ msgstr ""
 #. Key: CharacterStatusConfig.Expectations_VeryHigh.DisplayName
 msgctxt "CharacterStatusConfig.Expectations_VeryHigh.DisplayName"
 msgid "Extremely Volatile"
-msgstr ""
+msgstr "극단적으로 취약함"
 
 #. Key: CharacterStatusConfig.Expectations_VeryHigh.Description
 msgctxt "CharacterStatusConfig.Expectations_VeryHigh.Description"
 msgid "Extremely low <slink=MagicalStability>."
-msgstr ""
+msgstr "<slink=MagicalStability>이 극단적으로 낮습니다."
 
 #. Key: CharacterStatusConfig.Expectations_VeryHigh.FlavorText
 msgctxt "CharacterStatusConfig.Expectations_VeryHigh.FlavorText"
@@ -17941,12 +17941,12 @@ msgstr ""
 #. Key: CharacterStatusConfig.Expectations_Extreme.DisplayName
 msgctxt "CharacterStatusConfig.Expectations_Extreme.DisplayName"
 msgid "On the Edge"
-msgstr ""
+msgstr "일촉즉발"
 
 #. Key: CharacterStatusConfig.Expectations_Extreme.Description
 msgctxt "CharacterStatusConfig.Expectations_Extreme.Description"
 msgid "Practically no <slink=MagicalStability>."
-msgstr ""
+msgstr "<slink=MagicalStability>이 없는 수준입니다."
 
 #. Key: CharacterStatusConfig.Expectations_Extreme.FlavorText
 msgctxt "CharacterStatusConfig.Expectations_Extreme.FlavorText"
@@ -18016,7 +18016,7 @@ msgstr "방금 학교에 도착하여 공포의 책 근처에 도착했습니다
 #. Key: CharacterStatusConfig.Trappable.DisplayName
 msgctxt "CharacterStatusConfig.Trappable.DisplayName"
 msgid "Trappable"
-msgstr "함정 가능"
+msgstr "함정에 가둘 수 있음"
 
 #. Key: CharacterStatusConfig.Trappable.Description
 msgctxt "CharacterStatusConfig.Trappable.Description"
@@ -18031,17 +18031,17 @@ msgstr "나는 크로아이다"
 #. Key: CharacterStatusConfig.ScaredCroa.DisplayName
 msgctxt "CharacterStatusConfig.ScaredCroa.DisplayName"
 msgid "Scared"
-msgstr "무서워"
+msgstr "겁먹음"
 
 #. Key: CharacterStatusConfig.ScaredCroa.Description
 msgctxt "CharacterStatusConfig.ScaredCroa.Description"
 msgid "Scared back to its nest."
-msgstr ""
+msgstr "겁을 먹어 둥지로 돌아갔습니다."
 
 #. Key: CharacterStatusConfig.AggressiveCroa.DisplayName
 msgctxt "CharacterStatusConfig.AggressiveCroa.DisplayName"
 msgid "Aggressive Croa"
-msgstr "공격적 크로아"
+msgstr "크로아의 분노"
 
 #. Key: CharacterStatusConfig.AggressiveCroa.Description
 msgctxt "CharacterStatusConfig.AggressiveCroa.Description"
@@ -18051,27 +18051,27 @@ msgstr ""
 #. Key: CharacterStatusConfig.CroaEating.DisplayName
 msgctxt "CharacterStatusConfig.CroaEating.DisplayName"
 msgid "Eating crops"
-msgstr ""
+msgstr "작물 먹는 중"
 
 #. Key: CharacterStatusConfig.CroaEating.Description
 msgctxt "CharacterStatusConfig.CroaEating.Description"
 msgid "Eating crops"
-msgstr ""
+msgstr "작물 먹는 중"
 
 #. Key: CharacterStatusConfig.CroaEating.FlavorText
 msgctxt "CharacterStatusConfig.CroaEating.FlavorText"
 msgid "Eating Crops"
-msgstr ""
+msgstr "작물 먹는 중"
 
 #. Key: CharacterStatusConfig.CroaTookDamage.DisplayName
 msgctxt "CharacterStatusConfig.CroaTookDamage.DisplayName"
 msgid "Croa Took Damage"
-msgstr "크로아는 데미지를 입었습니다"
+msgstr "크로아가 데미지를 입었습니다"
 
 #. Key: CharacterStatusConfig.CroaTookDamage.Description
 msgctxt "CharacterStatusConfig.CroaTookDamage.Description"
 msgid "Damage Taken"
-msgstr "피해 발생"
+msgstr "데미지 발생"
 
 #. Key: CharacterStatusConfig.CroaTookDamage.LogEntry
 msgctxt "CharacterStatusConfig.CroaTookDamage.LogEntry"
@@ -18081,12 +18081,12 @@ msgstr "{0} {1}"
 #. Key: CharacterStatusConfig.CroaTookScare.DisplayName
 msgctxt "CharacterStatusConfig.CroaTookScare.DisplayName"
 msgid "Croa Took Scare"
-msgstr ""
+msgstr "크로아가 겁먹음"
 
 #. Key: CharacterStatusConfig.CroaTookScare.Description
 msgctxt "CharacterStatusConfig.CroaTookScare.Description"
 msgid "Scared"
-msgstr "무서워"
+msgstr "겁먹음"
 
 #. Key: CharacterStatusConfig.InspireBuff.DisplayName
 msgctxt "CharacterStatusConfig.InspireBuff.DisplayName"
@@ -18136,12 +18136,12 @@ msgstr "고스트 완료"
 #. Key: CharacterStatusConfig.Lightning_Speed1.DisplayName
 msgctxt "CharacterStatusConfig.Lightning_Speed1.DisplayName"
 msgid "Lightning Reflexes 1"
-msgstr ""
+msgstr "빠른 반사신경 1"
 
 #. Key: CharacterStatusConfig.Lightning_Speed1.Description
 msgctxt "CharacterStatusConfig.Lightning_Speed1.Description"
 msgid "Boosts <slink=CombatStat_CombatSpeed>."
-msgstr "부스트 <slink=CombatStat_CombatSpeed>."
+msgstr "<slink=CombatStat_CombatSpeed>가 증가합니다."
 
 #. Key: CharacterStatusConfig.Lightning_Speed1.BattleString
 msgctxt "CharacterStatusConfig.Lightning_Speed1.BattleString"
@@ -18151,12 +18151,12 @@ msgstr "+30 속도"
 #. Key: CharacterStatusConfig.Lightning_Speed2.DisplayName
 msgctxt "CharacterStatusConfig.Lightning_Speed2.DisplayName"
 msgid "Lightning Reflexes 2"
-msgstr "번개 반사 2"
+msgstr "빠른 반사신경 2"
 
 #. Key: CharacterStatusConfig.Lightning_Speed2.Description
 msgctxt "CharacterStatusConfig.Lightning_Speed2.Description"
 msgid "Boosts <slink=CombatStat_CombatSpeed>."
-msgstr "부스트 <slink=CombatStat_CombatSpeed>."
+msgstr "<slink=CombatStat_CombatSpeed>가 증가합니다."
 
 #. Key: CharacterStatusConfig.Lightning_Speed2.BattleString
 msgctxt "CharacterStatusConfig.Lightning_Speed2.BattleString"
@@ -18166,27 +18166,27 @@ msgstr "+60 속도"
 #. Key: CharacterStatusConfig.Nature_Attack1.DisplayName
 msgctxt "CharacterStatusConfig.Nature_Attack1.DisplayName"
 msgid "Surged Strength 1"
-msgstr ""
+msgstr "마력 증가 1"
 
 #. Key: CharacterStatusConfig.Nature_Attack1.Description
 msgctxt "CharacterStatusConfig.Nature_Attack1.Description"
 msgid "Boosts <slink=CombatStat_DamageBonus>."
-msgstr ""
+msgstr "<slink=CombatStat_DamageBonus>이 증가합니다."
 
 #. Key: CharacterStatusConfig.Nature_Attack1.BattleString
 msgctxt "CharacterStatusConfig.Nature_Attack1.BattleString"
 msgid "+10 Power"
-msgstr "+10 Power"
+msgstr "+10 마력"
 
 #. Key: CharacterStatusConfig.Nature_Attack2.DisplayName
 msgctxt "CharacterStatusConfig.Nature_Attack2.DisplayName"
 msgid "Surged Strength 2"
-msgstr ""
+msgstr "마력 증가 2"
 
 #. Key: CharacterStatusConfig.Nature_Attack2.Description
 msgctxt "CharacterStatusConfig.Nature_Attack2.Description"
 msgid "Boosts <slink=CombatStat_DamageBonus>."
-msgstr ""
+msgstr "<slink=CombatStat_DamageBonus>이 증가합니다."
 
 #. Key: CharacterStatusConfig.Nature_Attack2.BattleString
 msgctxt "CharacterStatusConfig.Nature_Attack2.BattleString"
@@ -18196,12 +18196,12 @@ msgstr "마력 +20"
 #. Key: CharacterStatusConfig.Nature_Attack3.DisplayName
 msgctxt "CharacterStatusConfig.Nature_Attack3.DisplayName"
 msgid "Surged Strength 3"
-msgstr ""
+msgstr "마력 증가 3"
 
 #. Key: CharacterStatusConfig.Nature_Attack3.Description
 msgctxt "CharacterStatusConfig.Nature_Attack3.Description"
 msgid "Boosts <slink=CombatStat_DamageBonus>."
-msgstr ""
+msgstr "<slink=CombatStat_DamageBonus>이 증가합니다."
 
 #. Key: CharacterStatusConfig.Nature_Attack3.BattleString
 msgctxt "CharacterStatusConfig.Nature_Attack3.BattleString"
@@ -18211,12 +18211,12 @@ msgstr "마력 +30"
 #. Key: CharacterStatusConfig.Nature_Attack4.DisplayName
 msgctxt "CharacterStatusConfig.Nature_Attack4.DisplayName"
 msgid "Surged Strength 4"
-msgstr ""
+msgstr "마력 증가 4"
 
 #. Key: CharacterStatusConfig.Nature_Attack4.Description
 msgctxt "CharacterStatusConfig.Nature_Attack4.Description"
 msgid "Boosts <slink=CombatStat_DamageBonus>."
-msgstr ""
+msgstr "<slink=CombatStat_DamageBonus>이 증가합니다."
 
 #. Key: CharacterStatusConfig.Nature_Attack4.BattleString
 msgctxt "CharacterStatusConfig.Nature_Attack4.BattleString"
@@ -18226,62 +18226,62 @@ msgstr "마력 +50"
 #. Key: CharacterStatusConfig.Water_Soaked1.DisplayName
 msgctxt "CharacterStatusConfig.Water_Soaked1.DisplayName"
 msgid "Soaked"
-msgstr ""
+msgstr "젖음"
 
 #. Key: CharacterStatusConfig.Water_Soaked1.Description
 msgctxt "CharacterStatusConfig.Water_Soaked1.Description"
 msgid "Lowers <slink=CombatStat_DamageBonus> and <slink=CombatStat_CombatSpeed>."
-msgstr ""
+msgstr "<slink=CombatStat_DamageBonus>과 <slink=CombatStat_CombatSpeed>가 낮아집니다."
 
 #. Key: CharacterStatusConfig.Water_Soaked1.BattleString
 msgctxt "CharacterStatusConfig.Water_Soaked1.BattleString"
 msgid "Soaked!!!"
-msgstr ""
+msgstr "젖음!!!"
 
 #. Key: CharacterStatusConfig.Water_Soaked2.DisplayName
 msgctxt "CharacterStatusConfig.Water_Soaked2.DisplayName"
 msgid "Soaked"
-msgstr ""
+msgstr "젖음"
 
 #. Key: CharacterStatusConfig.Water_Soaked2.Description
 msgctxt "CharacterStatusConfig.Water_Soaked2.Description"
 msgid "Lowers <slink=CombatStat_DamageBonus> and <slink=CombatStat_CombatSpeed>."
-msgstr ""
+msgstr "<slink=CombatStat_DamageBonus>과 <slink=CombatStat_CombatSpeed>가 낮아집니다."
 
 #. Key: CharacterStatusConfig.Water_Soaked2.BattleString
 msgctxt "CharacterStatusConfig.Water_Soaked2.BattleString"
 msgid "Soaked!!!"
-msgstr ""
+msgstr "젖음!!!"
 
 #. Key: CharacterStatusConfig.Water_Soaked3.DisplayName
 msgctxt "CharacterStatusConfig.Water_Soaked3.DisplayName"
 msgid "Soaked"
-msgstr ""
+msgstr "젖음"
 
 #. Key: CharacterStatusConfig.Water_Soaked3.Description
 msgctxt "CharacterStatusConfig.Water_Soaked3.Description"
 msgid "Lowers <slink=CombatStat_DamageBonus> and <slink=CombatStat_CombatSpeed>."
-msgstr ""
+msgstr "<slink=CombatStat_DamageBonus>과 <slink=CombatStat_CombatSpeed>가 낮아집니다."
 
 #. Key: CharacterStatusConfig.Water_Soaked3.BattleString
 msgctxt "CharacterStatusConfig.Water_Soaked3.BattleString"
 msgid "Soaked!!!"
-msgstr "담가!!"
+msgstr "젖음!!!"
 
 #. Key: CharacterStatusConfig.Lightning_Stunned.DisplayName
 msgctxt "CharacterStatusConfig.Lightning_Stunned.DisplayName"
 msgid "Jolted"
-msgstr "흔들림"
+msgstr "감전"
 
 #. Key: CharacterStatusConfig.Lightning_Stunned.Description
 msgctxt "CharacterStatusConfig.Lightning_Stunned.Description"
 msgid "Greatly lowers <slink=CombatStat_CombatSpeed>."
-msgstr ""
+msgstr "<slink=CombatStat_CombatSpeed>가 크게 낮아집니다."
 
 #. Key: CharacterStatusConfig.Lightning_Stunned.BattleString
 msgctxt "CharacterStatusConfig.Lightning_Stunned.BattleString"
 msgid "Jolted!!!"
-msgstr "충격적이다!!!"
+msgstr "감전!!!"
 
 #. Key: CharacterStatusConfig.Fire_Vengeance_1.DisplayName
 msgctxt "CharacterStatusConfig.Fire_Vengeance_1.DisplayName"
@@ -18291,112 +18291,112 @@ msgstr "복수 1"
 #. Key: CharacterStatusConfig.Fire_Vengeance_1.Description
 msgctxt "CharacterStatusConfig.Fire_Vengeance_1.Description"
 msgid "Adds <slink=Retaliate> 15."
-msgstr ""
+msgstr "<slink=Retaliate> 15를 부여합니다."
 
 #. Key: CharacterStatusConfig.Fire_Vengeance_1.BattleString
 msgctxt "CharacterStatusConfig.Fire_Vengeance_1.BattleString"
 msgid "Retaliate"
-msgstr "마나 회복"
+msgstr "보복"
 
 #. Key: CharacterStatusConfig.Fire_Vengeance_2.DisplayName
 msgctxt "CharacterStatusConfig.Fire_Vengeance_2.DisplayName"
 msgid "Vengeance 2"
-msgstr ""
+msgstr "복수 2"
 
 #. Key: CharacterStatusConfig.Fire_Vengeance_2.Description
 msgctxt "CharacterStatusConfig.Fire_Vengeance_2.Description"
 msgid "Adds <slink=Retaliate> 30."
-msgstr ""
+msgstr "<slink=Retaliate> 30을 부여합니다."
 
 #. Key: CharacterStatusConfig.Fire_Vengeance_2.BattleString
 msgctxt "CharacterStatusConfig.Fire_Vengeance_2.BattleString"
 msgid "Retaliate"
-msgstr "마나 회복"
+msgstr "보복"
 
 #. Key: CharacterStatusConfig.Fire_Vengeance_3.DisplayName
 msgctxt "CharacterStatusConfig.Fire_Vengeance_3.DisplayName"
 msgid "Vengeance 3"
-msgstr ""
+msgstr "복수 3"
 
 #. Key: CharacterStatusConfig.Fire_Vengeance_3.Description
 msgctxt "CharacterStatusConfig.Fire_Vengeance_3.Description"
 msgid "Adds <slink=Retaliate> 50."
-msgstr ""
+msgstr "<slink=Retaliate> 50을 부여합니다."
 
 #. Key: CharacterStatusConfig.Fire_Vengeance_3.BattleString
 msgctxt "CharacterStatusConfig.Fire_Vengeance_3.BattleString"
 msgid "Retaliate"
-msgstr "마나 회복"
+msgstr "보복"
 
 #. Key: CharacterStatusConfig.Nature_Thorns.DisplayName
 msgctxt "CharacterStatusConfig.Nature_Thorns.DisplayName"
 msgid "Thorns"
-msgstr ""
+msgstr "가시"
 
 #. Key: CharacterStatusConfig.Nature_Thorns.Description
 msgctxt "CharacterStatusConfig.Nature_Thorns.Description"
 msgid "Deals 10 damage to the combatant in this slot at the end of the round or when leaving the slot."
-msgstr "라운드가 끝나거나 슬롯을 떠날 때 이 슬롯의 전투원에게 10의 피해를 줍니다."
+msgstr "이 자리의 적에게 라운드가 끝날 때나 자리를 변경할 때 10 데미지를 줍니다."
 
 #. Key: CharacterStatusConfig.Corrosion.DisplayName
 msgctxt "CharacterStatusConfig.Corrosion.DisplayName"
 msgid "Corroded"
-msgstr ""
+msgstr "중독"
 
 #. Key: CharacterStatusConfig.Corrosion.Description
 msgctxt "CharacterStatusConfig.Corrosion.Description"
 msgid "Takes 15 damage at the end of each round.\n"
-msgstr ""
+msgstr "라운드가 끝날 때마다 15 데미지를 줍니다.\n"
 
 #. Key: CharacterStatusConfig.Earth_Armor1.DisplayName
 msgctxt "CharacterStatusConfig.Earth_Armor1.DisplayName"
 msgid "Earth Armor I"
-msgstr ""
+msgstr "대지 갑옷 I"
 
 #. Key: CharacterStatusConfig.Earth_Armor1.Description
 msgctxt "CharacterStatusConfig.Earth_Armor1.Description"
 msgid "60 <slink=TempHP> and <slink=Taunt> 2"
-msgstr ""
+msgstr "60 <slink=TempHP>와 <slink=Taunt> 2"
 
 #. Key: CharacterStatusConfig.Earth_Armor2.DisplayName
 msgctxt "CharacterStatusConfig.Earth_Armor2.DisplayName"
 msgid "Earth Armor II"
-msgstr ""
+msgstr "대지 갑옷 II"
 
 #. Key: CharacterStatusConfig.Earth_Armor2.Description
 msgctxt "CharacterStatusConfig.Earth_Armor2.Description"
 msgid "120 <slink=TempHP> and <slink=Taunt> 3"
-msgstr ""
+msgstr "120 <slink=TempHP>와 <slink=Taunt> 3"
 
 #. Key: CharacterStatusConfig.Earth_Armor3.DisplayName
 msgctxt "CharacterStatusConfig.Earth_Armor3.DisplayName"
 msgid "Earth Armor III"
-msgstr ""
+msgstr "대지 갑옷 III"
 
 #. Key: CharacterStatusConfig.Earth_Armor3.Description
 msgctxt "CharacterStatusConfig.Earth_Armor3.Description"
 msgid "250 <slink=TempHP> and <slink=Taunt> 3"
-msgstr ""
+msgstr "250 <slink=TempHP>와 <slink=Taunt> 3"
 
 #. Key: CharacterStatusConfig.Earth_Stonecage.DisplayName
 msgctxt "CharacterStatusConfig.Earth_Stonecage.DisplayName"
 msgid "Stonecage"
-msgstr ""
+msgstr "바위 갑옷"
 
 #. Key: CharacterStatusConfig.Earth_Stonecage.Description
 msgctxt "CharacterStatusConfig.Earth_Stonecage.Description"
 msgid "50 <slink=TempHP> and <slink=Taunt> 3"
-msgstr ""
+msgstr "50 <slink=TempHP>와 <slink=Taunt> 3"
 
 #. Key: CharacterStatusConfig.Water_Cleanse.DisplayName
 msgctxt "CharacterStatusConfig.Water_Cleanse.DisplayName"
 msgid "Cleanse"
-msgstr ""
+msgstr "정화"
 
 #. Key: CharacterStatusConfig.Water_Cleanse.Description
 msgctxt "CharacterStatusConfig.Water_Cleanse.Description"
 msgid "30 <slink=TempHP> and removes Sadness, Fearful, and Restless."
-msgstr ""
+msgstr "30 <slink=TempHP>를 부여하고 슬픔, 공포, 지침 상태이상을 제거합니다."
 
 #. Key: CharacterStatusConfig.RemoveFearful.DisplayName
 msgctxt "CharacterStatusConfig.RemoveFearful.DisplayName"
@@ -18431,47 +18431,47 @@ msgstr ""
 #. Key: CharacterStatusConfig.Air_ShieldOfWind_1.DisplayName
 msgctxt "CharacterStatusConfig.Air_ShieldOfWind_1.DisplayName"
 msgid "Shield 1"
-msgstr ""
+msgstr "쉴드 1"
 
 #. Key: CharacterStatusConfig.Air_ShieldOfWind_1.Description
 msgctxt "CharacterStatusConfig.Air_ShieldOfWind_1.Description"
 msgid "Shield 1"
-msgstr ""
+msgstr "쉴드 1"
 
 #. Key: CharacterStatusConfig.Air_ShieldOfWind_1.BattleString
 msgctxt "CharacterStatusConfig.Air_ShieldOfWind_1.BattleString"
 msgid "Shield"
-msgstr "막음"
+msgstr "쉴드"
 
 #. Key: CharacterStatusConfig.Air_ShieldOfWind_2.DisplayName
 msgctxt "CharacterStatusConfig.Air_ShieldOfWind_2.DisplayName"
 msgid "Shield 2"
-msgstr ""
+msgstr "쉴드 2"
 
 #. Key: CharacterStatusConfig.Air_ShieldOfWind_2.Description
 msgctxt "CharacterStatusConfig.Air_ShieldOfWind_2.Description"
 msgid "Shield 2"
-msgstr ""
+msgstr "쉴드 2"
 
 #. Key: CharacterStatusConfig.Air_ShieldOfWind_2.BattleString
 msgctxt "CharacterStatusConfig.Air_ShieldOfWind_2.BattleString"
 msgid "Shield"
-msgstr "막음"
+msgstr "쉴드"
 
 #. Key: CharacterStatusConfig.Air_Shield.DisplayName
 msgctxt "CharacterStatusConfig.Air_Shield.DisplayName"
 msgid "Shield"
-msgstr "막음"
+msgstr "쉴드"
 
 #. Key: CharacterStatusConfig.Air_Shield.Description
 msgctxt "CharacterStatusConfig.Air_Shield.Description"
 msgid "Negates the damage from a single attack."
-msgstr ""
+msgstr "공격 하나를 완전히 막습니다."
 
 #. Key: CharacterStatusConfig.Air_Shield.BattleString
 msgctxt "CharacterStatusConfig.Air_Shield.BattleString"
 msgid "Shield"
-msgstr "막음"
+msgstr "쉴드"
 
 #. Key: CharacterStatusConfig.OraculumOfHealthBoost.DisplayName
 msgctxt "CharacterStatusConfig.OraculumOfHealthBoost.DisplayName"
@@ -18496,12 +18496,12 @@ msgstr ""
 #. Key: CharacterStatusConfig.OraculumOfPowerBoost.DisplayName
 msgctxt "CharacterStatusConfig.OraculumOfPowerBoost.DisplayName"
 msgid "Powerful"
-msgstr ""
+msgstr "강해짐"
 
 #. Key: CharacterStatusConfig.OraculumOfPowerBoost.Description
 msgctxt "CharacterStatusConfig.OraculumOfPowerBoost.Description"
 msgid "Performed a ritual at an <slink=OraculumOfPower> in the Underschool.\n"
-msgstr ""
+msgstr "지하세계의 <slink=OraculumOfPower>에서 힘을 얻었습니다.\n"
 
 #. Key: CharacterStatusConfig.OraculumOfSpeedBoost.DisplayName
 msgctxt "CharacterStatusConfig.OraculumOfSpeedBoost.DisplayName"
@@ -19166,7 +19166,7 @@ msgstr ""
 #. Key: CharacterStatusConfig.Heart_HouseCommonsSleepBuff_4.DisplayName
 msgctxt "CharacterStatusConfig.Heart_HouseCommonsSleepBuff_4.DisplayName"
 msgid "Loves Sleeping in House Commons - Platinum Medallion"
-msgstr "학생회관이 좋아 - 플래티넘 메달"
+msgstr "고급 학생회관이 좋아 - 플래티넘 메달"
 
 #. Key: CharacterStatusConfig.Heart_HouseCommonsSleepBuff_4.Description
 msgctxt "CharacterStatusConfig.Heart_HouseCommonsSleepBuff_4.Description"
@@ -21536,67 +21536,67 @@ msgstr ""
 #. Key: CharacterStatusConfig.Fast.DisplayName
 msgctxt "CharacterStatusConfig.Fast.DisplayName"
 msgid "Hastened"
-msgstr ""
+msgstr "발빠름"
 
 #. Key: CharacterStatusConfig.Fast.Description
 msgctxt "CharacterStatusConfig.Fast.Description"
 msgid "Can act at the beginning of each round in addition to at their spot in the <slink=CombatStat_CombatSpeed> order."
-msgstr ""
+msgstr "<slink=CombatStat_CombatSpeed>에 따른 행동 순서 이외에, 각 라운드 시작마다 추가 행동 순서를 얻습니다."
 
 #. Key: CharacterStatusConfig.Character_Fast.BattleString
 msgctxt "CharacterStatusConfig.Character_Fast.BattleString"
 msgid "Fast"
-msgstr ""
+msgstr "빠름"
 
 #. Key: CharacterStatusConfig.Character_Fast2.DisplayName
 msgctxt "CharacterStatusConfig.Character_Fast2.DisplayName"
 msgid "Hastened II"
-msgstr ""
+msgstr "발빠름 II"
 
 #. Key: CharacterStatusConfig.Character_Fast2.Description
 msgctxt "CharacterStatusConfig.Character_Fast2.Description"
 msgid "Can act at the beginning of each round in addition to at their spot in the <slink=CombatStat_CombatSpeed> order."
-msgstr ""
+msgstr "<slink=CombatStat_CombatSpeed>에 따른 행동 순서 이외에, 각 라운드 시작마다 추가 행동 순서를 얻습니다."
 
 #. Key: CharacterStatusConfig.Character_Fast2.BattleString
 msgctxt "CharacterStatusConfig.Character_Fast2.BattleString"
 msgid "Fast"
-msgstr ""
+msgstr "빠름"
 
 #. Key: CharacterStatusConfig.Slow.DisplayName
 msgctxt "CharacterStatusConfig.Slow.DisplayName"
 msgid "Slowed"
-msgstr ""
+msgstr "느려짐"
 
 #. Key: CharacterStatusConfig.Slow.Description
 msgctxt "CharacterStatusConfig.Slow.Description"
 msgid "Always acts at the very end of the round."
-msgstr ""
+msgstr "속도와 관계없이 라운드 맨 마지막에 행동합니다."
 
 #. Key: CharacterStatusConfig.Character_Slow.BattleString
 msgctxt "CharacterStatusConfig.Character_Slow.BattleString"
 msgid "Slow"
-msgstr ""
+msgstr "느려짐"
 
 #. Key: CharacterStatusConfig.Dark_ShadowCloak.DisplayName
 msgctxt "CharacterStatusConfig.Dark_ShadowCloak.DisplayName"
 msgid "Shadow Cloak"
-msgstr ""
+msgstr "그림자 망토"
 
 #. Key: CharacterStatusConfig.Dark_ShadowCloak.Description
 msgctxt "CharacterStatusConfig.Dark_ShadowCloak.Description"
 msgid "Grants <slink=CombatStat_DodgeChance> 25% to Mages in this combat slot."
-msgstr ""
+msgstr "이 자리에 있는 마법사의 <slink=CombatStat_DodgeChance> 확률을 25% 증가시킵니다."
 
 #. Key: CharacterStatusConfig.Dark_ShadowCloak.BattleString
 msgctxt "CharacterStatusConfig.Dark_ShadowCloak.BattleString"
 msgid "Shadow Cloak"
-msgstr ""
+msgstr "그림자 망토"
 
 #. Key: CharacterStatusConfig.Lightning_TrueStrike.DisplayName
 msgctxt "CharacterStatusConfig.Lightning_TrueStrike.DisplayName"
 msgid "Chain"
-msgstr ""
+msgstr "연쇄"
 
 #. Key: CharacterStatusConfig.Lightning_TrueStrike.Description
 msgctxt "CharacterStatusConfig.Lightning_TrueStrike.Description"
@@ -21606,7 +21606,7 @@ msgstr "<slink=Chain>"
 #. Key: CharacterStatusConfig.Lightning_TrueStrike.BattleString
 msgctxt "CharacterStatusConfig.Lightning_TrueStrike.BattleString"
 msgid "Chain"
-msgstr ""
+msgstr "연쇄"
 
 #. Key: CharacterStatusConfig.Character_Wide.DisplayName
 msgctxt "CharacterStatusConfig.Character_Wide.DisplayName"
@@ -21641,12 +21641,12 @@ msgstr ""
 #. Key: CharacterStatusConfig.RelaxedConviction.DisplayName
 msgctxt "CharacterStatusConfig.RelaxedConviction.DisplayName"
 msgid "Relaxed Difficulty"
-msgstr ""
+msgstr "난이도: 느긋하게"
 
 #. Key: CharacterStatusConfig.RelaxedConviction.Description
 msgctxt "CharacterStatusConfig.RelaxedConviction.Description"
 msgid "Relaxed Difficulty gives all Mages some extra chill."
-msgstr ""
+msgstr "난이도가 낮아 마법사들이 느긋합니다."
 
 #. Key: CharacterStatusConfig.AteGutberries.DisplayName
 msgctxt "CharacterStatusConfig.AteGutberries.DisplayName"
@@ -21656,7 +21656,7 @@ msgstr "내장딸기를 먹음"
 #. Key: CharacterStatusConfig.AteGutberries.Description
 msgctxt "CharacterStatusConfig.AteGutberries.Description"
 msgid "Ate a meal that tasted vile."
-msgstr "비열한 맛의 식사를 먹었다."
+msgstr "역겨운 식사를 먹었습니다."
 
 #. Key: CharacterStatusConfig.AteGutberries.FlavorText
 msgctxt "CharacterStatusConfig.AteGutberries.FlavorText"
@@ -21666,27 +21666,27 @@ msgstr ""
 #. Key: CharacterStatusConfig.AteGutberries.LogEntry
 msgctxt "CharacterStatusConfig.AteGutberries.LogEntry"
 msgid "{0} {1}"
-msgstr "{0} {1}"
+msgstr "{0}: {1}"
 
 #. Key: CharacterStatusConfig.AteGutberriesHighStink.DisplayName
 msgctxt "CharacterStatusConfig.AteGutberriesHighStink.DisplayName"
 msgid "Ate Gutberries During High Stink"
-msgstr ""
+msgstr "악취 만발 기간에 내장딸기를 먹음"
 
 #. Key: CharacterStatusConfig.AteGutberriesHighStink.Description
 msgctxt "CharacterStatusConfig.AteGutberriesHighStink.Description"
 msgid "Ate a meal that tasted especially vile."
-msgstr "특히 비열한 맛의 식사를 먹었다."
+msgstr "아주 역겨운 식사를 먹었습니다."
 
 #. Key: CharacterStatusConfig.AteGutberriesGoldenBerries.DisplayName
 msgctxt "CharacterStatusConfig.AteGutberriesGoldenBerries.DisplayName"
 msgid "Ate Gutberries During Golden Berries"
-msgstr ""
+msgstr "황금딸기 기간에 내장딸기를 먹음"
 
 #. Key: CharacterStatusConfig.AteGutberriesGoldenBerries.Description
 msgctxt "CharacterStatusConfig.AteGutberriesGoldenBerries.Description"
 msgid "Ate a meal that tasted unexpectedly okay."
-msgstr "예기치 않게 맛이 나는 음식을 먹었습니다."
+msgstr "예상치 못하게 괜찮은 맛의 식사를 먹었습니다."
 
 #. Key: CharacterStatusConfig.AteGutberrySoup.DisplayName
 msgctxt "CharacterStatusConfig.AteGutberrySoup.DisplayName"
@@ -21696,7 +21696,7 @@ msgstr "내장딸기 수프를 먹음"
 #. Key: CharacterStatusConfig.AteGutberrySoup.Description
 msgctxt "CharacterStatusConfig.AteGutberrySoup.Description"
 msgid "Ate a meal that tasted nasty."
-msgstr "불쾌한 맛의 식사를 먹었다."
+msgstr "불쾌한 식사를 먹었습니다."
 
 #. Key: CharacterStatusConfig.AteGutberrySoup.FlavorText
 msgctxt "CharacterStatusConfig.AteGutberrySoup.FlavorText"
@@ -21706,27 +21706,27 @@ msgstr ""
 #. Key: CharacterStatusConfig.AteGutberrySoup.LogEntry
 msgctxt "CharacterStatusConfig.AteGutberrySoup.LogEntry"
 msgid "{0} {1}"
-msgstr "{0} {1}"
+msgstr "{0}: {1}"
 
 #. Key: CharacterStatusConfig.AteGutberrySoupHighStink.DisplayName
 msgctxt "CharacterStatusConfig.AteGutberrySoupHighStink.DisplayName"
 msgid "Ate Gutberry Soup During High Stink"
-msgstr ""
+msgstr "악취 만발 기간에 내장딸기 수프를 먹음"
 
 #. Key: CharacterStatusConfig.AteGutberrySoupHighStink.Description
 msgctxt "CharacterStatusConfig.AteGutberrySoupHighStink.Description"
 msgid "Ate a meal that tasted especially nasty."
-msgstr "특히 불쾌한 맛을 내는 식사를 했다."
+msgstr "아주 불쾌한 식사를 했습니다."
 
 #. Key: CharacterStatusConfig.AteGutberrySoupGoldenBerries.DisplayName
 msgctxt "CharacterStatusConfig.AteGutberrySoupGoldenBerries.DisplayName"
 msgid "Ate Gutberry Soup During Golden Berries"
-msgstr ""
+msgstr "황금딸기 기간에 내장딸기 수프를 먹음"
 
 #. Key: CharacterStatusConfig.AteGutberrySoupGoldenBerries.Description
 msgctxt "CharacterStatusConfig.AteGutberrySoupGoldenBerries.Description"
 msgid "Ate a meal that tasted unexpectedly okay."
-msgstr "예기치 않게 맛이 나는 음식을 먹었습니다."
+msgstr "예상치 못하게 괜찮은 맛이 나는 식사를 먹었습니다."
 
 #. Key: CharacterStatusConfig.AteCarcassStew.DisplayName
 msgctxt "CharacterStatusConfig.AteCarcassStew.DisplayName"
@@ -21736,7 +21736,7 @@ msgstr "쥐고기 스튜를 먹음"
 #. Key: CharacterStatusConfig.AteCarcassStew.Description
 msgctxt "CharacterStatusConfig.AteCarcassStew.Description"
 msgid "Ate a meal that tasted nasty."
-msgstr "불쾌한 맛의 식사를 먹었다."
+msgstr "불쾌한 식사를 했습니다."
 
 #. Key: CharacterStatusConfig.AteCarcassStew.FlavorText
 msgctxt "CharacterStatusConfig.AteCarcassStew.FlavorText"
@@ -21746,7 +21746,7 @@ msgstr ""
 #. Key: CharacterStatusConfig.AteCarcassStew.LogEntry
 msgctxt "CharacterStatusConfig.AteCarcassStew.LogEntry"
 msgid "{0} {1}"
-msgstr "{0} {1}"
+msgstr "{0}: {1}"
 
 #. Key: CharacterStatusConfig.AteAnimal.DisplayName
 msgctxt "CharacterStatusConfig.AteAnimal.DisplayName"
@@ -21756,7 +21756,7 @@ msgstr "야생 동물을 먹음"
 #. Key: CharacterStatusConfig.AteAnimal.Description
 msgctxt "CharacterStatusConfig.AteAnimal.Description"
 msgid "Ate a wild animal raw."
-msgstr ""
+msgstr "야생 동물을 산 채로 먹었습니다."
 
 #. Key: CharacterStatusConfig.AteAnimal.FlavorText
 msgctxt "CharacterStatusConfig.AteAnimal.FlavorText"
@@ -21766,7 +21766,7 @@ msgstr ""
 #. Key: CharacterStatusConfig.AteAnimal.LogEntry
 msgctxt "CharacterStatusConfig.AteAnimal.LogEntry"
 msgid "{0} {1}"
-msgstr "{0} {1}"
+msgstr "{0}: {1}"
 
 #. Key: CharacterStatusConfig.AteBitterGruel.DisplayName
 msgctxt "CharacterStatusConfig.AteBitterGruel.DisplayName"
@@ -21786,7 +21786,7 @@ msgstr ""
 #. Key: CharacterStatusConfig.AteBitterGruel.LogEntry
 msgctxt "CharacterStatusConfig.AteBitterGruel.LogEntry"
 msgid "{0} {1}"
-msgstr "{0} {1}"
+msgstr "{0}: {1}"
 
 #. Key: CharacterStatusConfig.AteBitterStirFry.DisplayName
 msgctxt "CharacterStatusConfig.AteBitterStirFry.DisplayName"
@@ -21796,7 +21796,7 @@ msgstr "씁쓸한 볶음을 먹음"
 #. Key: CharacterStatusConfig.AteBitterStirFry.Description
 msgctxt "CharacterStatusConfig.AteBitterStirFry.Description"
 msgid "Ate a meal that wasn't bad, but wasn't good."
-msgstr "나쁘진 않았지만 좋지 않은 음식을 먹었습니다."
+msgstr "나쁘진 않았지만 좋지도 않은 음식을 먹었습니다."
 
 #. Key: CharacterStatusConfig.AteBitterStirFry.FlavorText
 msgctxt "CharacterStatusConfig.AteBitterStirFry.FlavorText"
@@ -21806,7 +21806,7 @@ msgstr ""
 #. Key: CharacterStatusConfig.AteBitterStirFry.LogEntry
 msgctxt "CharacterStatusConfig.AteBitterStirFry.LogEntry"
 msgid "{0} {1}"
-msgstr "{0} {1}"
+msgstr "{0}: {1}"
 
 #. Key: CharacterStatusConfig.AteHoneyedGruel.DisplayName
 msgctxt "CharacterStatusConfig.AteHoneyedGruel.DisplayName"
@@ -21816,7 +21816,7 @@ msgstr "달콤한 죽을 먹음"
 #. Key: CharacterStatusConfig.AteHoneyedGruel.Description
 msgctxt "CharacterStatusConfig.AteHoneyedGruel.Description"
 msgid "Ate a meal that wasn't bad, but wasn't good."
-msgstr "나쁘진 않았지만 좋지 않은 음식을 먹었습니다."
+msgstr "나쁘진 않았지만 좋지도 않은 음식을 먹었습니다."
 
 #. Key: CharacterStatusConfig.AteHoneyedGruel.FlavorText
 msgctxt "CharacterStatusConfig.AteHoneyedGruel.FlavorText"
@@ -21826,7 +21826,7 @@ msgstr ""
 #. Key: CharacterStatusConfig.AteHoneyedGruel.LogEntry
 msgctxt "CharacterStatusConfig.AteHoneyedGruel.LogEntry"
 msgid "{0} {1}"
-msgstr "{0} {1}"
+msgstr "{0}: {1}"
 
 #. Key: CharacterStatusConfig.AteHoneyedStirFry.DisplayName
 msgctxt "CharacterStatusConfig.AteHoneyedStirFry.DisplayName"
@@ -21836,7 +21836,7 @@ msgstr "달콤한 볶음을 먹음"
 #. Key: CharacterStatusConfig.AteHoneyedStirFry.Description
 msgctxt "CharacterStatusConfig.AteHoneyedStirFry.Description"
 msgid "Ate a meal that tasted good."
-msgstr "맛있게 먹은 음식을 먹었다."
+msgstr "맛있는 식사를 했습니다."
 
 #. Key: CharacterStatusConfig.AteHoneyedStirFry.FlavorText
 msgctxt "CharacterStatusConfig.AteHoneyedStirFry.FlavorText"
@@ -21846,7 +21846,7 @@ msgstr ""
 #. Key: CharacterStatusConfig.AteHoneyedStirFry.LogEntry
 msgctxt "CharacterStatusConfig.AteHoneyedStirFry.LogEntry"
 msgid "{0} {1}"
-msgstr "{0} {1}"
+msgstr "{0}: {1}"
 
 #. Key: CharacterStatusConfig.AteRockCaramel.DisplayName
 msgctxt "CharacterStatusConfig.AteRockCaramel.DisplayName"
@@ -21856,7 +21856,7 @@ msgstr "돌 캐러멜을 먹음"
 #. Key: CharacterStatusConfig.AteRockCaramel.Description
 msgctxt "CharacterStatusConfig.AteRockCaramel.Description"
 msgid "Ate a tasty meal."
-msgstr "맛있는 식사를 먹어."
+msgstr "맛있는 식사를 했습니다."
 
 #. Key: CharacterStatusConfig.AteRockCaramel.FlavorText
 msgctxt "CharacterStatusConfig.AteRockCaramel.FlavorText"
@@ -21866,7 +21866,7 @@ msgstr ""
 #. Key: CharacterStatusConfig.AteRockCaramel.LogEntry
 msgctxt "CharacterStatusConfig.AteRockCaramel.LogEntry"
 msgid "{0} {1}"
-msgstr "{0} {1}"
+msgstr "{0}: {1}"
 
 #. Key: CharacterStatusConfig.AteLeafyGreens.DisplayName
 msgctxt "CharacterStatusConfig.AteLeafyGreens.DisplayName"
@@ -21876,7 +21876,7 @@ msgstr "초록 잎사귀를 먹음"
 #. Key: CharacterStatusConfig.AteLeafyGreens.Description
 msgctxt "CharacterStatusConfig.AteLeafyGreens.Description"
 msgid "Ate a tasty meal."
-msgstr "맛있는 식사를 먹어."
+msgstr "맛있는 식사를 했습니다."
 
 #. Key: CharacterStatusConfig.AteLeafyGreens.FlavorText
 msgctxt "CharacterStatusConfig.AteLeafyGreens.FlavorText"
@@ -21886,7 +21886,7 @@ msgstr ""
 #. Key: CharacterStatusConfig.AteLeafyGreens.LogEntry
 msgctxt "CharacterStatusConfig.AteLeafyGreens.LogEntry"
 msgid "{0} {1}"
-msgstr "{0} {1}"
+msgstr "{0}: {1}"
 
 #. Key: CharacterStatusConfig.AteBloodyScraps.DisplayName
 msgctxt "CharacterStatusConfig.AteBloodyScraps.DisplayName"
@@ -21896,7 +21896,7 @@ msgstr "피투성이 찌꺼기를 먹음"
 #. Key: CharacterStatusConfig.AteBloodyScraps.Description
 msgctxt "CharacterStatusConfig.AteBloodyScraps.Description"
 msgid "Ate a tasty meal."
-msgstr ""
+msgstr "맛있는 식사를 했습니다."
 
 #. Key: CharacterStatusConfig.AteBloodyScraps.FlavorText
 msgctxt "CharacterStatusConfig.AteBloodyScraps.FlavorText"
@@ -21916,7 +21916,7 @@ msgstr "통통한 빵을 먹음"
 #. Key: CharacterStatusConfig.AteBouncingBread.Description
 msgctxt "CharacterStatusConfig.AteBouncingBread.Description"
 msgid "Ate a tasty meal."
-msgstr ""
+msgstr "맛있는 식사를 했습니다."
 
 #. Key: CharacterStatusConfig.AteBouncingBread.FlavorText
 msgctxt "CharacterStatusConfig.AteBouncingBread.FlavorText"
@@ -21926,7 +21926,7 @@ msgstr ""
 #. Key: CharacterStatusConfig.AteBouncingBread.LogEntry
 msgctxt "CharacterStatusConfig.AteBouncingBread.LogEntry"
 msgid "{0} {1}"
-msgstr "{0} {1}"
+msgstr "{0}: {1}"
 
 #. Key: CharacterStatusConfig.AteMeatAndVeggies.DisplayName
 msgctxt "CharacterStatusConfig.AteMeatAndVeggies.DisplayName"
@@ -21936,7 +21936,7 @@ msgstr "고기와 야채를 먹음"
 #. Key: CharacterStatusConfig.AteMeatAndVeggies.Description
 msgctxt "CharacterStatusConfig.AteMeatAndVeggies.Description"
 msgid "Ate a tasty meal."
-msgstr ""
+msgstr "맛있는 식사를 했습니다."
 
 #. Key: CharacterStatusConfig.AteMeatAndVeggies.FlavorText
 msgctxt "CharacterStatusConfig.AteMeatAndVeggies.FlavorText"
@@ -21946,7 +21946,7 @@ msgstr ""
 #. Key: CharacterStatusConfig.AteMeatAndVeggies.LogEntry
 msgctxt "CharacterStatusConfig.AteMeatAndVeggies.LogEntry"
 msgid "{0} {1}"
-msgstr "{0} {1}"
+msgstr "{0}: {1}"
 
 #. Key: CharacterStatusConfig.AteCaromCroutonSalad.DisplayName
 msgctxt "CharacterStatusConfig.AteCaromCroutonSalad.DisplayName"
@@ -21956,7 +21956,7 @@ msgstr "벌레 샐러드를 먹음"
 #. Key: CharacterStatusConfig.AteCaromCroutonSalad.Description
 msgctxt "CharacterStatusConfig.AteCaromCroutonSalad.Description"
 msgid "Ate a tasty meal."
-msgstr ""
+msgstr "맛있는 식사를 했습니다."
 
 #. Key: CharacterStatusConfig.AteCaromCroutonSalad.FlavorText
 msgctxt "CharacterStatusConfig.AteCaromCroutonSalad.FlavorText"
@@ -21966,7 +21966,7 @@ msgstr ""
 #. Key: CharacterStatusConfig.AteCaromCroutonSalad.LogEntry
 msgctxt "CharacterStatusConfig.AteCaromCroutonSalad.LogEntry"
 msgid "{0} {1}"
-msgstr "{0} {1}"
+msgstr "{0}: {1}"
 
 #. Key: CharacterStatusConfig.AteHardtack.DisplayName
 msgctxt "CharacterStatusConfig.AteHardtack.DisplayName"
@@ -21976,7 +21976,7 @@ msgstr "건빵을 먹음"
 #. Key: CharacterStatusConfig.AteHardtack.Description
 msgctxt "CharacterStatusConfig.AteHardtack.Description"
 msgid "Ate a tasty meal."
-msgstr ""
+msgstr "맛있는 식사를 했습니다."
 
 #. Key: CharacterStatusConfig.AteHardtack.FlavorText
 msgctxt "CharacterStatusConfig.AteHardtack.FlavorText"
@@ -21986,7 +21986,7 @@ msgstr ""
 #. Key: CharacterStatusConfig.AteHardtack.LogEntry
 msgctxt "CharacterStatusConfig.AteHardtack.LogEntry"
 msgid "{0} {1}"
-msgstr "{0} {1}"
+msgstr "{0}: {1}"
 
 #. Key: CharacterStatusConfig.AteSweetmeat.DisplayName
 msgctxt "CharacterStatusConfig.AteSweetmeat.DisplayName"
@@ -21996,7 +21996,7 @@ msgstr "사탕고기를 먹음"
 #. Key: CharacterStatusConfig.AteSweetmeat.Description
 msgctxt "CharacterStatusConfig.AteSweetmeat.Description"
 msgid "Ate a tasty meal."
-msgstr ""
+msgstr "맛있는 식사를 했습니다."
 
 #. Key: CharacterStatusConfig.AteSweetmeat.FlavorText
 msgctxt "CharacterStatusConfig.AteSweetmeat.FlavorText"
@@ -22006,17 +22006,17 @@ msgstr ""
 #. Key: CharacterStatusConfig.AteSweetmeat.LogEntry
 msgctxt "CharacterStatusConfig.AteSweetmeat.LogEntry"
 msgid "{0} {1}"
-msgstr "{0} {1}"
+msgstr "{0}: {1}"
 
 #. Key: CharacterStatusConfig.Satisfied.DisplayName
 msgctxt "CharacterStatusConfig.Satisfied.DisplayName"
 msgid "Satisfied"
-msgstr ""
+msgstr "적당히 배부름"
 
 #. Key: CharacterStatusConfig.Satisfied.Description
 msgctxt "CharacterStatusConfig.Satisfied.Description"
 msgid "Has no urge to eat right now."
-msgstr ""
+msgstr "더 먹을 생각이 없습니다."
 
 #. Key: CharacterStatusConfig.Satisfied.FlavorText
 msgctxt "CharacterStatusConfig.Satisfied.FlavorText"
@@ -22026,7 +22026,7 @@ msgstr ""
 #. Key: CharacterStatusConfig.Satisfied.LogEntry
 msgctxt "CharacterStatusConfig.Satisfied.LogEntry"
 msgid "{0} is {1}"
-msgstr "{0} {1}"
+msgstr "{0}: {1}"
 
 #. Key: CharacterStatusConfig.Full.DisplayName
 msgctxt "CharacterStatusConfig.Full.DisplayName"
@@ -27666,7 +27666,7 @@ msgstr "Helpful Helpers"
 #. Key: ResearchTechDefinition.GardenHelpers.DisplayName
 msgctxt "ResearchTechDefinition.GardenHelpers.DisplayName"
 msgid "Helping Comes Naturally"
-msgstr ""
+msgstr "Helping Comes Naturally"
 
 #. Key: ResearchTechDefinition.SpindleIV.DisplayName
 msgctxt "ResearchTechDefinition.SpindleIV.DisplayName"
@@ -28241,7 +28241,7 @@ msgstr "번개 마법"
 #. Key: SkillDefinition.Manipulation.DisplayName
 msgctxt "SkillDefinition.Manipulation.DisplayName"
 msgid "Air"
-msgstr "공기 마법"
+msgstr "바람 마법"
 
 #. Key: JobTypeDefinition.JobType_PlayerErrand.DisplayName
 msgctxt "JobTypeDefinition.JobType_PlayerErrand.DisplayName"
@@ -28834,7 +28834,7 @@ msgstr "의식 수행"
 #. Key: JobTypeDefinition.JobType_Ward.DisplayName
 msgctxt "JobTypeDefinition.JobType_Ward.DisplayName"
 msgid "Ward"
-msgstr "순찰"
+msgstr "수호상"
 
 #. Key: JobTypeDefinition.JobType_Ward.Description
 msgctxt "JobTypeDefinition.JobType_Ward.Description"
@@ -32580,7 +32580,7 @@ msgstr "Common Room Sleeper  - 금메달 과제"
 #. Key: BadgeDefinition.CommonRoomSleeper_3.Description
 msgctxt "BadgeDefinition.CommonRoomSleeper_3.Description"
 msgid "Sleep in a <slink=CommonRoom> or <nlink=HouseCommons> for 60 total hours."
-msgstr ""
+msgstr "<slink=CommonRoom>나 <nlink=HouseCommons>에서 총 60시간 수면하세요."
 
 #. Key: BadgeDefinition.HouseCommonSleeper_4.DisplayName
 msgctxt "BadgeDefinition.HouseCommonSleeper_4.DisplayName"
@@ -32620,7 +32620,7 @@ msgstr "Group Learner - 동메달 과제"
 #. Key: BadgeDefinition.GroupLearner_1.Description
 msgctxt "BadgeDefinition.GroupLearner_1.Description"
 msgid "Cast at a <slink=LearningClassStationBasic> 25 times in a Basic or Intermediate Classroom with at least 6 Students present."
-msgstr ""
+msgstr "최소 6명의 학생이 있는 기본 교실이나 중급 교실에서 <slink=LearningClassStationBasic>에 25번 마법을 시전하세요."
 
 #. Key: BadgeDefinition.GroupLearner_2.DisplayName
 msgctxt "BadgeDefinition.GroupLearner_2.DisplayName"
@@ -32630,7 +32630,7 @@ msgstr "Group Learner - 은메달 과제"
 #. Key: BadgeDefinition.GroupLearner_2.Description
 msgctxt "BadgeDefinition.GroupLearner_2.Description"
 msgid "Cast at a <slink=LearningClassStationBasic> 50 times in an Intermediate Classroom with at least 6 Students present."
-msgstr ""
+msgstr "최소 6명의 학생이 있는 기본 교실이나 중급 교실에서 <slink=LearningClassStationBasic>에 50번 마법을 시전하세요."
 
 #. Key: BadgeDefinition.SoloLearner_1.DisplayName
 msgctxt "BadgeDefinition.SoloLearner_1.DisplayName"
@@ -32640,7 +32640,7 @@ msgstr "Solo Learner - 동메달 과제"
 #. Key: BadgeDefinition.SoloLearner_1.Description
 msgctxt "BadgeDefinition.SoloLearner_1.Description"
 msgid "Cast at a <slink=LearningClassStationBasic> 25 times in a Basic or Intermediate Classroom with no other Students present."
-msgstr ""
+msgstr "다른 학생이 없는 기본 교실이나 중급 교실에서 <slink=LearningClassStationBasic>에 25번 마법을 시전하세요."
 
 #. Key: BadgeDefinition.SoloLearner_2.DisplayName
 msgctxt "BadgeDefinition.SoloLearner_2.DisplayName"
@@ -32650,7 +32650,7 @@ msgstr "Solo Learner - 은메달 과제"
 #. Key: BadgeDefinition.SoloLearner_2.Description
 msgctxt "BadgeDefinition.SoloLearner_2.Description"
 msgid "Cast at a <slink=LearningClassStationBasic> 50 times in an Intermediate Classroom with no other Students present."
-msgstr ""
+msgstr "다른 학생이 없는 기본 교실이나 중급 교실에서 <slink=LearningClassStationBasic>에 50번 마법을 시전하세요."
 
 #. Key: BadgeDefinition.SoloLearner_3_Fire.DisplayName
 msgctxt "BadgeDefinition.SoloLearner_3_Fire.DisplayName"
@@ -32660,7 +32660,7 @@ msgstr "Solo Learner (Fire) - 금메달 과제"
 #. Key: BadgeDefinition.SoloLearner_3_Fire.Description
 msgctxt "BadgeDefinition.SoloLearner_3_Fire.Description"
 msgid "Cast at a <slink=FireClassStation> 75 times in an Advanced Classroom or Pyromancer's Infernum with no other Students present."
-msgstr ""
+msgstr "다른 학생이 없는 고급 교실이나 화염술사의 염옥에서 <slink=FireClassStation>에 마법을 75번 시전하세요."
 
 #. Key: BadgeDefinition.SoloLearner_4_Fire.DisplayName
 msgctxt "BadgeDefinition.SoloLearner_4_Fire.DisplayName"
@@ -32670,7 +32670,7 @@ msgstr "Solo Learner (Fire) - 플래티넘 메달 과제"
 #. Key: BadgeDefinition.SoloLearner_4_Fire.Description
 msgctxt "BadgeDefinition.SoloLearner_4_Fire.Description"
 msgid "Cast at a <slink=FireClassStation> 100 times in a Pyromancer's Infernum with no other Students present."
-msgstr ""
+msgstr "다른 학생이 없는 화염술사의 염옥에서 <slink=FireClassStation>에 마법을 100번 시전하세요."
 
 #. Key: BadgeDefinition.SoloLearner_3_Water.DisplayName
 msgctxt "BadgeDefinition.SoloLearner_3_Water.DisplayName"
@@ -32680,7 +32680,7 @@ msgstr "Solo Learner (Water) - 금메달 과제"
 #. Key: BadgeDefinition.SoloLearner_3_Water.Description
 msgctxt "BadgeDefinition.SoloLearner_3_Water.Description"
 msgid "Cast at a <slink=WaterClassStation> 75 times in an Advanced Classroom or Hydrolaboratory with no other Students present."
-msgstr ""
+msgstr "다른 학생이 없는 고급 교실이나 물 연구실에서 <slink=WaterClassStation>에 마법을 75번 시전하세요."
 
 #. Key: BadgeDefinition.SoloLearner_4_Water.DisplayName
 msgctxt "BadgeDefinition.SoloLearner_4_Water.DisplayName"
@@ -32690,7 +32690,7 @@ msgstr "Solo Learner (Water) - 플래티넘 메달 과제"
 #. Key: BadgeDefinition.SoloLearner_4_Water.Description
 msgctxt "BadgeDefinition.SoloLearner_4_Water.Description"
 msgid "Cast at a <slink=WaterClassStation> 100 times in a Hydrolaboratory with no other Students present."
-msgstr ""
+msgstr "다른 학생이 없는 물 연구실에서 <slink=WaterClassStation>에 마법을 100번 시전하세요."
 
 #. Key: BadgeDefinition.SoloLearner_3_Earth.DisplayName
 msgctxt "BadgeDefinition.SoloLearner_3_Earth.DisplayName"
@@ -32960,7 +32960,7 @@ msgstr "Eager To Learn - 동메달 과제"
 #. Key: BadgeDefinition.EagerToLearn_1.Description
 msgctxt "BadgeDefinition.EagerToLearn_1.Description"
 msgid "Cast at a <slink=LearningClassStationBasic> 33 times in a Basic or Intermediate Classroom."
-msgstr ""
+msgstr "기본 교실이나 중급 교실에서 <slink=LearningClassStationBasic>에 마법을 33번 시전하세요."
 
 #. Key: BadgeDefinition.EagerToLearn_2.DisplayName
 msgctxt "BadgeDefinition.EagerToLearn_2.DisplayName"
@@ -32970,7 +32970,7 @@ msgstr "Eager To Learn - 은메달 과제"
 #. Key: BadgeDefinition.EagerToLearn_2.Description
 msgctxt "BadgeDefinition.EagerToLearn_2.Description"
 msgid "Cast at a <slink=LearningClassStationBasic> 75 times in an Intermediate Classroom."
-msgstr ""
+msgstr "중급 교실에서 <slink=LearningClassStationBasic>에 마법을 75번 시전하세요."
 
 #. Key: BadgeDefinition.AnticipationLearn_1.DisplayName
 msgctxt "BadgeDefinition.AnticipationLearn_1.DisplayName"
@@ -32980,7 +32980,7 @@ msgstr "Anticipatory Learning - 동메달 과제"
 #. Key: BadgeDefinition.AnticipationLearn_1.Description
 msgctxt "BadgeDefinition.AnticipationLearn_1.Description"
 msgid "Cast while <slink=Anticipation> at a <slink=LearningClassStationBasic> 25 times in a Basic or Intermediate Classroom."
-msgstr ""
+msgstr "<slink=Anticipation> 상태에서 기본 교실이나 중급 교실에서 <slink=LearningClassStationBasic>에 마법을 25번 시전하세요."
 
 #. Key: BadgeDefinition.AnticipationLearn_2.DisplayName
 msgctxt "BadgeDefinition.AnticipationLearn_2.DisplayName"
@@ -32990,7 +32990,7 @@ msgstr "Anticipatory Learning - 은메달 과제"
 #. Key: BadgeDefinition.AnticipationLearn_2.Description
 msgctxt "BadgeDefinition.AnticipationLearn_2.Description"
 msgid "Cast while <slink=Anticipation> at a <slink=LearningClassStationBasic> 50 times in an Intermediate Classroom."
-msgstr ""
+msgstr "<slink=Anticipation> 상태에서 중급 교실에서 <slink=LearningClassStationBasic>에 마법을 50번 시전하세요."
 
 #. Key: BadgeDefinition.FullLearn_1.DisplayName
 msgctxt "BadgeDefinition.FullLearn_1.DisplayName"
@@ -33000,7 +33000,7 @@ msgstr "Full Learning - 동메달 과제"
 #. Key: BadgeDefinition.FullLearn_1.Description
 msgctxt "BadgeDefinition.FullLearn_1.Description"
 msgid "Cast while <slink=Full> at a <slink=LearningClassStationBasic> 25 times in a Basic or Intermediate Classroom."
-msgstr ""
+msgstr "<slink=Full> 상태에서 기본 교실이나 중급 교실에서 <slink=LearningClassStationBasic>에 마법을 25번 시전하세요."
 
 #. Key: BadgeDefinition.FullLearn_2.DisplayName
 msgctxt "BadgeDefinition.FullLearn_2.DisplayName"
@@ -33010,7 +33010,7 @@ msgstr "Full Learning - 은메달 과제"
 #. Key: BadgeDefinition.FullLearn_2.Description
 msgctxt "BadgeDefinition.FullLearn_2.Description"
 msgid "Cast while <slink=Full> at a <slink=LearningClassStationBasic> 50 times in an Intermediate Classroom."
-msgstr ""
+msgstr "<slink=Full> 상태에서 중급 교실에서 <slink=LearningClassStationBasic>에 마법을 50번 시전하세요."
 
 #. Key: BadgeDefinition.RestedLearn_1.DisplayName
 msgctxt "BadgeDefinition.RestedLearn_1.DisplayName"
@@ -33020,7 +33020,7 @@ msgstr "Rested Learning - 동메달 과제"
 #. Key: BadgeDefinition.RestedLearn_1.Description
 msgctxt "BadgeDefinition.RestedLearn_1.Description"
 msgid "Cast while <slink=Rested> at a <slink=LearningClassStationBasic> 25 times in a Basic or Intermediate Classroom."
-msgstr ""
+msgstr "<slink=Rested> 상태에서 기본 교실이나 중급 교실에서 <slink=LearningClassStationBasic>에 마법을 25번 시전하세요."
 
 #. Key: BadgeDefinition.RestedLearn_2.DisplayName
 msgctxt "BadgeDefinition.RestedLearn_2.DisplayName"
@@ -33030,7 +33030,7 @@ msgstr "Rested Learning - 은메달 과제"
 #. Key: BadgeDefinition.RestedLearn_2.Description
 msgctxt "BadgeDefinition.RestedLearn_2.Description"
 msgid "Cast while <slink=Rested> at a <slink=LearningClassStationBasic> 50 times in an Intermediate Classroom."
-msgstr ""
+msgstr "<slink=Rested> 상태에서 중급 교실에서 <slink=LearningClassStationBasic>에 마법을 50번 시전하세요."
 
 #. Key: BadgeDefinition.RitualParticipant_2a.DisplayName
 msgctxt "BadgeDefinition.RitualParticipant_2a.DisplayName"
@@ -33040,7 +33040,7 @@ msgstr "Ritual Participant - 은메달 과제"
 #. Key: BadgeDefinition.RitualParticipant_2a.Description
 msgctxt "BadgeDefinition.RitualParticipant_2a.Description"
 msgid "Participate in a Ritual 2 times."
-msgstr ""
+msgstr "의식에 2번 참여하세요."
 
 #. Key: BadgeDefinition.BossSoloist_2.DisplayName
 msgctxt "BadgeDefinition.BossSoloist_2.DisplayName"
@@ -33050,7 +33050,7 @@ msgstr "Boss Soloist - 은메달 과제"
 #. Key: BadgeDefinition.BossSoloist_2.Description
 msgctxt "BadgeDefinition.BossSoloist_2.Description"
 msgid "Beat the <slink=Psycrow> solo."
-msgstr ""
+msgstr "<slink=Psycrow>를 혼자 물리치세요."
 
 #. Key: BadgeDefinition.Conqueror_1.DisplayName
 msgctxt "BadgeDefinition.Conqueror_1.DisplayName"
@@ -33060,7 +33060,7 @@ msgstr "Conqueror - 동메달 과제"
 #. Key: BadgeDefinition.Conqueror_1.Description
 msgctxt "BadgeDefinition.Conqueror_1.Description"
 msgid "Overcome the <slink=Psycrow>."
-msgstr ""
+msgstr "<slink=Psycrow>를 물리치세요."
 
 #. Key: BadgeDefinition.EnemySoloist_1.DisplayName
 msgctxt "BadgeDefinition.EnemySoloist_1.DisplayName"
@@ -33070,7 +33070,7 @@ msgstr "Enemy Soloist - 동메달 과제"
 #. Key: BadgeDefinition.EnemySoloist_1.Description
 msgctxt "BadgeDefinition.EnemySoloist_1.Description"
 msgid "Defeat a 1-skull or higher enemy party solo."
-msgstr ""
+msgstr "해골 1개 이상의 적을 혼자 물리치세요."
 
 #. Key: BadgeDefinition.EnemySoloist_2.DisplayName
 msgctxt "BadgeDefinition.EnemySoloist_2.DisplayName"
@@ -33080,7 +33080,7 @@ msgstr "Enemy Soloist - 은메달 과제"
 #. Key: BadgeDefinition.EnemySoloist_2.Description
 msgctxt "BadgeDefinition.EnemySoloist_2.Description"
 msgid "Defeat a 2-skull or higher enemy party solo."
-msgstr ""
+msgstr "해골 2개 이상의 적을 혼자 물리치세요."
 
 #. Key: BadgeDefinition.EnemySoloist_3.DisplayName
 msgctxt "BadgeDefinition.EnemySoloist_3.DisplayName"
@@ -33090,7 +33090,7 @@ msgstr "Enemy Soloist - 금메달 과제"
 #. Key: BadgeDefinition.EnemySoloist_3.Description
 msgctxt "BadgeDefinition.EnemySoloist_3.Description"
 msgid "Defeat a 3-skull or higher enemy party solo."
-msgstr ""
+msgstr "해골 3개 이상의 적을 혼자 물리치세요."
 
 #. Key: BadgeDefinition.EnemySoloist_4.DisplayName
 msgctxt "BadgeDefinition.EnemySoloist_4.DisplayName"
@@ -33100,7 +33100,7 @@ msgstr "Enemy Soloist - 플래티넘 메달 과제"
 #. Key: BadgeDefinition.EnemySoloist_4.Description
 msgctxt "BadgeDefinition.EnemySoloist_4.Description"
 msgid "Defeat a 4-skull or higher enemy party solo."
-msgstr ""
+msgstr "해골 4개 이상의 적을 혼자 물리치세요."
 
 #. Key: BadgeDefinition.DefensiveDuelist_1.DisplayName
 msgctxt "BadgeDefinition.DefensiveDuelist_1.DisplayName"
