@@ -1789,12 +1789,12 @@ msgstr "대기 중"
 #. Key: Archetype.QuiltedFertilizer.Configs.1-638429976827743284.DisplayName
 msgctxt "Archetype.QuiltedFertilizer.Configs.1-638429976827743284.DisplayName"
 msgid "Quilted Fertilizer"
-msgstr ""
+msgstr "누더기 정원사"
 
 #. Key: Archetype.QuiltedFertilizer.Configs.1-638429976827743284.Description
 msgctxt "Archetype.QuiltedFertilizer.Configs.1-638429976827743284.Description"
 msgid "A <slink=Quilted> that can <slink=JobType_Tend>."
-msgstr ""
+msgstr "<slink=JobType_Tend>을 할 수 있는 <slink=Quilted>입니다."
 
 #. Key: Archetype.QuiltedFertilizer.Configs.1-638429976827743284.FlavorText
 msgctxt "Archetype.QuiltedFertilizer.Configs.1-638429976827743284.FlavorText"
@@ -1804,17 +1804,17 @@ msgstr ""
 #. Key: Archetype.QuiltedFertilizer.Configs.16-638429976827743284.BehaviorDesc
 msgctxt "Archetype.QuiltedFertilizer.Configs.16-638429976827743284.BehaviorDesc"
 msgid "Waiting"
-msgstr ""
+msgstr "대기 중"
 
 #. Key: Archetype.QuiltedHarvester.Configs.1-638429976827743284.DisplayName
 msgctxt "Archetype.QuiltedHarvester.Configs.1-638429976827743284.DisplayName"
 msgid "Quilted Harvester"
-msgstr ""
+msgstr "누더기 수확꾼"
 
 #. Key: Archetype.QuiltedHarvester.Configs.1-638429976827743284.Description
 msgctxt "Archetype.QuiltedHarvester.Configs.1-638429976827743284.Description"
 msgid "A <slink=Quilted> that can <slink=JobType_Harvest>."
-msgstr ""
+msgstr "<slink=JobType_Harvest>을 할 수 있는 <slink=Quilted>입니다."
 
 #. Key: Archetype.QuiltedHarvester.Configs.1-638429976827743284.FlavorText
 msgctxt "Archetype.QuiltedHarvester.Configs.1-638429976827743284.FlavorText"
@@ -1824,7 +1824,7 @@ msgstr ""
 #. Key: Archetype.QuiltedHarvester.Configs.16-638429976827753264.BehaviorDesc
 msgctxt "Archetype.QuiltedHarvester.Configs.16-638429976827753264.BehaviorDesc"
 msgid "Waiting"
-msgstr ""
+msgstr "대기 중"
 
 #. Key: Archetype.ManaLantern.DescriptionConfig.0.DisplayName
 msgctxt "Archetype.ManaLantern.DescriptionConfig.0.DisplayName"
