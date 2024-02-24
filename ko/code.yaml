@@ -35,9 +35,9 @@
 - Key: IngredientLookups.0-638416141622255213
   Text: Drops
 - Key: IngredientLookups.1-638416141622255213
-  Text: Scouting
+  Text: 정찰 중
 - Key: IngredientLookups.2-638416141622255213
-  Text: Middens
+  Text: 처리
 - Key: AbsorbManaBehavior.0-638404855926197012
   Text: 탐색 중 {0}마나를 흡수당했습니다.
 - Key: AbsorbManaBehavior.1-638404855926197012
@@ -416,13 +416,13 @@
 - Key: GroupMemberComponent.0-638310744738977038
   Text: '그룹 구성원: {0: false)}'
 - Key: HitPointComponent.0-638060243733908210
-  Text: killed by
+  Text: ': 죽음, 공격자 - '
 - Key: HitPointComponent.1-638060243733908210
-  Text: knocked out by
+  Text: ': 기절, 공격자 - '
 - Key: HitPointComponent.0-637903695941111802
   Text: '{0} {1} debug. YOU MONSTER!'
 - Key: HitPointComponent.0-638132813817972045
-  Text: '{0} {1} Retaliation damage from {2}.'
+  Text: '{0}: {2}의 보복으로 {1} 데미지 입음'
 - Key: HitPointComponent.0-638234832785271480
   Text: '{0} {1} Poison damage.'
 - Key: HitPointComponent.0-638357407842297961
@@ -438,47 +438,47 @@
 - Key: HitPointComponent.6-637903695941131749
   Text: '{0} {1} absorbing {2}.'
 - Key: HitPointComponent.7-637903695941131749
-  Text: '{0} destroyed due to low durability.'
+  Text: '{0}: 내구도가 떨어져 파괴됨'
 - Key: HitPointComponent.8-637903695941131749
-  Text: '{0} destroyed due to being smashed.'
+  Text: '{0}: 파괴됨'
 - Key: HitPointComponent.9-637903695941131749
   Text: '{0} {1} by an unrecognized source. This is a bug. {2} {3} {4} {5}'
 - Key: HitPointComponent.0-638310744738977038
   Text: HP
 - Key: HitPointComponent.0-638234832785292278
-  Text: '{0} gained {2} <slink=Poison> from {1}'
+  Text: '{0}: {1}에서 {2} <slink=Poison> 획득'
 - Key: HitPointComponent.0-638180303658080969
-  Text: '{0} gained {2} <slink=TempHP> from {1}'
+  Text: '{0}: {1}에서 {2} <slink=TempHP> 획득'
 - Key: HitPointComponent.1-638180303658080969
-  Text: '{0} gained {2} <slink=TempHP> from {1}'
+  Text: '{0}: {1}에서 {2} <slink=TempHP> 획득'
 - Key: HitPointComponent.2-638180303658080969
-  Text: '{0} gained {1} <slink=TempHP>'
+  Text: '{0}: {1} <slink=TempHP> 획득'
 - Key: HitPointComponent.0-638324637829244798
-  Text: '{0} restored to {1} HP by <slink=Endurance> instead of being downed.'
+  Text: '{0}: <slink=Endurance> 효과로 인해 {1} HP로 부활'
 - Key: HitPointComponent.0-638249409126334284
-  Text: Restored to {1} HP after suffering a <slink=MajorInjury>.
+  Text: <slink=MajorInjury> 상태를 획득하고 {1} HP로 부활
 - Key: HitPointComponent.1-638324637829249854
-  Text: '{0} took {1} damage from <slink=BloodMagic>.'
+  Text: '{0}: <slink=BloodMagic>으로 인해 {1} 데미지 입음'
 - Key: HitPointComponent.0-638357407842307963
-  Text: '{0} reduced to 0 hp by being ejected from a {1}.'
+  Text: '{0}: {1}으로 인해 0 HP가 됨'
 - Key: HitPointComponent.1-638234832785292278
-  Text: Took {1} Poison damage.
+  Text: '{1} 독 데미지 입음'
 - Key: HitPointComponent.4-638180303658080969
-  Text: '{1} Chained {2} to {0} {3}'
+  Text: '{1}: {0}에게 {2} 연쇄 ({3})'
 - Key: HitPointComponent.5-638180303658080969
-  Text: '{1} cast {2} on {0} {3}'
+  Text: '{1}: {0}에게 {2} 시전 ({3})'
 - Key: HitPointComponent.6-638180303658080969
-  Text: '{0} was healed by {1} ({2})'
+  Text: '{0}: {1}에 의해 치유됨 ({2})'
 - Key: HitPointComponent.7-638180303658080969
-  Text: '{0} was damaged by {1} ({2})'
+  Text: '{0}: {1}에 의해 데미지 입음 ({2})'
 - Key: HitPointComponent.8-638180303658080969
-  Text: Regenerated {1} HP.
+  Text: '{1} HP 회복'
 - Key: HitPointComponent.9-638180303658080969
-  Text: '{1} Retaliated against {0}'
+  Text: '{1}: {0}에게 보복'
 - Key: HitPointComponent.10-638180303658080969
-  Text: '{0} gained HP from {2} cast by {1} {3}'
+  Text: '{0}: {1}의 {2} 시전으로 HP 회복 ({3})'
 - Key: HitPointComponent.11-638180303658080969
-  Text: '{0} gained HP from {1} {2}'
+  Text: '{0}: {1}에서 HP 회복 ({2})'
 - Key: HourlyEmployeeScheduleComponent.0-638310744739012129
   Text: Hourly Schedule
 - Key: InventoryComponent.0-638310744739022185

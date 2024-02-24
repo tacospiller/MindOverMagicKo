@@ -399,22 +399,22 @@ msgstr "누더기 광부의 시체입니다. <slink=Spindle>에서 새 누더기
 #. Key: Archetype.Corpse_QuiltedFertilizer.Configs.0-638429976825704284.DisplayName
 msgctxt "Archetype.Corpse_QuiltedFertilizer.Configs.0-638429976825704284.DisplayName"
 msgid "Quilted Fertilizer Corpse"
-msgstr ""
+msgstr "누더기 정원사 시체"
 
 #. Key: Archetype.Corpse_QuiltedFertilizer.Configs.0-638429976825704284.Description
 msgctxt "Archetype.Corpse_QuiltedFertilizer.Configs.0-638429976825704284.Description"
 msgid "The corpse of a Quilted Fertilizer. Can be recycled at a <slink=Spindle> into a new Quilted."
-msgstr ""
+msgstr "누더기 정원사의 시체입니다. <slink=Spindle>에서 새 누더기로 재활용할 수 있습니다."
 
 #. Key: Archetype.Corpse_QuiltedHarvester.Configs.0-638429976825704284.DisplayName
 msgctxt "Archetype.Corpse_QuiltedHarvester.Configs.0-638429976825704284.DisplayName"
 msgid "Quilted Harvester Corpse"
-msgstr ""
+msgstr "누더기 수확꾼 시체"
 
 #. Key: Archetype.Corpse_QuiltedHarvester.Configs.0-638429976825704284.Description
 msgctxt "Archetype.Corpse_QuiltedHarvester.Configs.0-638429976825704284.Description"
 msgid "The corpse of a Quilted Harvester. Can be recycled at a <slink=Spindle> into a new Quilted."
-msgstr ""
+msgstr "누더기 수확꾼의 시체입니다. <slink=Spindle>에서 새 누더기로 재활용할 수 있습니다."
 
 #. Key: Archetype.Belcher.DescriptionConfig.0.DisplayName
 msgctxt "Archetype.Belcher.DescriptionConfig.0.DisplayName"
@@ -3855,7 +3855,7 @@ msgstr "농축된 유령입니다."
 #. Key: Archetype.ReapersCap.DescriptionConfig.0.DisplayName
 msgctxt "Archetype.ReapersCap.DescriptionConfig.0.DisplayName"
 msgid "Sporecap"
-msgstr "포자버섯"
+msgstr "수확된 포자버섯"
 
 #. Key: Archetype.ReapersCap.DescriptionConfig.0.Description
 msgctxt "Archetype.ReapersCap.DescriptionConfig.0.Description"
@@ -5514,7 +5514,7 @@ msgstr "용암 앰포라"
 #. Key: Archetype.LavaAmphora.DescriptionConfig.0.Description
 msgctxt "Archetype.LavaAmphora.DescriptionConfig.0.Description"
 msgid "Adds <slink=Luxury>. Required to make a Pyromancer's Infernum."
-msgstr "<slink=Luxury>를 추가합니다. Pyromancer's Infernum을 만드는 데 필요합니다."
+msgstr "<slink=Luxury>을 추가합니다. 화염술사의 염옥을 만드는 데 필요합니다."
 
 #. Key: Archetype.LavaAmphora.DescriptionConfig.0.FlavorText
 msgctxt "Archetype.LavaAmphora.DescriptionConfig.0.FlavorText"
@@ -5529,7 +5529,7 @@ msgstr "수족관"
 #. Key: Archetype.Aquarium.DescriptionConfig.0.Description
 msgctxt "Archetype.Aquarium.DescriptionConfig.0.Description"
 msgid "Adds <slink=Luxury>. Required to make a Hydrolaboratory."
-msgstr "<slink=Luxury>를 추가합니다. 유체 실험실를 만드는 데 필요합니다."
+msgstr "<slink=Luxury>을 추가합니다. 유체 실험실를 만드는 데 필요합니다."
 
 #. Key: Archetype.Aquarium.DescriptionConfig.0.FlavorText
 msgctxt "Archetype.Aquarium.DescriptionConfig.0.FlavorText"
@@ -5544,7 +5544,7 @@ msgstr "오벨리스크"
 #. Key: Archetype.Obelisk.DescriptionConfig.0.Description
 msgctxt "Archetype.Obelisk.DescriptionConfig.0.Description"
 msgid "Required to make a Lair of Dark Arts."
-msgstr "Lair of 어둠Arts를 만드는 데 필요합니다."
+msgstr "어둠 마법사의 은신처를 만드는 데 필요합니다."
 
 #. Key: Archetype.Obelisk.DescriptionConfig.0.FlavorText
 msgctxt "Archetype.Obelisk.DescriptionConfig.0.FlavorText"
@@ -5559,7 +5559,7 @@ msgstr "안구 글로브"
 #. Key: Archetype.EyeGlobe.DescriptionConfig.0.Description
 msgctxt "Archetype.EyeGlobe.DescriptionConfig.0.Description"
 msgid "Required to make a Lair of Dark Arts."
-msgstr "Lair of 어둠Arts를 만드는 데 필요합니다."
+msgstr "어둠 마법사의 은신처를 만드는 데 필요합니다."
 
 #. Key: Archetype.EyeGlobe.DescriptionConfig.0.FlavorText
 msgctxt "Archetype.EyeGlobe.DescriptionConfig.0.FlavorText"
@@ -5574,7 +5574,7 @@ msgstr "플루터세일"
 #. Key: Archetype.Fluttersail.DescriptionConfig.0.Description
 msgctxt "Archetype.Fluttersail.DescriptionConfig.0.Description"
 msgid "Adds <slink=Luxury>. Required to make a Windy Pinnacle."
-msgstr "<slink=Luxury>를 추가합니다. Windy Pinnacle을 만드는 데 필요합니다."
+msgstr "<slink=Luxury>를 추가합니다. 폭풍의 첨탑을 만드는 데 필요합니다."
 
 #. Key: Archetype.Fluttersail.DescriptionConfig.0.FlavorText
 msgctxt "Archetype.Fluttersail.DescriptionConfig.0.FlavorText"
@@ -5589,22 +5589,22 @@ msgstr "이온 회로"
 #. Key: Archetype.IonConduit.DescriptionConfig.0.Description
 msgctxt "Archetype.IonConduit.DescriptionConfig.0.Description"
 msgid "Required to make a Lightning Observatory."
-msgstr "번개Observatory를 만드는 데 필요합니다."
+msgstr "번개 천문대를 만드는 데 필요합니다."
 
 #. Key: Archetype.IonConduit.DescriptionConfig.0.FlavorText
 msgctxt "Archetype.IonConduit.DescriptionConfig.0.FlavorText"
 msgid "Hair-raising."
-msgstr "머리카락 올리기."
+msgstr ""
 
 #. Key: Archetype.StackingStones.DescriptionConfig.0.DisplayName
 msgctxt "Archetype.StackingStones.DescriptionConfig.0.DisplayName"
 msgid "Stacking Stones"
-msgstr "스태킹 스톤"
+msgstr "돌무더기"
 
 #. Key: Archetype.StackingStones.DescriptionConfig.0.Description
 msgctxt "Archetype.StackingStones.DescriptionConfig.0.Description"
 msgid "Required to make a Geomancer's Hall."
-msgstr "Geomancer's Hall를 만드는 데 필요합니다."
+msgstr "대지술사의 회관을 만드는 데 필요합니다."
 
 #. Key: Archetype.StackingStones.DescriptionConfig.0.FlavorText
 msgctxt "Archetype.StackingStones.DescriptionConfig.0.FlavorText"
@@ -5666,7 +5666,7 @@ msgstr "{0} 요리"
 #. Key: Archetype.StewPot.DescriptionConfig.0.DisplayName
 msgctxt "Archetype.StewPot.DescriptionConfig.0.DisplayName"
 msgid "Dragon Wok"
-msgstr "용의 솥"
+msgstr "용숨결 솥"
 
 #. Key: Archetype.StewPot.DescriptionConfig.0.Description
 msgctxt "Archetype.StewPot.DescriptionConfig.0.Description"
@@ -9895,12 +9895,12 @@ msgstr "학생"
 #. Key: Archetype.OraculumOfPower.DescriptionConfig.0.DisplayName
 msgctxt "Archetype.OraculumOfPower.DescriptionConfig.0.DisplayName"
 msgid "Oraculum of Power"
-msgstr ""
+msgstr "힘의 제단"
 
 #. Key: Archetype.OraculumOfPower.DescriptionConfig.0.Description
 msgctxt "Archetype.OraculumOfPower.DescriptionConfig.0.Description"
 msgid "A Ritual focus found in the <slink=Underschool>. A Ritual can be performed here to boost a Student's <slink=CombatStat_DamageBonus>."
-msgstr ""
+msgstr "<slink=Underschool>에 감춰져 있던 의식 제단입니다. 이곳에서 의식을 수행하면 학생의 <slink=CombatStat_DamageBonus>이 증가합니다."
 
 #. Key: Archetype.OraculumOfPower.DescriptionConfig.0.FlavorText
 msgctxt "Archetype.OraculumOfPower.DescriptionConfig.0.FlavorText"
@@ -14001,7 +14001,7 @@ msgstr ""
 #. Key: CharacterStatusConfig.Enemy_Shine_Buff.Description
 msgctxt "CharacterStatusConfig.Enemy_Shine_Buff.Description"
 msgid "Boosted <slink=CombatStat_DamageBonus>.\n"
-msgstr "<slink=CombatStat_DamageBonus>가 증가합니다.\n"
+msgstr "<slink=CombatStat_DamageBonus>이 증가합니다.\n"
 
 #. Key: CharacterStatusConfig.Enemy_Shine_Buff.BattleString
 msgctxt "CharacterStatusConfig.Enemy_Shine_Buff.BattleString"
@@ -14016,7 +14016,7 @@ msgstr ""
 #. Key: CharacterStatusConfig.Enemy_Bloodthirsty_Buff.Description
 msgctxt "CharacterStatusConfig.Enemy_Bloodthirsty_Buff.Description"
 msgid "Boosted <slink=CombatStat_DamageBonus>.\n"
-msgstr "<slink=CombatStat_DamageBonus>가 증가합니다.\n"
+msgstr "<slink=CombatStat_DamageBonus>이 증가합니다.\n"
 
 #. Key: CharacterStatusConfig.Enemy_Bloodthirsty_Buff.BattleString
 msgctxt "CharacterStatusConfig.Enemy_Bloodthirsty_Buff.BattleString"
@@ -14151,7 +14151,7 @@ msgstr "트라우마 - 흔들리는 용기"
 #. Key: CharacterStatusConfig.MajorWound_Wisdom1.Description
 msgctxt "CharacterStatusConfig.MajorWound_Wisdom1.Description"
 msgid "Reduced Max <slink=HP> and <slink=Mood>."
-msgstr ""
+msgstr "최대 <slink=HP>와 <slink=Mood>가 감소합니다."
 
 #. Key: CharacterStatusConfig.MajorWound_Wisdom1.LogEntry
 msgctxt "CharacterStatusConfig.MajorWound_Wisdom1.LogEntry"
@@ -14166,12 +14166,12 @@ msgstr ""
 #. Key: CharacterStatusConfig.MajorWound_Wisdom2.DisplayName
 msgctxt "CharacterStatusConfig.MajorWound_Wisdom2.DisplayName"
 msgid "Trauma - Sputtering Thoughts"
-msgstr "트라우마 - Sputtering Thoughts"
+msgstr "트라우마 - 부정적인 생각들"
 
 #. Key: CharacterStatusConfig.MajorWound_Wisdom2.Description
 msgctxt "CharacterStatusConfig.MajorWound_Wisdom2.Description"
 msgid "Reduced Max <slink=HP> and <slink=Mood>."
-msgstr ""
+msgstr "최대 <slink=HP>와 <slink=Mood>가 감소합니다."
 
 #. Key: CharacterStatusConfig.MajorWound_Wisdom2.LogEntry
 msgctxt "CharacterStatusConfig.MajorWound_Wisdom2.LogEntry"
@@ -14186,12 +14186,12 @@ msgstr ""
 #. Key: CharacterStatusConfig.MajorWound_Wisdom3.DisplayName
 msgctxt "CharacterStatusConfig.MajorWound_Wisdom3.DisplayName"
 msgid "Trauma - Floundering Belief"
-msgstr "트라우마 - 허둥대는 믿음"
+msgstr "트라우마 - 흔들리는 믿음"
 
 #. Key: CharacterStatusConfig.MajorWound_Wisdom3.Description
 msgctxt "CharacterStatusConfig.MajorWound_Wisdom3.Description"
 msgid "Reduced Max <slink=HP> and <slink=Mood>."
-msgstr ""
+msgstr "최대 <slink=HP>와 <slink=Mood>가 감소합니다."
 
 #. Key: CharacterStatusConfig.MajorWound_Wisdom3.LogEntry
 msgctxt "CharacterStatusConfig.MajorWound_Wisdom3.LogEntry"
@@ -14211,7 +14211,7 @@ msgstr "트라우마 - 망설임"
 #. Key: CharacterStatusConfig.MajorWound_Wisdom4.Description
 msgctxt "CharacterStatusConfig.MajorWound_Wisdom4.Description"
 msgid "Reduced Max <slink=HP> and <slink=Mood>."
-msgstr ""
+msgstr "최대 <slink=HP>와 <slink=Mood>가 감소합니다."
 
 #. Key: CharacterStatusConfig.MajorWound_Wisdom4.LogEntry
 msgctxt "CharacterStatusConfig.MajorWound_Wisdom4.LogEntry"
@@ -14231,7 +14231,7 @@ msgstr "트라우마 - 비통한 심장"
 #. Key: CharacterStatusConfig.MajorWound_Heart1.Description
 msgctxt "CharacterStatusConfig.MajorWound_Heart1.Description"
 msgid "Reduced Max <slink=HP> and <slink=Mood>."
-msgstr ""
+msgstr "최대 <slink=HP>와 <slink=Mood>가 감소합니다."
 
 #. Key: CharacterStatusConfig.MajorWound_Heart1.LogEntry
 msgctxt "CharacterStatusConfig.MajorWound_Heart1.LogEntry"
@@ -14251,7 +14251,7 @@ msgstr "트라우마 - 괴로운 기억"
 #. Key: CharacterStatusConfig.MajorWound_Heart2.Description
 msgctxt "CharacterStatusConfig.MajorWound_Heart2.Description"
 msgid "Reduced Max <slink=HP> and <slink=Mood>."
-msgstr ""
+msgstr "최대 <slink=HP>와 <slink=Mood>가 감소합니다."
 
 #. Key: CharacterStatusConfig.MajorWound_Heart2.LogEntry
 msgctxt "CharacterStatusConfig.MajorWound_Heart2.LogEntry"
@@ -14266,12 +14266,12 @@ msgstr ""
 #. Key: CharacterStatusConfig.MajorWound_Heart3.DisplayName
 msgctxt "CharacterStatusConfig.MajorWound_Heart3.DisplayName"
 msgid "Trauma - Soured Disposition"
-msgstr "트라우마 - Soured Disposition"
+msgstr "트라우마 - 떨어진 자신감"
 
 #. Key: CharacterStatusConfig.MajorWound_Heart3.Description
 msgctxt "CharacterStatusConfig.MajorWound_Heart3.Description"
 msgid "Reduced Max <slink=HP> and <slink=Mood>."
-msgstr ""
+msgstr "최대 <slink=HP>와 <slink=Mood>가 감소합니다."
 
 #. Key: CharacterStatusConfig.MajorWound_Heart3.LogEntry
 msgctxt "CharacterStatusConfig.MajorWound_Heart3.LogEntry"
@@ -14291,7 +14291,7 @@ msgstr "트라우마 - 자기 혐오"
 #. Key: CharacterStatusConfig.MajorWound_Heart4.Description
 msgctxt "CharacterStatusConfig.MajorWound_Heart4.Description"
 msgid "Reduced Max <slink=HP> and <slink=Mood>."
-msgstr ""
+msgstr "최대 <slink=HP>와 <slink=Mood>가 감소합니다."
 
 #. Key: CharacterStatusConfig.MajorWound_Heart4.LogEntry
 msgctxt "CharacterStatusConfig.MajorWound_Heart4.LogEntry"
@@ -14311,7 +14311,7 @@ msgstr "트라우마 - 작아지는 희망"
 #. Key: CharacterStatusConfig.MajorWound_Spirit1.Description
 msgctxt "CharacterStatusConfig.MajorWound_Spirit1.Description"
 msgid "Reduced Max <slink=HP> and <slink=Mood>."
-msgstr ""
+msgstr "최대 <slink=HP>와 <slink=Mood>가 감소합니다."
 
 #. Key: CharacterStatusConfig.MajorWound_Spirit1.LogEntry
 msgctxt "CharacterStatusConfig.MajorWound_Spirit1.LogEntry"
@@ -14331,7 +14331,7 @@ msgstr "트라우마 - 희미해지는 꿈"
 #. Key: CharacterStatusConfig.MajorWound_Spirit2.Description
 msgctxt "CharacterStatusConfig.MajorWound_Spirit2.Description"
 msgid "Reduced Max <slink=HP> and <slink=Mood>."
-msgstr ""
+msgstr "최대 <slink=HP>와 <slink=Mood>가 감소합니다."
 
 #. Key: CharacterStatusConfig.MajorWound_Spirit2.LogEntry
 msgctxt "CharacterStatusConfig.MajorWound_Spirit2.LogEntry"
@@ -14346,12 +14346,12 @@ msgstr ""
 #. Key: CharacterStatusConfig.MajorWound_Spirit3.DisplayName
 msgctxt "CharacterStatusConfig.MajorWound_Spirit3.DisplayName"
 msgid "Trauma - Dwindling Ambition"
-msgstr "트라우마 - Dwindling Ambition"
+msgstr "트라우마 - 작아지는 야망"
 
 #. Key: CharacterStatusConfig.MajorWound_Spirit3.Description
 msgctxt "CharacterStatusConfig.MajorWound_Spirit3.Description"
 msgid "Reduced Max <slink=HP> and <slink=Mood>."
-msgstr ""
+msgstr "최대 <slink=HP>와 <slink=Mood>가 감소합니다."
 
 #. Key: CharacterStatusConfig.MajorWound_Spirit3.LogEntry
 msgctxt "CharacterStatusConfig.MajorWound_Spirit3.LogEntry"
@@ -14366,12 +14366,12 @@ msgstr ""
 #. Key: CharacterStatusConfig.MajorWound_Spirit4.DisplayName
 msgctxt "CharacterStatusConfig.MajorWound_Spirit4.DisplayName"
 msgid "Trauma - Ebbing Boldness"
-msgstr "트라우마 - Ebbing Boldness"
+msgstr "트라우마 - 흩어진 자신감"
 
 #. Key: CharacterStatusConfig.MajorWound_Spirit4.Description
 msgctxt "CharacterStatusConfig.MajorWound_Spirit4.Description"
 msgid "Reduced Max <slink=HP> and <slink=Mood>."
-msgstr ""
+msgstr "최대 <slink=HP>와 <slink=Mood>가 감소합니다."
 
 #. Key: CharacterStatusConfig.MajorWound_Spirit4.LogEntry
 msgctxt "CharacterStatusConfig.MajorWound_Spirit4.LogEntry"
@@ -14391,7 +14391,7 @@ msgstr "트라우마 - 깨진 확신"
 #. Key: CharacterStatusConfig.MajorWound_Serenity1.Description
 msgctxt "CharacterStatusConfig.MajorWound_Serenity1.Description"
 msgid "Reduced Max <slink=HP> and <slink=Mood>."
-msgstr ""
+msgstr "최대 <slink=HP>와 <slink=Mood>가 감소합니다."
 
 #. Key: CharacterStatusConfig.MajorWound_Serenity1.LogEntry
 msgctxt "CharacterStatusConfig.MajorWound_Serenity1.LogEntry"
@@ -14411,7 +14411,7 @@ msgstr "트라우마 - 지속되는 의심"
 #. Key: CharacterStatusConfig.MajorWound_Serenity2.Description
 msgctxt "CharacterStatusConfig.MajorWound_Serenity2.Description"
 msgid "Reduced Max <slink=HP> and <slink=Mood>."
-msgstr ""
+msgstr "최대 <slink=HP>와 <slink=Mood>가 감소합니다."
 
 #. Key: CharacterStatusConfig.MajorWound_Serenity2.LogEntry
 msgctxt "CharacterStatusConfig.MajorWound_Serenity2.LogEntry"
@@ -14431,7 +14431,7 @@ msgstr "트라우마 - 상처받은 자아"
 #. Key: CharacterStatusConfig.MajorWound_Serenity3.Description
 msgctxt "CharacterStatusConfig.MajorWound_Serenity3.Description"
 msgid "Reduced Max <slink=HP> and <slink=Mood>."
-msgstr ""
+msgstr "최대 <slink=HP>와 <slink=Mood>가 감소합니다."
 
 #. Key: CharacterStatusConfig.MajorWound_Serenity3.LogEntry
 msgctxt "CharacterStatusConfig.MajorWound_Serenity3.LogEntry"
@@ -14446,12 +14446,12 @@ msgstr ""
 #. Key: CharacterStatusConfig.MajorWound_Serenity4.DisplayName
 msgctxt "CharacterStatusConfig.MajorWound_Serenity4.DisplayName"
 msgid "Trauma - Stripped of Safety"
-msgstr "트라우마 - Stripped of Safety"
+msgstr "트라우마 - 안전에 대한 불신"
 
 #. Key: CharacterStatusConfig.MajorWound_Serenity4.Description
 msgctxt "CharacterStatusConfig.MajorWound_Serenity4.Description"
 msgid "Reduced Max <slink=HP> and <slink=Mood>."
-msgstr ""
+msgstr "최대 <slink=HP>와 <slink=Mood>가 감소합니다."
 
 #. Key: CharacterStatusConfig.MajorWound_Serenity4.LogEntry
 msgctxt "CharacterStatusConfig.MajorWound_Serenity4.LogEntry"
@@ -14466,12 +14466,12 @@ msgstr ""
 #. Key: CharacterStatusConfig.MajorWound_Tenacity1.DisplayName
 msgctxt "CharacterStatusConfig.MajorWound_Tenacity1.DisplayName"
 msgid "Trauma - Enfeebled Soul"
-msgstr "트라우마 - Enfeebled 영혼"
+msgstr "트라우마 - 우울한 영혼"
 
 #. Key: CharacterStatusConfig.MajorWound_Tenacity1.Description
 msgctxt "CharacterStatusConfig.MajorWound_Tenacity1.Description"
 msgid "Reduced Max <slink=HP> and <slink=Mood>."
-msgstr ""
+msgstr "최대 <slink=HP>와 <slink=Mood>가 감소합니다."
 
 #. Key: CharacterStatusConfig.MajorWound_Tenacity1.LogEntry
 msgctxt "CharacterStatusConfig.MajorWound_Tenacity1.LogEntry"
@@ -14486,12 +14486,12 @@ msgstr ""
 #. Key: CharacterStatusConfig.MajorWound_Tenacity2.DisplayName
 msgctxt "CharacterStatusConfig.MajorWound_Tenacity2.DisplayName"
 msgid "Trauma - Weakened Lifeforce"
-msgstr "트라우마 - Weakened Lifeforce"
+msgstr "트라우마 - 약해진 생명력"
 
 #. Key: CharacterStatusConfig.MajorWound_Tenacity2.Description
 msgctxt "CharacterStatusConfig.MajorWound_Tenacity2.Description"
 msgid "Reduced Max <slink=HP> and <slink=Mood>."
-msgstr ""
+msgstr "최대 <slink=HP>와 <slink=Mood>가 감소합니다."
 
 #. Key: CharacterStatusConfig.MajorWound_Tenacity2.LogEntry
 msgctxt "CharacterStatusConfig.MajorWound_Tenacity2.LogEntry"
@@ -14506,12 +14506,12 @@ msgstr ""
 #. Key: CharacterStatusConfig.MajorWound_Tenacity3.DisplayName
 msgctxt "CharacterStatusConfig.MajorWound_Tenacity3.DisplayName"
 msgid "Trauma - Wavering Mettle"
-msgstr "트라우마 - Wavering Mettle"
+msgstr "트라우마 - 흔들리는 열정"
 
 #. Key: CharacterStatusConfig.MajorWound_Tenacity3.Description
 msgctxt "CharacterStatusConfig.MajorWound_Tenacity3.Description"
 msgid "Reduced Max <slink=HP> and <slink=Mood>."
-msgstr ""
+msgstr "최대 <slink=HP>와 <slink=Mood>가 감소합니다."
 
 #. Key: CharacterStatusConfig.MajorWound_Tenacity3.LogEntry
 msgctxt "CharacterStatusConfig.MajorWound_Tenacity3.LogEntry"
@@ -14526,12 +14526,12 @@ msgstr ""
 #. Key: CharacterStatusConfig.MajorWound_Tenacity4.DisplayName
 msgctxt "CharacterStatusConfig.MajorWound_Tenacity4.DisplayName"
 msgid "Trauma - Utter Enervation"
-msgstr "트라우마 - Utter Enervation"
+msgstr "트라우마 - 무기력"
 
 #. Key: CharacterStatusConfig.MajorWound_Tenacity4.Description
 msgctxt "CharacterStatusConfig.MajorWound_Tenacity4.Description"
 msgid "Reduced Max <slink=HP> and <slink=Mood>."
-msgstr ""
+msgstr "최대 <slink=HP>와 <slink=Mood>가 감소합니다."
 
 #. Key: CharacterStatusConfig.MajorWound_Tenacity4.LogEntry
 msgctxt "CharacterStatusConfig.MajorWound_Tenacity4.LogEntry"
@@ -14546,7 +14546,7 @@ msgstr ""
 #. Key: CharacterStatusConfig.Scar_Wisdom1.DisplayName
 msgctxt "CharacterStatusConfig.Scar_Wisdom1.DisplayName"
 msgid "Scarred Courage"
-msgstr "상처 입은 용기"
+msgstr "흉터 진 용기"
 
 #. Key: CharacterStatusConfig.Scar_Wisdom1.Description
 msgctxt "CharacterStatusConfig.Scar_Wisdom1.Description"
@@ -14556,7 +14556,7 @@ msgstr "<slink=MajorWound_Wisdom1>(을)를 극복했습니다."
 #. Key: CharacterStatusConfig.Scar_Wisdom2.DisplayName
 msgctxt "CharacterStatusConfig.Scar_Wisdom2.DisplayName"
 msgid "Scarred Thoughts"
-msgstr "상처 입은 생각"
+msgstr "흉터 진 생각"
 
 #. Key: CharacterStatusConfig.Scar_Wisdom2.Description
 msgctxt "CharacterStatusConfig.Scar_Wisdom2.Description"
@@ -14566,7 +14566,7 @@ msgstr "<slink=MajorWound_Wisdom2>(을)를 극복했습니다."
 #. Key: CharacterStatusConfig.Scar_Wisdom3.DisplayName
 msgctxt "CharacterStatusConfig.Scar_Wisdom3.DisplayName"
 msgid "Scarred Belief"
-msgstr "상처 입은 믿음"
+msgstr "흉터 진 믿음"
 
 #. Key: CharacterStatusConfig.Scar_Wisdom3.Description
 msgctxt "CharacterStatusConfig.Scar_Wisdom3.Description"
@@ -14576,7 +14576,7 @@ msgstr "<slink=MajorWound_Wisdom3>(을)를 극복했습니다."
 #. Key: CharacterStatusConfig.Scar_Wisdom4.DisplayName
 msgctxt "CharacterStatusConfig.Scar_Wisdom4.DisplayName"
 msgid "Scarred Decisiveness"
-msgstr "상처 입은 결단력"
+msgstr "흉터 진 결단력"
 
 #. Key: CharacterStatusConfig.Scar_Wisdom4.Description
 msgctxt "CharacterStatusConfig.Scar_Wisdom4.Description"
@@ -14586,7 +14586,7 @@ msgstr "<slink=MajorWound_Wisdom4>(을)를 극복했습니다."
 #. Key: CharacterStatusConfig.Scar_Heart1.DisplayName
 msgctxt "CharacterStatusConfig.Scar_Heart1.DisplayName"
 msgid "Scarred Heart"
-msgstr "상처 입은 마음"
+msgstr "흉터 진 마음"
 
 #. Key: CharacterStatusConfig.Scar_Heart1.Description
 msgctxt "CharacterStatusConfig.Scar_Heart1.Description"
@@ -14596,7 +14596,7 @@ msgstr "<slink=MajorWound_Heart1>(을)를 극복했습니다."
 #. Key: CharacterStatusConfig.Scar_Heart2.DisplayName
 msgctxt "CharacterStatusConfig.Scar_Heart2.DisplayName"
 msgid "Scarred Memories"
-msgstr "상처 입은 추억"
+msgstr "흉터 진 추억"
 
 #. Key: CharacterStatusConfig.Scar_Heart2.Description
 msgctxt "CharacterStatusConfig.Scar_Heart2.Description"
@@ -14606,7 +14606,7 @@ msgstr "<slink=MajorWound_Heart2>(을)를 극복했습니다."
 #. Key: CharacterStatusConfig.Scar_Heart3.DisplayName
 msgctxt "CharacterStatusConfig.Scar_Heart3.DisplayName"
 msgid "Scarred Disposition"
-msgstr "상처 입은 Disposition"
+msgstr "흉터 진 자신감"
 
 #. Key: CharacterStatusConfig.Scar_Heart3.Description
 msgctxt "CharacterStatusConfig.Scar_Heart3.Description"
@@ -14616,7 +14616,7 @@ msgstr "<slink=MajorWound_Heart3>(을)를 극복했습니다."
 #. Key: CharacterStatusConfig.Scar_Heart4.DisplayName
 msgctxt "CharacterStatusConfig.Scar_Heart4.DisplayName"
 msgid "Scarred Self-Esteem"
-msgstr "상처 입은 자존감"
+msgstr "흉터 진 자존감"
 
 #. Key: CharacterStatusConfig.Scar_Heart4.Description
 msgctxt "CharacterStatusConfig.Scar_Heart4.Description"
@@ -14626,7 +14626,7 @@ msgstr "<slink=MajorWound_Heart4>(을)를 극복했습니다."
 #. Key: CharacterStatusConfig.Scar_Spirit1.DisplayName
 msgctxt "CharacterStatusConfig.Scar_Spirit1.DisplayName"
 msgid "Scarred Hope"
-msgstr "상처 입은 희망"
+msgstr "흉터 진 희망"
 
 #. Key: CharacterStatusConfig.Scar_Spirit1.Description
 msgctxt "CharacterStatusConfig.Scar_Spirit1.Description"
@@ -14636,7 +14636,7 @@ msgstr "<slink=MajorWound_Spirit1>(을)를 극복했습니다."
 #. Key: CharacterStatusConfig.Scar_Spirit2.DisplayName
 msgctxt "CharacterStatusConfig.Scar_Spirit2.DisplayName"
 msgid "Scarred Dreams"
-msgstr "상처 입은 꿈"
+msgstr "흉터 진 꿈"
 
 #. Key: CharacterStatusConfig.Scar_Spirit2.Description
 msgctxt "CharacterStatusConfig.Scar_Spirit2.Description"
@@ -14646,7 +14646,7 @@ msgstr "<slink=MajorWound_Spirit2>(을)를 극복했습니다."
 #. Key: CharacterStatusConfig.Scar_Spirit3.DisplayName
 msgctxt "CharacterStatusConfig.Scar_Spirit3.DisplayName"
 msgid "Scarred Ambition"
-msgstr "상처 입은 야망"
+msgstr "흉터 진 야망"
 
 #. Key: CharacterStatusConfig.Scar_Spirit3.Description
 msgctxt "CharacterStatusConfig.Scar_Spirit3.Description"
@@ -14656,7 +14656,7 @@ msgstr "<slink=MajorWound_Spirit3>(을)를 극복했습니다."
 #. Key: CharacterStatusConfig.Scar_Spirit4.DisplayName
 msgctxt "CharacterStatusConfig.Scar_Spirit4.DisplayName"
 msgid "Scarred Boldness"
-msgstr "상처 입은 배짱"
+msgstr "흉터 진 배짱"
 
 #. Key: CharacterStatusConfig.Scar_Spirit4.Description
 msgctxt "CharacterStatusConfig.Scar_Spirit4.Description"
@@ -14666,7 +14666,7 @@ msgstr "<slink=MajorWound_Spirit4>(을)를 극복했습니다."
 #. Key: CharacterStatusConfig.Scar_Serenity1.DisplayName
 msgctxt "CharacterStatusConfig.Scar_Serenity1.DisplayName"
 msgid "Scarred Certainty"
-msgstr "상처 입은 Certainty"
+msgstr "흉터 진 확신"
 
 #. Key: CharacterStatusConfig.Scar_Serenity1.Description
 msgctxt "CharacterStatusConfig.Scar_Serenity1.Description"
@@ -14676,7 +14676,7 @@ msgstr "<slink=MajorWound_Serenity1>(을)를 극복했습니다."
 #. Key: CharacterStatusConfig.Scar_Serenity2.DisplayName
 msgctxt "CharacterStatusConfig.Scar_Serenity2.DisplayName"
 msgid "Scarred Trust"
-msgstr "상처 입은 믿음"
+msgstr "흉터 진 믿음"
 
 #. Key: CharacterStatusConfig.Scar_Serenity2.Description
 msgctxt "CharacterStatusConfig.Scar_Serenity2.Description"
@@ -14686,7 +14686,7 @@ msgstr "<slink=MajorWound_Serenity2>(을)를 극복했습니다."
 #. Key: CharacterStatusConfig.Scar_Serenity3.DisplayName
 msgctxt "CharacterStatusConfig.Scar_Serenity3.DisplayName"
 msgid "Scarred Ego"
-msgstr "상처 입은 자아"
+msgstr "흉터 진 자아"
 
 #. Key: CharacterStatusConfig.Scar_Serenity3.Description
 msgctxt "CharacterStatusConfig.Scar_Serenity3.Description"
@@ -14696,7 +14696,7 @@ msgstr "<slink=MajorWound_Serenity3>(을)를 극복했습니다."
 #. Key: CharacterStatusConfig.Scar_Serenity4.DisplayName
 msgctxt "CharacterStatusConfig.Scar_Serenity4.DisplayName"
 msgid "Scarred Sense of Safety"
-msgstr "상처 입은 Sense of Safety"
+msgstr "흉터 진 안정감"
 
 #. Key: CharacterStatusConfig.Scar_Serenity4.Description
 msgctxt "CharacterStatusConfig.Scar_Serenity4.Description"
@@ -14706,7 +14706,7 @@ msgstr "<slink=MajorWound_Serenity4>(을)를 극복했습니다."
 #. Key: CharacterStatusConfig.Scar_Tenacity1.DisplayName
 msgctxt "CharacterStatusConfig.Scar_Tenacity1.DisplayName"
 msgid "Scarred Soul"
-msgstr "상처 입은 영혼"
+msgstr "흉터 진 영혼"
 
 #. Key: CharacterStatusConfig.Scar_Tenacity1.Description
 msgctxt "CharacterStatusConfig.Scar_Tenacity1.Description"
@@ -14716,7 +14716,7 @@ msgstr "<slink=MajorWound_Tenacity1>(을)를 극복했습니다."
 #. Key: CharacterStatusConfig.Scar_Tenacity2.DisplayName
 msgctxt "CharacterStatusConfig.Scar_Tenacity2.DisplayName"
 msgid "Scarred Lifeforce"
-msgstr "상처 입은 Lifeforce"
+msgstr "흉터 진 생명력"
 
 #. Key: CharacterStatusConfig.Scar_Tenacity2.Description
 msgctxt "CharacterStatusConfig.Scar_Tenacity2.Description"
@@ -14726,7 +14726,7 @@ msgstr "<slink=MajorWound_Tenacity2>(을)를 극복했습니다."
 #. Key: CharacterStatusConfig.Scar_Tenacity3.DisplayName
 msgctxt "CharacterStatusConfig.Scar_Tenacity3.DisplayName"
 msgid "Scarred Mettle"
-msgstr "상처 입은 Mettle"
+msgstr "흉터 진 열정"
 
 #. Key: CharacterStatusConfig.Scar_Tenacity3.Description
 msgctxt "CharacterStatusConfig.Scar_Tenacity3.Description"
@@ -14736,7 +14736,7 @@ msgstr "<slink=MajorWound_Tenacity3>(을)를 극복했습니다."
 #. Key: CharacterStatusConfig.Scar_Tenacity4.DisplayName
 msgctxt "CharacterStatusConfig.Scar_Tenacity4.DisplayName"
 msgid "Scarred Nerves"
-msgstr "상처 입은 Nerves"
+msgstr "흉터 진 감각"
 
 #. Key: CharacterStatusConfig.Scar_Tenacity4.Description
 msgctxt "CharacterStatusConfig.Scar_Tenacity4.Description"
@@ -15461,17 +15461,17 @@ msgstr ""
 #. Key: CharacterStatusConfig.Sleep_Hovel.DisplayName
 msgctxt "CharacterStatusConfig.Sleep_Hovel.DisplayName"
 msgid "Slept in Austere Bedroom"
-msgstr ""
+msgstr "소박한 침실에서 수면"
 
 #. Key: CharacterStatusConfig.Sleep_Hovel.Description
 msgctxt "CharacterStatusConfig.Sleep_Hovel.Description"
 msgid "Slept in an Austere Bedroom."
-msgstr ""
+msgstr "소박한 침실에서 잤습니다."
 
 #. Key: CharacterStatusConfig.Sleep_Hovel.LogEntry
 msgctxt "CharacterStatusConfig.Sleep_Hovel.LogEntry"
 msgid "{0} {1}"
-msgstr "{0} {1}"
+msgstr "{0}: {1}"
 
 #. Key: CharacterStatusConfig.InBedroom.DisplayName
 msgctxt "CharacterStatusConfig.InBedroom.DisplayName"
@@ -15486,17 +15486,17 @@ msgstr ""
 #. Key: CharacterStatusConfig.Sleep_Bedroom.DisplayName
 msgctxt "CharacterStatusConfig.Sleep_Bedroom.DisplayName"
 msgid "Slept in Bedroom"
-msgstr ""
+msgstr "침실에서 수면"
 
 #. Key: CharacterStatusConfig.Sleep_Bedroom.Description
 msgctxt "CharacterStatusConfig.Sleep_Bedroom.Description"
 msgid "Slept in a Bedroom."
-msgstr ""
+msgstr "침실에서 잤습니다."
 
 #. Key: CharacterStatusConfig.Sleep_Bedroom.LogEntry
 msgctxt "CharacterStatusConfig.Sleep_Bedroom.LogEntry"
 msgid "{0} {1}"
-msgstr "{0} {1}"
+msgstr "{0}: {1}"
 
 #. Key: CharacterStatusConfig.InDormitory.DisplayName
 msgctxt "CharacterStatusConfig.InDormitory.DisplayName"
@@ -15511,17 +15511,17 @@ msgstr ""
 #. Key: CharacterStatusConfig.Sleep_Dormitory.DisplayName
 msgctxt "CharacterStatusConfig.Sleep_Dormitory.DisplayName"
 msgid "Slept in Dormitory"
-msgstr ""
+msgstr "기숙사에서 잠"
 
 #. Key: CharacterStatusConfig.Sleep_Dormitory.Description
 msgctxt "CharacterStatusConfig.Sleep_Dormitory.Description"
 msgid "Slept in a Dormitory."
-msgstr ""
+msgstr "기숙사에서 잤습니다."
 
 #. Key: CharacterStatusConfig.Sleep_Dormitory.LogEntry
 msgctxt "CharacterStatusConfig.Sleep_Dormitory.LogEntry"
 msgid "{0} {1}"
-msgstr "{0} {1}"
+msgstr "{0}: {1}"
 
 #. Key: CharacterStatusConfig.InLuxuryBedroom.DisplayName
 msgctxt "CharacterStatusConfig.InLuxuryBedroom.DisplayName"
@@ -15536,17 +15536,17 @@ msgstr ""
 #. Key: CharacterStatusConfig.Sleep_LuxuryBedroom.DisplayName
 msgctxt "CharacterStatusConfig.Sleep_LuxuryBedroom.DisplayName"
 msgid "Slept in Private Quarters"
-msgstr ""
+msgstr "개인 침실에서 잠"
 
 #. Key: CharacterStatusConfig.Sleep_LuxuryBedroom.Description
 msgctxt "CharacterStatusConfig.Sleep_LuxuryBedroom.Description"
 msgid "Slept in Private Quarters."
-msgstr ""
+msgstr "개인 침실에서 잤습니다."
 
 #. Key: CharacterStatusConfig.Sleep_LuxuryBedroom.LogEntry
 msgctxt "CharacterStatusConfig.Sleep_LuxuryBedroom.LogEntry"
 msgid "{0} {1}"
-msgstr "{0} {1}"
+msgstr "{0}: {1}"
 
 #. Key: CharacterStatusConfig.InBedchamber.DisplayName
 msgctxt "CharacterStatusConfig.InBedchamber.DisplayName"
@@ -15561,17 +15561,17 @@ msgstr ""
 #. Key: CharacterStatusConfig.Sleep_Bedchamber.DisplayName
 msgctxt "CharacterStatusConfig.Sleep_Bedchamber.DisplayName"
 msgid "Slept in Bedchamber"
-msgstr ""
+msgstr "고급 침실에서 잠"
 
 #. Key: CharacterStatusConfig.Sleep_Bedchamber.Description
 msgctxt "CharacterStatusConfig.Sleep_Bedchamber.Description"
 msgid "Slept in a Bedchamber."
-msgstr ""
+msgstr "고급 침실에서 잤습니다."
 
 #. Key: CharacterStatusConfig.Sleep_Bedchamber.LogEntry
 msgctxt "CharacterStatusConfig.Sleep_Bedchamber.LogEntry"
 msgid "{0} {1}"
-msgstr "{0} {1}"
+msgstr "{0}: {1}"
 
 #. Key: CharacterStatusConfig.InCommonBedroom.DisplayName
 msgctxt "CharacterStatusConfig.InCommonBedroom.DisplayName"
@@ -15586,17 +15586,17 @@ msgstr ""
 #. Key: CharacterStatusConfig.Sleep_CommonBedroom.DisplayName
 msgctxt "CharacterStatusConfig.Sleep_CommonBedroom.DisplayName"
 msgid "Slept in Common Room"
-msgstr ""
+msgstr "학생회관에서 잠"
 
 #. Key: CharacterStatusConfig.Sleep_CommonBedroom.Description
 msgctxt "CharacterStatusConfig.Sleep_CommonBedroom.Description"
 msgid "Slept in a Common Room."
-msgstr ""
+msgstr "학생회관에서 잤습니다."
 
 #. Key: CharacterStatusConfig.Sleep_CommonBedroom.LogEntry
 msgctxt "CharacterStatusConfig.Sleep_CommonBedroom.LogEntry"
 msgid "{0} {1}"
-msgstr "{0} {1}"
+msgstr "{0}: {1}"
 
 #. Key: CharacterStatusConfig.InHouseCommons.DisplayName
 msgctxt "CharacterStatusConfig.InHouseCommons.DisplayName"
@@ -15611,17 +15611,17 @@ msgstr ""
 #. Key: CharacterStatusConfig.Sleep_HouseCommons.DisplayName
 msgctxt "CharacterStatusConfig.Sleep_HouseCommons.DisplayName"
 msgid "Slept in House Commons"
-msgstr ""
+msgstr "고급 학생회관에서 잠"
 
 #. Key: CharacterStatusConfig.Sleep_HouseCommons.Description
 msgctxt "CharacterStatusConfig.Sleep_HouseCommons.Description"
 msgid "Slept in a House Commons."
-msgstr ""
+msgstr "고급 학생회관에서 잤습니다."
 
 #. Key: CharacterStatusConfig.Sleep_HouseCommons.LogEntry
 msgctxt "CharacterStatusConfig.Sleep_HouseCommons.LogEntry"
 msgid "{0} {1}"
-msgstr "{0} {1}"
+msgstr "{0}: {1}"
 
 #. Key: CharacterStatusConfig.InWritersRoom.DisplayName
 msgctxt "CharacterStatusConfig.InWritersRoom.DisplayName"
@@ -15666,17 +15666,17 @@ msgstr ""
 #. Key: CharacterStatusConfig.Recreate_Conservatory.DisplayName
 msgctxt "CharacterStatusConfig.Recreate_Conservatory.DisplayName"
 msgid "Recreated in a Conservatory"
-msgstr ""
+msgstr "음악 감상실에서 휴식"
 
 #. Key: CharacterStatusConfig.Recreate_Conservatory.Description
 msgctxt "CharacterStatusConfig.Recreate_Conservatory.Description"
 msgid "Enjoyed recreating in a Conservatory."
-msgstr ""
+msgstr "음악 감상실에서 휴식했습니다."
 
 #. Key: CharacterStatusConfig.Recreate_Conservatory.LogEntry
 msgctxt "CharacterStatusConfig.Recreate_Conservatory.LogEntry"
 msgid "{0} {1}"
-msgstr "{0} {1}"
+msgstr "{0}: {1}"
 
 #. Key: CharacterStatusConfig.Recreate_WritersRoom.DisplayName
 msgctxt "CharacterStatusConfig.Recreate_WritersRoom.DisplayName"
@@ -15806,37 +15806,37 @@ msgstr ""
 #. Key: CharacterStatusConfig.MaxSkills.DisplayName
 msgctxt "CharacterStatusConfig.MaxSkills.DisplayName"
 msgid "Fully Trained"
-msgstr ""
+msgstr "교육을 마침"
 
 #. Key: CharacterStatusConfig.MaxSkills.Description
 msgctxt "CharacterStatusConfig.MaxSkills.Description"
 msgid "This student has learned everything they can learn in all Skills and can now be Hired at the <slink=RitualSpot>."
-msgstr ""
+msgstr "이 학생은 배울 수 있는 것을 다 배웠고, 이제 <slink=RitualSpot>에서 임용하거나 졸업시킬 수 있습니다."
 
 #. Key: CharacterStatusConfig.MaxMedallions.DisplayName
 msgctxt "CharacterStatusConfig.MaxMedallions.DisplayName"
 msgid "Full Honors"
-msgstr ""
+msgstr "우수 학생"
 
 #. Key: CharacterStatusConfig.MaxMedallions.Description
 msgctxt "CharacterStatusConfig.MaxMedallions.Description"
 msgid "This student has passed all of their Trials and is eligible to Graduate with Honors."
-msgstr ""
+msgstr "모든 과제를 완료하여 우수 졸업할 수 있습니다."
 
 #. Key: CharacterStatusConfig.RavenCultBoon.DisplayName
 msgctxt "CharacterStatusConfig.RavenCultBoon.DisplayName"
 msgid "Hour of the Raven Cult"
-msgstr ""
+msgstr "레이븐 이교도의 시간"
 
 #. Key: CharacterStatusConfig.RavenCultBoon.Description
 msgctxt "CharacterStatusConfig.RavenCultBoon.Description"
 msgid "Bonus <slink=CombatStat_Retaliation> in battle."
-msgstr ""
+msgstr "전투에서 추가 <slink=CombatStat_Retaliation>을 얻습니다."
 
 #. Key: CharacterStatusConfig.RavenCultBoon_Tier0_Battle.DisplayName
 msgctxt "CharacterStatusConfig.RavenCultBoon_Tier0_Battle.DisplayName"
 msgid "Hour of the Raven Cult"
-msgstr ""
+msgstr "레이븐 이교도의 시간"
 
 #. Key: CharacterStatusConfig.RavenCultBoon_Tier0_Battle.Description
 msgctxt "CharacterStatusConfig.RavenCultBoon_Tier0_Battle.Description"
@@ -15851,7 +15851,7 @@ msgstr "마나 회복"
 #. Key: CharacterStatusConfig.RavenCultBoon_Tier1_Battle.DisplayName
 msgctxt "CharacterStatusConfig.RavenCultBoon_Tier1_Battle.DisplayName"
 msgid "Hour of the Raven Cult"
-msgstr ""
+msgstr "레이븐 이교도의 시간"
 
 #. Key: CharacterStatusConfig.RavenCultBoon_Tier1_Battle.Description
 msgctxt "CharacterStatusConfig.RavenCultBoon_Tier1_Battle.Description"
@@ -15866,7 +15866,7 @@ msgstr "마나 회복"
 #. Key: CharacterStatusConfig.RavenCultBoon_Tier2_Battle.DisplayName
 msgctxt "CharacterStatusConfig.RavenCultBoon_Tier2_Battle.DisplayName"
 msgid "Hour of the Raven Cult"
-msgstr ""
+msgstr "레이븐 이교도의 시간"
 
 #. Key: CharacterStatusConfig.RavenCultBoon_Tier2_Battle.Description
 msgctxt "CharacterStatusConfig.RavenCultBoon_Tier2_Battle.Description"
@@ -15881,7 +15881,7 @@ msgstr "마나 회복"
 #. Key: CharacterStatusConfig.RavenCultBoon_Tier3_Battle.DisplayName
 msgctxt "CharacterStatusConfig.RavenCultBoon_Tier3_Battle.DisplayName"
 msgid "Hour of the Raven Cult"
-msgstr ""
+msgstr "레이븐 이교도의 시간"
 
 #. Key: CharacterStatusConfig.RavenCultBoon_Tier3_Battle.Description
 msgctxt "CharacterStatusConfig.RavenCultBoon_Tier3_Battle.Description"
@@ -15896,17 +15896,17 @@ msgstr "마나 회복"
 #. Key: CharacterStatusConfig.RavenCultBane.DisplayName
 msgctxt "CharacterStatusConfig.RavenCultBane.DisplayName"
 msgid "Raven Cult Bane"
-msgstr ""
+msgstr "레이븐 이교도의 불운"
 
 #. Key: CharacterStatusConfig.RavenCultBane.Description
 msgctxt "CharacterStatusConfig.RavenCultBane.Description"
 msgid "Raven Cult Bane"
-msgstr ""
+msgstr "레이븐 이교도의 불운"
 
 #. Key: CharacterStatusConfig.RavenCultBane_Battle.DisplayName
 msgctxt "CharacterStatusConfig.RavenCultBane_Battle.DisplayName"
 msgid "Bane of the Raven Cult"
-msgstr ""
+msgstr "레이븐 이교도의 불운"
 
 #. Key: CharacterStatusConfig.RavenCultBane_Battle.Description
 msgctxt "CharacterStatusConfig.RavenCultBane_Battle.Description"
@@ -16571,12 +16571,12 @@ msgstr ""
 #. Key: CharacterStatusConfig.RelentlessBoredom.DisplayName
 msgctxt "CharacterStatusConfig.RelentlessBoredom.DisplayName"
 msgid "Relentless Boredom"
-msgstr ""
+msgstr "지루함(맹렬하게 난이도)"
 
 #. Key: CharacterStatusConfig.RelentlessBoredom.Description
 msgctxt "CharacterStatusConfig.RelentlessBoredom.Description"
 msgid "This Mage is <slink=MaxSkills> and ready to move on."
-msgstr ""
+msgstr "<slink=MaxSkills> 상태로, 학교 생활이 지루합니다."
 
 #. Key: CharacterStatusConfig.RelentlessBoredom.FlavorText
 msgctxt "CharacterStatusConfig.RelentlessBoredom.FlavorText"
@@ -16591,7 +16591,7 @@ msgstr ""
 #. Key: CharacterStatusConfig.Wet.DisplayName
 msgctxt "CharacterStatusConfig.Wet.DisplayName"
 msgid "Wet"
-msgstr ""
+msgstr "비 맞음"
 
 #. Key: CharacterStatusConfig.Wet.Description
 msgctxt "CharacterStatusConfig.Wet.Description"
@@ -16641,12 +16641,12 @@ msgstr ""
 #. Key: CharacterStatusConfig.TaughtWhileWet.DisplayName
 msgctxt "CharacterStatusConfig.TaughtWhileWet.DisplayName"
 msgid "Taught While Wet"
-msgstr ""
+msgstr "비 맞은 채로 수업"
 
 #. Key: CharacterStatusConfig.TaughtWhileWet.Description
 msgctxt "CharacterStatusConfig.TaughtWhileWet.Description"
 msgid "Taught a class while Wet from the rain, and hated it."
-msgstr ""
+msgstr "비를 맞은 채로 수업을 해서 기분이 나쁩니다."
 
 #. Key: CharacterStatusConfig.TaughtWhileWet.FlavorText
 msgctxt "CharacterStatusConfig.TaughtWhileWet.FlavorText"
@@ -16661,12 +16661,12 @@ msgstr "{0} {1}"
 #. Key: CharacterStatusConfig.LearnedWhileWet.DisplayName
 msgctxt "CharacterStatusConfig.LearnedWhileWet.DisplayName"
 msgid "Learned While Wet"
-msgstr ""
+msgstr "비 맞은 채로 학습"
 
 #. Key: CharacterStatusConfig.LearnedWhileWet.Description
 msgctxt "CharacterStatusConfig.LearnedWhileWet.Description"
 msgid "Took a class while Wet from the rain, and hated it."
-msgstr ""
+msgstr "비를 맞은 채로 수업을 들어서 기분이 나쁩니다."
 
 #. Key: CharacterStatusConfig.LearnedWhileWet.FlavorText
 msgctxt "CharacterStatusConfig.LearnedWhileWet.FlavorText"
@@ -16681,12 +16681,12 @@ msgstr "{0} {1}"
 #. Key: CharacterStatusConfig.SleptWhileWet.DisplayName
 msgctxt "CharacterStatusConfig.SleptWhileWet.DisplayName"
 msgid "Slept While Wet"
-msgstr ""
+msgstr "비 맞은 채로 잠"
 
 #. Key: CharacterStatusConfig.SleptWhileWet.Description
 msgctxt "CharacterStatusConfig.SleptWhileWet.Description"
 msgid "Slept while Wet from the rain, and hated it."
-msgstr ""
+msgstr "비를 맞은 채로 수면해서 기분이 나쁩니다."
 
 #. Key: CharacterStatusConfig.SleptWhileWet.FlavorText
 msgctxt "CharacterStatusConfig.SleptWhileWet.FlavorText"
@@ -16701,12 +16701,12 @@ msgstr "{0} {1}"
 #. Key: CharacterStatusConfig.AteWhileWet.DisplayName
 msgctxt "CharacterStatusConfig.AteWhileWet.DisplayName"
 msgid "Ate While Wet"
-msgstr ""
+msgstr "비 맞은 채로 식사"
 
 #. Key: CharacterStatusConfig.AteWhileWet.Description
 msgctxt "CharacterStatusConfig.AteWhileWet.Description"
 msgid "Ate while Wet from the rain, and hated it."
-msgstr ""
+msgstr "비를 맞은 채로 식사해서 기분이 나쁩니다."
 
 #. Key: CharacterStatusConfig.AteWhileWet.FlavorText
 msgctxt "CharacterStatusConfig.AteWhileWet.FlavorText"
@@ -16721,12 +16721,12 @@ msgstr "{0} {1}"
 #. Key: CharacterStatusConfig.SleepingOnFloor.DisplayName
 msgctxt "CharacterStatusConfig.SleepingOnFloor.DisplayName"
 msgid "Sleeping On The Floor"
-msgstr ""
+msgstr "바닥에서 잠"
 
 #. Key: CharacterStatusConfig.SleepingOnFloor.Description
 msgctxt "CharacterStatusConfig.SleepingOnFloor.Description"
 msgid "Didn't have a bed or ran out of steam, and went to sleep on the floor."
-msgstr ""
+msgstr "침대가 모자라거나, 너무 졸려서 바닥에서 잤습니다."
 
 #. Key: CharacterStatusConfig.SleepingOnFloor.FlavorText
 msgctxt "CharacterStatusConfig.SleepingOnFloor.FlavorText"
@@ -16741,12 +16741,12 @@ msgstr "{0} {1}"
 #. Key: CharacterStatusConfig.SleptOnFloor.DisplayName
 msgctxt "CharacterStatusConfig.SleptOnFloor.DisplayName"
 msgid "Slept On The Floor"
-msgstr ""
+msgstr "바닥에서 잠"
 
 #. Key: CharacterStatusConfig.SleptOnFloor.Description
 msgctxt "CharacterStatusConfig.SleptOnFloor.Description"
 msgid "Didn't have a bed or ran out of steam, and spent the night on the floor."
-msgstr ""
+msgstr "침대가 모자라거나, 너무 졸려서 바닥에서 잤습니다."
 
 #. Key: CharacterStatusConfig.SleptOnFloor.FlavorText
 msgctxt "CharacterStatusConfig.SleptOnFloor.FlavorText"
@@ -16761,12 +16761,12 @@ msgstr "{0} {1}"
 #. Key: CharacterStatusConfig.Idle.DisplayName
 msgctxt "CharacterStatusConfig.Idle.DisplayName"
 msgid "Idle"
-msgstr "Idle"
+msgstr "할 일 없음"
 
 #. Key: CharacterStatusConfig.Idle.Description
 msgctxt "CharacterStatusConfig.Idle.Description"
 msgid "Has nothing to do."
-msgstr ""
+msgstr "할 일이 없습니다."
 
 #. Key: CharacterStatusConfig.Idle.FlavorText
 msgctxt "CharacterStatusConfig.Idle.FlavorText"
@@ -16826,7 +16826,7 @@ msgstr "{0} {1}"
 #. Key: CharacterStatusConfig.GhostTrapped.DisplayName
 msgctxt "CharacterStatusConfig.GhostTrapped.DisplayName"
 msgid "Trapped"
-msgstr ""
+msgstr "함정에 갇힘"
 
 #. Key: CharacterStatusConfig.GhostTrapped.Description
 msgctxt "CharacterStatusConfig.GhostTrapped.Description"
@@ -16911,17 +16911,17 @@ msgstr ""
 #. Key: CharacterStatusConfig.Bound.DisplayName
 msgctxt "CharacterStatusConfig.Bound.DisplayName"
 msgid "Bound"
-msgstr ""
+msgstr "속박"
 
 #. Key: CharacterStatusConfig.Bound.Description
 msgctxt "CharacterStatusConfig.Bound.Description"
 msgid "Covered in vines and unable to move. <slink=JobType_Healing> this Mage using <style=Link><link=Skill_Viturgy>Nature</link></style> to remove the binding."
-msgstr ""
+msgstr "덩굴에 속박당해 움직일 수 없습니다. <style=Link><link=Skill_Viturgy>Nature</link></style> 마법으로 <slink=JobType_Healing>해 구출하세요."
 
 #. Key: CharacterStatusConfig.Bound.FlavorText
 msgctxt "CharacterStatusConfig.Bound.FlavorText"
 msgid "A wriggling meal."
-msgstr "흔들리는 식사."
+msgstr ""
 
 #. Key: CharacterStatusConfig.Bound.LogEntryEnd
 msgctxt "CharacterStatusConfig.Bound.LogEntryEnd"
@@ -16941,7 +16941,7 @@ msgstr ""
 #. Key: CharacterStatusConfig.Bound.AlertData.Details
 msgctxt "CharacterStatusConfig.Bound.AlertData.Details"
 msgid "{0} is wrapped in a tangle of vines."
-msgstr ""
+msgstr "속박당함: {0}"
 
 #. Key: CharacterStatusConfig.Sleeping.DisplayName
 msgctxt "CharacterStatusConfig.Sleeping.DisplayName"
@@ -18691,7 +18691,7 @@ msgstr "실험적 치료"
 #. Key: CharacterStatusConfig.ExperimentalTreatment.Description
 msgctxt "CharacterStatusConfig.ExperimentalTreatment.Description"
 msgid "Reduced Max <slink=HP> and <slink=Mood>, due to receiving less-than-ideal medical treatment for their ills."
-msgstr "실험적인 치료를 받아 최대 <slink=HP>와 <slink=Mood>가 떨어진 상태입니다."
+msgstr "실험적인 치료를 받아 최대 <slink=HP>와 <slink=Mood>가 최대 receiving 와 떨어진 상태입니다. treatment f가 감소합니다."
 
 #. Key: CharacterStatusConfig.ExperimentalTreatment.LogEntry
 msgctxt "CharacterStatusConfig.ExperimentalTreatment.LogEntry"
@@ -18871,7 +18871,7 @@ msgstr "전사의 심장 - 동메달"
 #. Key: CharacterStatusConfig.Heart_HPAtk_1.Description
 msgctxt "CharacterStatusConfig.Heart_HPAtk_1.Description"
 msgid "Boosted <slink=HP> and <slink=CombatStat_DamageBonus>."
-msgstr "<slink=HP>와 <slink=CombatStat_DamageBonus>가 증가합니다."
+msgstr "<slink=HP>와 <slink=CombatStat_DamageBonus>이 증가합니다."
 
 #. Key: CharacterStatusConfig.Heart_HPAtk_2.DisplayName
 msgctxt "CharacterStatusConfig.Heart_HPAtk_2.DisplayName"
@@ -18881,7 +18881,7 @@ msgstr "전사의 심장 - 은메달"
 #. Key: CharacterStatusConfig.Heart_HPAtk_2.Description
 msgctxt "CharacterStatusConfig.Heart_HPAtk_2.Description"
 msgid "Boosted <slink=HP> and <slink=CombatStat_DamageBonus>."
-msgstr "<slink=HP>와 <slink=CombatStat_DamageBonus>가 증가합니다."
+msgstr "<slink=HP>와 <slink=CombatStat_DamageBonus>이 증가합니다."
 
 #. Key: CharacterStatusConfig.Heart_HPAtk_3.DisplayName
 msgctxt "CharacterStatusConfig.Heart_HPAtk_3.DisplayName"
@@ -18891,7 +18891,7 @@ msgstr "전사의 심장 - 금메달"
 #. Key: CharacterStatusConfig.Heart_HPAtk_3.Description
 msgctxt "CharacterStatusConfig.Heart_HPAtk_3.Description"
 msgid "Boosted <slink=HP> and <slink=CombatStat_DamageBonus>."
-msgstr "<slink=HP>와 <slink=CombatStat_DamageBonus>가 증가합니다."
+msgstr "<slink=HP>와 <slink=CombatStat_DamageBonus>이 증가합니다."
 
 #. Key: CharacterStatusConfig.Heart_HPAtk_4.DisplayName
 msgctxt "CharacterStatusConfig.Heart_HPAtk_4.DisplayName"
@@ -18901,7 +18901,7 @@ msgstr "전사의 심장 - 플래티넘 메달"
 #. Key: CharacterStatusConfig.Heart_HPAtk_4.Description
 msgctxt "CharacterStatusConfig.Heart_HPAtk_4.Description"
 msgid "Boosted <slink=HP> and <slink=CombatStat_DamageBonus>."
-msgstr "<slink=HP>와 <slink=CombatStat_DamageBonus>가 증가합니다."
+msgstr "<slink=HP>와 <slink=CombatStat_DamageBonus>이 증가합니다."
 
 #. Key: CharacterStatusConfig.Heart_HPSpd_1.DisplayName
 msgctxt "CharacterStatusConfig.Heart_HPSpd_1.DisplayName"
@@ -19101,7 +19101,7 @@ msgstr "침실이 좋아 - 은메달"
 #. Key: CharacterStatusConfig.Heart_BedroomBuff_2.Description
 msgctxt "CharacterStatusConfig.Heart_BedroomBuff_2.Description"
 msgid "+5 <slink=Mood> while sleeping in a <slink=Bedroom>."
-msgstr ""
+msgstr "<slink=Bedroom>에서 잘 때 +5 <slink=Mood>를 얻습니다."
 
 #. Key: CharacterStatusConfig.Heart_DormitoryBuff_2.DisplayName
 msgctxt "CharacterStatusConfig.Heart_DormitoryBuff_2.DisplayName"
@@ -19111,7 +19111,7 @@ msgstr "기숙사가 좋아 - 은메달"
 #. Key: CharacterStatusConfig.Heart_DormitoryBuff_2.Description
 msgctxt "CharacterStatusConfig.Heart_DormitoryBuff_2.Description"
 msgid "+7.5 <slink=Mood> while sleeping in a <slink=Dormitory>."
-msgstr ""
+msgstr "<slink=Dormitory>에서 잘 때 +7.5 <slink=Mood>를 얻습니다."
 
 #. Key: CharacterStatusConfig.Heart_PrivateQuartersTrigger_3.DisplayName
 msgctxt "CharacterStatusConfig.Heart_PrivateQuartersTrigger_3.DisplayName"
@@ -19121,7 +19121,7 @@ msgstr "학생회관이 좋아 - 금메달"
 #. Key: CharacterStatusConfig.Heart_PrivateQuartersTrigger_3.Description
 msgctxt "CharacterStatusConfig.Heart_PrivateQuartersTrigger_3.Description"
 msgid "Gains <slink=Mood> while sleeping in a <slink=LuxuryBedroom> or <slink=CommonRoom>."
-msgstr ""
+msgstr "<slink=LuxuryBedroom>이나 <slink=CommonRoom>에서 잘 때 추가 <slink=Mood>를 얻습니다."
 
 #. Key: CharacterStatusConfig.Heart_PrivateQuartersBuff_3.DisplayName
 msgctxt "CharacterStatusConfig.Heart_PrivateQuartersBuff_3.DisplayName"
@@ -19131,7 +19131,7 @@ msgstr "화려한 침실이 좋아 - 금메달"
 #. Key: CharacterStatusConfig.Heart_PrivateQuartersBuff_3.Description
 msgctxt "CharacterStatusConfig.Heart_PrivateQuartersBuff_3.Description"
 msgid "+10 <slink=Mood> while sleeping in a <slink=LuxuryBedroom>."
-msgstr ""
+msgstr "<slink=LuxuryBedroom>에서 잘 때 +10 <slink=Mood>를 얻습니다."
 
 #. Key: CharacterStatusConfig.Heart_CommonRoomSleepBuff_3.DisplayName
 msgctxt "CharacterStatusConfig.Heart_CommonRoomSleepBuff_3.DisplayName"
@@ -19141,7 +19141,7 @@ msgstr "학생회관이 좋아 - 금메달"
 #. Key: CharacterStatusConfig.Heart_CommonRoomSleepBuff_3.Description
 msgctxt "CharacterStatusConfig.Heart_CommonRoomSleepBuff_3.Description"
 msgid "+10 <slink=Mood> while sleeping in a <slink=CommonRoom>."
-msgstr ""
+msgstr "<slink=CommonRoom>에서 잘 때 +10 <slink=Mood>를 얻습니다."
 
 #. Key: CharacterStatusConfig.Heart_BedchamberTrigger_4.DisplayName
 msgctxt "CharacterStatusConfig.Heart_BedchamberTrigger_4.DisplayName"
@@ -19151,7 +19151,7 @@ msgstr "학생회관이 좋아 - 플래티넘 메달"
 #. Key: CharacterStatusConfig.Heart_BedchamberTrigger_4.Description
 msgctxt "CharacterStatusConfig.Heart_BedchamberTrigger_4.Description"
 msgid "Gains <slink=Mood> while sleeping in a <slink=Bedchamber> or <slink=HouseCommons>."
-msgstr ""
+msgstr "<slink=Bedchamber>이나 <slink=HouseCommons>에서 잘 때 추가 <slink=Mood>를 얻습니다."
 
 #. Key: CharacterStatusConfig.Heart_BedchamberBuff_4.DisplayName
 msgctxt "CharacterStatusConfig.Heart_BedchamberBuff_4.DisplayName"
@@ -19161,7 +19161,7 @@ msgstr "침실이 좋아 - 플래티넘 메달"
 #. Key: CharacterStatusConfig.Heart_BedchamberBuff_4.Description
 msgctxt "CharacterStatusConfig.Heart_BedchamberBuff_4.Description"
 msgid "+15 <slink=Mood> while sleeping in a <slink=Bedchamber>."
-msgstr ""
+msgstr "<slink=Bedchamber>에서 잘 때 +15 <slink=Mood>를 얻습니다."
 
 #. Key: CharacterStatusConfig.Heart_HouseCommonsSleepBuff_4.DisplayName
 msgctxt "CharacterStatusConfig.Heart_HouseCommonsSleepBuff_4.DisplayName"
@@ -19171,7 +19171,7 @@ msgstr "고급 학생회관이 좋아 - 플래티넘 메달"
 #. Key: CharacterStatusConfig.Heart_HouseCommonsSleepBuff_4.Description
 msgctxt "CharacterStatusConfig.Heart_HouseCommonsSleepBuff_4.Description"
 msgid "+15 <slink=Mood> while sleeping in a <slink=HouseCommons>."
-msgstr ""
+msgstr "<slink=HouseCommons>에서 잘 때 +15 <slink=Mood>를 얻습니다."
 
 #. Key: CharacterStatusConfig.Heart_CafeteriaTrigger_1.DisplayName
 msgctxt "CharacterStatusConfig.Heart_CafeteriaTrigger_1.DisplayName"
@@ -19181,7 +19181,7 @@ msgstr "Loves Dining Rooms and Mess Halls - 동메달"
 #. Key: CharacterStatusConfig.Heart_CafeteriaTrigger_1.Description
 msgctxt "CharacterStatusConfig.Heart_CafeteriaTrigger_1.Description"
 msgid "Gains <slink=Mood> while eating in a <slink=DiningRoom> or <slink=Cafeteria>."
-msgstr ""
+msgstr "<slink=DiningRoom>이나 <slink=Cafeteria>에서 식사할 때 추가 <slink=Mood>를 얻습니다."
 
 #. Key: CharacterStatusConfig.Heart_CafeteriaBuff_1.DisplayName
 msgctxt "CharacterStatusConfig.Heart_CafeteriaBuff_1.DisplayName"
@@ -19191,7 +19191,7 @@ msgstr "Loves Mess Halls - 동메달"
 #. Key: CharacterStatusConfig.Heart_CafeteriaBuff_1.Description
 msgctxt "CharacterStatusConfig.Heart_CafeteriaBuff_1.Description"
 msgid "+5 <slink=Mood> while eating in a <slink=Cafeteria>."
-msgstr ""
+msgstr "<slink=Cafeteria>에서 식사할 때 +5 <slink=Mood>를 얻습니다."
 
 #. Key: CharacterStatusConfig.Heart_DiningRoomBuff_1.DisplayName
 msgctxt "CharacterStatusConfig.Heart_DiningRoomBuff_1.DisplayName"
@@ -19201,7 +19201,7 @@ msgstr "Loves Dining Rooms - 동메달"
 #. Key: CharacterStatusConfig.Heart_DiningRoomBuff_1.Description
 msgctxt "CharacterStatusConfig.Heart_DiningRoomBuff_1.Description"
 msgid "+5 <slink=Mood> while eating in a <slink=DiningRoom>."
-msgstr ""
+msgstr "<slink=DiningRoom>에서 식사할 때 +5 <slink=Mood>를 얻습니다."
 
 #. Key: CharacterStatusConfig.Heart_PrivateDiningRoomTrigger_3.DisplayName
 msgctxt "CharacterStatusConfig.Heart_PrivateDiningRoomTrigger_3.DisplayName"
@@ -19211,7 +19211,7 @@ msgstr "Loves Private Dining Rooms and Common Rooms - 금메달"
 #. Key: CharacterStatusConfig.Heart_PrivateDiningRoomTrigger_3.Description
 msgctxt "CharacterStatusConfig.Heart_PrivateDiningRoomTrigger_3.Description"
 msgid "Gains <slink=Mood> while eating in a <slink=PrivateDiningRoom> or <slink=CommonRoom>."
-msgstr ""
+msgstr "<slink=PrivateDiningRoom>이나 <slink=CommonRoom>에서 식사할 때 추가 <slink=Mood>를 얻습니다."
 
 #. Key: CharacterStatusConfig.Heart_PrivateDiningRoomBuff_3.DisplayName
 msgctxt "CharacterStatusConfig.Heart_PrivateDiningRoomBuff_3.DisplayName"
@@ -19221,7 +19221,7 @@ msgstr "Loves Private Dining Rooms - 금메달"
 #. Key: CharacterStatusConfig.Heart_PrivateDiningRoomBuff_3.Description
 msgctxt "CharacterStatusConfig.Heart_PrivateDiningRoomBuff_3.Description"
 msgid "+10 <slink=Mood> while eating in a <slink=PrivateDiningRoom>."
-msgstr ""
+msgstr "<slink=PrivateDiningRoom>에서 식사할 때 +10 <slink=Mood>를 얻습니다."
 
 #. Key: CharacterStatusConfig.Heart_CommonRoomEatBuff_3.DisplayName
 msgctxt "CharacterStatusConfig.Heart_CommonRoomEatBuff_3.DisplayName"
@@ -19231,7 +19231,7 @@ msgstr "Loves Eating in Common Rooms - 금메달"
 #. Key: CharacterStatusConfig.Heart_CommonRoomEatBuff_3.Description
 msgctxt "CharacterStatusConfig.Heart_CommonRoomEatBuff_3.Description"
 msgid "+10 <slink=Mood> while eating in a <slink=CommonRoom>."
-msgstr ""
+msgstr "<slink=CommonRoom>에서 식사할 때 +10 <slink=Mood>를 얻습니다."
 
 #. Key: CharacterStatusConfig.Heart_SalleAManger_Trigger_4.DisplayName
 msgctxt "CharacterStatusConfig.Heart_SalleAManger_Trigger_4.DisplayName"
@@ -19241,7 +19241,7 @@ msgstr "Loves Salle a Manger and House Commons - 플래티넘 메달"
 #. Key: CharacterStatusConfig.Heart_SalleAManger_Trigger_4.Description
 msgctxt "CharacterStatusConfig.Heart_SalleAManger_Trigger_4.Description"
 msgid "Gains <slink=Mood> while eating in a <slink=SalleaManger> or <slink=HouseCommons>."
-msgstr ""
+msgstr "<slink=SalleaManger>이나 <slink=HouseCommons>에서 식사할 때 추가 <slink=Mood>를 얻습니다."
 
 #. Key: CharacterStatusConfig.Heart_SalleAManger_Buff_4.DisplayName
 msgctxt "CharacterStatusConfig.Heart_SalleAManger_Buff_4.DisplayName"
@@ -19251,7 +19251,7 @@ msgstr "Loves Salle a Manger - 플래티넘 메달"
 #. Key: CharacterStatusConfig.Heart_SalleAManger_Buff_4.Description
 msgctxt "CharacterStatusConfig.Heart_SalleAManger_Buff_4.Description"
 msgid "+15 <slink=Mood> while eating in a <slink=SalleaManger>."
-msgstr ""
+msgstr "<slink=SalleaManger>에서 식사할 때 +15 <slink=Mood>를 얻습니다."
 
 #. Key: CharacterStatusConfig.Heart_HouseCommonsEatBuff_4.DisplayName
 msgctxt "CharacterStatusConfig.Heart_HouseCommonsEatBuff_4.DisplayName"
@@ -19261,7 +19261,7 @@ msgstr "Loves Eating in House Commons - 플래티넘 메달"
 #. Key: CharacterStatusConfig.Heart_HouseCommonsEatBuff_4.Description
 msgctxt "CharacterStatusConfig.Heart_HouseCommonsEatBuff_4.Description"
 msgid "+15 <slink=Mood> while eating in a <slink=HouseCommons>."
-msgstr ""
+msgstr "<slink=HouseCommons>에서 식사할 때 +15 <slink=Mood>를 얻습니다."
 
 #. Key: CharacterStatusConfig.Wisdom_Atk_1.DisplayName
 msgctxt "CharacterStatusConfig.Wisdom_Atk_1.DisplayName"
@@ -19271,7 +19271,7 @@ msgstr "Bolstered Wisdom - 동메달"
 #. Key: CharacterStatusConfig.Wisdom_Atk_1.Description
 msgctxt "CharacterStatusConfig.Wisdom_Atk_1.Description"
 msgid "Boosted <slink=CombatStat_DamageBonus>."
-msgstr "<slink=CombatStat_DamageBonus>가 강화됩니다."
+msgstr "<slink=CombatStat_DamageBonus>이 강화됩니다."
 
 #. Key: CharacterStatusConfig.Wisdom_Atk_2.DisplayName
 msgctxt "CharacterStatusConfig.Wisdom_Atk_2.DisplayName"
@@ -19281,7 +19281,7 @@ msgstr "Bolstered Wisdom - 은메달"
 #. Key: CharacterStatusConfig.Wisdom_Atk_2.Description
 msgctxt "CharacterStatusConfig.Wisdom_Atk_2.Description"
 msgid "Boosted <slink=CombatStat_DamageBonus>."
-msgstr "<slink=CombatStat_DamageBonus>가 강화됩니다."
+msgstr "<slink=CombatStat_DamageBonus>이 강화됩니다."
 
 #. Key: CharacterStatusConfig.Wisdom_Atk_3.DisplayName
 msgctxt "CharacterStatusConfig.Wisdom_Atk_3.DisplayName"
@@ -19291,7 +19291,7 @@ msgstr "Bolstered Wisdom - 금메달"
 #. Key: CharacterStatusConfig.Wisdom_Atk_3.Description
 msgctxt "CharacterStatusConfig.Wisdom_Atk_3.Description"
 msgid "Boosted <slink=CombatStat_DamageBonus>."
-msgstr "<slink=CombatStat_DamageBonus>가 강화됩니다."
+msgstr "<slink=CombatStat_DamageBonus>이 강화됩니다."
 
 #. Key: CharacterStatusConfig.Wisdom_Atk_4.DisplayName
 msgctxt "CharacterStatusConfig.Wisdom_Atk_4.DisplayName"
@@ -19301,7 +19301,7 @@ msgstr "Bolstered Wisdom - 플래티넘 메달"
 #. Key: CharacterStatusConfig.Wisdom_Atk_4.Description
 msgctxt "CharacterStatusConfig.Wisdom_Atk_4.Description"
 msgid "Boosted <slink=CombatStat_DamageBonus>."
-msgstr "<slink=CombatStat_DamageBonus>가 강화됩니다."
+msgstr "<slink=CombatStat_DamageBonus>이 강화됩니다."
 
 #. Key: CharacterStatusConfig.Wisdom_HPAtk_1.DisplayName
 msgctxt "CharacterStatusConfig.Wisdom_HPAtk_1.DisplayName"
@@ -19311,7 +19311,7 @@ msgstr "Stalwart's Wisdom - 동메달"
 #. Key: CharacterStatusConfig.Wisdom_HPAtk_1.Description
 msgctxt "CharacterStatusConfig.Wisdom_HPAtk_1.Description"
 msgid "Boosted <slink=HP> and <slink=CombatStat_DamageBonus>."
-msgstr "<slink=HP>와 <slink=CombatStat_DamageBonus>가 강화됩니다."
+msgstr "<slink=HP>와 <slink=CombatStat_DamageBonus>이 강화됩니다."
 
 #. Key: CharacterStatusConfig.Wisdom_HPAtk_2.DisplayName
 msgctxt "CharacterStatusConfig.Wisdom_HPAtk_2.DisplayName"
@@ -19321,7 +19321,7 @@ msgstr "Stalwart's Wisdom - 은메달"
 #. Key: CharacterStatusConfig.Wisdom_HPAtk_2.Description
 msgctxt "CharacterStatusConfig.Wisdom_HPAtk_2.Description"
 msgid "Boosted <slink=HP> and <slink=CombatStat_DamageBonus>."
-msgstr "<slink=HP>와 <slink=CombatStat_DamageBonus>가 강화됩니다."
+msgstr "<slink=HP>와 <slink=CombatStat_DamageBonus>이 강화됩니다."
 
 #. Key: CharacterStatusConfig.Wisdom_HPAtk_3.DisplayName
 msgctxt "CharacterStatusConfig.Wisdom_HPAtk_3.DisplayName"
@@ -19331,7 +19331,7 @@ msgstr "Stalwart's Wisdom - 금메달"
 #. Key: CharacterStatusConfig.Wisdom_HPAtk_3.Description
 msgctxt "CharacterStatusConfig.Wisdom_HPAtk_3.Description"
 msgid "Boosted <slink=HP> and <slink=CombatStat_DamageBonus>."
-msgstr "<slink=HP>와 <slink=CombatStat_DamageBonus>가 강화됩니다."
+msgstr "<slink=HP>와 <slink=CombatStat_DamageBonus>이 강화됩니다."
 
 #. Key: CharacterStatusConfig.Wisdom_HPAtk_4.DisplayName
 msgctxt "CharacterStatusConfig.Wisdom_HPAtk_4.DisplayName"
@@ -19341,7 +19341,7 @@ msgstr "Stalwart's Wisdom - 플래티넘 메달"
 #. Key: CharacterStatusConfig.Wisdom_HPAtk_4.Description
 msgctxt "CharacterStatusConfig.Wisdom_HPAtk_4.Description"
 msgid "Boosted <slink=HP> and <slink=CombatStat_DamageBonus>."
-msgstr "<slink=HP>와 <slink=CombatStat_DamageBonus>가 강화됩니다."
+msgstr "<slink=HP>와 <slink=CombatStat_DamageBonus>이 강화됩니다."
 
 #. Key: CharacterStatusConfig.Wisdom_AtkSpd_1.DisplayName
 msgctxt "CharacterStatusConfig.Wisdom_AtkSpd_1.DisplayName"
@@ -19831,7 +19831,7 @@ msgstr "Warrior's Spirit - 동메달"
 #. Key: CharacterStatusConfig.Spirit_AtkSpd_1.Description
 msgctxt "CharacterStatusConfig.Spirit_AtkSpd_1.Description"
 msgid "Boosted <slink=CombatStat_CombatSpeed> and <slink=CombatStat_DamageBonus>."
-msgstr "<slink=CombatStat_CombatSpeed>와 <slink=CombatStat_DamageBonus>가 강화됩니다."
+msgstr "<slink=CombatStat_CombatSpeed>와 <slink=CombatStat_DamageBonus>이 강화됩니다."
 
 #. Key: CharacterStatusConfig.Spirit_AtkSpd_2.DisplayName
 msgctxt "CharacterStatusConfig.Spirit_AtkSpd_2.DisplayName"
@@ -19841,7 +19841,7 @@ msgstr "Warrior's Spirit - 은메달"
 #. Key: CharacterStatusConfig.Spirit_AtkSpd_2.Description
 msgctxt "CharacterStatusConfig.Spirit_AtkSpd_2.Description"
 msgid "Boosted <slink=CombatStat_CombatSpeed> and <slink=CombatStat_DamageBonus>."
-msgstr "<slink=CombatStat_CombatSpeed>와 <slink=CombatStat_DamageBonus>가 강화됩니다."
+msgstr "<slink=CombatStat_CombatSpeed>와 <slink=CombatStat_DamageBonus>이 강화됩니다."
 
 #. Key: CharacterStatusConfig.Spirit_AtkSpd_3.DisplayName
 msgctxt "CharacterStatusConfig.Spirit_AtkSpd_3.DisplayName"
@@ -19851,7 +19851,7 @@ msgstr "Warrior's Spirit - 금메달"
 #. Key: CharacterStatusConfig.Spirit_AtkSpd_3.Description
 msgctxt "CharacterStatusConfig.Spirit_AtkSpd_3.Description"
 msgid "Boosted <slink=CombatStat_CombatSpeed> and <slink=CombatStat_DamageBonus>."
-msgstr "<slink=CombatStat_CombatSpeed>와 <slink=CombatStat_DamageBonus>가 강화됩니다."
+msgstr "<slink=CombatStat_CombatSpeed>와 <slink=CombatStat_DamageBonus>이 강화됩니다."
 
 #. Key: CharacterStatusConfig.Spirit_AtkSpd_4.DisplayName
 msgctxt "CharacterStatusConfig.Spirit_AtkSpd_4.DisplayName"
@@ -19861,7 +19861,7 @@ msgstr "Warrior's Spirit - 플래티넘 메달"
 #. Key: CharacterStatusConfig.Spirit_AtkSpd_4.Description
 msgctxt "CharacterStatusConfig.Spirit_AtkSpd_4.Description"
 msgid "Boosted <slink=CombatStat_CombatSpeed> and <slink=CombatStat_DamageBonus>."
-msgstr "<slink=CombatStat_CombatSpeed>와 <slink=CombatStat_DamageBonus>가 강화됩니다."
+msgstr "<slink=CombatStat_CombatSpeed>와 <slink=CombatStat_DamageBonus>이 강화됩니다."
 
 #. Key: CharacterStatusConfig.Spirit_SpdMana_1.DisplayName
 msgctxt "CharacterStatusConfig.Spirit_SpdMana_1.DisplayName"
@@ -20651,7 +20651,7 @@ msgstr "전사의 끈기 - 동메달"
 #. Key: CharacterStatusConfig.Tenacity_ManaAtk_1.Description
 msgctxt "CharacterStatusConfig.Tenacity_ManaAtk_1.Description"
 msgid "Boosted <slink=Mana> and <slink=CombatStat_DamageBonus>."
-msgstr "<slink=Mana>와 <slink=CombatStat_DamageBonus>가 강화됩니다."
+msgstr "<slink=Mana>와 <slink=CombatStat_DamageBonus>이 강화됩니다."
 
 #. Key: CharacterStatusConfig.Tenacity_ManaAtk_2.DisplayName
 msgctxt "CharacterStatusConfig.Tenacity_ManaAtk_2.DisplayName"
@@ -20661,7 +20661,7 @@ msgstr "전사의 끈기 - 은메달"
 #. Key: CharacterStatusConfig.Tenacity_ManaAtk_2.Description
 msgctxt "CharacterStatusConfig.Tenacity_ManaAtk_2.Description"
 msgid "Boosted <slink=Mana> and <slink=CombatStat_DamageBonus>."
-msgstr "<slink=Mana>와 <slink=CombatStat_DamageBonus>가 강화됩니다."
+msgstr "<slink=Mana>와 <slink=CombatStat_DamageBonus>이 강화됩니다."
 
 #. Key: CharacterStatusConfig.Tenacity_ManaAtk_3.DisplayName
 msgctxt "CharacterStatusConfig.Tenacity_ManaAtk_3.DisplayName"
@@ -20671,7 +20671,7 @@ msgstr "전사의 끈기 - 금메달"
 #. Key: CharacterStatusConfig.Tenacity_ManaAtk_3.Description
 msgctxt "CharacterStatusConfig.Tenacity_ManaAtk_3.Description"
 msgid "Boosted <slink=Mana> and <slink=CombatStat_DamageBonus>."
-msgstr "<slink=Mana>와 <slink=CombatStat_DamageBonus>가 강화됩니다."
+msgstr "<slink=Mana>와 <slink=CombatStat_DamageBonus>이 강화됩니다."
 
 #. Key: CharacterStatusConfig.Tenacity_ManaAtk_4.DisplayName
 msgctxt "CharacterStatusConfig.Tenacity_ManaAtk_4.DisplayName"
@@ -20681,7 +20681,7 @@ msgstr "전사의 끈기 - 플래티넘 메달"
 #. Key: CharacterStatusConfig.Tenacity_ManaAtk_4.Description
 msgctxt "CharacterStatusConfig.Tenacity_ManaAtk_4.Description"
 msgid "Boosted <slink=Mana> and <slink=CombatStat_DamageBonus>."
-msgstr "<slink=Mana>와 <slink=CombatStat_DamageBonus>가 강화됩니다."
+msgstr "<slink=Mana>와 <slink=CombatStat_DamageBonus>이 강화됩니다."
 
 #. Key: CharacterStatusConfig.Tenacity_ManaSpd_1.DisplayName
 msgctxt "CharacterStatusConfig.Tenacity_ManaSpd_1.DisplayName"
@@ -21516,7 +21516,7 @@ msgstr "전투 탈출"
 #. Key: CharacterStatusConfig.Fleeing.Description
 msgctxt "CharacterStatusConfig.Fleeing.Description"
 msgid "This character will retreat from battle on their next turn."
-msgstr ""
+msgstr "이번 턴을 쉬고 다음 턴에 전투에서 탈출합니다."
 
 #. Key: CharacterStatusConfig.Fleeing.BattleString
 msgctxt "CharacterStatusConfig.Fleeing.BattleString"
@@ -22951,22 +22951,22 @@ msgstr ""
 #. Key: StatusEffectConfig.Tough.DisplayName
 msgctxt "StatusEffectConfig.Tough.DisplayName"
 msgid "Tough"
-msgstr ""
+msgstr "단단함"
 
 #. Key: StatusEffectConfig.Tough.Description
 msgctxt "StatusEffectConfig.Tough.Description"
 msgid "Takes half damage in battle."
-msgstr ""
+msgstr "전투에서 데미지를 반만 받습니다."
 
 #. Key: StatusEffectConfig.Fragile.DisplayName
 msgctxt "StatusEffectConfig.Fragile.DisplayName"
 msgid "Fragile"
-msgstr ""
+msgstr "나약함"
 
 #. Key: StatusEffectConfig.Fragile.Description
 msgctxt "StatusEffectConfig.Fragile.Description"
 msgid "Suffers an additional <slink=MajorInjury> and loses an extra <slink=DeathSave> when downed in battle."
-msgstr ""
+msgstr "전투에서 쓰러지면 <slink=MajorInjury>를 2개 받고 <slink=DeathSave>를 2개 잃습니다."
 
 #. Key: StatusEffectConfig.Melancholy.DisplayName
 msgctxt "StatusEffectConfig.Melancholy.DisplayName"
@@ -23016,7 +23016,7 @@ msgstr "피의 마법"
 #. Key: StatusEffectConfig.BloodMagic.Description
 msgctxt "StatusEffectConfig.BloodMagic.Description"
 msgid "Must spend matching <slink=HP> in addition to a combat spell's mana cost. Will not reduce Mages below 1 HP."
-msgstr ""
+msgstr "전투에서 주문을 시전할 때 소모 마나에 비례하는 <slink=HP>가 감소합니다. 1HP 이하로 떨어지지 않습니다."
 
 #. Key: StatusEffectConfig.Taunting.DisplayName
 msgctxt "StatusEffectConfig.Taunting.DisplayName"
@@ -23031,12 +23031,12 @@ msgstr ""
 #. Key: StatusEffectConfig.FastTurnOrder.DisplayName
 msgctxt "StatusEffectConfig.FastTurnOrder.DisplayName"
 msgid "Hastened"
-msgstr ""
+msgstr "빨라짐"
 
 #. Key: StatusEffectConfig.FastTurnOrder.Description
 msgctxt "StatusEffectConfig.FastTurnOrder.Description"
 msgid "Acts at the beginning of each round in addition to their spot in the <slink=CombatStat_CombatSpeed> order."
-msgstr ""
+msgstr "<slink=CombatStat_CombatSpeed>에 따른 행동 순서와 별개로, 라운드 시작마다 추가 행동순서를 한 번 더 받습니다."
 
 #. Key: KeymapCategoryDefinition.Hidden.DisplayName
 msgctxt "KeymapCategoryDefinition.Hidden.DisplayName"
@@ -23146,12 +23146,12 @@ msgstr "주문 4 시전"
 #. Key: KeyMappingConfigLoader.Select_Next_Of_Same_Type.DisplayName
 msgctxt "KeyMappingConfigLoader.Select_Next_Of_Same_Type.DisplayName"
 msgid "Next Of Same Type"
-msgstr ""
+msgstr "다음 같은 종류 물체"
 
 #. Key: KeyMappingConfigLoader.Select_Prev_Of_Same_Type.DisplayName
 msgctxt "KeyMappingConfigLoader.Select_Prev_Of_Same_Type.DisplayName"
 msgid "Prev Of Same Type"
-msgstr ""
+msgstr "이전 같은 종류 물체"
 
 #. Key: KeyMappingConfigLoader.Select_Next_Character.DisplayName
 msgctxt "KeyMappingConfigLoader.Select_Next_Character.DisplayName"
@@ -23166,22 +23166,22 @@ msgstr "이전 캐릭터"
 #. Key: KeyMappingConfigLoader.Selected_Cycle_Priority.DisplayName
 msgctxt "KeyMappingConfigLoader.Selected_Cycle_Priority.DisplayName"
 msgid "Cycle Priority"
-msgstr ""
+msgstr "우선순위 변경"
 
 #. Key: KeyMappingConfigLoader.Selected_Priority_Higher.DisplayName
 msgctxt "KeyMappingConfigLoader.Selected_Priority_Higher.DisplayName"
 msgid "Priority Higher"
-msgstr ""
+msgstr "우선순위 증가"
 
 #. Key: KeyMappingConfigLoader.Selected_Priority_Lower.DisplayName
 msgctxt "KeyMappingConfigLoader.Selected_Priority_Lower.DisplayName"
 msgid "Priority Lower"
-msgstr ""
+msgstr "우선순위 감소"
 
 #. Key: KeyMappingConfigLoader.Selected_Priority_SetX.DisplayName
 msgctxt "KeyMappingConfigLoader.Selected_Priority_SetX.DisplayName"
 msgid "Priority Never"
-msgstr ""
+msgstr "우선순위 금지"
 
 #. Key: KeyMappingConfigLoader.Selected_Priority_Set1.DisplayName
 msgctxt "KeyMappingConfigLoader.Selected_Priority_Set1.DisplayName"
@@ -23221,12 +23221,12 @@ msgstr "설정 붙여넣기"
 #. Key: KeyMappingConfigLoader.ActionButton_BuildCopy.DisplayName
 msgctxt "KeyMappingConfigLoader.ActionButton_BuildCopy.DisplayName"
 msgid "Build a Copy"
-msgstr ""
+msgstr "복사본 건설"
 
 #. Key: KeyMappingConfigLoader.ActionButton_BuildCopyWithSettings.DisplayName
 msgctxt "KeyMappingConfigLoader.ActionButton_BuildCopyWithSettings.DisplayName"
 msgid "Build a Copy With Settings"
-msgstr ""
+msgstr "설정 포함 복사본 건설"
 
 #. Key: KeyMappingConfigLoader.ActionButton_Enlarge.DisplayName
 msgctxt "KeyMappingConfigLoader.ActionButton_Enlarge.DisplayName"
@@ -23241,7 +23241,7 @@ msgstr "조립"
 #. Key: KeyMappingConfigLoader.ActionButton_Disassemble.DisplayName
 msgctxt "KeyMappingConfigLoader.ActionButton_Disassemble.DisplayName"
 msgid "Disassemble"
-msgstr ""
+msgstr "분해"
 
 #. Key: KeyMappingConfigLoader.ActionButton_Clean.DisplayName
 msgctxt "KeyMappingConfigLoader.ActionButton_Clean.DisplayName"
@@ -23261,7 +23261,7 @@ msgstr ""
 #. Key: KeyMappingConfigLoader.ActionButton_PutAway.DisplayName
 msgctxt "KeyMappingConfigLoader.ActionButton_PutAway.DisplayName"
 msgid "Put Away"
-msgstr ""
+msgstr "매장"
 
 #. Key: KeyMappingConfigLoader.ActionButton_Construct.DisplayName
 msgctxt "KeyMappingConfigLoader.ActionButton_Construct.DisplayName"
@@ -27436,7 +27436,7 @@ msgstr "가구"
 #. Key: ResourceCategoryDefinition.Storage.DisplayName
 msgctxt "ResourceCategoryDefinition.Storage.DisplayName"
 msgid "Storage"
-msgstr ""
+msgstr "저장소"
 
 #. Key: ResourceCategoryDefinition.Decor.DisplayName
 msgctxt "ResourceCategoryDefinition.Decor.DisplayName"
@@ -28365,7 +28365,7 @@ msgstr "재고 채우기"
 #. Key: JobTypeDefinition.JobType_RestockInventory.Description
 msgctxt "JobTypeDefinition.JobType_RestockInventory.Description"
 msgid "Restock inventory."
-msgstr "재고 채우기"
+msgstr "재고를 채웁니다."
 
 #. Key: JobTypeDefinition.JobType_OpenBlockers.DisplayName
 msgctxt "JobTypeDefinition.JobType_OpenBlockers.DisplayName"
@@ -32190,7 +32190,7 @@ msgstr "혼자 춤추기 - 금메달 과제"
 #. Key: BadgeDefinition.SoloRecreator_3.Description
 msgctxt "BadgeDefinition.SoloRecreator_3.Description"
 msgid "Dance in a Common Room or House Commons with no other Students or Staff present."
-msgstr ""
+msgstr "다른 마법사가 없는 학생회관이나 고급 학생회관에서 혼자 춤추세요."
 
 #. Key: BadgeDefinition.SoloRecreator_4.DisplayName
 msgctxt "BadgeDefinition.SoloRecreator_4.DisplayName"
@@ -32200,127 +32200,127 @@ msgstr "혼자 춤추기 - 플래티넘 메달 과제"
 #. Key: BadgeDefinition.SoloRecreator_4.Description
 msgctxt "BadgeDefinition.SoloRecreator_4.Description"
 msgid "Recreate in a House Commons with no other Students or Staff present."
-msgstr ""
+msgstr "다른 마법사가 없는 고급 학생회관에서 춤추세요."
 
 #. Key: BadgeDefinition.GroupRecreator_1.DisplayName
 msgctxt "BadgeDefinition.GroupRecreator_1.DisplayName"
 msgid "Dancing With Friends - Bronze Trial"
-msgstr "Dancing With Friends - 동메달 과제"
+msgstr "친구들과 춤추기 - 동메달 과제"
 
 #. Key: BadgeDefinition.GroupRecreator_1.Description
 msgctxt "BadgeDefinition.GroupRecreator_1.Description"
 msgid "Dance in a room with an Enchantophone and at least 6 Students or Staff present."
-msgstr ""
+msgstr "6명 이상의 마법사가 있는 방에서 마법 축음기에 맞춰 춤추세요."
 
 #. Key: BadgeDefinition.GroupRecreator_2.DisplayName
 msgctxt "BadgeDefinition.GroupRecreator_2.DisplayName"
 msgid "Dancing With Friends - Silver Trial"
-msgstr "Dancing With Friends - 은메달 과제"
+msgstr "친구들과 춤추기 - 은메달 과제"
 
 #. Key: BadgeDefinition.GroupRecreator_2.Description
 msgctxt "BadgeDefinition.GroupRecreator_2.Description"
 msgid "Dance in any Recreation Room with at least 6 Students or Staff present."
-msgstr ""
+msgstr "6명 이상의 마법사가 있는 휴게시설에서 춤추세요."
 
 #. Key: BadgeDefinition.GroupRecreator_3.DisplayName
 msgctxt "BadgeDefinition.GroupRecreator_3.DisplayName"
 msgid "Dancing With Friends - Gold Trial"
-msgstr "Dancing With Friends - 금메달 과제"
+msgstr "친구들과 춤추기 - 금메달 과제"
 
 #. Key: BadgeDefinition.GroupRecreator_3.Description
 msgctxt "BadgeDefinition.GroupRecreator_3.Description"
 msgid "Dance in a Common Room or House Commons with at least 6 Students or Staff present."
-msgstr ""
+msgstr "6명 이상의 마법사가 있는 학생회관이나 고급 학생회관에서 춤추세요."
 
 #. Key: BadgeDefinition.GroupRecreator_4.DisplayName
 msgctxt "BadgeDefinition.GroupRecreator_4.DisplayName"
 msgid "Dancing With Friends - Platinum Trial"
-msgstr "Dancing With Friends - 플래티넘 메달 과제"
+msgstr "친구들과 춤추기 - 플래티넘 메달 과제"
 
 #. Key: BadgeDefinition.GroupRecreator_4.Description
 msgctxt "BadgeDefinition.GroupRecreator_4.Description"
 msgid "Dance in a House Commons with at least 6 Students or Staff present."
-msgstr ""
+msgstr "6명 이상의 마법사가 있는 고급 학생회관에서 춤추세요."
 
 #. Key: BadgeDefinition.SoloDiner_1.DisplayName
 msgctxt "BadgeDefinition.SoloDiner_1.DisplayName"
 msgid "Solo Diner - Bronze Trial"
-msgstr "Solo Diner - 동메달 과제"
+msgstr "혼자 식사하기 - 동메달 과제"
 
 #. Key: BadgeDefinition.SoloDiner_1.Description
 msgctxt "BadgeDefinition.SoloDiner_1.Description"
 msgid "Eat in a room with no other Students or Staff present."
-msgstr ""
+msgstr "다른 마법사가 없는 방에서 식사하세요."
 
 #. Key: BadgeDefinition.SoloDiner_2.DisplayName
 msgctxt "BadgeDefinition.SoloDiner_2.DisplayName"
 msgid "Solo Diner - Silver Trial"
-msgstr "Solo Diner - 은메달 과제"
+msgstr "혼자 식사하기 - 은메달 과제"
 
 #. Key: BadgeDefinition.SoloDiner_2.Description
 msgctxt "BadgeDefinition.SoloDiner_2.Description"
 msgid "Eat in a Mess Hall, Common Room, or House Commons with no other Students or Staff present."
-msgstr ""
+msgstr "다른 마법사가 없는 학생 식당, 학생회관, 또는 고급 학생회관에서 식사하세요."
 
 #. Key: BadgeDefinition.SoloDiner_3.DisplayName
 msgctxt "BadgeDefinition.SoloDiner_3.DisplayName"
 msgid "Solo Diner - Gold Trial"
-msgstr "Solo Diner - 금메달 과제"
+msgstr "혼자 식사하기 - 금메달 과제"
 
 #. Key: BadgeDefinition.SoloDiner_3.Description
 msgctxt "BadgeDefinition.SoloDiner_3.Description"
 msgid "Eat in a Common Room or House Commons with no other Students or Staff present."
-msgstr ""
+msgstr "다른 마법사가 없는 학생회관이나 고급 학생회관에서 식사하세요."
 
 #. Key: BadgeDefinition.SoloDiner_4.DisplayName
 msgctxt "BadgeDefinition.SoloDiner_4.DisplayName"
 msgid "Solo Diner - Platinum Trial"
-msgstr "Solo Diner - 플래티넘 메달 과제"
+msgstr "혼자 식사하기 - 플래티넘 메달 과제"
 
 #. Key: BadgeDefinition.SoloDiner_4.Description
 msgctxt "BadgeDefinition.SoloDiner_4.Description"
 msgid "Eat in a House Commons with no other Students or Staff present."
-msgstr ""
+msgstr "다른 마법사가 없는 고급 학생회관에서 식사하세요."
 
 #. Key: BadgeDefinition.GroupDiner_1.DisplayName
 msgctxt "BadgeDefinition.GroupDiner_1.DisplayName"
 msgid "Group Diner - Bronze Trial"
-msgstr "Group Diner - 동메달 과제"
+msgstr "다같이 식사하기 - 동메달 과제"
 
 #. Key: BadgeDefinition.GroupDiner_1.Description
 msgctxt "BadgeDefinition.GroupDiner_1.Description"
 msgid "Eat in a room with at least 6 Students or Staff present."
-msgstr ""
+msgstr "6명 이상의 마법사가 있는 방에서 식사하세요."
 
 #. Key: BadgeDefinition.GroupDiner_2.DisplayName
 msgctxt "BadgeDefinition.GroupDiner_2.DisplayName"
 msgid "Group Diner - Silver Trial"
-msgstr "Group Diner - 은메달 과제"
+msgstr "다같이 식사하기 - 은메달 과제"
 
 #. Key: BadgeDefinition.GroupDiner_2.Description
 msgctxt "BadgeDefinition.GroupDiner_2.Description"
 msgid "Eat in a Mess Hall, Common Room, or House Commons with at least 6 Students or Staff present."
-msgstr ""
+msgstr "6명 이상의 마법사가 있는 학생 식당, 학생회관, 또는 고급 학생회관에서 식사하세요."
 
 #. Key: BadgeDefinition.GroupDiner_3.DisplayName
 msgctxt "BadgeDefinition.GroupDiner_3.DisplayName"
 msgid "Group Diner - Gold Trial"
-msgstr "Group Diner - 금메달 과제"
+msgstr "다같이 식사하기 - 금메달 과제"
 
 #. Key: BadgeDefinition.GroupDiner_3.Description
 msgctxt "BadgeDefinition.GroupDiner_3.Description"
 msgid "Eat in a Common Room or House Commons with at least 6 Students or Staff present."
-msgstr ""
+msgstr "6명 이상의 마법사가 있는 학생회관이나 고급 학생회관에서 식사하세요."
 
 #. Key: BadgeDefinition.GroupDiner_4.DisplayName
 msgctxt "BadgeDefinition.GroupDiner_4.DisplayName"
 msgid "Group Diner - Platinum Trial"
-msgstr "Group Diner - 플래티넘 메달 과제"
+msgstr "다같이 식사하기 - 플래티넘 메달 과제"
 
 #. Key: BadgeDefinition.GroupDiner_4.Description
 msgctxt "BadgeDefinition.GroupDiner_4.Description"
 msgid "Eat in a House Commons with 6 Students or Staff present."
-msgstr ""
+msgstr "6명 이상의 마법사가 있는 고급 학생회관에서 식사하세요."
 
 #. Key: BadgeDefinition.MealGutberry_1.DisplayName
 msgctxt "BadgeDefinition.MealGutberry_1.DisplayName"
@@ -32330,7 +32330,7 @@ msgstr "내장딸기 먹기 - 동메달 과제"
 #. Key: BadgeDefinition.MealGutberry_1.Description
 msgctxt "BadgeDefinition.MealGutberry_1.Description"
 msgid "Eat 10 <slink=Gutberry>."
-msgstr "<slink=Gutberry> 10개를 먹습니다."
+msgstr "<slink=Gutberry> 10개를 먹으세요."
 
 #. Key: BadgeDefinition.MealGutberrySoup_1.DisplayName
 msgctxt "BadgeDefinition.MealGutberrySoup_1.DisplayName"
@@ -32340,7 +32340,7 @@ msgstr "내장딸기 수프 먹기 - 동메달 과제"
 #. Key: BadgeDefinition.MealGutberrySoup_1.Description
 msgctxt "BadgeDefinition.MealGutberrySoup_1.Description"
 msgid "Eat 5 <slink=GutberrySoup>."
-msgstr "<slink=GutberrySoup> 5개를 먹습니다."
+msgstr "<slink=GutberrySoup> 5개를 먹으세요."
 
 #. Key: BadgeDefinition.MealBitterGruel_1.DisplayName
 msgctxt "BadgeDefinition.MealBitterGruel_1.DisplayName"
@@ -32350,7 +32350,7 @@ msgstr "씁쓸한 죽 먹기 - 동메달 과제"
 #. Key: BadgeDefinition.MealBitterGruel_1.Description
 msgctxt "BadgeDefinition.MealBitterGruel_1.Description"
 msgid "Eat 5 <slink=BitterGruel>."
-msgstr "<slink=BitterGruel> 5개를 먹습니다."
+msgstr "<slink=BitterGruel> 5개를 먹으세요."
 
 #. Key: BadgeDefinition.MealHoneyedGruel_1.DisplayName
 msgctxt "BadgeDefinition.MealHoneyedGruel_1.DisplayName"
@@ -32360,7 +32360,7 @@ msgstr "달콤한 죽 먹기 - 동메달 과제"
 #. Key: BadgeDefinition.MealHoneyedGruel_1.Description
 msgctxt "BadgeDefinition.MealHoneyedGruel_1.Description"
 msgid "Eat a <slink=HoneyedGruel>."
-msgstr "<slink=HoneyedGruel> 하나를 먹습니다."
+msgstr "<slink=HoneyedGruel> 하나를 먹으세요."
 
 #. Key: BadgeDefinition.MealBitterGruel_2.DisplayName
 msgctxt "BadgeDefinition.MealBitterGruel_2.DisplayName"
@@ -32370,7 +32370,7 @@ msgstr "씁쓸한 죽 먹기 - 은메달 과제"
 #. Key: BadgeDefinition.MealBitterGruel_2.Description
 msgctxt "BadgeDefinition.MealBitterGruel_2.Description"
 msgid "Eat 15 <slink=BitterGruel>."
-msgstr "<slink=BitterGruel> 15개를 먹습니다."
+msgstr "<slink=BitterGruel> 15개를 먹으세요."
 
 #. Key: BadgeDefinition.MealHoneyedGruel_2.DisplayName
 msgctxt "BadgeDefinition.MealHoneyedGruel_2.DisplayName"
@@ -32380,7 +32380,7 @@ msgstr "달콤한 죽 먹기 - 은메달 과제"
 #. Key: BadgeDefinition.MealHoneyedGruel_2.Description
 msgctxt "BadgeDefinition.MealHoneyedGruel_2.Description"
 msgid "Eat 10 <slink=HoneyedGruel>."
-msgstr "<slink=HoneyedGruel> 10개를 먹습니다."
+msgstr "<slink=HoneyedGruel> 10개를 먹으세요."
 
 #. Key: BadgeDefinition.MealBitterStirFry_2.DisplayName
 msgctxt "BadgeDefinition.MealBitterStirFry_2.DisplayName"
@@ -32525,7 +32525,7 @@ msgstr "고급 학생회관에서 50번 춤을 추세요."
 #. Key: BadgeDefinition.CafeteriaDiner_1.DisplayName
 msgctxt "BadgeDefinition.CafeteriaDiner_1.DisplayName"
 msgid "Mess Hall Diner - Bronze Trial"
-msgstr "Mess Hall Diner - 동메달 과제"
+msgstr "학생 식당에서 식사하기 - 동메달 과제"
 
 #. Key: BadgeDefinition.CafeteriaDiner_1.Description
 msgctxt "BadgeDefinition.CafeteriaDiner_1.Description"
@@ -32535,7 +32535,7 @@ msgstr "학생 식당, 학생회관 또는 고급 학생회관에서 10번 식�
 #. Key: BadgeDefinition.CommonRoomDiner_3.DisplayName
 msgctxt "BadgeDefinition.CommonRoomDiner_3.DisplayName"
 msgid "Common Room Diner - Gold Trial"
-msgstr "Common Room Diner - 금메달 과제"
+msgstr "학생회관에서 식사하기 - 금메달 과제"
 
 #. Key: BadgeDefinition.CommonRoomDiner_3.Description
 msgctxt "BadgeDefinition.CommonRoomDiner_3.Description"
@@ -32545,7 +32545,7 @@ msgstr "학생회관이나 고급 학생회관에서 30번 식사하세요."
 #. Key: BadgeDefinition.HouseCommonsDiner_4.DisplayName
 msgctxt "BadgeDefinition.HouseCommonsDiner_4.DisplayName"
 msgid "House Commons Diner - Platinum Trial"
-msgstr "House Commons Diner - 플래티넘 메달 과제"
+msgstr "고급 학생회관에서 식사하기 - 플래티넘 메달 과제"
 
 #. Key: BadgeDefinition.HouseCommonsDiner_4.Description
 msgctxt "BadgeDefinition.HouseCommonsDiner_4.Description"
@@ -32555,7 +32555,7 @@ msgstr "고급 학생회관에서 50번 식사하세요."
 #. Key: BadgeDefinition.AustereSleeper_1.DisplayName
 msgctxt "BadgeDefinition.AustereSleeper_1.DisplayName"
 msgid "Austere Bedroom Sleeper - Bronze Trial"
-msgstr "Austere Bedroom Sleeper - 동메달 과제"
+msgstr "소박한 침실에서 자기 - 동메달 과제"
 
 #. Key: BadgeDefinition.AustereSleeper_1.Description
 msgctxt "BadgeDefinition.AustereSleeper_1.Description"
@@ -32565,7 +32565,7 @@ msgstr "<slink=Hovel>, <nlink=Dormitory>, <nlink=CommonRoom>, 또는 <nlink=Hous
 #. Key: BadgeDefinition.DormitorySleeper_2.DisplayName
 msgctxt "BadgeDefinition.DormitorySleeper_2.DisplayName"
 msgid "Dormitory Sleeper  - Silver Trial"
-msgstr "Dormitory Sleeper  - 은메달 과제"
+msgstr "기숙사에서 자기 - 은메달 과제"
 
 #. Key: BadgeDefinition.DormitorySleeper_2.Description
 msgctxt "BadgeDefinition.DormitorySleeper_2.Description"
@@ -32575,7 +32575,7 @@ msgstr "<slink=Dormitory>, <nlink=CommonRoom>, 또는 <nlink=HouseCommons>에서
 #. Key: BadgeDefinition.CommonRoomSleeper_3.DisplayName
 msgctxt "BadgeDefinition.CommonRoomSleeper_3.DisplayName"
 msgid "Common Room Sleeper  - Gold Trial"
-msgstr "Common Room Sleeper  - 금메달 과제"
+msgstr "학생회관에서 자기 - 금메달 과제"
 
 #. Key: BadgeDefinition.CommonRoomSleeper_3.Description
 msgctxt "BadgeDefinition.CommonRoomSleeper_3.Description"
@@ -32585,7 +32585,7 @@ msgstr "<slink=CommonRoom>나 <nlink=HouseCommons>에서 총 60시간 수면하�
 #. Key: BadgeDefinition.HouseCommonSleeper_4.DisplayName
 msgctxt "BadgeDefinition.HouseCommonSleeper_4.DisplayName"
 msgid "House Commons Sleeper  - Platinum Trial"
-msgstr "House Commons Sleeper  - 플래티넘 메달 과제"
+msgstr "고급 학생회관에서 자기 - 플래티넘 메달 과제"
 
 #. Key: BadgeDefinition.HouseCommonSleeper_4.Description
 msgctxt "BadgeDefinition.HouseCommonSleeper_4.Description"
@@ -32595,7 +32595,7 @@ msgstr "<slink=HouseCommons>에서 총 84시간 수면하세요."
 #. Key: BadgeDefinition.FullRitualist_1.DisplayName
 msgctxt "BadgeDefinition.FullRitualist_1.DisplayName"
 msgid "Full Ritualist - Silver Trial"
-msgstr "Full Ritualist - 은메달 과제"
+msgstr "배부른 의식 - 은메달 과제"
 
 #. Key: BadgeDefinition.FullRitualist_1.Description
 msgctxt "BadgeDefinition.FullRitualist_1.Description"
@@ -32605,7 +32605,7 @@ msgstr "<slink=Full> 상태에서 의식에 참여하세요."
 #. Key: BadgeDefinition.RestedRitualist_1.DisplayName
 msgctxt "BadgeDefinition.RestedRitualist_1.DisplayName"
 msgid "Rested Ritualist - Silver Trial"
-msgstr "Rested Ritualist - 은메달 과제"
+msgstr "개운한 의식 - 은메달 과제"
 
 #. Key: BadgeDefinition.RestedRitualist_1.Description
 msgctxt "BadgeDefinition.RestedRitualist_1.Description"
@@ -32615,7 +32615,7 @@ msgstr "<slink=Rested> 상태에서 의식에 참여하세요."
 #. Key: BadgeDefinition.GroupLearner_1.DisplayName
 msgctxt "BadgeDefinition.GroupLearner_1.DisplayName"
 msgid "Group Learner - Bronze Trial"
-msgstr "Group Learner - 동메달 과제"
+msgstr "다같이 배우기 - 동메달 과제"
 
 #. Key: BadgeDefinition.GroupLearner_1.Description
 msgctxt "BadgeDefinition.GroupLearner_1.Description"
@@ -32625,7 +32625,7 @@ msgstr "최소 6명의 학생이 있는 기본 교실이나 중급 교실에서 
 #. Key: BadgeDefinition.GroupLearner_2.DisplayName
 msgctxt "BadgeDefinition.GroupLearner_2.DisplayName"
 msgid "Group Learner - Silver Trial"
-msgstr "Group Learner - 은메달 과제"
+msgstr "다같이 배우기 - 은메달 과제"
 
 #. Key: BadgeDefinition.GroupLearner_2.Description
 msgctxt "BadgeDefinition.GroupLearner_2.Description"
@@ -32635,7 +32635,7 @@ msgstr "최소 6명의 학생이 있는 기본 교실이나 중급 교실에서 
 #. Key: BadgeDefinition.SoloLearner_1.DisplayName
 msgctxt "BadgeDefinition.SoloLearner_1.DisplayName"
 msgid "Solo Learner - Bronze Trial"
-msgstr "Solo Learner - 동메달 과제"
+msgstr "혼자 배우기 - 동메달 과제"
 
 #. Key: BadgeDefinition.SoloLearner_1.Description
 msgctxt "BadgeDefinition.SoloLearner_1.Description"
@@ -32645,7 +32645,7 @@ msgstr "다른 학생이 없는 기본 교실이나 중급 교실에서 <slink=L
 #. Key: BadgeDefinition.SoloLearner_2.DisplayName
 msgctxt "BadgeDefinition.SoloLearner_2.DisplayName"
 msgid "Solo Learner - Silver Trial"
-msgstr "Solo Learner - 은메달 과제"
+msgstr "혼자 배우기 - 은메달 과제"
 
 #. Key: BadgeDefinition.SoloLearner_2.Description
 msgctxt "BadgeDefinition.SoloLearner_2.Description"
@@ -32655,7 +32655,7 @@ msgstr "다른 학생이 없는 기본 교실이나 중급 교실에서 <slink=L
 #. Key: BadgeDefinition.SoloLearner_3_Fire.DisplayName
 msgctxt "BadgeDefinition.SoloLearner_3_Fire.DisplayName"
 msgid "Solo Learner (Fire) - Gold Trial"
-msgstr "Solo Learner (Fire) - 금메달 과제"
+msgstr "혼자 배우기 (불꽃) - 금메달 과제"
 
 #. Key: BadgeDefinition.SoloLearner_3_Fire.Description
 msgctxt "BadgeDefinition.SoloLearner_3_Fire.Description"
@@ -32665,7 +32665,7 @@ msgstr "다른 학생이 없는 고급 교실이나 화염술사의 염옥에서
 #. Key: BadgeDefinition.SoloLearner_4_Fire.DisplayName
 msgctxt "BadgeDefinition.SoloLearner_4_Fire.DisplayName"
 msgid "Solo Learner (Fire) - Platinum Trial"
-msgstr "Solo Learner (Fire) - 플래티넘 메달 과제"
+msgstr "혼자 배우기 (불꽃) - 플래티넘 메달 과제"
 
 #. Key: BadgeDefinition.SoloLearner_4_Fire.Description
 msgctxt "BadgeDefinition.SoloLearner_4_Fire.Description"
@@ -32675,7 +32675,7 @@ msgstr "다른 학생이 없는 화염술사의 염옥에서 <slink=FireClassSta
 #. Key: BadgeDefinition.SoloLearner_3_Water.DisplayName
 msgctxt "BadgeDefinition.SoloLearner_3_Water.DisplayName"
 msgid "Solo Learner (Water) - Gold Trial"
-msgstr "Solo Learner (Water) - 금메달 과제"
+msgstr "혼자 배우기 (물) - 금메달 과제"
 
 #. Key: BadgeDefinition.SoloLearner_3_Water.Description
 msgctxt "BadgeDefinition.SoloLearner_3_Water.Description"
@@ -32685,7 +32685,7 @@ msgstr "다른 학생이 없는 고급 교실이나 유체 실험실에서 <slin
 #. Key: BadgeDefinition.SoloLearner_4_Water.DisplayName
 msgctxt "BadgeDefinition.SoloLearner_4_Water.DisplayName"
 msgid "Solo Learner (Water) - Platinum Trial"
-msgstr "Solo Learner (Water) - 플래티넘 메달 과제"
+msgstr "혼자 배우기 (물) - 플래티넘 메달 과제"
 
 #. Key: BadgeDefinition.SoloLearner_4_Water.Description
 msgctxt "BadgeDefinition.SoloLearner_4_Water.Description"
@@ -32695,7 +32695,7 @@ msgstr "다른 학생이 없는 유체 실험실에서 <slink=WaterClassStation>
 #. Key: BadgeDefinition.SoloLearner_3_Earth.DisplayName
 msgctxt "BadgeDefinition.SoloLearner_3_Earth.DisplayName"
 msgid "Solo Learner (Earth) - Gold Trial"
-msgstr "Solo Learner (Earth) - 금메달 과제"
+msgstr "혼자 배우기 (대지) - 금메달 과제"
 
 #. Key: BadgeDefinition.SoloLearner_3_Earth.Description
 msgctxt "BadgeDefinition.SoloLearner_3_Earth.Description"
@@ -32705,7 +32705,7 @@ msgstr "다른 학생이 없는 고급 교실이나 대지술사의 회관에서
 #. Key: BadgeDefinition.SoloLearner_4_Earth.DisplayName
 msgctxt "BadgeDefinition.SoloLearner_4_Earth.DisplayName"
 msgid "Solo Learner (Earth) - Platinum Trial"
-msgstr "Solo Learner (Earth) - 플래티넘 메달 과제"
+msgstr "혼자 배우기 (대지) - 플래티넘 메달 과제"
 
 #. Key: BadgeDefinition.SoloLearner_4_Earth.Description
 msgctxt "BadgeDefinition.SoloLearner_4_Earth.Description"
@@ -32715,7 +32715,7 @@ msgstr "다른 학생이 없는 대지술사의 회관에서 <slink=GeomancyClas
 #. Key: BadgeDefinition.SoloLearner_3_Air.DisplayName
 msgctxt "BadgeDefinition.SoloLearner_3_Air.DisplayName"
 msgid "Solo Learner (Air) - Gold Trial"
-msgstr "Solo Learner (Air) - 금메달 과제"
+msgstr "혼자 배우기 (바람) - 금메달 과제"
 
 #. Key: BadgeDefinition.SoloLearner_3_Air.Description
 msgctxt "BadgeDefinition.SoloLearner_3_Air.Description"
@@ -32725,7 +32725,7 @@ msgstr "다른 학생이 없는 고급 교실이나 폭풍의 첨탑에서 <slin
 #. Key: BadgeDefinition.SoloLearner_4_Air.DisplayName
 msgctxt "BadgeDefinition.SoloLearner_4_Air.DisplayName"
 msgid "Solo Learner (Air) - Platinum Trial"
-msgstr "Solo Learner (Air) - 플래티넘 메달 과제"
+msgstr "혼자 배우기 (바람) - 플래티넘 메달 과제"
 
 #. Key: BadgeDefinition.SoloLearner_4_Air.Description
 msgctxt "BadgeDefinition.SoloLearner_4_Air.Description"
@@ -32735,7 +32735,7 @@ msgstr "다른 학생이 없는 폭풍의 첨탑에서 <slink=ManipulationClassS
 #. Key: BadgeDefinition.SoloLearner_3_Nature.DisplayName
 msgctxt "BadgeDefinition.SoloLearner_3_Nature.DisplayName"
 msgid "Solo Learner (Nature) - Gold Trial"
-msgstr "Solo Learner (Nature) - 금메달 과제"
+msgstr "혼자 배우기 (자연) - 금메달 과제"
 
 #. Key: BadgeDefinition.SoloLearner_3_Nature.Description
 msgctxt "BadgeDefinition.SoloLearner_3_Nature.Description"
@@ -32745,7 +32745,7 @@ msgstr "다른 학생이 없는 고급 교실이나 수목원에서 <slink=Vitur
 #. Key: BadgeDefinition.SoloLearner_4_Nature.DisplayName
 msgctxt "BadgeDefinition.SoloLearner_4_Nature.DisplayName"
 msgid "Solo Learner (Nature) - Platinum Trial"
-msgstr "Solo Learner (Nature) - 플래티넘 메달 과제"
+msgstr "혼자 배우기 (자연) - 플래티넘 메달 과제"
 
 #. Key: BadgeDefinition.SoloLearner_4_Nature.Description
 msgctxt "BadgeDefinition.SoloLearner_4_Nature.Description"
@@ -32755,207 +32755,207 @@ msgstr "다른 학생이 없는 수목원에서 <slink=ViturgyClassStation>에 �
 #. Key: BadgeDefinition.SoloLearner_3_Dark.DisplayName
 msgctxt "BadgeDefinition.SoloLearner_3_Dark.DisplayName"
 msgid "Solo Learner (Dark) - Gold Trial"
-msgstr "Solo Learner (Dark) - 금메달 과제"
+msgstr "혼자 배우기 (어둠) - 금메달 과제"
 
 #. Key: BadgeDefinition.SoloLearner_3_Dark.Description
 msgctxt "BadgeDefinition.SoloLearner_3_Dark.Description"
 msgid "Cast at a <slink=MortemClassStation> 75 times in an Advanced Classroom or Lair of Dark Arts with no other Students present."
-msgstr ""
+msgstr "다른 학생이 없는 고급 교실이나 어둠 마법사의 은신처에서 <slink=MortemClassStation>에 마법을 75번 시전하세요."
 
 #. Key: BadgeDefinition.SoloLearner_4_Dark.DisplayName
 msgctxt "BadgeDefinition.SoloLearner_4_Dark.DisplayName"
 msgid "Solo Learner (Dark) - Platinum Trial"
-msgstr "Solo Learner (Dark) - 플래티넘 메달 과제"
+msgstr "혼자 배우기 (어둠) - 플래티넘 메달 과제"
 
 #. Key: BadgeDefinition.SoloLearner_4_Dark.Description
 msgctxt "BadgeDefinition.SoloLearner_4_Dark.Description"
 msgid "Cast at a <slink=MortemClassStation> 100 times in a Lair of Dark Arts with no other Students present."
-msgstr ""
+msgstr "다른 학생이 없는 어둠 마법사의 은신처에서 <slink=MortemClassStation>에 마법을 100번 시전하세요."
 
 #. Key: BadgeDefinition.SoloLearner_3_Lightning.DisplayName
 msgctxt "BadgeDefinition.SoloLearner_3_Lightning.DisplayName"
 msgid "Solo Learner (Lightning) - Gold Trial"
-msgstr "Solo Learner (Lightning) - 금메달 과제"
+msgstr "혼자 배우기 (번개) - 금메달 과제"
 
 #. Key: BadgeDefinition.SoloLearner_3_Lightning.Description
 msgctxt "BadgeDefinition.SoloLearner_3_Lightning.Description"
 msgid "Cast at a <slink=DivinationClassStation> 75 times in an Advanced Classroom or Lightning Observatory with no other Students present."
-msgstr ""
+msgstr "다른 학생이 없는 고급 교실이나 폭풍의 첨탑에서 <slink=DivinationClassStation>에 마법을 75번 시전하세요."
 
 #. Key: BadgeDefinition.SoloLearner_4_Lightning.DisplayName
 msgctxt "BadgeDefinition.SoloLearner_4_Lightning.DisplayName"
 msgid "Solo Learner (Lightning) - Platinum Trial"
-msgstr "Solo Learner (Lightning) - 플래티넘 메달 과제"
+msgstr "혼자 배우기 (번개) - 플래티넘 메달 과제"
 
 #. Key: BadgeDefinition.SoloLearner_4_Lightning.Description
 msgctxt "BadgeDefinition.SoloLearner_4_Lightning.Description"
 msgid "Cast at a <slink=DivinationClassStation> 100 times in a Lightning Observatory with no other Students present."
-msgstr ""
+msgstr "다른 학생이 없는 폭풍의 첨탑에서 <slink=DivinationClassStation>에 마법을 100번 시전하세요."
 
 #. Key: BadgeDefinition.BlissfulLearner_1.DisplayName
 msgctxt "BadgeDefinition.BlissfulLearner_1.DisplayName"
 msgid "Blissful Learner - Bronze Trial"
-msgstr "Blissful Learner - 동메달 과제"
+msgstr "행복하게 배우기 - 동메달 과제"
 
 #. Key: BadgeDefinition.BlissfulLearner_1.Description
 msgctxt "BadgeDefinition.BlissfulLearner_1.Description"
 msgid "Cast at a <slink=LearningClassStationBasic> 25 times in a Basic or Intermediate Classroom while at or above 75 <slink=Mood>."
-msgstr ""
+msgstr "<slink=Mood>가 75 이상일 때 기본 교실이나 중급 교실에서 <slink=LearningClassStationBasic>에 마법을 25번 시전하세요."
 
 #. Key: BadgeDefinition.BlissfulLearner_2.DisplayName
 msgctxt "BadgeDefinition.BlissfulLearner_2.DisplayName"
 msgid "Blissful Learner - Silver Trial"
-msgstr "Blissful Learner - 은메달 과제"
+msgstr "행복하게 배우기 - 은메달 과제"
 
 #. Key: BadgeDefinition.BlissfulLearner_2.Description
 msgctxt "BadgeDefinition.BlissfulLearner_2.Description"
 msgid "Cast at a <slink=LearningClassStationBasic> 50 times in an Intermediate Classroom while at or above 75 <slink=Mood>."
-msgstr ""
+msgstr "<slink=Mood>가 75 이상일 때 중급 교실에서 <slink=LearningClassStationBasic>에 마법을 50번 시전하세요."
 
 #. Key: BadgeDefinition.BlissfulLearner_3_Fire.DisplayName
 msgctxt "BadgeDefinition.BlissfulLearner_3_Fire.DisplayName"
 msgid "Blissful Learner (Fire) - Gold Trial"
-msgstr "Blissful Learner (Fire) - 금메달 과제"
+msgstr "행복하게 배우기 (불) - 금메달 과제"
 
 #. Key: BadgeDefinition.BlissfulLearner_3_Fire.Description
 msgctxt "BadgeDefinition.BlissfulLearner_3_Fire.Description"
 msgid "Cast at a <slink=FireClassStation> 75 times in an Advanced Classroom or Pyromancer's Infernum while at or above 75 <slink=Mood>."
-msgstr ""
+msgstr "<slink=Mood>가 75 이상일 때 고급 교실이나 화염술사의 염옥에서 <slink=FireClassStation>에 마법을 75번 시전하세요."
 
 #. Key: BadgeDefinition.BlissfulLearner_4_Fire.DisplayName
 msgctxt "BadgeDefinition.BlissfulLearner_4_Fire.DisplayName"
 msgid "Blissful Learner (Fire) - Platinum Trial"
-msgstr "Blissful Learner (Fire) - 플래티넘 메달 과제"
+msgstr "행복하게 배우기 (불) - 플래티넘 메달 과제"
 
 #. Key: BadgeDefinition.BlissfulLearner_4_Fire.Description
 msgctxt "BadgeDefinition.BlissfulLearner_4_Fire.Description"
 msgid "Cast at a <slink=FireClassStation> 100 times in a Pyromancer's Infernum while at or above 75 <slink=Mood>."
-msgstr ""
+msgstr "<slink=Mood>가 75 이상일 때 화염술사의 염옥에서 <slink=FireClassStation>에 마법을 100번 시전하세요."
 
 #. Key: BadgeDefinition.BlissfulLearner_3_Water.DisplayName
 msgctxt "BadgeDefinition.BlissfulLearner_3_Water.DisplayName"
 msgid "Blissful Learner (Water) - Gold Trial"
-msgstr "Blissful Learner (Water) - 금메달 과제"
+msgstr "행복하게 배우기 (물) - 금메달 과제"
 
 #. Key: BadgeDefinition.BlissfulLearner_3_Water.Description
 msgctxt "BadgeDefinition.BlissfulLearner_3_Water.Description"
 msgid "Cast at a <slink=WaterClassStation> 75 times in an Advanced Classroom or Hydrolaboratory while at or above 75 <slink=Mood>."
-msgstr ""
+msgstr "<slink=Mood>가 75 이상일 때 고급 교실이나 유체 실험실에서 <slink=WaterClassStation>에 마법을 75번 시전하세요."
 
 #. Key: BadgeDefinition.BlissfulLearner_4_Water.DisplayName
 msgctxt "BadgeDefinition.BlissfulLearner_4_Water.DisplayName"
 msgid "Blissful Learner (Water) - Platinum Trial"
-msgstr "Blissful Learner (Water) - 플래티넘 메달 과제"
+msgstr "행복하게 배우기 (물) - 플래티넘 메달 과제"
 
 #. Key: BadgeDefinition.BlissfulLearner_4_Water.Description
 msgctxt "BadgeDefinition.BlissfulLearner_4_Water.Description"
 msgid "Cast at a <slink=WaterClassStation> 100 times in a Hydrolaboratory while at or above 75 <slink=Mood>."
-msgstr ""
+msgstr "<slink=Mood>가 75 이상일 때 유체 실험실에서 <slink=WaterClassStation>에 마법을 100번 시전하세요."
 
 #. Key: BadgeDefinition.BlissfulLearner_3_Earth.DisplayName
 msgctxt "BadgeDefinition.BlissfulLearner_3_Earth.DisplayName"
 msgid "Blissful Learner (Earth) - Gold Trial"
-msgstr "Blissful Learner (Earth) - 금메달 과제"
+msgstr "행복하게 배우기 (대지) - 금메달 과제"
 
 #. Key: BadgeDefinition.BlissfulLearner_3_Earth.Description
 msgctxt "BadgeDefinition.BlissfulLearner_3_Earth.Description"
 msgid "Cast at a <slink=GeomancyClassStation> 75 times in an Advanced Classroom or Geomancer's Hall while at or above 75 <slink=Mood>."
-msgstr ""
+msgstr "<slink=Mood>가 75 이상일 때 고급 교실이나 대지술사의 회관에서 <slink=GeomancyClassStation>에 마법을 75번 시전하세요."
 
 #. Key: BadgeDefinition.BlissfulLearner_4_Earth.DisplayName
 msgctxt "BadgeDefinition.BlissfulLearner_4_Earth.DisplayName"
 msgid "Blissful Learner (Earth) - Platinum Trial"
-msgstr "Blissful Learner (Earth) - 플래티넘 메달 과제"
+msgstr "행복하게 배우기 (대지) - 플래티넘 메달 과제"
 
 #. Key: BadgeDefinition.BlissfulLearner_4_Earth.Description
 msgctxt "BadgeDefinition.BlissfulLearner_4_Earth.Description"
 msgid "Cast at a <slink=GeomancyClassStation> 100 times in a Geomancer's Hall while at or above 75 <slink=Mood>."
-msgstr ""
+msgstr "<slink=Mood>가 75 이상일 때 대지술사의 회관에서 <slink=GeomancyClassStation>에 마법을 100번 시전하세요."
 
 #. Key: BadgeDefinition.BlissfulLearner_3_Air.DisplayName
 msgctxt "BadgeDefinition.BlissfulLearner_3_Air.DisplayName"
 msgid "Blissful Learner (Air) - Gold Trial"
-msgstr "Blissful Learner (Air) - 금메달 과제"
+msgstr "행복하게 배우기 (바람) - 금메달 과제"
 
 #. Key: BadgeDefinition.BlissfulLearner_3_Air.Description
 msgctxt "BadgeDefinition.BlissfulLearner_3_Air.Description"
 msgid "Cast at a <slink=ManipulationClassStation> 75 times in an Advanced Classroom or Windy Pinnacle while at or above 75 <slink=Mood>."
-msgstr ""
+msgstr "<slink=Mood>가 75 이상일 때 고급 교실이나 폭풍의 첨탑에서 <slink=ManipulationClassStation>에 마법을 75번 시전하세요."
 
 #. Key: BadgeDefinition.BlissfulLearner_4_Air.DisplayName
 msgctxt "BadgeDefinition.BlissfulLearner_4_Air.DisplayName"
 msgid "Blissful Learner (Air) - Platinum Trial"
-msgstr "Blissful Learner (Air) - 플래티넘 메달 과제"
+msgstr "행복하게 배우기 (바람) - 플래티넘 메달 과제"
 
 #. Key: BadgeDefinition.BlissfulLearner_4_Air.Description
 msgctxt "BadgeDefinition.BlissfulLearner_4_Air.Description"
 msgid "Cast at a <slink=ManipulationClassStation> 100 times in a Windy Pinnacle while at or above 75 <slink=Mood>."
-msgstr ""
+msgstr "<slink=Mood>가 75 이상일 때 폭풍의 첨탑에서 <slink=ManipulationClassStation>에 마법을 100번 시전하세요."
 
 #. Key: BadgeDefinition.BlissfulLearner_3_Nature.DisplayName
 msgctxt "BadgeDefinition.BlissfulLearner_3_Nature.DisplayName"
 msgid "Blissful Learner (Nature) - Gold Trial"
-msgstr "Blissful Learner (Nature) - 금메달 과제"
+msgstr "행복하게 배우기 (자연) - 금메달 과제"
 
 #. Key: BadgeDefinition.BlissfulLearner_3_Nature.Description
 msgctxt "BadgeDefinition.BlissfulLearner_3_Nature.Description"
 msgid "Cast at a <slink=ViturgyClassStation> 75 times in an Advanced Classroom or Arboretum while at or above 75 <slink=Mood>."
-msgstr ""
+msgstr "<slink=Mood>가 75 이상일 때 고급 교실이나 수목원에서 <slink=ViturgyClassStation>에 마법을 75번 시전하세요."
 
 #. Key: BadgeDefinition.BlissfulLearner_4_Nature.DisplayName
 msgctxt "BadgeDefinition.BlissfulLearner_4_Nature.DisplayName"
 msgid "Blissful Learner (Nature) - Platinum Trial"
-msgstr "Blissful Learner (Nature) - 플래티넘 메달 과제"
+msgstr "행복하게 배우기 (자연) - 플래티넘 메달 과제"
 
 #. Key: BadgeDefinition.BlissfulLearner_4_Nature.Description
 msgctxt "BadgeDefinition.BlissfulLearner_4_Nature.Description"
 msgid "Cast at a <slink=ViturgyClassStation> 100 times in an Arboretum while at or above 75 <slink=Mood>."
-msgstr ""
+msgstr "<slink=Mood>가 75 이상일 때 수목원에서 <slink=ViturgyClassStation>에 마법을 100번 시전하세요."
 
 #. Key: BadgeDefinition.BlissfulLearner_3_Dark.DisplayName
 msgctxt "BadgeDefinition.BlissfulLearner_3_Dark.DisplayName"
 msgid "Blissful Learner (Dark) - Gold Trial"
-msgstr "Blissful Learner (Dark) - 금메달 과제"
+msgstr "행복하게 배우기 (어둠) - 금메달 과제"
 
 #. Key: BadgeDefinition.BlissfulLearner_3_Dark.Description
 msgctxt "BadgeDefinition.BlissfulLearner_3_Dark.Description"
 msgid "Cast at a <slink=MortemClassStation> 75 times in an Advanced Classroom or Lair of Dark Arts while at or above 75 <slink=Mood>."
-msgstr ""
+msgstr "<slink=Mood>가 75 이상일 때 고급 교실이나 어둠 마법사의 은신처에서 <slink=MortemClassStation>에 마법을 75번 시전하세요."
 
 #. Key: BadgeDefinition.BlissfulLearner_4_Dark.DisplayName
 msgctxt "BadgeDefinition.BlissfulLearner_4_Dark.DisplayName"
 msgid "Blissful Learner (Dark) - Platinum Trial"
-msgstr "Blissful Learner (Dark) - 플래티넘 메달 과제"
+msgstr "행복하게 배우기 (어둠) - 플래티넘 메달 과제"
 
 #. Key: BadgeDefinition.BlissfulLearner_4_Dark.Description
 msgctxt "BadgeDefinition.BlissfulLearner_4_Dark.Description"
 msgid "Cast at a <slink=MortemClassStation> 100 times in a Lair of Dark Arts while at or above 75 <slink=Mood>."
-msgstr ""
+msgstr "<slink=Mood>가 75 이상일 때 어둠 마법사의 은신처에서 <slink=MortemClassStation>에 마법을 100번 시전하세요."
 
 #. Key: BadgeDefinition.BlissfulLearner_3_Lightning.DisplayName
 msgctxt "BadgeDefinition.BlissfulLearner_3_Lightning.DisplayName"
 msgid "Blissful Learner (Lightning) - Gold Trial"
-msgstr "Blissful Learner (Lightning) - 금메달 과제"
+msgstr "행복하게 배우기 (번개) - 금메달 과제"
 
 #. Key: BadgeDefinition.BlissfulLearner_3_Lightning.Description
 msgctxt "BadgeDefinition.BlissfulLearner_3_Lightning.Description"
 msgid "Cast at a <slink=DivinationClassStation> 75 times in an Advanced Classroom or Lightning Observatory while at or above 75 <slink=Mood>."
-msgstr ""
+msgstr "<slink=Mood>가 75 이상일 때 고급 교실이나 폭풍의 첨탑에서 <slink=DivinationClassStation>에 마법을 75번 시전하세요."
 
 #. Key: BadgeDefinition.BlissfulLearner_4_Lightning.DisplayName
 msgctxt "BadgeDefinition.BlissfulLearner_4_Lightning.DisplayName"
 msgid "Blissful Learner (Lightning) - Platinum Trial"
-msgstr "Blissful Learner (Lightning) - 플래티넘 메달 과제"
+msgstr "행복하게 배우기 (번개) - 플래티넘 메달 과제"
 
 #. Key: BadgeDefinition.BlissfulLearner_4_Lightning.Description
 msgctxt "BadgeDefinition.BlissfulLearner_4_Lightning.Description"
 msgid "Cast at a <slink=DivinationClassStation> 100 times in a Lightning Observatory while at or above 75 <slink=Mood>."
-msgstr ""
+msgstr "<slink=Mood>가 75 이상일 때 폭풍의 첨탑에서 <slink=DivinationClassStation>에 마법을 100번 시전하세요."
 
 #. Key: BadgeDefinition.EagerToLearn_1.DisplayName
 msgctxt "BadgeDefinition.EagerToLearn_1.DisplayName"
 msgid "Eager To Learn - Bronze Trial"
-msgstr "Eager To Learn - 동메달 과제"
+msgstr "열심히 배우기 - 동메달 과제"
 
 #. Key: BadgeDefinition.EagerToLearn_1.Description
 msgctxt "BadgeDefinition.EagerToLearn_1.Description"
@@ -32965,7 +32965,7 @@ msgstr "기본 교실이나 중급 교실에서 <slink=LearningClassStationBasic
 #. Key: BadgeDefinition.EagerToLearn_2.DisplayName
 msgctxt "BadgeDefinition.EagerToLearn_2.DisplayName"
 msgid "Eager To Learn - Silver Trial"
-msgstr "Eager To Learn - 은메달 과제"
+msgstr "열심히 배우기 - 은메달 과제"
 
 #. Key: BadgeDefinition.EagerToLearn_2.Description
 msgctxt "BadgeDefinition.EagerToLearn_2.Description"
@@ -32975,7 +32975,7 @@ msgstr "중급 교실에서 <slink=LearningClassStationBasic>에 마법을 75번
 #. Key: BadgeDefinition.AnticipationLearn_1.DisplayName
 msgctxt "BadgeDefinition.AnticipationLearn_1.DisplayName"
 msgid "Anticipatory Learning - Bronze Trial"
-msgstr "Anticipatory Learning - 동메달 과제"
+msgstr "끈질기게 배우기 - 동메달 과제"
 
 #. Key: BadgeDefinition.AnticipationLearn_1.Description
 msgctxt "BadgeDefinition.AnticipationLearn_1.Description"
@@ -32985,7 +32985,7 @@ msgstr "<slink=Anticipation> 상태에서 기본 교실이나 중급 교실에�
 #. Key: BadgeDefinition.AnticipationLearn_2.DisplayName
 msgctxt "BadgeDefinition.AnticipationLearn_2.DisplayName"
 msgid "Anticipatory Learning - Silver Trial"
-msgstr "Anticipatory Learning - 은메달 과제"
+msgstr "끈질기게 배우기 - 은메달 과제"
 
 #. Key: BadgeDefinition.AnticipationLearn_2.Description
 msgctxt "BadgeDefinition.AnticipationLearn_2.Description"
@@ -32995,7 +32995,7 @@ msgstr "<slink=Anticipation> 상태에서 중급 교실에서 <slink=LearningCla
 #. Key: BadgeDefinition.FullLearn_1.DisplayName
 msgctxt "BadgeDefinition.FullLearn_1.DisplayName"
 msgid "Full Learning - Bronze Trial"
-msgstr "Full Learning - 동메달 과제"
+msgstr "배부른 학생 - 동메달 과제"
 
 #. Key: BadgeDefinition.FullLearn_1.Description
 msgctxt "BadgeDefinition.FullLearn_1.Description"
@@ -33005,7 +33005,7 @@ msgstr "<slink=Full> 상태에서 기본 교실이나 중급 교실에서 <slink
 #. Key: BadgeDefinition.FullLearn_2.DisplayName
 msgctxt "BadgeDefinition.FullLearn_2.DisplayName"
 msgid "Full Learning - Silver Trial"
-msgstr "Full Learning - 은메달 과제"
+msgstr "배부른 학생 - 은메달 과제"
 
 #. Key: BadgeDefinition.FullLearn_2.Description
 msgctxt "BadgeDefinition.FullLearn_2.Description"
@@ -33015,7 +33015,7 @@ msgstr "<slink=Full> 상태에서 중급 교실에서 <slink=LearningClassStatio
 #. Key: BadgeDefinition.RestedLearn_1.DisplayName
 msgctxt "BadgeDefinition.RestedLearn_1.DisplayName"
 msgid "Rested Learning - Bronze Trial"
-msgstr "Rested Learning - 동메달 과제"
+msgstr "개운한 학습 - 동메달 과제"
 
 #. Key: BadgeDefinition.RestedLearn_1.Description
 msgctxt "BadgeDefinition.RestedLearn_1.Description"
@@ -33025,7 +33025,7 @@ msgstr "<slink=Rested> 상태에서 기본 교실이나 중급 교실에서 <sli
 #. Key: BadgeDefinition.RestedLearn_2.DisplayName
 msgctxt "BadgeDefinition.RestedLearn_2.DisplayName"
 msgid "Rested Learning - Silver Trial"
-msgstr "Rested Learning - 은메달 과제"
+msgstr "개운한 학습 - 은메달 과제"
 
 #. Key: BadgeDefinition.RestedLearn_2.Description
 msgctxt "BadgeDefinition.RestedLearn_2.Description"
@@ -33035,7 +33035,7 @@ msgstr "<slink=Rested> 상태에서 중급 교실에서 <slink=LearningClassStat
 #. Key: BadgeDefinition.RitualParticipant_2a.DisplayName
 msgctxt "BadgeDefinition.RitualParticipant_2a.DisplayName"
 msgid "Ritual Participant - Silver Trial"
-msgstr "Ritual Participant - 은메달 과제"
+msgstr "의식 참여하기 - 은메달 과제"
 
 #. Key: BadgeDefinition.RitualParticipant_2a.Description
 msgctxt "BadgeDefinition.RitualParticipant_2a.Description"
@@ -33045,7 +33045,7 @@ msgstr "의식에 2번 참여하세요."
 #. Key: BadgeDefinition.BossSoloist_2.DisplayName
 msgctxt "BadgeDefinition.BossSoloist_2.DisplayName"
 msgid "Boss Soloist - Silver Trial"
-msgstr "Boss Soloist - 은메달 과제"
+msgstr "혼자 보스 잡기 - 은메달 과제"
 
 #. Key: BadgeDefinition.BossSoloist_2.Description
 msgctxt "BadgeDefinition.BossSoloist_2.Description"
@@ -33055,7 +33055,7 @@ msgstr "<slink=Psycrow>를 혼자 물리치세요."
 #. Key: BadgeDefinition.Conqueror_1.DisplayName
 msgctxt "BadgeDefinition.Conqueror_1.DisplayName"
 msgid "Conqueror - Bronze Trial"
-msgstr "Conqueror - 동메달 과제"
+msgstr "정복자 - 동메달 과제"
 
 #. Key: BadgeDefinition.Conqueror_1.Description
 msgctxt "BadgeDefinition.Conqueror_1.Description"
@@ -33065,7 +33065,7 @@ msgstr "<slink=Psycrow>를 물리치세요."
 #. Key: BadgeDefinition.EnemySoloist_1.DisplayName
 msgctxt "BadgeDefinition.EnemySoloist_1.DisplayName"
 msgid "Enemy Soloist - Bronze Trial"
-msgstr "Enemy Soloist - 동메달 과제"
+msgstr "나 홀로 전투 - 동메달 과제"
 
 #. Key: BadgeDefinition.EnemySoloist_1.Description
 msgctxt "BadgeDefinition.EnemySoloist_1.Description"
@@ -33075,7 +33075,7 @@ msgstr "해골 1개 이상의 적을 혼자 물리치세요."
 #. Key: BadgeDefinition.EnemySoloist_2.DisplayName
 msgctxt "BadgeDefinition.EnemySoloist_2.DisplayName"
 msgid "Enemy Soloist - Silver Trial"
-msgstr "Enemy Soloist - 은메달 과제"
+msgstr "나 홀로 전투 - 은메달 과제"
 
 #. Key: BadgeDefinition.EnemySoloist_2.Description
 msgctxt "BadgeDefinition.EnemySoloist_2.Description"
@@ -33085,7 +33085,7 @@ msgstr "해골 2개 이상의 적을 혼자 물리치세요."
 #. Key: BadgeDefinition.EnemySoloist_3.DisplayName
 msgctxt "BadgeDefinition.EnemySoloist_3.DisplayName"
 msgid "Enemy Soloist - Gold Trial"
-msgstr "Enemy Soloist - 금메달 과제"
+msgstr "나 홀로 전투 - 금메달 과제"
 
 #. Key: BadgeDefinition.EnemySoloist_3.Description
 msgctxt "BadgeDefinition.EnemySoloist_3.Description"
@@ -33095,7 +33095,7 @@ msgstr "해골 3개 이상의 적을 혼자 물리치세요."
 #. Key: BadgeDefinition.EnemySoloist_4.DisplayName
 msgctxt "BadgeDefinition.EnemySoloist_4.DisplayName"
 msgid "Enemy Soloist - Platinum Trial"
-msgstr "Enemy Soloist - 플래티넘 메달 과제"
+msgstr "나 홀로 전투 - 플래티넘 메달 과제"
 
 #. Key: BadgeDefinition.EnemySoloist_4.Description
 msgctxt "BadgeDefinition.EnemySoloist_4.Description"
@@ -33105,7 +33105,7 @@ msgstr "해골 4개 이상의 적을 혼자 물리치세요."
 #. Key: BadgeDefinition.DefensiveDuelist_1.DisplayName
 msgctxt "BadgeDefinition.DefensiveDuelist_1.DisplayName"
 msgid "Defensive Duelist - Bronze Trial"
-msgstr "Defensive Duelist - 동메달 과제"
+msgstr "최고의 방어 - 동메달 과제"
 
 #. Key: BadgeDefinition.DefensiveDuelist_1.Description
 msgctxt "BadgeDefinition.DefensiveDuelist_1.Description"
@@ -33115,7 +33115,7 @@ msgstr "아군이 <slink=Unconscious> 상태가 되지 않고 해골 1개 이상
 #. Key: BadgeDefinition.DefensiveDuelist_2.DisplayName
 msgctxt "BadgeDefinition.DefensiveDuelist_2.DisplayName"
 msgid "Defensive Duelist - Silver Trial"
-msgstr "Defensive Duelist - 은메달 과제"
+msgstr "최고의 방어 - 은메달 과제"
 
 #. Key: BadgeDefinition.DefensiveDuelist_2.Description
 msgctxt "BadgeDefinition.DefensiveDuelist_2.Description"
@@ -33125,7 +33125,7 @@ msgstr "아군이 <slink=Unconscious> 상태가 되지 않고 해골 2개 이상
 #. Key: BadgeDefinition.DefensiveDuelist_3.DisplayName
 msgctxt "BadgeDefinition.DefensiveDuelist_3.DisplayName"
 msgid "Defensive Duelist - Gold Trial"
-msgstr "Defensive Duelist - 금메달 과제"
+msgstr "최고의 방어 - 금메달 과제"
 
 #. Key: BadgeDefinition.DefensiveDuelist_3.Description
 msgctxt "BadgeDefinition.DefensiveDuelist_3.Description"
@@ -33135,7 +33135,7 @@ msgstr "아군이 <slink=Unconscious> 상태가 되지 않고 해골 3개 이상
 #. Key: BadgeDefinition.DefensiveDuelist_4.DisplayName
 msgctxt "BadgeDefinition.DefensiveDuelist_4.DisplayName"
 msgid "Defensive Duelist - Platinum Trial"
-msgstr "Defensive Duelist - 플래티넘 메달 과제"
+msgstr "최고의 방어 - 플래티넘 메달 과제"
 
 #. Key: BadgeDefinition.DefensiveDuelist_4.Description
 msgctxt "BadgeDefinition.DefensiveDuelist_4.Description"
@@ -33145,7 +33145,7 @@ msgstr "아군이 <slink=Unconscious> 상태가 되지 않고 해골 4개 이상
 #. Key: BadgeDefinition.PotionPurist_1.DisplayName
 msgctxt "BadgeDefinition.PotionPurist_1.DisplayName"
 msgid "Potion Purist - Bronze Trial"
-msgstr "Potion Purist - 동메달 과제"
+msgstr "도핑 금지 - 동메달 과제"
 
 #. Key: BadgeDefinition.PotionPurist_1.Description
 msgctxt "BadgeDefinition.PotionPurist_1.Description"
@@ -33155,7 +33155,7 @@ msgstr "물약을 사용하지 않고 해골 1개 이상의 전투에서 2번 �
 #. Key: BadgeDefinition.PotionPurist_2.DisplayName
 msgctxt "BadgeDefinition.PotionPurist_2.DisplayName"
 msgid "Potion Purist - Silver Trial"
-msgstr "Potion Purist - 은메달 과제"
+msgstr "도핑 금지 - 은메달 과제"
 
 #. Key: BadgeDefinition.PotionPurist_2.Description
 msgctxt "BadgeDefinition.PotionPurist_2.Description"
@@ -33165,7 +33165,7 @@ msgstr "물약을 사용하지 않고 해골 2개 이상의 전투에서 2번 �
 #. Key: BadgeDefinition.PotionPurist_3.DisplayName
 msgctxt "BadgeDefinition.PotionPurist_3.DisplayName"
 msgid "Potion Purist - Gold Trial"
-msgstr "Potion Purist - 금메달 과제"
+msgstr "도핑 금지 - 금메달 과제"
 
 #. Key: BadgeDefinition.PotionPurist_3.Description
 msgctxt "BadgeDefinition.PotionPurist_3.Description"
@@ -33175,7 +33175,7 @@ msgstr "물약을 사용하지 않고 해골 3개 이상의 전투에서 2번 �
 #. Key: BadgeDefinition.PotionPurist_4.DisplayName
 msgctxt "BadgeDefinition.PotionPurist_4.DisplayName"
 msgid "Potion Purist - Platinum Trial"
-msgstr "Potion Purist - 플래티넘 메달 과제"
+msgstr "도핑 금지 - 플래티넘 메달 과제"
 
 #. Key: BadgeDefinition.PotionPurist_4.Description
 msgctxt "BadgeDefinition.PotionPurist_4.Description"
@@ -33185,7 +33185,7 @@ msgstr "물약을 사용하지 않고 해골 4개 이상의 전투에서 2번 �
 #. Key: BadgeDefinition.Champion_1.DisplayName
 msgctxt "BadgeDefinition.Champion_1.DisplayName"
 msgid "Champion - Bronze Trial"
-msgstr "Champion - 동메달 과제"
+msgstr "챔피언 - 동메달 과제"
 
 #. Key: BadgeDefinition.Champion_1.Description
 msgctxt "BadgeDefinition.Champion_1.Description"
@@ -33195,7 +33195,7 @@ msgstr "해골 1개 이상의 전투에서 3번 승리하세요."
 #. Key: BadgeDefinition.Champion_2.DisplayName
 msgctxt "BadgeDefinition.Champion_2.DisplayName"
 msgid "Champion - Silver Trial"
-msgstr "Champion - 은메달 과제"
+msgstr "챔피언 - 은메달 과제"
 
 #. Key: BadgeDefinition.Champion_2.Description
 msgctxt "BadgeDefinition.Champion_2.Description"
@@ -33205,7 +33205,7 @@ msgstr "해골 2개 이상의 전투에서 3번 승리하세요."
 #. Key: BadgeDefinition.Champion_3.DisplayName
 msgctxt "BadgeDefinition.Champion_3.DisplayName"
 msgid "Champion - Gold Trial"
-msgstr "Champion - 금메달 과제"
+msgstr "챔피언 - 금메달 과제"
 
 #. Key: BadgeDefinition.Champion_3.Description
 msgctxt "BadgeDefinition.Champion_3.Description"
@@ -33215,7 +33215,7 @@ msgstr "해골 3개 이상의 전투에서 3번 승리하세요."
 #. Key: BadgeDefinition.Champion_4.DisplayName
 msgctxt "BadgeDefinition.Champion_4.DisplayName"
 msgid "Champion - Platinum Trial"
-msgstr "Champion - 플래티넘 메달 과제"
+msgstr "챔피언 - 플래티넘 메달 과제"
 
 #. Key: BadgeDefinition.Champion_4.Description
 msgctxt "BadgeDefinition.Champion_4.Description"
@@ -33225,7 +33225,7 @@ msgstr "해골 4개 이상의 전투에서 3번 승리하세요."
 #. Key: BadgeDefinition.Reaper_1.DisplayName
 msgctxt "BadgeDefinition.Reaper_1.DisplayName"
 msgid "Reaper - Bronze Trial"
-msgstr "Reaper - 동메달 과제"
+msgstr "사신 - 동메달 과제"
 
 #. Key: BadgeDefinition.Reaper_1.Description
 msgctxt "BadgeDefinition.Reaper_1.Description"
@@ -33235,7 +33235,7 @@ msgstr "해골 1개 이상의 전투에서 3명의 적에게 최후의 일격을
 #. Key: BadgeDefinition.Reaper_2.DisplayName
 msgctxt "BadgeDefinition.Reaper_2.DisplayName"
 msgid "Reaper - Silver Trial"
-msgstr "Reaper - 은메달 과제"
+msgstr "사신 - 은메달 과제"
 
 #. Key: BadgeDefinition.Reaper_2.Description
 msgctxt "BadgeDefinition.Reaper_2.Description"
@@ -33245,7 +33245,7 @@ msgstr "해골 2개 이상의 전투에서 3명의 적에게 최후의 일격을
 #. Key: BadgeDefinition.Reaper_3.DisplayName
 msgctxt "BadgeDefinition.Reaper_3.DisplayName"
 msgid "Reaper - Gold Trial"
-msgstr "Reaper - 금메달 과제"
+msgstr "사신 - 금메달 과제"
 
 #. Key: BadgeDefinition.Reaper_3.Description
 msgctxt "BadgeDefinition.Reaper_3.Description"
@@ -33255,7 +33255,7 @@ msgstr "해골 3개 이상의 전투에서 3명의 적에게 최후의 일격을
 #. Key: BadgeDefinition.Reaper_4.DisplayName
 msgctxt "BadgeDefinition.Reaper_4.DisplayName"
 msgid "Reaper - Platinum Trial"
-msgstr "Reaper - 플래티넘 메달 과제"
+msgstr "사신 - 플래티넘 메달 과제"
 
 #. Key: BadgeDefinition.Reaper_4.Description
 msgctxt "BadgeDefinition.Reaper_4.Description"
@@ -33265,7 +33265,7 @@ msgstr "해골 4개 이상의 전투에서 3명의 적에게 최후의 일격을
 #. Key: BadgeDefinition.BlissSeeker_1.DisplayName
 msgctxt "BadgeDefinition.BlissSeeker_1.DisplayName"
 msgid "Bliss Seeker - Bronze Trial"
-msgstr "Bliss Seeker - 동메달 과제"
+msgstr "행복을 찾아 - 동메달 과제"
 
 #. Key: BadgeDefinition.BlissSeeker_1.Description
 msgctxt "BadgeDefinition.BlissSeeker_1.Description"
@@ -33275,7 +33275,7 @@ msgstr "<slink=Mood> 70 이상을 유지하며 2일을 보내세요."
 #. Key: BadgeDefinition.BlissSeeker_2.DisplayName
 msgctxt "BadgeDefinition.BlissSeeker_2.DisplayName"
 msgid "Bliss Seeker - Silver Trial"
-msgstr "Bliss Seeker - 은메달 과제"
+msgstr "행복을 찾아 - 은메달 과제"
 
 #. Key: BadgeDefinition.BlissSeeker_2.Description
 msgctxt "BadgeDefinition.BlissSeeker_2.Description"
@@ -33285,7 +33285,7 @@ msgstr "<slink=Mood> 80 이상을 유지하며 2일을 보내세요."
 #. Key: BadgeDefinition.BlissSeeker_3.DisplayName
 msgctxt "BadgeDefinition.BlissSeeker_3.DisplayName"
 msgid "Bliss Seeker - Gold Trial"
-msgstr "Bliss Seeker - 금메달 과제"
+msgstr "행복을 찾아 - 금메달 과제"
 
 #. Key: BadgeDefinition.BlissSeeker_3.Description
 msgctxt "BadgeDefinition.BlissSeeker_3.Description"
@@ -33295,7 +33295,7 @@ msgstr "<slink=Mood> 90 이상을 유지하며 2일을 보내세요."
 #. Key: BadgeDefinition.BlissSeeker_4.DisplayName
 msgctxt "BadgeDefinition.BlissSeeker_4.DisplayName"
 msgid "Bliss Seeker - Platinum Trial"
-msgstr "Bliss Seeker - 플래티넘 메달 과제"
+msgstr "행복을 찾아 - 플래티넘 메달 과제"
 
 #. Key: BadgeDefinition.BlissSeeker_4.Description
 msgctxt "BadgeDefinition.BlissSeeker_4.Description"
@@ -33305,7 +33305,7 @@ msgstr "<slink=Mood> 95 이상을 유지하며 2일을 보내세요."
 #. Key: BadgeDefinition.RecreationFocuser_1.DisplayName
 msgctxt "BadgeDefinition.RecreationFocuser_1.DisplayName"
 msgid "Dancing Machine - Bronze Trial"
-msgstr "Dancing Machine - 동메달 과제"
+msgstr "댄싱 머신 - 동메달 과제"
 
 #. Key: BadgeDefinition.RecreationFocuser_1.Description
 msgctxt "BadgeDefinition.RecreationFocuser_1.Description"
@@ -33315,7 +33315,7 @@ msgstr "<slink=Anticipation> 상태가 되지 않고 2일을 보내세요."
 #. Key: BadgeDefinition.RecreationFocuser_2.DisplayName
 msgctxt "BadgeDefinition.RecreationFocuser_2.DisplayName"
 msgid "Dancing Machine - Silver Trial"
-msgstr "Dancing Machine - 은메달 과제"
+msgstr "댄싱 머신 - 은메달 과제"
 
 #. Key: BadgeDefinition.RecreationFocuser_2.Description
 msgctxt "BadgeDefinition.RecreationFocuser_2.Description"
@@ -33325,7 +33325,7 @@ msgstr "<slink=Anticipation> 상태가 되지 않고 4일을 보내세요."
 #. Key: BadgeDefinition.RecreationFocuser_3.DisplayName
 msgctxt "BadgeDefinition.RecreationFocuser_3.DisplayName"
 msgid "Dancing Machine - Gold Trial"
-msgstr "Dancing Machine - 금메달 과제"
+msgstr "댄싱 머신 - 금메달 과제"
 
 #. Key: BadgeDefinition.RecreationFocuser_3.Description
 msgctxt "BadgeDefinition.RecreationFocuser_3.Description"
@@ -33335,7 +33335,7 @@ msgstr "<slink=Anticipation> 상태가 되지 않고 6일을 보내세요."
 #. Key: BadgeDefinition.RecreationFocuser_4.DisplayName
 msgctxt "BadgeDefinition.RecreationFocuser_4.DisplayName"
 msgid "Dancing Machine - Platinum Trial"
-msgstr "Dancing Machine - 플래티넘 메달 과제"
+msgstr "댄싱 머신 - 플래티넘 메달 과제"
 
 #. Key: BadgeDefinition.RecreationFocuser_4.Description
 msgctxt "BadgeDefinition.RecreationFocuser_4.Description"
@@ -33345,7 +33345,7 @@ msgstr "<slink=Anticipation> 상태가 되지 않고 8일을 보내세요."
 #. Key: BadgeDefinition.SleepFocuser_1.DisplayName
 msgctxt "BadgeDefinition.SleepFocuser_1.DisplayName"
 msgid "Sleep Focuser - Bronze Trial"
-msgstr "Sleep Focuser - 동메달 과제"
+msgstr "숙면하기 - 동메달 과제"
 
 #. Key: BadgeDefinition.SleepFocuser_1.Description
 msgctxt "BadgeDefinition.SleepFocuser_1.Description"
@@ -33355,7 +33355,7 @@ msgstr "<slink=VeryTired> 상태가 되지 않고 2일을 보내세요."
 #. Key: BadgeDefinition.SleepFocuser_2.DisplayName
 msgctxt "BadgeDefinition.SleepFocuser_2.DisplayName"
 msgid "Sleep Focuser - Silver Trial"
-msgstr "Sleep Focuser - 은메달 과제"
+msgstr "숙면하기 - 은메달 과제"
 
 #. Key: BadgeDefinition.SleepFocuser_2.Description
 msgctxt "BadgeDefinition.SleepFocuser_2.Description"
@@ -33365,7 +33365,7 @@ msgstr "<slink=VeryTired> 상태가 되지 않고 4일을 보내세요."
 #. Key: BadgeDefinition.SleepFocuser_3.DisplayName
 msgctxt "BadgeDefinition.SleepFocuser_3.DisplayName"
 msgid "Sleep Focuser - Gold Trial"
-msgstr "Sleep Focuser - 금메달 과제"
+msgstr "숙면하기 - 금메달 과제"
 
 #. Key: BadgeDefinition.SleepFocuser_3.Description
 msgctxt "BadgeDefinition.SleepFocuser_3.Description"
@@ -33375,7 +33375,7 @@ msgstr "<slink=VeryTired> 상태가 되지 않고 6일을 보내세요."
 #. Key: BadgeDefinition.SleepFocuser_4.DisplayName
 msgctxt "BadgeDefinition.SleepFocuser_4.DisplayName"
 msgid "Sleep Focuser - Platinum Trial"
-msgstr "Sleep Focuser - 플래티넘 메달 과제"
+msgstr "숙면하기 - 플래티넘 메달 과제"
 
 #. Key: BadgeDefinition.SleepFocuser_4.Description
 msgctxt "BadgeDefinition.SleepFocuser_4.Description"
@@ -33385,7 +33385,7 @@ msgstr "<slink=VeryTired> 상태가 되지 않고 8일을 보내세요."
 #. Key: BadgeDefinition.FoodFocuser_1.DisplayName
 msgctxt "BadgeDefinition.FoodFocuser_1.DisplayName"
 msgid "Food Focuser - Bronze Trial"
-msgstr "Food Focuser - 동메달 과제"
+msgstr "잘 먹기 - 동메달 과제"
 
 #. Key: BadgeDefinition.FoodFocuser_1.Description
 msgctxt "BadgeDefinition.FoodFocuser_1.Description"
@@ -33395,7 +33395,7 @@ msgstr "<slink=VeryHungry> 상태가 되지 않고 2일을 보내세요."
 #. Key: BadgeDefinition.FoodFocuser_2.DisplayName
 msgctxt "BadgeDefinition.FoodFocuser_2.DisplayName"
 msgid "Food Focuser - Silver Trial"
-msgstr "Food Focuser - 은메달 과제"
+msgstr "잘 먹기 - 은메달 과제"
 
 #. Key: BadgeDefinition.FoodFocuser_2.Description
 msgctxt "BadgeDefinition.FoodFocuser_2.Description"
@@ -33405,7 +33405,7 @@ msgstr "<slink=VeryHungry> 상태가 되지 않고 4일을 보내세요."
 #. Key: BadgeDefinition.FoodFocuser_3.DisplayName
 msgctxt "BadgeDefinition.FoodFocuser_3.DisplayName"
 msgid "Food Focuser - Gold Trial"
-msgstr "Food Focuser - 금메달 과제"
+msgstr "잘 먹기 - 금메달 과제"
 
 #. Key: BadgeDefinition.FoodFocuser_3.Description
 msgctxt "BadgeDefinition.FoodFocuser_3.Description"
@@ -33415,7 +33415,7 @@ msgstr "<slink=VeryHungry> 상태가 되지 않고 6일을 보내세요."
 #. Key: BadgeDefinition.FoodFocuser_4.DisplayName
 msgctxt "BadgeDefinition.FoodFocuser_4.DisplayName"
 msgid "Food Focuser - Platinum Trial"
-msgstr "Food Focuser - 플래티넘 메달 과제"
+msgstr "잘 먹기 - 플래티넘 메달 과제"
 
 #. Key: BadgeDefinition.FoodFocuser_4.Description
 msgctxt "BadgeDefinition.FoodFocuser_4.Description"
@@ -33425,7 +33425,7 @@ msgstr "<slink=VeryHungry> 상태가 되지 않고 8일을 보내세요."
 #. Key: BadgeDefinition.RestedFighter_1.DisplayName
 msgctxt "BadgeDefinition.RestedFighter_1.DisplayName"
 msgid "Rested Fighter - Bronze Trial"
-msgstr "Rested Fighter - 동메달 과제"
+msgstr "숙면 전사 - 동메달 과제"
 
 #. Key: BadgeDefinition.RestedFighter_1.Description
 msgctxt "BadgeDefinition.RestedFighter_1.Description"
@@ -33435,7 +33435,7 @@ msgstr "<slink=Rested> 상태로 해골 1개 이상의 적을 상대해서 승�
 #. Key: BadgeDefinition.RestedFighter_2.DisplayName
 msgctxt "BadgeDefinition.RestedFighter_2.DisplayName"
 msgid "Rested Fighter - Silver Trial"
-msgstr "Rested Fighter - 은메달 과제"
+msgstr "숙면 전사 - 은메달 과제"
 
 #. Key: BadgeDefinition.RestedFighter_2.Description
 msgctxt "BadgeDefinition.RestedFighter_2.Description"
@@ -33445,7 +33445,7 @@ msgstr "<slink=Rested> 상태로 해골 2개 이상의 적을 상대해서 승�
 #. Key: BadgeDefinition.RestedFighter_3.DisplayName
 msgctxt "BadgeDefinition.RestedFighter_3.DisplayName"
 msgid "Rested Fighter - Gold Trial"
-msgstr "Rested Fighter - 금메달 과제"
+msgstr "숙면 전사 - 금메달 과제"
 
 #. Key: BadgeDefinition.RestedFighter_3.Description
 msgctxt "BadgeDefinition.RestedFighter_3.Description"
@@ -33455,7 +33455,7 @@ msgstr "<slink=Rested> 상태로 해골 3개 이상의 적을 상대해서 승�
 #. Key: BadgeDefinition.RestedFighter_4.DisplayName
 msgctxt "BadgeDefinition.RestedFighter_4.DisplayName"
 msgid "Rested Fighter - Platinum Trial"
-msgstr "Rested Fighter - 플래티넘 메달 과제"
+msgstr "숙면 전사 - 플래티넘 메달 과제"
 
 #. Key: BadgeDefinition.RestedFighter_4.Description
 msgctxt "BadgeDefinition.RestedFighter_4.Description"
@@ -33465,7 +33465,7 @@ msgstr "<slink=Rested> 상태로 해골 4개 이상의 적을 상대해서 승�
 #. Key: BadgeDefinition.FullFighter_1.DisplayName
 msgctxt "BadgeDefinition.FullFighter_1.DisplayName"
 msgid "Full Fighter - Bronze Trial"
-msgstr "Full Fighter - 동메달 과제"
+msgstr "배부른 전사 - 동메달 과제"
 
 #. Key: BadgeDefinition.FullFighter_1.Description
 msgctxt "BadgeDefinition.FullFighter_1.Description"
@@ -33475,7 +33475,7 @@ msgstr "<slink=Full> 상태로 해골 개 1이상의 적을 상대해서 승리�
 #. Key: BadgeDefinition.FullFighter_2.DisplayName
 msgctxt "BadgeDefinition.FullFighter_2.DisplayName"
 msgid "Full Fighter - Silver Trial"
-msgstr "Full Fighter - 은메달 과제"
+msgstr "배부른 전사 - 은메달 과제"
 
 #. Key: BadgeDefinition.FullFighter_2.Description
 msgctxt "BadgeDefinition.FullFighter_2.Description"
@@ -33485,7 +33485,7 @@ msgstr "<slink=Full> 상태로 해골 개 2이상의 적을 상대해서 승리�
 #. Key: BadgeDefinition.FullFighter_3.DisplayName
 msgctxt "BadgeDefinition.FullFighter_3.DisplayName"
 msgid "Full Fighter - Gold Trial"
-msgstr "Full Fighter - 금메달 과제"
+msgstr "배부른 전사 - 금메달 과제"
 
 #. Key: BadgeDefinition.FullFighter_3.Description
 msgctxt "BadgeDefinition.FullFighter_3.Description"
@@ -33495,7 +33495,7 @@ msgstr "<slink=Full> 상태로 해골 개 3이상의 적을 상대해서 승리�
 #. Key: BadgeDefinition.FullFighter_4.DisplayName
 msgctxt "BadgeDefinition.FullFighter_4.DisplayName"
 msgid "Full Fighter - Platinum Trial"
-msgstr "Full Fighter - 플래티넘 메달 과제"
+msgstr "배부른 전사 - 플래티넘 메달 과제"
 
 #. Key: BadgeDefinition.FullFighter_4.Description
 msgctxt "BadgeDefinition.FullFighter_4.Description"
@@ -33505,7 +33505,7 @@ msgstr "<slink=Full> 상태로 해골 개 4이상의 적을 상대해서 승리�
 #. Key: BadgeDefinition.GoodDay_1.DisplayName
 msgctxt "BadgeDefinition.GoodDay_1.DisplayName"
 msgid "Great Day - Bronze Trial"
-msgstr "Great Day - 동메달 과제"
+msgstr "멋진 날 - 동메달 과제"
 
 #. Key: BadgeDefinition.GoodDay_1.Description
 msgctxt "BadgeDefinition.GoodDay_1.Description"
@@ -33515,7 +33515,7 @@ msgstr "동시에 <slink=Full>, <slink=Rested>, <slink=Relaxed> 상태가 되세
 #. Key: BadgeDefinition.GoodDay_2.DisplayName
 msgctxt "BadgeDefinition.GoodDay_2.DisplayName"
 msgid "Great Day - Silver Trial"
-msgstr "Great Day - 은메달 과제"
+msgstr "멋진 날 - 은메달 과제"
 
 #. Key: BadgeDefinition.GoodDay_2.Description
 msgctxt "BadgeDefinition.GoodDay_2.Description"
@@ -33525,7 +33525,7 @@ msgstr "동시에 <slink=Full>, <slink=Rested>, <slink=Serene> 상태가 되세�
 #. Key: BadgeDefinition.GoodDay_3.DisplayName
 msgctxt "BadgeDefinition.GoodDay_3.DisplayName"
 msgid "Great Day - Gold Trial"
-msgstr "Great Day - 금메달 과제"
+msgstr "멋진 날 - 금메달 과제"
 
 #. Key: BadgeDefinition.GoodDay_3.Description
 msgctxt "BadgeDefinition.GoodDay_3.Description"
@@ -33535,7 +33535,7 @@ msgstr "동시에 <slink=Learning_High>, <slink=Full>, <slink=Rested>, <slink=Se
 #. Key: BadgeDefinition.Cleaner_1.DisplayName
 msgctxt "BadgeDefinition.Cleaner_1.DisplayName"
 msgid "Neatnik - Bronze Trial"
-msgstr "Neatnik - 동메달 과제"
+msgstr "청소광 - 동메달 과제"
 
 #. Key: BadgeDefinition.Cleaner_1.Description
 msgctxt "BadgeDefinition.Cleaner_1.Description"
@@ -33545,7 +33545,7 @@ msgstr "쓰레기 3개를 치우세요."
 #. Key: BadgeDefinition.Cleaner_2.DisplayName
 msgctxt "BadgeDefinition.Cleaner_2.DisplayName"
 msgid "Neatnik - Silver Trial"
-msgstr "Neatnik - 은메달 과제"
+msgstr "청소광 - 은메달 과제"
 
 #. Key: BadgeDefinition.Cleaner_2.Description
 msgctxt "BadgeDefinition.Cleaner_2.Description"
@@ -33555,7 +33555,7 @@ msgstr "쓰레기 15개를 치우세요."
 #. Key: BadgeDefinition.Cleaner_3.DisplayName
 msgctxt "BadgeDefinition.Cleaner_3.DisplayName"
 msgid "Neatnik - Gold Trial"
-msgstr "Neatnik - 금메달 과제"
+msgstr "청소광 - 금메달 과제"
 
 #. Key: BadgeDefinition.Cleaner_3.Description
 msgctxt "BadgeDefinition.Cleaner_3.Description"
@@ -33565,7 +33565,7 @@ msgstr "쓰레기 40개를 치우세요."
 #. Key: BadgeDefinition.Cleaner_4.DisplayName
 msgctxt "BadgeDefinition.Cleaner_4.DisplayName"
 msgid "Neatnik - Platinum Trial"
-msgstr "Neatnik - 플래티넘 메달 과제"
+msgstr "청소광 - 플래티넘 메달 과제"
 
 #. Key: BadgeDefinition.Cleaner_4.Description
 msgctxt "BadgeDefinition.Cleaner_4.Description"
@@ -33575,7 +33575,7 @@ msgstr "쓰레기 75개를 치우세요."
 #. Key: BadgeDefinition.CreatureComforter_1.DisplayName
 msgctxt "BadgeDefinition.CreatureComforter_1.DisplayName"
 msgid "Creature Comforter - Bronze Trial"
-msgstr "Creature Comforter - 동메달 과제"
+msgstr "괴물 애호가 - 동메달 과제"
 
 #. Key: BadgeDefinition.CreatureComforter_1.Description
 msgctxt "BadgeDefinition.CreatureComforter_1.Description"
@@ -33585,7 +33585,7 @@ msgstr "<slink=Refining_Beast>을 3번 돌보세요."
 #. Key: BadgeDefinition.CreatureComforter_2.DisplayName
 msgctxt "BadgeDefinition.CreatureComforter_2.DisplayName"
 msgid "Creature Comforter - Silver Trial"
-msgstr "Creature Comforter - 은메달 과제"
+msgstr "괴물 애호가 - 은메달 과제"
 
 #. Key: BadgeDefinition.CreatureComforter_2.Description
 msgctxt "BadgeDefinition.CreatureComforter_2.Description"
@@ -33595,7 +33595,7 @@ msgstr "<slink=Refining_Beast>을 15번 돌보세요."
 #. Key: BadgeDefinition.CreatureComforter_3.DisplayName
 msgctxt "BadgeDefinition.CreatureComforter_3.DisplayName"
 msgid "Creature Comforter - Gold Trial"
-msgstr "Creature Comforter - 금메달 과제"
+msgstr "괴물 애호가 - 금메달 과제"
 
 #. Key: BadgeDefinition.CreatureComforter_3.Description
 msgctxt "BadgeDefinition.CreatureComforter_3.Description"
@@ -33605,7 +33605,7 @@ msgstr "<slink=Refining_Beast>을 40번 돌보세요."
 #. Key: BadgeDefinition.CreatureComforter_4.DisplayName
 msgctxt "BadgeDefinition.CreatureComforter_4.DisplayName"
 msgid "Creature Comforter - Platinum Trial"
-msgstr "Creature Comforter - 플래티넘 메달 과제"
+msgstr "괴물 애호가 - 플래티넘 메달 과제"
 
 #. Key: BadgeDefinition.CreatureComforter_4.Description
 msgctxt "BadgeDefinition.CreatureComforter_4.Description"
@@ -33615,7 +33615,7 @@ msgstr "<slink=Refining_Beast>을 75번 돌보세요."
 #. Key: BadgeDefinition.Charger_1.DisplayName
 msgctxt "BadgeDefinition.Charger_1.DisplayName"
 msgid "Charger - Bronze Trial"
-msgstr "Charger - 동메달 과제"
+msgstr "충전하기 - 동메달 과제"
 
 #. Key: BadgeDefinition.Charger_1.Description
 msgctxt "BadgeDefinition.Charger_1.Description"
@@ -33625,7 +33625,7 @@ msgstr "마나 등불을 3번 충전하세요."
 #. Key: BadgeDefinition.Charger_2.DisplayName
 msgctxt "BadgeDefinition.Charger_2.DisplayName"
 msgid "Charger - Silver Trial"
-msgstr "Charger - 은메달 과제"
+msgstr "충전하기 - 은메달 과제"
 
 #. Key: BadgeDefinition.Charger_2.Description
 msgctxt "BadgeDefinition.Charger_2.Description"
@@ -33635,7 +33635,7 @@ msgstr "마나 등불을 15번 충전하세요."
 #. Key: BadgeDefinition.Charger_3.DisplayName
 msgctxt "BadgeDefinition.Charger_3.DisplayName"
 msgid "Charger - Gold Trial"
-msgstr "Charger - 금메달 과제"
+msgstr "충전하기 - 금메달 과제"
 
 #. Key: BadgeDefinition.Charger_3.Description
 msgctxt "BadgeDefinition.Charger_3.Description"
@@ -33645,7 +33645,7 @@ msgstr "마나 등불을 40번 충전하세요."
 #. Key: BadgeDefinition.Charger_4.DisplayName
 msgctxt "BadgeDefinition.Charger_4.DisplayName"
 msgid "Charger - Platinum Trial"
-msgstr "Charger - 플래티넘 메달 과제"
+msgstr "충전하기 - 플래티넘 메달 과제"
 
 #. Key: BadgeDefinition.Charger_4.Description
 msgctxt "BadgeDefinition.Charger_4.Description"
@@ -33655,7 +33655,7 @@ msgstr "마나 등불을 75번 충전하세요."
 #. Key: BadgeDefinition.Destroyer_1.DisplayName
 msgctxt "BadgeDefinition.Destroyer_1.DisplayName"
 msgid "Pyromania - Bronze Trial"
-msgstr "Pyromania - 동메달 과제"
+msgstr "방화광 - 동메달 과제"
 
 #. Key: BadgeDefinition.Destroyer_1.Description
 msgctxt "BadgeDefinition.Destroyer_1.Description"
@@ -33665,7 +33665,7 @@ msgstr "물체 3개를 파괴합니다."
 #. Key: BadgeDefinition.Destroyer_2.DisplayName
 msgctxt "BadgeDefinition.Destroyer_2.DisplayName"
 msgid "Pyromania - Silver Trial"
-msgstr "Pyromania - 은메달 과제"
+msgstr "방화광 - 은메달 과제"
 
 #. Key: BadgeDefinition.Destroyer_2.Description
 msgctxt "BadgeDefinition.Destroyer_2.Description"
@@ -33675,7 +33675,7 @@ msgstr "물체 15개를 파괴합니다."
 #. Key: BadgeDefinition.Destroyer_3.DisplayName
 msgctxt "BadgeDefinition.Destroyer_3.DisplayName"
 msgid "Pyromania - Gold Trial"
-msgstr "Pyromania - 금메달 과제"
+msgstr "방화광 - 금메달 과제"
 
 #. Key: BadgeDefinition.Destroyer_3.Description
 msgctxt "BadgeDefinition.Destroyer_3.Description"
@@ -33685,7 +33685,7 @@ msgstr "물체 40개를 파괴합니다."
 #. Key: BadgeDefinition.Destroyer_4.DisplayName
 msgctxt "BadgeDefinition.Destroyer_4.DisplayName"
 msgid "Pyromania - Platinum Trial"
-msgstr "Pyromania - 플래티넘 메달 과제"
+msgstr "방화광 - 플래티넘 메달 과제"
 
 #. Key: BadgeDefinition.Destroyer_4.Description
 msgctxt "BadgeDefinition.Destroyer_4.Description"
@@ -33695,52 +33695,52 @@ msgstr "물체 75개를 파괴합니다."
 #. Key: BadgeCategoriesDefinition.WisdomCenter.DisplayName
 msgctxt "BadgeCategoriesDefinition.WisdomCenter.DisplayName"
 msgid "Wisdom Center"
-msgstr "지혜 Center"
+msgstr "지혜"
 
 #. Key: BadgeCategoriesDefinition.WisdomCenter.Description
 msgctxt "BadgeCategoriesDefinition.WisdomCenter.Description"
 msgid "A <slink=Center> for Badges related to Learning and Skill progress."
-msgstr "A <slink=Center> for Badges related to Learning and Skill progress."
+msgstr "학습과 마법 스킬에 관련된 <slink=Center>입니다."
 
 #. Key: BadgeCategoriesDefinition.HeartCenter.DisplayName
 msgctxt "BadgeCategoriesDefinition.HeartCenter.DisplayName"
 msgid "Heart Center"
-msgstr "마음 Center"
+msgstr "마음"
 
 #. Key: BadgeCategoriesDefinition.HeartCenter.Description
 msgctxt "BadgeCategoriesDefinition.HeartCenter.Description"
 msgid "A <slink=Center> for Badges related to Needs such as Hunger, Sleep, and Recreation."
-msgstr "A <slink=Center> for Badges related to Needs such as Hunger, Sleep, and Recreation."
+msgstr "수면, 허기, 휴식 등 욕구에 관련된 <slink=Center>입니다."
 
 #. Key: BadgeCategoriesDefinition.SpiritCenter.DisplayName
 msgctxt "BadgeCategoriesDefinition.SpiritCenter.DisplayName"
 msgid "Spirit Center"
-msgstr "정신 Center"
+msgstr "정신"
 
 #. Key: BadgeCategoriesDefinition.SpiritCenter.Description
 msgctxt "BadgeCategoriesDefinition.SpiritCenter.Description"
 msgid "A <slink=Center> for Badges related to Rituals and school life participation."
-msgstr "A <slink=Center> for Badges related to Rituals and school life participation."
+msgstr "의식 등 학교 생활에 관련된 <slink=Center>입니다."
 
 #. Key: BadgeCategoriesDefinition.SerenityCenter.DisplayName
 msgctxt "BadgeCategoriesDefinition.SerenityCenter.DisplayName"
 msgid "Serenity Center"
-msgstr "평화 Center"
+msgstr "평화"
 
 #. Key: BadgeCategoriesDefinition.SerenityCenter.Description
 msgctxt "BadgeCategoriesDefinition.SerenityCenter.Description"
 msgid "A <slink=Center> for Badges related to enduring struggle."
-msgstr "A <slink=Center> for Badges related to enduring struggle."
+msgstr "역경과 고난에 관련된 <slink=Center>입니다."
 
 #. Key: BadgeCategoriesDefinition.TenacityCenter.DisplayName
 msgctxt "BadgeCategoriesDefinition.TenacityCenter.DisplayName"
 msgid "Tenacity Center"
-msgstr "끈기 Center"
+msgstr "끈기"
 
 #. Key: BadgeCategoriesDefinition.TenacityCenter.Description
 msgctxt "BadgeCategoriesDefinition.TenacityCenter.Description"
 msgid "A <slink=Center> for Badges related to performing Jobs around the school."
-msgstr "A <slink=Center> for Badges related to performing Jobs around the school."
+msgstr "학교를 관리하는 것에 관련된 <slink=Center>입니다."
 
 #. Key: InjuryDefinition.MajorWoundWisdom_1.DisplayName
 msgctxt "InjuryDefinition.MajorWoundWisdom_1.DisplayName"
@@ -33755,7 +33755,7 @@ msgstr "<slink=MajorInjury>를 겪어 마법사의 <slink=HP>와 <slink=Mood>가
 #. Key: InjuryDefinition.MajorWoundWisdom_2.DisplayName
 msgctxt "InjuryDefinition.MajorWoundWisdom_2.DisplayName"
 msgid "Trauma - Sputtering Thoughts"
-msgstr "트라우마 - Sputtering Thoughts"
+msgstr "트라우마 - 부정적인 생각들"
 
 #. Key: InjuryDefinition.MajorWoundWisdom_2.Description
 msgctxt "InjuryDefinition.MajorWoundWisdom_2.Description"
@@ -33765,7 +33765,7 @@ msgstr "<slink=MajorInjury>를 겪어 마법사의 <slink=HP>와 <slink=Mood>가
 #. Key: InjuryDefinition.MajorWoundWisdom_3.DisplayName
 msgctxt "InjuryDefinition.MajorWoundWisdom_3.DisplayName"
 msgid "Trauma - Floundering Belief"
-msgstr "트라우마 - 허둥대는 믿음"
+msgstr "트라우마 - 흔들리는 믿음"
 
 #. Key: InjuryDefinition.MajorWoundWisdom_3.Description
 msgctxt "InjuryDefinition.MajorWoundWisdom_3.Description"
@@ -33805,7 +33805,7 @@ msgstr "<slink=MajorInjury>를 겪어 마법사의 <slink=HP>와 <slink=Mood>가
 #. Key: InjuryDefinition.MajorWoundHeart_3.DisplayName
 msgctxt "InjuryDefinition.MajorWoundHeart_3.DisplayName"
 msgid "Trauma - Soured Disposition"
-msgstr "트라우마 - Soured Disposition"
+msgstr "트라우마 - 떨어진 자신감"
 
 #. Key: InjuryDefinition.MajorWoundHeart_3.Description
 msgctxt "InjuryDefinition.MajorWoundHeart_3.Description"
@@ -33845,7 +33845,7 @@ msgstr "<slink=MajorInjury>를 겪어 마법사의 <slink=HP>와 <slink=Mood>가
 #. Key: InjuryDefinition.MajorWoundSpirit_3.DisplayName
 msgctxt "InjuryDefinition.MajorWoundSpirit_3.DisplayName"
 msgid "Trauma - Dwindling Ambition"
-msgstr "트라우마 - Dwindling Ambition"
+msgstr "트라우마 - 작아지는 야망"
 
 #. Key: InjuryDefinition.MajorWoundSpirit_3.Description
 msgctxt "InjuryDefinition.MajorWoundSpirit_3.Description"
@@ -33895,7 +33895,7 @@ msgstr "<slink=MajorInjury>를 겪어 마법사의 <slink=HP>와 <slink=Mood>가
 #. Key: InjuryDefinition.MajorWoundSerenity_4.DisplayName
 msgctxt "InjuryDefinition.MajorWoundSerenity_4.DisplayName"
 msgid "Trauma - Stripped of Safety"
-msgstr "트라우마 - Stripped of Safety"
+msgstr "트라우마 - 안전에 대한 불신"
 
 #. Key: InjuryDefinition.MajorWoundSerenity_4.Description
 msgctxt "InjuryDefinition.MajorWoundSerenity_4.Description"
@@ -33905,7 +33905,7 @@ msgstr "<slink=MajorInjury>를 겪어 마법사의 <slink=HP>와 <slink=Mood>가
 #. Key: InjuryDefinition.MajorWoundTenacity_1.DisplayName
 msgctxt "InjuryDefinition.MajorWoundTenacity_1.DisplayName"
 msgid "Trauma - Enfeebled Soul"
-msgstr "트라우마 - Enfeebled Soul"
+msgstr "트라우마 - 쇠약해진 영혼"
 
 #. Key: InjuryDefinition.MajorWoundTenacity_1.Description
 msgctxt "InjuryDefinition.MajorWoundTenacity_1.Description"
@@ -33915,7 +33915,7 @@ msgstr "<slink=MajorInjury>를 겪어 마법사의 <slink=HP>와 <slink=Mood>가
 #. Key: InjuryDefinition.MajorWoundTenacity_2.DisplayName
 msgctxt "InjuryDefinition.MajorWoundTenacity_2.DisplayName"
 msgid "Trauma - Weakened Lifeforce"
-msgstr "트라우마 - Weakened Lifeforce"
+msgstr "트라우마 - 약해진 생명력"
 
 #. Key: InjuryDefinition.MajorWoundTenacity_2.Description
 msgctxt "InjuryDefinition.MajorWoundTenacity_2.Description"
@@ -33925,7 +33925,7 @@ msgstr "<slink=MajorInjury>를 겪어 마법사의 <slink=HP>와 <slink=Mood>가
 #. Key: InjuryDefinition.MajorWoundTenacity_3.DisplayName
 msgctxt "InjuryDefinition.MajorWoundTenacity_3.DisplayName"
 msgid "Trauma - Wavering Mettle"
-msgstr "트라우마 - Wavering Mettle"
+msgstr "트라우마 - 흔들리는 열정"
 
 #. Key: InjuryDefinition.MajorWoundTenacity_3.Description
 msgctxt "InjuryDefinition.MajorWoundTenacity_3.Description"
@@ -33935,7 +33935,7 @@ msgstr "<slink=MajorInjury>를 겪어 마법사의 <slink=HP>와 <slink=Mood>가
 #. Key: InjuryDefinition.MajorWoundTenacity_4.DisplayName
 msgctxt "InjuryDefinition.MajorWoundTenacity_4.DisplayName"
 msgid "Trauma - Utter Enervation"
-msgstr "트라우마 - Utter Enervation"
+msgstr "트라우마 - 무기력"
 
 #. Key: InjuryDefinition.MajorWoundTenacity_4.Description
 msgctxt "InjuryDefinition.MajorWoundTenacity_4.Description"
@@ -33955,17 +33955,17 @@ msgstr "기본"
 #. Key: WallpaperDefinition.HovelVariantA.DisplayName
 msgctxt "WallpaperDefinition.HovelVariantA.DisplayName"
 msgid "Red"
-msgstr ""
+msgstr "빨강"
 
 #. Key: WallpaperDefinition.HovelVariantB.DisplayName
 msgctxt "WallpaperDefinition.HovelVariantB.DisplayName"
 msgid "Green"
-msgstr ""
+msgstr "초록"
 
 #. Key: WallpaperDefinition.HovelVariantC.DisplayName
 msgctxt "WallpaperDefinition.HovelVariantC.DisplayName"
 msgid "Purple"
-msgstr ""
+msgstr "보라"
 
 #. Key: WallpaperDefinition.LuxuryBedroomDefault.DisplayName
 msgctxt "WallpaperDefinition.LuxuryBedroomDefault.DisplayName"

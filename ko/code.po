@@ -106,12 +106,12 @@ msgstr ""
 #. Key: IngredientLookups.1-638416141622255213
 msgctxt "IngredientLookups.1-638416141622255213"
 msgid "Scouting"
-msgstr ""
+msgstr "정찰 중"
 
 #. Key: IngredientLookups.2-638416141622255213
 msgctxt "IngredientLookups.2-638416141622255213"
 msgid "Middens"
-msgstr ""
+msgstr "처리"
 
 #. Key: AbsorbManaBehavior.0-638404855926197012
 #. Args:
